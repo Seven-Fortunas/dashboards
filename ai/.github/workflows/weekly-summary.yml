@@ -1,0 +1,44 @@
+name: Generate Weekly AI Summary
+
+on:
+  schedule:
+    # Run every Sunday at 9am UTC
+    - cron: '0 9 * * 0'
+  workflow_dispatch: # Allow manual triggers
+
+jobs:
+  generate-summary:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install anthropic requests pyyaml
+
+      - name: Generate weekly summary
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python scripts/generate_weekly_summary.py
+
+      - name: Commit and push summary
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add dashboards/ai/summaries/ dashboards/ai/README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(summary): Weekly AI Summary - $(date -u +%Y-%m-%d)"
+            git push
+          fi

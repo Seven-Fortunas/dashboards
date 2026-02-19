@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-02-18T05:20:00Z",
+  "sprint_velocity": {
+    "current_sprint": "Sprint-2026-W08",
+    "velocity_last_6_sprints": [18, 22, 20, 15, 19, 21],
+    "average_velocity": 19.2,
+    "trend": "stable",
+    "confidence": 0.80
+  },
+  "feature_completion": {
+    "total_features": 42,
+    "completed": 32,
+    "pending": 10,
+    "blocked": 0,
+    "completion_rate": 0.762,
+    "estimated_completion_date": "2026-03-15"
+  },
+  "burndown": {
+    "sprint": "Sprint-2026-W08",
+    "total_points": 74,
+    "remaining_points": 20,
+    "ideal_remaining": 22,
+    "days_elapsed": 10,
+    "days_remaining": 4,
+    "status": "on_track"
+  },
+  "blockers": {
+    "count": 0,
+    "top_blockers": []
+  },
+  "team_utilization": {
+    "Jorge": {
+      "assigned_points": 40,
+      "capacity": 40,
+      "utilization": 1.0
+    }
+  }
+}

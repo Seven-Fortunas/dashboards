@@ -1,0 +1,70 @@
+# Fintech Trends Dashboard Data Sources Configuration
+
+sources:
+  rss:
+    - name: "Fintech News"
+      url: "https://www.fintechnews.org/feed/"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "The Financial Brand"
+      url: "https://thefinancialbrand.com/feed/"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "Payments Source"
+      url: "https://www.paymentssource.com/feed"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+  github:
+    - name: "Stripe SDK Releases"
+      repo: "stripe/stripe-python"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "Plaid SDK Releases"
+      repo: "plaid/plaid-python"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+  reddit:
+    - name: "r/fintech"
+      subreddit: "fintech"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+      limit: 10
+
+  youtube:
+    - name: "Fintech Insider"
+      channel_id: "UCvmuwOSlfwSLQqwbVJCjUrw"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+      limit: 5
+
+  x_api:
+    - name: "Fintech Twitter"
+      username: "FinTech"
+      enabled: false
+      timeout: 10
+      retry_attempts: 3
+      limit: 10
+
+# Failure thresholds
+degradation:
+  warning_threshold: 0.5
+  cache_max_age_hours: 24
+  create_issue_after_hours: 24
+
+# Cache configuration
+cache:
+  directory: "dashboards/fintech/data"
+  filename: "cached_updates.json"
+  metadata_filename: "cache_metadata.json"

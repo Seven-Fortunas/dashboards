@@ -1,0 +1,31 @@
+# Dashboard Auto-Update Performance Configuration
+
+performance_targets:
+  aggregation_cycle_max_duration_minutes: 10
+  warning_threshold_minutes: 8  # Alert at 80% of target
+  api_call_timeout_seconds: 30
+  max_retries: 3
+
+optimization_strategies:
+  parallel_api_calls: true
+  cache_intermediate_results: true
+  batch_processing: true
+  early_termination_on_error: false
+
+monitoring:
+  track_workflow_duration: true
+  track_api_call_latency: true
+  track_failure_rate: true
+  alert_on_performance_degradation: true
+
+alert_channels:
+  - github_issue
+  - matrix
+
+metrics:
+  - workflow_duration_seconds
+  - api_calls_count
+  - api_call_latency_p50
+  - api_call_latency_p95
+  - failure_rate
+  - cache_hit_rate

@@ -1,0 +1,110 @@
+# AI Advancements Dashboard Data Sources Configuration
+
+sources:
+  rss:
+    - name: "OpenAI Blog"
+      url: "https://openai.com/blog/rss.xml"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "Anthropic Blog"
+      url: "https://www.anthropic.com/news/rss.xml"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "Google AI Blog"
+      url: "https://ai.googleblog.com/feeds/posts/default"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "DeepMind Blog"
+      url: "https://deepmind.google/blog/rss.xml"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+  github:
+    - name: "PyTorch Releases"
+      repo: "pytorch/pytorch"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "TensorFlow Releases"
+      repo: "tensorflow/tensorflow"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "LangChain Releases"
+      repo: "langchain-ai/langchain"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "HuggingFace Transformers"
+      repo: "huggingface/transformers"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+  reddit:
+    - name: "r/MachineLearning"
+      subreddit: "MachineLearning"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+      limit: 10 # Top 10 posts in last 24h
+
+    - name: "r/artificial"
+      subreddit: "artificial"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+      limit: 10
+
+  youtube:
+    - name: "Two Minute Papers"
+      channel_id: "UCbfYPyITQ-7l4upoX8nvctg"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+      limit: 5 # Latest 5 videos
+
+    - name: "Yannic Kilcher"
+      channel_id: "UCZHmQk67mSJgfCCTn7xBfew"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+      limit: 5
+
+  x_api:
+    # Optional $100/month - disabled by default
+    - name: "OpenAI Twitter"
+      username: "OpenAI"
+      enabled: false
+      timeout: 10
+      retry_attempts: 3
+      limit: 10
+
+    - name: "AnthropicAI Twitter"
+      username: "AnthropicAI"
+      enabled: false
+      timeout: 10
+      retry_attempts: 3
+      limit: 10
+
+# Failure thresholds for graceful degradation
+degradation:
+  warning_threshold: 0.5 # Warn if ≥50% of sources fail
+  cache_max_age_hours: 24 # Use cached data if < 24h old
+  create_issue_after_hours: 24 # Auto-create GitHub issue after 24h of failures
+
+# Cache configuration
+cache:
+  directory: "dashboards/ai/data"
+  filename: "cached_updates.json"
+  metadata_filename: "cache_metadata.json"

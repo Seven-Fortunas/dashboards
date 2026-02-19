@@ -1,0 +1,96 @@
+# Security Intelligence Dashboard Data Sources Configuration
+
+sources:
+  rss:
+    - name: "Krebs on Security"
+      url: "https://krebsonsecurity.com/feed/"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "The Hacker News"
+      url: "https://feeds.feedburner.com/TheHackersNews"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "Schneier on Security"
+      url: "https://www.schneier.com/feed/atom/"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "BleepingComputer"
+      url: "https://www.bleepingcomputer.com/feed/"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+  github:
+    - name: "OWASP Top 10"
+      repo: "OWASP/Top10"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "MITRE ATT&CK"
+      repo: "mitre/cti"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "Metasploit Framework"
+      repo: "rapid7/metasploit-framework"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+  reddit:
+    - name: "r/netsec"
+      subreddit: "netsec"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+      limit: 10
+
+    - name: "r/cybersecurity"
+      subreddit: "cybersecurity"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+      limit: 10
+
+  youtube:
+    - name: "SANS Cyber Security"
+      channel_id: "UC2uJsieBSBqgt6DBxATWVfg"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+      limit: 5
+
+    - name: "Black Hat"
+      channel_id: "UCJ6q9Ie29ajGqKApbLqfBOg"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+      limit: 5
+
+  x_api:
+    - name: "CISAgov Twitter"
+      username: "CISAgov"
+      enabled: false
+      timeout: 10
+      retry_attempts: 3
+      limit: 10
+
+# Failure thresholds
+degradation:
+  warning_threshold: 0.5
+  cache_max_age_hours: 24
+  create_issue_after_hours: 24
+
+# Cache configuration
+cache:
+  directory: "dashboards/security/data"
+  filename: "cached_updates.json"
+  metadata_filename: "cache_metadata.json"

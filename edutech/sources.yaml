@@ -1,0 +1,77 @@
+# EduTech Dashboard Data Sources Configuration (Peru Market Focus)
+
+sources:
+  rss:
+    - name: "EdSurge"
+      url: "https://www.edsurge.com/news.rss"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "EdTech Magazine"
+      url: "https://edtechmagazine.com/higher/rss.xml"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "eLearning Industry"
+      url: "https://elearningindustry.com/feed"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+  github:
+    - name: "Moodle Releases"
+      repo: "moodle/moodle"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "OpenEdX Platform"
+      repo: "openedx/edx-platform"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+  reddit:
+    - name: "r/edtech"
+      subreddit: "edtech"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+      limit: 10
+
+    - name: "r/education"
+      subreddit: "education"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+      limit: 10
+
+  youtube:
+    - name: "EdTech Hustle"
+      channel_id: "UC4bJBKlsB70NQJi0H7v2sFw"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+      limit: 5
+
+  x_api:
+    - name: "EdTech Twitter"
+      username: "EdTech"
+      enabled: false
+      timeout: 10
+      retry_attempts: 3
+      limit: 10
+
+# Failure thresholds
+degradation:
+  warning_threshold: 0.5
+  cache_max_age_hours: 24
+  create_issue_after_hours: 24
+
+# Cache configuration
+cache:
+  directory: "dashboards/edutech/data"
+  filename: "cached_updates.json"
+  metadata_filename: "cache_metadata.json"
