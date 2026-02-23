@@ -1,0 +1,137 @@
+{
+  "updates": [
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "link": "https://openai.com/index/new-result-theoretical-physics",
+      "published": "Fri, 13 Feb 2026 11:00:00 GMT",
+      "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+      "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+      "published": "Fri, 13 Feb 2026 10:00:00 GMT",
+      "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Beyond rate limits: scaling access to Codex and Sora",
+      "link": "https://openai.com/index/beyond-rate-limits",
+      "published": "Fri, 13 Feb 2026 09:00:00 GMT",
+      "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Scaling social science research",
+      "link": "https://openai.com/index/scaling-social-science-research",
+      "published": "Fri, 13 Feb 2026 09:00:00 GMT",
+      "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing GPT-5.3-Codex-Spark",
+      "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+      "published": "Thu, 12 Feb 2026 10:00:00 GMT",
+      "summary": "Introducing GPT-5.3-Codex-Spark\u2014our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+      "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+      "published": "Thu, 12 Feb 2026 16:15:09 +0000",
+      "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+      "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+      "published": "Mon, 09 Feb 2026 16:12:06 +0000",
+      "summary": "Research papers point to the growing impact of Deep Think across fields"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "link": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+      "published": "Thu, 29 Jan 2026 17:01:05 +0000",
+      "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds."
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "D4RT: Teaching AI to see the world in four dimensions",
+      "link": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+      "published": "Fri, 16 Jan 2026 10:39:00 +0000",
+      "summary": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods."
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+      "link": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+      "published": "Tue, 13 Jan 2026 17:00:18 +0000",
+      "summary": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging \u2014 and supports vertical video generation."
+    },
+    {
+      "source": "PyTorch Releases",
+      "type": "github",
+      "title": "Release v2.10.0",
+      "link": "https://github.com/pytorch/pytorch/releases/tag/v2.10.0",
+      "published": "2026-01-21T17:05:16Z",
+      "summary": "# PyTorch 2.10.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
+    },
+    {
+      "source": "TensorFlow Releases",
+      "type": "github",
+      "title": "Release v2.20.0",
+      "link": "https://github.com/tensorflow/tensorflow/releases/tag/v2.20.0",
+      "published": "2025-08-13T17:45:14Z",
+      "summary": "# Release 2.20.0\r\n\r\n## TensorFlow\r\n\r\n### Breaking Changes\r\n\r\n* The `tensorflow-io-gcs-filesystem` package is now optional, due its uncertain, and limited support. To install it alongside `tensorflow`,"
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-openrouter==0.0.2",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openrouter%3D%3D0.0.2",
+      "published": "2026-02-15T08:50:46Z",
+      "summary": "Changes since langchain-openrouter==0.0.1\n\nchore(openrouter): bump core ver, silence warning (#35231)"
+    },
+    {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.2.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.2.0",
+      "published": "2026-02-16T18:55:53Z",
+      "summary": "## New Model additions\r\n\r\n### VoxtralRealtime\r\n\r\n<img width=\"1920\" height=\"1080\" alt=\"image\" src=\"https://github.com/user-attachments/assets/80e37670-6d70-402b-8c8e-ccfb8c32df2d\" />\r\n\r\nVoxtralRealtime"
+    }
+  ],
+  "timestamp": "2026-02-18T04:35:29.750733",
+  "failures": [
+    {
+      "source": "Anthropic Blog",
+      "error": "Feed parsing error: <unknown>:2:3549: not well-formed (invalid token)"
+    },
+    {
+      "source": "Google AI Blog",
+      "error": "Feed parsing error: <unknown>:4:31: mismatched tag"
+    },
+    {
+      "source": "Two Minute Papers",
+      "error": "Feed parsing error: <unknown>:3:11: not well-formed (invalid token)"
+    },
+    {
+      "source": "Yannic Kilcher",
+      "error": "Feed parsing error: <unknown>:3:11: not well-formed (invalid token)"
+    }
+  ],
+  "failure_count": 4,
+  "source_count": 10
+}
