@@ -14,6 +14,7 @@ import sys
 import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any, Dict, List
 
@@ -270,6 +271,23 @@ class DashboardUpdater:
     # Cache / output
     # ------------------------------------------------------------------
 
+    @staticmethod
+    def _parse_date(date_str: str) -> datetime:
+        """Normalize mixed date formats to datetime for sorting."""
+        if not date_str:
+            return datetime.min
+        # ISO 8601: "2026-02-23T21:48:08.000Z", "2026-02-23T21:48:08Z", "2026-02-23"
+        try:
+            return datetime.fromisoformat(date_str.rstrip("Z").split(".")[0])
+        except ValueError:
+            pass
+        # RFC 2822: "Mon, 23 Feb 2026 11:00:00 GMT"
+        try:
+            return parsedate_to_datetime(date_str).replace(tzinfo=None)
+        except Exception:
+            pass
+        return datetime.min
+
     def load_cached_data(self) -> Dict[str, Any]:
         try:
             if self.cache_file.exists():
@@ -329,8 +347,6 @@ class DashboardUpdater:
                     if age < timedelta(hours=max_age):
                         degradation = "using_cache"
 
-        self.updates.sort(key=lambda x: x.get("published", ""), reverse=True)
-
         self.readme_path.parent.mkdir(parents=True, exist_ok=True)
         with open(self.readme_path, "w") as f:
             f.write("# AI Advancements Dashboard\n\n")
@@ -381,6 +397,9 @@ class DashboardUpdater:
         self.updates.extend(self.fetch_github_releases())
         self.updates.extend(self.fetch_reddit_posts())
         self.updates.extend(self.fetch_x_posts())
+
+        # Sort by date descending before writing — handles mixed date formats
+        self.updates.sort(key=lambda x: self._parse_date(x.get("published", "")), reverse=True)
 
         self.save_cached_data()
         self.generate_dashboard()
