@@ -6,6 +6,11 @@ on:
       - main
     paths:
       - 'ai/**'
+  workflow_run:
+    workflows:
+      - "Update AI Advancements Dashboard"
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:
@@ -16,6 +21,7 @@ permissions:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
 
     steps:
       - name: Checkout repository
