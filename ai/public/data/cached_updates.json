@@ -255,26 +255,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
       "published": "Tue, 27 Jan 2026 17:00:00 +0000",
       "summary": "<p>AI can help generate medical image reports, but today\u2019s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language m"
-    },
-    {
-      "source": "PyTorch Releases",
-      "type": "github",
-      "title": "Release v2.10.0",
-      "link": "https://github.com/pytorch/pytorch/releases/tag/v2.10.0",
-      "published": "2026-01-21T17:05:16Z",
-      "summary": "# PyTorch 2.10.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
-    },
-    {
-      "source": "TensorFlow Releases",
-      "type": "github",
-      "title": "Release v2.20.0",
-      "link": "https://github.com/tensorflow/tensorflow/releases/tag/v2.20.0",
-      "published": "2025-08-13T17:45:14Z",
-      "summary": "# Release 2.20.0\r\n\r\n## TensorFlow\r\n\r\n### Breaking Changes\r\n\r\n* The `tensorflow-io-gcs-filesystem` package is now optional, due its uncertain, and limited support. To install it alongside `tensorflow`,"
     }
   ],
-  "timestamp": "2026-02-24T17:08:48.196965",
-  "last_updated": "2026-02-24T17:08:48.196965",
+  "timestamp": "2026-02-24T17:14:14.865585",
+  "last_updated": "2026-02-24T17:14:14.865585",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-02-24 17:08:48 UTC
+**Last Updated:** 2026-02-24 17:14:14 UTC
 
 ## Latest Updates
 
@@ -38,5 +38,3 @@
 | Microsoft Research AI | [Rethinking imitation learning with Predictive Inverse Dynamics Models](https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/) | Thu, 05 Fe |
 | Microsoft Research AI | [Paza: Introducing automatic speech recognition benchmarks and models for low res](https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/) | Thu, 05 Fe |
 | Microsoft Research AI | [UniRG: Scaling medical imaging report generation with multimodal reinforcement l](https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/) | Tue, 27 Ja |
-| PyTorch Releases | [Release v2.10.0](https://github.com/pytorch/pytorch/releases/tag/v2.10.0) | 2026-01-21 |
-| TensorFlow Releases | [Release v2.20.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.20.0) | 2025-08-13 |
