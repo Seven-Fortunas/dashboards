@@ -127,7 +127,7 @@ degradation:
 
 # Cache configuration
 cache:
-  directory: "ai/data"
+  directory: "ai/public/data"
   filename: "cached_updates.json"
   metadata_filename: "cache_metadata.json"
   readme_path: "ai/README.md"
