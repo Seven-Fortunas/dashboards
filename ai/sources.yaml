@@ -10,12 +10,12 @@ sources:
 
     - name: "Anthropic Blog"
       url: "https://www.anthropic.com/news/rss.xml"
-      enabled: true
+      enabled: false  # DEAD URL: Anthropic has no RSS feed; using sitemap source below
       timeout: 10
       retry_attempts: 3
 
     - name: "Google AI Blog"
-      url: "https://ai.googleblog.com/feeds/posts/default"
+      url: "https://blog.google/technology/ai/rss/"  # Updated: moved from Blogger (ai.googleblog.com is 404)
       enabled: true
       timeout: 10
       retry_attempts: 3
@@ -25,6 +25,28 @@ sources:
       enabled: true
       timeout: 10
       retry_attempts: 3
+
+    - name: "Microsoft Research AI"
+      url: "https://www.microsoft.com/en-us/research/blog/feed/"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+    - name: "MIT Technology Review AI"
+      url: "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+
+  sitemap:
+    # Anthropic does not publish an RSS feed; use sitemap to discover recent /news/ articles
+    - name: "Anthropic Blog"
+      sitemap_url: "https://www.anthropic.com/sitemap.xml"
+      url_pattern: "/news/"
+      enabled: true
+      timeout: 15
+      retry_attempts: 3
+      limit: 5
 
   github:
     - name: "PyTorch Releases"
@@ -69,14 +91,14 @@ sources:
   youtube:
     - name: "Two Minute Papers"
       channel_id: "UCbfYPyITQ-7l4upoX8nvctg"
-      enabled: true
+      enabled: false  # BLOCKED: YouTube RSS feeds return 404/500 from CI runner IPs
       timeout: 10
       retry_attempts: 3
-      limit: 5 # Latest 5 videos
+      limit: 5
 
     - name: "Yannic Kilcher"
       channel_id: "UCZHmQk67mSJgfCCTn7xBfew"
-      enabled: true
+      enabled: false  # BLOCKED: YouTube RSS feeds return 404/500 from CI runner IPs
       timeout: 10
       retry_attempts: 3
       limit: 5
@@ -105,6 +127,7 @@ degradation:
 
 # Cache configuration
 cache:
-  directory: "dashboards/ai/data"
+  directory: "ai/data"
   filename: "cached_updates.json"
   metadata_filename: "cache_metadata.json"
+  readme_path: "ai/README.md"
