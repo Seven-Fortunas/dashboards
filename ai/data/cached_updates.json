@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude Opus 4.6",
+      "link": "https://www.anthropic.com/news/claude-opus-4-6",
+      "published": "2026-02-23T21:48:08.000Z",
+      "summary": "We\u2019re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Detecting and preventing distillation attacks",
+      "link": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "published": "2026-02-23T19:24:39.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "The human work behind humanoid robots is being hidden",
+      "link": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
+      "published": "Mon, 23 Feb 2026 17:05:00 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. In January, Nvidia\u2019s Jensen Huang, the head of the world\u2019s mos"
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.2.15",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.15",
+      "published": "2026-02-23T15:05:04Z",
+      "summary": "Changes since langchain-core==1.2.14\n\nfix(core): improve error message for non-JSON-serializable tool schemas (#34376)\nfix(core): improve typing/docs for on_chat_model_start to clarify required positi"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Why we no longer evaluate SWE-bench Verified",
@@ -17,6 +49,14 @@
       "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments."
     },
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Making frontier cybersecurity capabilities available to defenders",
+      "link": "https://www.anthropic.com/news/claude-code-security",
+      "published": "2026-02-20T17:59:33.000Z",
+      "summary": "Claude Code Security is one step towards our goal of more secure codebases and a higher security baseline across the industry."
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Our First Proof submissions",
@@ -25,20 +65,36 @@
       "summary": "We share our AI model\u2019s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems."
     },
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+      "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+      "published": "Thu, 19 Feb 2026 16:06:14 +0000",
+      "summary": "3.1 Pro is designed for tasks where a simple answer isn\u2019t enough."
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions",
+      "link": "https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/",
+      "published": "Thu, 19 Feb 2026 16:00:51 +0000",
+      "summary": "<p>As synthetic media grows, verifying what\u2019s real, and the origin of content, matters more than ever. Our latest report explores media integrity and authentication methods, their limits, and practica"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Microsoft has a new plan to prove what\u2019s real and what\u2019s AI online",
+      "link": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
+      "published": "Thu, 19 Feb 2026 16:00:00 +0000",
+      "summary": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minneso"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Advancing independent research on AI alignment",
       "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "published": "Thu, 19 Feb 2026 10:00:00 GMT",
       "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing OpenAI for India",
-      "link": "https://openai.com/index/openai-for-india",
-      "published": "Wed, 18 Feb 2026 21:00:00 GMT",
-      "summary": "OpenAI for India expands AI access across the country\u2014building local infrastructure, powering enterprises, and advancing workforce skills."
     },
     {
       "source": "Google AI Blog",
@@ -57,12 +113,52 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Collection_Hero-2.max-600x600.format-webp.webp\" />A look at the partnerships and investments Google announced at the AI Impact"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing OpenAI for India",
+      "link": "https://openai.com/index/openai-for-india",
+      "published": "Wed, 18 Feb 2026 21:00:00 GMT",
+      "summary": "OpenAI for India expands AI access across the country\u2014building local infrastructure, powering enterprises, and advancing workforce skills."
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Project Silica\u2019s advances in glass storage technology",
+      "link": "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
+      "published": "Wed, 18 Feb 2026 16:11:45 +0000",
+      "summary": "<p>Project Silica introduces new techniques for encoding data in borosilicate glass, as described in the journal Nature. These advances lower media cost and simplify writing and reading systems while "
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "A new way to express yourself: Gemini can now create music",
+      "link": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+      "published": "Wed, 18 Feb 2026 16:01:38 +0000",
+      "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
+      "link": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
+      "published": "Wed, 18 Feb 2026 16:00:22 +0000",
+      "summary": "Google DeepMind is calling for the moral behavior of large language models\u2014such as what they do when called on to act as companions, therapists, medical advisors, and so on\u2014to be scrutinized with the "
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "A new way to express yourself: Gemini can now create music",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
       "published": "Wed, 18 Feb 2026 16:00:00 +0000",
       "summary": "Image showing sample tracks created with Lyria 3"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "The robots who predict the future",
+      "link": "https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/",
+      "published": "Wed, 18 Feb 2026 11:00:00 +0000",
+      "summary": "To be human is, fundamentally, to be a forecaster. Occasionally a pretty good one. Trying to see the future, whether through the lens of past experience or the logic of cause and effect, has helped us"
     },
     {
       "source": "Google AI Blog",
@@ -81,20 +177,20 @@
       "summary": "an illustration of blue and white cubes"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
-      "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
-      "published": "Thu, 19 Feb 2026 16:06:14 +0000",
-      "summary": "3.1 Pro is designed for tasks where a simple answer isn\u2019t enough."
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Sonnet 4.6",
+      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "published": "2026-02-17T17:45:22.000Z",
+      "summary": "Claude Sonnet 4.6 is a full upgrade of the model\u2019s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design."
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "A new way to express yourself: Gemini can now create music",
-      "link": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
-      "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic opens Bengaluru office and announces new partnerships across India",
+      "link": "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
+      "published": "2026-02-17T15:11:31.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "DeepMind Blog",
@@ -105,6 +201,14 @@
       "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
     },
     {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.2.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.2.0",
+      "published": "2026-02-16T18:55:53Z",
+      "summary": "## New Model additions\r\n\r\n### VoxtralRealtime\r\n\r\n<img width=\"1920\" height=\"1080\" alt=\"image\" src=\"https://github.com/user-attachments/assets/80e37670-6d70-402b-8c8e-ccfb8c32df2d\" />\r\n\r\nVoxtralRealtime"
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
@@ -113,28 +217,20 @@
       "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
     },
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "AI is already making online crimes easier. It could get much worse.",
+      "link": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
+      "published": "Thu, 12 Feb 2026 11:00:00 +0000",
+      "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him"
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
       "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
       "published": "Mon, 09 Feb 2026 16:12:06 +0000",
       "summary": "Research papers point to the growing impact of Deep Think across fields"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions",
-      "link": "https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/",
-      "published": "Thu, 19 Feb 2026 16:00:51 +0000",
-      "summary": "<p>As synthetic media grows, verifying what\u2019s real, and the origin of content, matters more than ever. Our latest report explores media integrity and authentication methods, their limits, and practica"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Project Silica\u2019s advances in glass storage technology",
-      "link": "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
-      "published": "Wed, 18 Feb 2026 16:11:45 +0000",
-      "summary": "<p>Project Silica introduces new techniques for encoding data in borosilicate glass, as described in the journal Nature. These advances lower media cost and simplify writing and reading systems while "
     },
     {
       "source": "Microsoft Research AI",
@@ -161,86 +257,6 @@
       "summary": "<p>AI can help generate medical image reports, but today\u2019s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language m"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The human work behind humanoid robots is being hidden",
-      "link": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
-      "published": "Mon, 23 Feb 2026 17:05:00 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. In January, Nvidia\u2019s Jensen Huang, the head of the world\u2019s mos"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Microsoft has a new plan to prove what\u2019s real and what\u2019s AI online",
-      "link": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
-      "published": "Thu, 19 Feb 2026 16:00:00 +0000",
-      "summary": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minneso"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
-      "link": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
-      "published": "Wed, 18 Feb 2026 16:00:22 +0000",
-      "summary": "Google DeepMind is calling for the moral behavior of large language models\u2014such as what they do when called on to act as companions, therapists, medical advisors, and so on\u2014to be scrutinized with the "
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The robots who predict the future",
-      "link": "https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/",
-      "published": "Wed, 18 Feb 2026 11:00:00 +0000",
-      "summary": "To be human is, fundamentally, to be a forecaster. Occasionally a pretty good one. Trying to see the future, whether through the lens of past experience or the logic of cause and effect, has helped us"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "AI is already making online crimes easier. It could get much worse.",
-      "link": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
-      "published": "Thu, 12 Feb 2026 11:00:00 +0000",
-      "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Claude Opus 4.6",
-      "link": "https://www.anthropic.com/news/claude-opus-4-6",
-      "published": "2026-02-23T21:48:08.000Z",
-      "summary": "We\u2019re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Detecting and preventing distillation attacks",
-      "link": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
-      "published": "2026-02-23T19:24:39.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Making frontier cybersecurity capabilities available to defenders",
-      "link": "https://www.anthropic.com/news/claude-code-security",
-      "published": "2026-02-20T17:59:33.000Z",
-      "summary": "Claude Code Security is one step towards our goal of more secure codebases and a higher security baseline across the industry."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Sonnet 4.6",
-      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "published": "2026-02-17T17:45:22.000Z",
-      "summary": "Claude Sonnet 4.6 is a full upgrade of the model\u2019s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic opens Bengaluru office and announces new partnerships across India",
-      "link": "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
-      "published": "2026-02-17T15:11:31.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "PyTorch Releases",
       "type": "github",
       "title": "Release v2.10.0",
@@ -255,26 +271,10 @@
       "link": "https://github.com/tensorflow/tensorflow/releases/tag/v2.20.0",
       "published": "2025-08-13T17:45:14Z",
       "summary": "# Release 2.20.0\r\n\r\n## TensorFlow\r\n\r\n### Breaking Changes\r\n\r\n* The `tensorflow-io-gcs-filesystem` package is now optional, due its uncertain, and limited support. To install it alongside `tensorflow`,"
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.2.15",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.15",
-      "published": "2026-02-23T15:05:04Z",
-      "summary": "Changes since langchain-core==1.2.14\n\nfix(core): improve error message for non-JSON-serializable tool schemas (#34376)\nfix(core): improve typing/docs for on_chat_model_start to clarify required positi"
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.2.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.2.0",
-      "published": "2026-02-16T18:55:53Z",
-      "summary": "## New Model additions\r\n\r\n### VoxtralRealtime\r\n\r\n<img width=\"1920\" height=\"1080\" alt=\"image\" src=\"https://github.com/user-attachments/assets/80e37670-6d70-402b-8c8e-ccfb8c32df2d\" />\r\n\r\nVoxtralRealtime"
     }
   ],
-  "timestamp": "2026-02-24T16:11:17.060990",
-  "last_updated": "2026-02-24T16:11:17.060990",
+  "timestamp": "2026-02-24T17:00:29.458577",
+  "last_updated": "2026-02-24T17:00:29.458577",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
