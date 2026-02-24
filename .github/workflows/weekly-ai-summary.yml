@@ -1,0 +1,121 @@
+name: Generate Weekly AI Summary
+
+on:
+  schedule:
+    # Run every Sunday at 9 AM UTC
+    - cron: '0 9 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-summary:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic requests
+
+      - name: Generate weekly summary
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python3 << 'EOF'
+          import json
+          import os
+          from datetime import datetime, timezone
+          from anthropic import Anthropic
+
+          # Load latest dashboard data
+          with open('ai/public/data/cached_updates.json', 'r') as f:
+              data = json.load(f)
+
+          # Get updates from the last 7 days
+          updates = data.get('updates', [])
+          recent_updates = updates[:20]  # Get most recent 20 updates
+
+          # Format updates for Claude
+          updates_text = "\n\n".join([
+              f"**{u['title']}**\n{u.get('summary', u.get('description', 'No description'))}\nSource: {u.get('source', 'Unknown')} | {u.get('date', 'No date')}"
+              for u in recent_updates
+          ])
+
+          # Generate summary with Claude
+          client = Anthropic(api_key=os.environ['ANTHROPIC_API_KEY'])
+
+          prompt = f"""You are an AI analyst creating a weekly summary of AI advancements for business and technical audiences.
+
+          Below are the most significant AI news items from the past week:
+
+          {updates_text}
+
+          Please create a concise weekly summary that:
+          1. Highlights 3-5 most significant developments
+          2. Groups related updates by theme (e.g., LLM advances, regulation, enterprise AI)
+          3. Explains business implications
+          4. Keeps it under 500 words
+          5. Uses clear, professional language
+
+          Format the summary in markdown with clear sections."""
+
+          response = client.messages.create(
+              model="claude-3-5-sonnet-20241022",
+              max_tokens=2000,
+              messages=[{"role": "user", "content": prompt}]
+          )
+
+          summary = response.content[0].text
+
+          # Save summary
+          date_str = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+          os.makedirs('ai/summaries', exist_ok=True)
+
+          with open(f'ai/summaries/{date_str}.md', 'w') as f:
+              f.write(f"# AI Advancements Weekly Summary - {date_str}\n\n")
+              f.write(summary)
+              f.write(f"\n\n---\n*Generated automatically from {len(recent_updates)} recent updates*\n")
+
+          # Update README with latest summary
+          with open('ai/README.md', 'r') as f:
+              readme = f.read()
+
+          # Find the summary section and update it
+          summary_marker = "## Latest Weekly Summary"
+          if summary_marker in readme:
+              before = readme.split(summary_marker)[0]
+              # Get content after the next heading or end of file
+              after_parts = readme.split(summary_marker)[1].split('\n## ', 1)
+              after = '\n## ' + after_parts[1] if len(after_parts) > 1 else ''
+
+              new_readme = f"{before}{summary_marker}\n\n{summary}\n\n*[View all summaries →](summaries/)*{after}"
+          else:
+              # Add summary section at the end
+              new_readme = readme + f"\n\n{summary_marker}\n\n{summary}\n\n*[View all summaries →](summaries/)*\n"
+
+          with open('ai/README.md', 'w') as f:
+              f.write(new_readme)
+
+          print(f"Summary generated and saved to ai/summaries/{date_str}.md")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ai/summaries/ ai/README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(dashboard): Add weekly AI summary $(date -u +%Y-%m-%d)"
+            git push
+          fi
