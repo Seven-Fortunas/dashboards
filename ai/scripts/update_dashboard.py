@@ -398,6 +398,13 @@ class DashboardUpdater:
         self.updates.extend(self.fetch_reddit_posts())
         self.updates.extend(self.fetch_x_posts())
 
+        # Drop anything older than 30 days
+        cutoff = datetime.utcnow() - timedelta(days=30)
+        self.updates = [
+            u for u in self.updates
+            if self._parse_date(u.get("published", "")) >= cutoff
+        ]
+
         # Sort by date descending before writing — handles mixed date formats
         self.updates.sort(key=lambda x: self._parse_date(x.get("published", "")), reverse=True)
 
