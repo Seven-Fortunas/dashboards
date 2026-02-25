@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "See the whole picture and find the look with Circle to Search",
+      "link": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
+      "published": "Wed, 25 Feb 2026 18:00:00 +0000",
+      "summary": "Google Search interface featuring AI-powered tools including an \"AI Overview\" that breaks down an outfit's components and a virtual \"Try it on\" button that visualizes apparel on diverse body types."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "A more intelligent Android on Samsung Galaxy S26",
+      "link": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
+      "published": "Wed, 25 Feb 2026 18:00:00 +0000",
+      "summary": "A woman in a red turtleneck, camouflage shorts, and black boots poses against a bright red wall, while a smartphone to her right displays a Google search page with image recognition results."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic acquires Vercept to advance Claude&#x27;s computer use capabilities",
+      "link": "https://www.anthropic.com/news/acquires-vercept",
+      "published": "2026-02-25T16:58:30.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.2.16",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.16",
+      "published": "2026-02-25T16:27:43Z",
+      "summary": "Changes since langchain-core==1.2.15\n\nrelease(core): 1.2.16 (#35439)\nfix(core): treat empty tool chunk ids as missing in merge (#35414)"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Disrupting malicious uses of AI | February 2026",
@@ -57,14 +89,6 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. In January, Nvidia\u2019s Jensen Huang, the head of the world\u2019s mos"
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.2.15",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.15",
-      "published": "2026-02-23T15:05:04Z",
-      "summary": "Changes since langchain-core==1.2.14\n\nfix(core): improve error message for non-JSON-serializable tool schemas (#34376)\nfix(core): improve typing/docs for on_chat_model_start to clarify required positi"
-    },
-    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Why we no longer evaluate SWE-bench Verified",
@@ -79,14 +103,6 @@
       "link": "https://openai.com/index/frontier-alliance-partners",
       "published": "Mon, 23 Feb 2026 05:30:00 GMT",
       "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Making frontier cybersecurity capabilities available to defenders",
-      "link": "https://www.anthropic.com/news/claude-code-security",
-      "published": "2026-02-20T17:59:33.000Z",
-      "summary": "Claude Code Security is one step towards our goal of more secure codebases and a higher security baseline across the industry."
     },
     {
       "source": "OpenAI Blog",
@@ -177,22 +193,6 @@
       "summary": "To be human is, fundamentally, to be a forecaster. Occasionally a pretty good one. Trying to see the future, whether through the lens of past experience or the logic of cause and effect, has helped us"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "AI Impact Summit 2026: How we\u2019re partnering to make AI work for everyone",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-      "published": "Wed, 18 Feb 2026 10:30:00 +0000",
-      "summary": "four people seated on a conference stage"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Our 2026 Responsible AI Progress Report",
-      "link": "https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/",
-      "published": "Tue, 17 Feb 2026 22:30:00 +0000",
-      "summary": "an illustration of blue and white cubes"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Accelerating discovery in India through AI-powered science and education",
@@ -257,8 +257,8 @@
       "summary": "<p>AI can help generate medical image reports, but today\u2019s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language m"
     }
   ],
-  "timestamp": "2026-02-25T15:14:12.999420",
-  "last_updated": "2026-02-25T15:14:12.999420",
+  "timestamp": "2026-02-25T19:56:45.619447",
+  "last_updated": "2026-02-25T19:56:45.619447",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
