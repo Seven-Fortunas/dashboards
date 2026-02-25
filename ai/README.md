@@ -1,11 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-02-24 19:55:14 UTC
+**Last Updated:** 2026-02-25 05:18:01 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Introducing Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) | 2026-02-24 |
+| Anthropic Blog | [Responsible Scaling Policy Version 3.0](https://www.anthropic.com/news/responsible-scaling-policy-v3) | 2026-02-24 |
+| OpenAI Blog | [Arvind KC appointed Chief People Officer](https://openai.com/index/arvind-kc-chief-people-officer) | Tue, 24 Fe |
 | Anthropic Blog | [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6) | 2026-02-23 |
 | Anthropic Blog | [Detecting and preventing distillation attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks) | 2026-02-23 |
 | MIT Technology Review AI | [The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/) | Mon, 23 Fe |
@@ -20,7 +23,6 @@
 | OpenAI Blog | [Advancing independent research on AI alignment](https://openai.com/index/advancing-independent-research-ai-alignment) | Thu, 19 Fe |
 | Google AI Blog | [“No technology has me dreaming bigger than AI”](https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/) | Thu, 19 Fe |
 | Google AI Blog | [AI Impact Summit 2026](https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/) | Thu, 19 Fe |
-| OpenAI Blog | [Introducing OpenAI for India](https://openai.com/index/openai-for-india) | Wed, 18 Fe |
 | Microsoft Research AI | [Project Silica’s advances in glass storage technology](https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/) | Wed, 18 Fe |
 | DeepMind Blog | [A new way to express yourself: Gemini can now create music](https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/) | Wed, 18 Fe |
 | MIT Technology Review AI | [Google DeepMind wants to know if chatbots are just virtue signaling](https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/) | Wed, 18 Fe |
@@ -28,8 +30,6 @@
 | MIT Technology Review AI | [The robots who predict the future](https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/) | Wed, 18 Fe |
 | Google AI Blog | [AI Impact Summit 2026: How we’re partnering to make AI work for everyone](https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/) | Wed, 18 Fe |
 | Google AI Blog | [Our 2026 Responsible AI Progress Report](https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/) | Tue, 17 Fe |
-| Anthropic Blog | [Introducing Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) | 2026-02-17 |
-| Anthropic Blog | [Anthropic opens Bengaluru office and announces new partnerships across India](https://www.anthropic.com/news/bengaluru-office-partnerships-across-india) | 2026-02-17 |
 | DeepMind Blog | [Accelerating discovery in India through AI-powered science and education](https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/) | Tue, 17 Fe |
 | HuggingFace Transformers | [Release v5.2.0](https://github.com/huggingface/transformers/releases/tag/v5.2.0) | 2026-02-16 |
 | DeepMind Blog | [Gemini 3 Deep Think: Advancing science, research and engineering](https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/) | Thu, 12 Fe |
