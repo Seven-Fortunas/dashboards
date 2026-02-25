@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-02-25 08:07:23 UTC
+**Last Updated:** 2026-02-25 15:14:13 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Disrupting malicious uses of AI \| February 2026](https://openai.com/index/disrupting-malicious-ai-uses) | Wed, 25 Fe |
 | Anthropic Blog | [Introducing Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) | 2026-02-24 |
 | Anthropic Blog | [Responsible Scaling Policy Version 3.0](https://www.anthropic.com/news/responsible-scaling-policy-v3) | 2026-02-24 |
 | OpenAI Blog | [Arvind KC appointed Chief People Officer](https://openai.com/index/arvind-kc-chief-people-officer) | Tue, 24 Fe |
@@ -20,7 +21,6 @@
 | DeepMind Blog | [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/) | Thu, 19 Fe |
 | Microsoft Research AI | [Media Authenticity Methods in Practice: Capabilities, Limitations, and Direction](https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/) | Thu, 19 Fe |
 | MIT Technology Review AI | [Microsoft has a new plan to prove what’s real and what’s AI online](https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/) | Thu, 19 Fe |
-| OpenAI Blog | [Advancing independent research on AI alignment](https://openai.com/index/advancing-independent-research-ai-alignment) | Thu, 19 Fe |
 | Google AI Blog | [“No technology has me dreaming bigger than AI”](https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/) | Thu, 19 Fe |
 | Google AI Blog | [AI Impact Summit 2026](https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/) | Thu, 19 Fe |
 | Microsoft Research AI | [Project Silica’s advances in glass storage technology](https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/) | Wed, 18 Fe |

@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Disrupting malicious uses of AI | February 2026",
+      "link": "https://openai.com/index/disrupting-malicious-ai-uses",
+      "published": "Wed, 25 Feb 2026 00:00:00 GMT",
+      "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms\u2014and what it means for detection and defense."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Sonnet 4.6",
@@ -111,14 +119,6 @@
       "link": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
       "published": "Thu, 19 Feb 2026 16:00:00 +0000",
       "summary": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minneso"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Advancing independent research on AI alignment",
-      "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
-      "published": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks."
     },
     {
       "source": "Google AI Blog",
@@ -257,8 +257,8 @@
       "summary": "<p>AI can help generate medical image reports, but today\u2019s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language m"
     }
   ],
-  "timestamp": "2026-02-25T08:07:23.779174",
-  "last_updated": "2026-02-25T08:07:23.779174",
+  "timestamp": "2026-02-25T15:14:12.999420",
+  "last_updated": "2026-02-25T15:14:12.999420",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
