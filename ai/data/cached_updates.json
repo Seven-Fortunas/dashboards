@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+      "link": "https://openai.com/index/figma-partnership",
+      "published": "Thu, 26 Feb 2026 06:00:00 GMT",
+      "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Responsible Scaling Policy Version 3.0",
@@ -103,14 +111,6 @@
       "link": "https://openai.com/index/frontier-alliance-partners",
       "published": "Mon, 23 Feb 2026 05:30:00 GMT",
       "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Our First Proof submissions",
-      "link": "https://openai.com/index/first-proof-submissions",
-      "published": "Fri, 20 Feb 2026 14:30:00 GMT",
-      "summary": "We share our AI model\u2019s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems."
     },
     {
       "source": "DeepMind Blog",
@@ -257,8 +257,8 @@
       "summary": "<p>AI can help generate medical image reports, but today\u2019s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language m"
     }
   ],
-  "timestamp": "2026-02-26T08:03:54.544719",
-  "last_updated": "2026-02-26T08:03:54.544719",
+  "timestamp": "2026-02-26T14:42:14.926232",
+  "last_updated": "2026-02-26T14:42:14.926232",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
