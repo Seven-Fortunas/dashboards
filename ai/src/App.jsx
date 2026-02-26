@@ -10,6 +10,7 @@ function App() {
   const [updates, setUpdates] = useState([])
   const [filteredUpdates, setFilteredUpdates] = useState([])
   const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(null)
   const [selectedSource, setSelectedSource] = useState('all')
   const [searchTerm, setSearchTerm] = useState('')
   const [lastUpdated, setLastUpdated] = useState(null)
@@ -17,8 +18,20 @@ function App() {
 
   useEffect(() => {
     fetch('./data/cached_updates.json')
-      .then(res => res.json())
+      .then(res => {
+        if (!res.ok) throw new Error('Failed to fetch data')
+        return res.json()
+      })
       .then(data => {
+        // Staleness check: 7 days = 168 hours
+        const lastUpdate = new Date(data.last_updated)
+        const now = new Date()
+        const hoursDiff = (now - lastUpdate) / (1000 * 60 * 60)
+
+        if (hoursDiff > 168) {
+          setError(`Data is stale (last updated ${Math.floor(hoursDiff / 24)} days ago)`)
+        }
+
         setUpdates(data.updates || [])
         setFilteredUpdates(data.updates || [])
         setLastUpdated(data.last_updated)
@@ -27,6 +40,7 @@ function App() {
       })
       .catch(err => {
         console.error('Error loading updates:', err)
+        setError(err.message)
         setLoading(false)
       })
   }, [])
@@ -53,6 +67,17 @@ function App() {
 
   if (loading) {
     return <div className="loading">Loading AI updates...</div>
+  }
+
+  if (error) {
+    return (
+      <div className="dashboard">
+        <header className="dashboard-header">
+          <h1>🤖 AI Advancements Dashboard</h1>
+        </header>
+        <ErrorBanner errors={[{ source: 'Dashboard', message: error }]} />
+      </div>
+    )
   }
 
   const sources = ['all', ...new Set(updates.map(u => u.source))]

@@ -31,7 +31,7 @@ except ImportError:
 
 
 class DashboardUpdater:
-    def __init__(self, config_path: str = "dashboards/ai/sources.yaml"):
+    def __init__(self, config_path: str = "dashboards/ai/config/sources.yaml"):
         if not Path(config_path).exists():
             print(f"Error: config not found at {config_path}", file=sys.stderr)
             sys.exit(1)
@@ -423,8 +423,8 @@ class DashboardUpdater:
 def _find_config() -> str:
     """Locate sources.yaml relative to the repo root."""
     candidates = [
-        "dashboards/ai/sources.yaml",  # 7f-infrastructure-project
-        "ai/sources.yaml",             # dashboards repo
+        "dashboards/ai/config/sources.yaml",  # 7f-infrastructure-project
+        "ai/config/sources.yaml",             # dashboards repo
     ]
     for path in candidates:
         if Path(path).exists():

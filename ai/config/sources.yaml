@@ -82,6 +82,12 @@ sources:
       limit: 10 # Top 10 posts in last 24h
 
     - name: "r/artificial"
+    - name: "r/LocalLLaMA"
+      subreddit: "LocalLLaMA"
+      enabled: true
+      timeout: 10
+      retry_attempts: 3
+      limit: 10
       subreddit: "artificial"
       enabled: true
       timeout: 10
@@ -122,7 +128,7 @@ sources:
 # Failure thresholds for graceful degradation
 degradation:
   warning_threshold: 0.5 # Warn if ≥50% of sources fail
-  cache_max_age_hours: 24 # Use cached data if < 24h old
+  cache_max_age_hours: 168 # Use cached data if < 24h old
   create_issue_after_hours: 24 # Auto-create GitHub issue after 24h of failures
 
 # Cache configuration

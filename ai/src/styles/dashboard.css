@@ -332,3 +332,32 @@ body {
     padding: var(--spacing-sm);
   }
 }
+
+/* Mobile responsive design */
+@media (max-width: 1024px) {
+  .dashboard-header h1 {
+    font-size: 1.5rem;
+  }
+
+  .controls {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .updates-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .results-info {
+    font-size: 0.875rem;
+  }
+}
+
+/* Touch target sizing for accessibility */
+button,
+a,
+.source-filter button,
+.search-input {
+  min-height: 44px;
+  min-width: 44px;
+}
