@@ -1,18 +1,18 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-02-25 19:56:45 UTC
+**Last Updated:** 2026-02-26 05:13:32 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Responsible Scaling Policy Version 3.0](https://www.anthropic.com/news/responsible-scaling-policy-v3) | 2026-02-25 |
+| Anthropic Blog | [Introducing Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) | 2026-02-25 |
 | Google AI Blog | [See the whole picture and find the look with Circle to Search](https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/) | Wed, 25 Fe |
 | Google AI Blog | [A more intelligent Android on Samsung Galaxy S26](https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/) | Wed, 25 Fe |
 | Anthropic Blog | [Anthropic acquires Vercept to advance Claude&#x27;s computer use capabilities](https://www.anthropic.com/news/acquires-vercept) | 2026-02-25 |
 | LangChain Releases | [Release langchain-core==1.2.16](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.16) | 2026-02-25 |
 | OpenAI Blog | [Disrupting malicious uses of AI \| February 2026](https://openai.com/index/disrupting-malicious-ai-uses) | Wed, 25 Fe |
-| Anthropic Blog | [Introducing Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) | 2026-02-24 |
-| Anthropic Blog | [Responsible Scaling Policy Version 3.0](https://www.anthropic.com/news/responsible-scaling-policy-v3) | 2026-02-24 |
 | OpenAI Blog | [Arvind KC appointed Chief People Officer](https://openai.com/index/arvind-kc-chief-people-officer) | Tue, 24 Fe |
 | Anthropic Blog | [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6) | 2026-02-23 |
 | Anthropic Blog | [Detecting and preventing distillation attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks) | 2026-02-23 |
