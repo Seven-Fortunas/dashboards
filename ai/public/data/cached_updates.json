@@ -1,6 +1,70 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+      "published": "Thu, 26 Feb 2026 18:55:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A1377_1920x1080.max-600x600.format-webp.webp\" />Google is partnering with the Massachusetts AI Hub to provide every Baystat"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+      "link": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+      "published": "Thu, 26 Feb 2026 18:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_TextTranslate_1920x10.max-600x600.format-webp.webp\" />New alternatives, \u201cunderstand\u201d and \u201cask\u201d buttons in Google Tra"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "CORPGEN advances AI agents for real work",
+      "link": "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/",
+      "published": "Thu, 26 Feb 2026 17:06:34 +0000",
+      "summary": "<p>By mid-morning, a typical knowledge worker is already juggling a client report, a budget spreadsheet, a slide deck, and an email backlog, all interdependent and all demanding attention at once. For"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "link": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+      "published": "Thu, 26 Feb 2026 16:01:50 +0000",
+      "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Build with Nano Banana 2, our best image generation and editing model",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
+      "published": "Thu, 26 Feb 2026 16:00:00 +0000",
+      "summary": "Build with Nano Banana 2"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "published": "Thu, 26 Feb 2026 16:00:00 +0000",
+      "summary": "Nano Banana 2 text with AI generated images around it"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Finding value with AI and Industry 5.0 transformation",
+      "link": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+      "published": "Thu, 26 Feb 2026 15:00:59 +0000",
+      "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shi"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+      "link": "https://openai.com/index/pacific-northwest-national-laboratory",
+      "published": "Thu, 26 Feb 2026 10:00:00 GMT",
+      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting\u2014showing potential to reduce NEPA drafting t"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
@@ -31,14 +95,6 @@
       "link": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
       "published": "Wed, 25 Feb 2026 18:00:00 +0000",
       "summary": "Google Search interface featuring AI-powered tools including an \"AI Overview\" that breaks down an outfit's components and a virtual \"Try it on\" button that visualizes apparel on diverse body types."
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "A more intelligent Android on Samsung Galaxy S26",
-      "link": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
-      "published": "Wed, 25 Feb 2026 18:00:00 +0000",
-      "summary": "A woman in a red turtleneck, camouflage shorts, and black boots poses against a bright red wall, while a smartphone to her right displays a Google search page with image recognition results."
     },
     {
       "source": "Anthropic Blog",
@@ -105,14 +161,6 @@
       "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI announces Frontier Alliance Partners",
-      "link": "https://openai.com/index/frontier-alliance-partners",
-      "published": "Mon, 23 Feb 2026 05:30:00 GMT",
-      "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
@@ -137,22 +185,6 @@
       "summary": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minneso"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "\u201cNo technology has me dreaming bigger than AI\u201d",
-      "link": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
-      "published": "Thu, 19 Feb 2026 04:30:00 +0000",
-      "summary": "a stylized design resembling the Ashoka Chakra with colorful network lines and text reading \"\u092d\u093e\u0930\u0924 2026 INDIA.\" A vertical line separates it from the Google logo on the right, all set against a light b"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "AI Impact Summit 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
-      "published": "Thu, 19 Feb 2026 04:30:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Collection_Hero-2.max-600x600.format-webp.webp\" />A look at the partnerships and investments Google announced at the AI Impact"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Project Silica\u2019s advances in glass storage technology",
@@ -175,14 +207,6 @@
       "link": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
       "published": "Wed, 18 Feb 2026 16:00:22 +0000",
       "summary": "Google DeepMind is calling for the moral behavior of large language models\u2014such as what they do when called on to act as companions, therapists, medical advisors, and so on\u2014to be scrutinized with the "
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "A new way to express yourself: Gemini can now create music",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
-      "published": "Wed, 18 Feb 2026 16:00:00 +0000",
-      "summary": "Image showing sample tracks created with Lyria 3"
     },
     {
       "source": "MIT Technology Review AI",
@@ -217,22 +241,6 @@
       "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "AI is already making online crimes easier. It could get much worse.",
-      "link": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
-      "published": "Thu, 12 Feb 2026 11:00:00 +0000",
-      "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him"
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
-      "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
-      "published": "Mon, 09 Feb 2026 16:12:06 +0000",
-      "summary": "Research papers point to the growing impact of Deep Think across fields"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Rethinking\u00a0imitation\u00a0learning\u00a0with Predictive Inverse Dynamics Models",
@@ -247,18 +255,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
       "published": "Thu, 05 Feb 2026 05:07:55 +0000",
       "summary": "<p>Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with c"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
-      "link": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
-      "published": "Tue, 27 Jan 2026 17:00:00 +0000",
-      "summary": "<p>AI can help generate medical image reports, but today\u2019s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language m"
     }
   ],
-  "timestamp": "2026-02-26T14:42:14.926232",
-  "last_updated": "2026-02-26T14:42:14.926232",
+  "timestamp": "2026-02-26T19:58:13.476348",
+  "last_updated": "2026-02-26T19:58:13.476348",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
