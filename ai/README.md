@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-02-26 08:03:54 UTC
+**Last Updated:** 2026-02-26 14:42:14 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [OpenAI Codex and Figma launch seamless code-to-design experience](https://openai.com/index/figma-partnership) | Thu, 26 Fe |
 | Anthropic Blog | [Responsible Scaling Policy Version 3.0](https://www.anthropic.com/news/responsible-scaling-policy-v3) | 2026-02-25 |
 | Anthropic Blog | [Introducing Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) | 2026-02-25 |
 | Google AI Blog | [See the whole picture and find the look with Circle to Search](https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/) | Wed, 25 Fe |
@@ -19,7 +20,6 @@
 | MIT Technology Review AI | [The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/) | Mon, 23 Fe |
 | OpenAI Blog | [Why we no longer evaluate SWE-bench Verified](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified) | Mon, 23 Fe |
 | OpenAI Blog | [OpenAI announces Frontier Alliance Partners](https://openai.com/index/frontier-alliance-partners) | Mon, 23 Fe |
-| OpenAI Blog | [Our First Proof submissions](https://openai.com/index/first-proof-submissions) | Fri, 20 Fe |
 | DeepMind Blog | [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/) | Thu, 19 Fe |
 | Microsoft Research AI | [Media Authenticity Methods in Practice: Capabilities, Limitations, and Direction](https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/) | Thu, 19 Fe |
 | MIT Technology Review AI | [Microsoft has a new plan to prove what’s real and what’s AI online](https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/) | Thu, 19 Fe |
