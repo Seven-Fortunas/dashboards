@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Responsible Scaling Policy Version 3.0",
+      "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+      "published": "2026-02-25T23:57:06.000Z",
+      "summary": "An update to Anthropic&#x27;s policy to mitigate catastrophic risks from AI"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Sonnet 4.6",
+      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "published": "2026-02-25T20:07:40.000Z",
+      "summary": "Claude Sonnet 4.6 is a full upgrade of the model\u2019s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "See the whole picture and find the look with Circle to Search",
@@ -39,22 +55,6 @@
       "link": "https://openai.com/index/disrupting-malicious-ai-uses",
       "published": "Wed, 25 Feb 2026 00:00:00 GMT",
       "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms\u2014and what it means for detection and defense."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Sonnet 4.6",
-      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "published": "2026-02-24T22:22:03.000Z",
-      "summary": "Claude Sonnet 4.6 is a full upgrade of the model\u2019s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Responsible Scaling Policy Version 3.0",
-      "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
-      "published": "2026-02-24T21:07:46.000Z",
-      "summary": "An update to Anthropic&#x27;s policy to mitigate catastrophic risks from AI"
     },
     {
       "source": "OpenAI Blog",
@@ -257,8 +257,8 @@
       "summary": "<p>AI can help generate medical image reports, but today\u2019s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language m"
     }
   ],
-  "timestamp": "2026-02-25T19:56:45.619447",
-  "last_updated": "2026-02-25T19:56:45.619447",
+  "timestamp": "2026-02-26T05:13:32.296307",
+  "last_updated": "2026-02-26T05:13:32.296307",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
