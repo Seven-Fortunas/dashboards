@@ -11,18 +11,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "OpenAI and Amazon announce strategic partnership",
-      "link": "https://openai.com/index/amazon-partnership",
+      "title": "Scaling AI for everyone",
+      "link": "https://openai.com/index/scaling-ai-for-everyone",
       "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI\u2019s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-      "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
+      "summary": "Today we\u2019re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon."
     },
     {
       "source": "OpenAI Blog",
@@ -35,10 +27,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Scaling AI for everyone",
-      "link": "https://openai.com/index/scaling-ai-for-everyone",
+      "title": "OpenAI and Amazon announce strategic partnership",
+      "link": "https://openai.com/index/amazon-partnership",
       "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "summary": "Today we\u2019re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon."
+      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI\u2019s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
     },
     {
       "source": "Anthropic Blog",
@@ -257,8 +257,8 @@
       "summary": "<p>Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with c"
     }
   ],
-  "timestamp": "2026-02-27T14:11:28.435415",
-  "last_updated": "2026-02-27T14:11:28.435415",
+  "timestamp": "2026-02-27T19:49:24.516314",
+  "last_updated": "2026-02-27T19:49:24.516314",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
