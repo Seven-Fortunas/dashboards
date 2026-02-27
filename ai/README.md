@@ -1,16 +1,16 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-02-27 14:11:28 UTC
+**Last Updated:** 2026-02-27 19:49:24 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
 | MIT Technology Review AI | [AI is rewiring how the world’s best Go players think](https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/) | Fri, 27 Fe |
+| OpenAI Blog | [Scaling AI for everyone](https://openai.com/index/scaling-ai-for-everyone) | Fri, 27 Fe |
+| OpenAI Blog | [Joint Statement from OpenAI and Microsoft](https://openai.com/index/continuing-microsoft-partnership) | Fri, 27 Fe |
 | OpenAI Blog | [OpenAI and Amazon announce strategic partnership](https://openai.com/index/amazon-partnership) | Fri, 27 Fe |
 | OpenAI Blog | [Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock](https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock) | Fri, 27 Fe |
-| OpenAI Blog | [Joint Statement from OpenAI and Microsoft](https://openai.com/index/continuing-microsoft-partnership) | Fri, 27 Fe |
-| OpenAI Blog | [Scaling AI for everyone](https://openai.com/index/scaling-ai-for-everyone) | Fri, 27 Fe |
 | Anthropic Blog | [Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war) | 2026-02-26 |
 | Google AI Blog | [Google and the Massachusetts AI Hub are launching a new AI training initiative f](https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/) | Thu, 26 Fe |
 | Google AI Blog | [Get more context and understand translations more deeply with new AI-powered upd](https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/) | Thu, 26 Fe |
