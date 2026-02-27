@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-02-26 19:58:13 UTC
+**Last Updated:** 2026-02-27 05:07:07 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war) | 2026-02-26 |
 | Google AI Blog | [Google and the Massachusetts AI Hub are launching a new AI training initiative f](https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/) | Thu, 26 Fe |
 | Google AI Blog | [Get more context and understand translations more deeply with new AI-powered upd](https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/) | Thu, 26 Fe |
 | Microsoft Research AI | [CORPGEN advances AI agents for real work](https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/) | Thu, 26 Fe |
@@ -23,7 +24,6 @@
 | OpenAI Blog | [Disrupting malicious uses of AI \| February 2026](https://openai.com/index/disrupting-malicious-ai-uses) | Wed, 25 Fe |
 | OpenAI Blog | [Arvind KC appointed Chief People Officer](https://openai.com/index/arvind-kc-chief-people-officer) | Tue, 24 Fe |
 | Anthropic Blog | [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6) | 2026-02-23 |
-| Anthropic Blog | [Detecting and preventing distillation attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks) | 2026-02-23 |
 | MIT Technology Review AI | [The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/) | Mon, 23 Fe |
 | OpenAI Blog | [Why we no longer evaluate SWE-bench Verified](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified) | Mon, 23 Fe |
 | DeepMind Blog | [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/) | Thu, 19 Fe |

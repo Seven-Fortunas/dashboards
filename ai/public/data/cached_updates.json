@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Statement from Dario Amodei on our discussions with the Department of War",
+      "link": "https://www.anthropic.com/news/statement-department-of-war",
+      "published": "2026-02-26T22:46:57.000Z",
+      "summary": "A statement from our CEO on national security uses of AI"
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
@@ -137,14 +145,6 @@
       "summary": "We\u2019re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Detecting and preventing distillation attacks",
-      "link": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
-      "published": "2026-02-23T19:24:39.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "The human work behind humanoid robots is being hidden",
@@ -257,8 +257,8 @@
       "summary": "<p>Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with c"
     }
   ],
-  "timestamp": "2026-02-26T19:58:13.476348",
-  "last_updated": "2026-02-26T19:58:13.476348",
+  "timestamp": "2026-02-27T05:07:07.818904",
+  "last_updated": "2026-02-27T05:07:07.818904",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
