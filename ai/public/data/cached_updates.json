@@ -1,6 +1,46 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "AI is rewiring how the world\u2019s best Go players think",
+      "link": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+      "published": "Fri, 27 Feb 2026 10:00:00 +0000",
+      "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped \u201cKorea Baduk Association,\u201d the governing body for professional Go. Th"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI and Amazon announce strategic partnership",
+      "link": "https://openai.com/index/amazon-partnership",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI\u2019s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Joint Statement from OpenAI and Microsoft",
+      "link": "https://openai.com/index/continuing-microsoft-partnership",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Scaling AI for everyone",
+      "link": "https://openai.com/index/scaling-ai-for-everyone",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "summary": "Today we\u2019re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
@@ -73,14 +113,6 @@
       "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting\u2014showing potential to reduce NEPA drafting t"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
-      "link": "https://openai.com/index/figma-partnership",
-      "published": "Thu, 26 Feb 2026 06:00:00 GMT",
-      "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Responsible Scaling Policy Version 3.0",
@@ -121,22 +153,6 @@
       "summary": "Changes since langchain-core==1.2.15\n\nrelease(core): 1.2.16 (#35439)\nfix(core): treat empty tool chunk ids as missing in merge (#35414)"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Disrupting malicious uses of AI | February 2026",
-      "link": "https://openai.com/index/disrupting-malicious-ai-uses",
-      "published": "Wed, 25 Feb 2026 00:00:00 GMT",
-      "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms\u2014and what it means for detection and defense."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Arvind KC appointed Chief People Officer",
-      "link": "https://openai.com/index/arvind-kc-chief-people-officer",
-      "published": "Tue, 24 Feb 2026 13:40:00 GMT",
-      "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Claude Opus 4.6",
@@ -151,14 +167,6 @@
       "link": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
       "published": "Mon, 23 Feb 2026 17:05:00 +0000",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. In January, Nvidia\u2019s Jensen Huang, the head of the world\u2019s mos"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Why we no longer evaluate SWE-bench Verified",
-      "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
-      "published": "Mon, 23 Feb 2026 11:00:00 GMT",
-      "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro."
     },
     {
       "source": "DeepMind Blog",
@@ -209,14 +217,6 @@
       "summary": "Google DeepMind is calling for the moral behavior of large language models\u2014such as what they do when called on to act as companions, therapists, medical advisors, and so on\u2014to be scrutinized with the "
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The robots who predict the future",
-      "link": "https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/",
-      "published": "Wed, 18 Feb 2026 11:00:00 +0000",
-      "summary": "To be human is, fundamentally, to be a forecaster. Occasionally a pretty good one. Trying to see the future, whether through the lens of past experience or the logic of cause and effect, has helped us"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Accelerating discovery in India through AI-powered science and education",
@@ -257,8 +257,8 @@
       "summary": "<p>Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with c"
     }
   ],
-  "timestamp": "2026-02-27T08:01:13.562048",
-  "last_updated": "2026-02-27T08:01:13.562048",
+  "timestamp": "2026-02-27T14:11:28.435415",
+  "last_updated": "2026-02-27T14:11:28.435415",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
