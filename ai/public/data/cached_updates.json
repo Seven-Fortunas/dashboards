@@ -1,20 +1,20 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Statement on the comments from Secretary of War Pete Hegseth",
+      "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
+      "published": "2026-02-28T01:31:43.000Z",
+      "summary": "Anthropic&#x27;s response to the Secretary of War and advice for customers"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "AI is rewiring how the world\u2019s best Go players think",
       "link": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
       "published": "Fri, 27 Feb 2026 10:00:00 +0000",
       "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped \u201cKorea Baduk Association,\u201d the governing body for professional Go. Th"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Scaling AI for everyone",
-      "link": "https://openai.com/index/scaling-ai-for-everyone",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "summary": "Today we\u2019re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon."
     },
     {
       "source": "OpenAI Blog",
@@ -27,6 +27,22 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Scaling AI for everyone",
+      "link": "https://openai.com/index/scaling-ai-for-everyone",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "summary": "Today we\u2019re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "OpenAI and Amazon announce strategic partnership",
       "link": "https://openai.com/index/amazon-partnership",
       "published": "Fri, 27 Feb 2026 05:30:00 GMT",
@@ -35,10 +51,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-      "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
+      "title": "An update on our mental health-related work",
+      "link": "https://openai.com/index/update-on-mental-health-related-work",
+      "published": "Fri, 27 Feb 2026 00:00:00 GMT",
+      "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments."
     },
     {
       "source": "Anthropic Blog",
@@ -105,14 +121,6 @@
       "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shi"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
-      "link": "https://openai.com/index/pacific-northwest-national-laboratory",
-      "published": "Thu, 26 Feb 2026 10:00:00 GMT",
-      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting\u2014showing potential to reduce NEPA drafting t"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Responsible Scaling Policy Version 3.0",
@@ -151,14 +159,6 @@
       "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.16",
       "published": "2026-02-25T16:27:43Z",
       "summary": "Changes since langchain-core==1.2.15\n\nrelease(core): 1.2.16 (#35439)\nfix(core): treat empty tool chunk ids as missing in merge (#35414)"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Claude Opus 4.6",
-      "link": "https://www.anthropic.com/news/claude-opus-4-6",
-      "published": "2026-02-23T21:48:08.000Z",
-      "summary": "We\u2019re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin."
     },
     {
       "source": "MIT Technology Review AI",
@@ -257,8 +257,8 @@
       "summary": "<p>Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with c"
     }
   ],
-  "timestamp": "2026-02-27T19:49:24.516314",
-  "last_updated": "2026-02-27T19:49:24.516314",
+  "timestamp": "2026-02-28T04:36:27.093819",
+  "last_updated": "2026-02-28T04:36:27.093819",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
