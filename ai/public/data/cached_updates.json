@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Our agreement with the Department of War",
+      "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "published": "Sat, 28 Feb 2026 12:30:00 GMT",
+      "summary": "Details on OpenAI\u2019s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Statement on the comments from Secretary of War Pete Hegseth",
@@ -27,10 +35,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-      "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "title": "OpenAI and Amazon announce strategic partnership",
+      "link": "https://openai.com/index/amazon-partnership",
       "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
+      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI\u2019s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
     },
     {
       "source": "OpenAI Blog",
@@ -43,18 +51,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "OpenAI and Amazon announce strategic partnership",
-      "link": "https://openai.com/index/amazon-partnership",
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI\u2019s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "An update on our mental health-related work",
-      "link": "https://openai.com/index/update-on-mental-health-related-work",
-      "published": "Fri, 27 Feb 2026 00:00:00 GMT",
-      "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments."
+      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
     },
     {
       "source": "Anthropic Blog",
@@ -257,8 +257,8 @@
       "summary": "<p>Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with c"
     }
   ],
-  "timestamp": "2026-02-28T18:59:50.752807",
-  "last_updated": "2026-02-28T18:59:50.752807",
+  "timestamp": "2026-03-01T05:12:05.382455",
+  "last_updated": "2026-03-01T05:12:05.382455",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
