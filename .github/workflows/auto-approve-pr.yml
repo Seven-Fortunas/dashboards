@@ -1,0 +1,57 @@
+name: Auto-Approve PR (7f-ci-bot)
+
+# Automatically approves PRs opened by jorge-at-sf using the 7f-ci-bot account.
+# The review requirement is satisfied by the bot; CI status checks still gate
+# the actual merge — branch protection enforces both independently.
+#
+# ONE-TIME SETUP (required before this workflow functions):
+#
+# 1. Create a GitHub machine account (e.g. bot585) at github.com/signup
+#    Use a dedicated email (e.g. bot@sevenfortunas.dev or a Gmail alias).
+#    Enable 2FA on the account.
+#
+# 2. Invite the bot to the org — github.com/orgs/Seven-Fortunas-Internal/people
+#    Role: Member. Skip the Teams selector (not needed).
+#    Accept the invitation from the bot account.
+#
+# 3. Add the bot as a repo collaborator with Write access — THIS STEP IS REQUIRED
+#    for the approval to count toward branch protection requirements.
+#    Settings → Collaborators → Add people → bot username → Write role.
+#    Then, logged in as the bot, go to github.com/settings/invitations and
+#    click Accept on each repo invitation. NOTE: notifications showing
+#    "subscribed" does NOT mean accepted — you must explicitly click Accept
+#    on the invitation page. Verify with:
+#    gh api repos/ORG/REPO/collaborators/BOT/permission --jq '.permission'
+#    (should return "write", not "none" or "read")
+#
+# 4. Generate a classic PAT from the bot account — github.com/settings/tokens/new
+#    Note: "7f-infrastructure-project auto-approver"
+#    Expiration: 1 year. Scopes: repo only.
+#
+# 5. Store the PAT as a repo secret named APPROVER_PAT
+#    Settings → Secrets and variables → Actions → New repository secret.
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+    branches: [main, develop]
+
+concurrency:
+  group: auto-approve-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  auto-approve:
+    runs-on: ubuntu-latest
+    if: github.actor == 'jorge-at-sf'
+
+    steps:
+      - name: Approve PR via 7f-ci-bot
+        run: |
+          gh pr review "${{ github.event.pull_request.number }}" \
+            --repo "${{ github.repository }}" \
+            --approve \
+            --body "Auto-approved by 7f-ci-bot. CI status checks still required to merge."
+        env:
+          GH_TOKEN: ${{ secrets.APPROVER_PAT }}
+
