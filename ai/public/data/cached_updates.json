@@ -1,6 +1,86 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Create new worlds in Project Genie with these 4 tips",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+      "published": "Tue, 03 Mar 2026 17:00:00 +0000",
+      "summary": "A screen capture of Project Genie, an experimental interface showing a grid of circular images, many of which appear to be 360-degree views, with a large, central black globe labeled Create your own"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+      "published": "Tue, 03 Mar 2026 16:35:55 +0000",
+      "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+      "published": "Tue, 03 Mar 2026 16:34:00 +0000",
+      "summary": "Gemini 3.1 Flash Lite logo"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "GPT-5.3 Instant System Card",
+      "link": "https://openai.com/index/gpt-5-3-instant-system-card",
+      "published": "Tue, 03 Mar 2026 10:00:00 GMT",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+      "link": "https://openai.com/index/gpt-5-3-instant",
+      "published": "Tue, 03 Mar 2026 10:00:00 GMT",
+      "summary": ""
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.2.17",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.17",
+      "published": "2026-03-02T22:48:13Z",
+      "summary": "Changes since langchain-core==1.2.16\n\nrelease(core): 1.2.17 (#35527)\nfix(core): extract usage metadata from serialized tracer message outputs (#35526)\nchore: bump the langchain-deps group across 3 dir"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude Opus 4.6",
+      "link": "https://www.anthropic.com/news/claude-opus-4-6",
+      "published": "2026-03-02T21:09:02.000Z",
+      "summary": "We\u2019re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Enabling Claude Code to work more autonomously",
+      "link": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
+      "published": "2026-03-02T21:07:46.000Z",
+      "summary": "Introducing Claude Code upgrades: native VS Code extension, terminal UX updates, and checkpoints for autonomous development. Handle complex tasks with confidence."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "OpenAI\u2019s \u201ccompromise\u201d with the Pentagon is what Anthropic feared",
+      "link": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+      "published": "Mon, 02 Mar 2026 17:29:42 +0000",
+      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pur"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "I checked out one of the biggest anti-AI protests yet",
+      "link": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+      "published": "Mon, 02 Mar 2026 12:55:20 +0000",
+      "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London\u2019s King\u2019s Cross tech h"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Our agreement with the Department of War",
@@ -39,22 +119,6 @@
       "link": "https://openai.com/index/amazon-partnership",
       "published": "Fri, 27 Feb 2026 05:30:00 GMT",
       "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI\u2019s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Scaling AI for everyone",
-      "link": "https://openai.com/index/scaling-ai-for-everyone",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "summary": "Today we\u2019re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-      "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
     },
     {
       "source": "Anthropic Blog",
@@ -105,14 +169,6 @@
       "summary": "Build with Nano Banana 2"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-      "published": "Thu, 26 Feb 2026 16:00:00 +0000",
-      "summary": "Nano Banana 2 text with AI generated images around it"
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Finding value with AI and Industry 5.0 transformation",
@@ -127,38 +183,6 @@
       "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
       "published": "2026-02-25T23:57:06.000Z",
       "summary": "An update to Anthropic&#x27;s policy to mitigate catastrophic risks from AI"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Sonnet 4.6",
-      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "published": "2026-02-25T20:07:40.000Z",
-      "summary": "Claude Sonnet 4.6 is a full upgrade of the model\u2019s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design."
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "See the whole picture and find the look with Circle to Search",
-      "link": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
-      "published": "Wed, 25 Feb 2026 18:00:00 +0000",
-      "summary": "Google Search interface featuring AI-powered tools including an \"AI Overview\" that breaks down an outfit's components and a virtual \"Try it on\" button that visualizes apparel on diverse body types."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic acquires Vercept to advance Claude&#x27;s computer use capabilities",
-      "link": "https://www.anthropic.com/news/acquires-vercept",
-      "published": "2026-02-25T16:58:30.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.2.16",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.16",
-      "published": "2026-02-25T16:27:43Z",
-      "summary": "Changes since langchain-core==1.2.15\n\nrelease(core): 1.2.16 (#35439)\nfix(core): treat empty tool chunk ids as missing in merge (#35414)"
     },
     {
       "source": "MIT Technology Review AI",
@@ -185,14 +209,6 @@
       "summary": "<p>As synthetic media grows, verifying what\u2019s real, and the origin of content, matters more than ever. Our latest report explores media integrity and authentication methods, their limits, and practica"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Microsoft has a new plan to prove what\u2019s real and what\u2019s AI online",
-      "link": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
-      "published": "Thu, 19 Feb 2026 16:00:00 +0000",
-      "summary": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minneso"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Project Silica\u2019s advances in glass storage technology",
@@ -207,14 +223,6 @@
       "link": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
       "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
-      "link": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
-      "published": "Wed, 18 Feb 2026 16:00:22 +0000",
-      "summary": "Google DeepMind is calling for the moral behavior of large language models\u2014such as what they do when called on to act as companions, therapists, medical advisors, and so on\u2014to be scrutinized with the "
     },
     {
       "source": "DeepMind Blog",
@@ -233,14 +241,6 @@
       "summary": "## New Model additions\r\n\r\n### VoxtralRealtime\r\n\r\n<img width=\"1920\" height=\"1080\" alt=\"image\" src=\"https://github.com/user-attachments/assets/80e37670-6d70-402b-8c8e-ccfb8c32df2d\" />\r\n\r\nVoxtralRealtime"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
-      "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
-      "published": "Thu, 12 Feb 2026 16:15:09 +0000",
-      "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Rethinking\u00a0imitation\u00a0learning\u00a0with Predictive Inverse Dynamics Models",
@@ -257,8 +257,8 @@
       "summary": "<p>Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with c"
     }
   ],
-  "timestamp": "2026-03-01T19:01:37.018282",
-  "last_updated": "2026-03-01T19:01:37.018282",
+  "timestamp": "2026-03-03T19:59:25.001706",
+  "last_updated": "2026-03-03T19:59:25.001706",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
