@@ -1,6 +1,62 @@
 {
   "updates": [
     {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
+      "link": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+      "published": "Wed, 04 Mar 2026 18:05:57 +0000",
+      "summary": "<p>We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open\u2011weight multimodal reasoning model, available through Microsoft Foundry (opens in new tab), HuggingFace (opens in n"
+    },
+    {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.3.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.3.0",
+      "published": "2026-03-04T17:42:16Z",
+      "summary": "## New Model additions\r\n\r\n### EuroBERT\r\n\r\n<img width=\"1080\" height=\"1080\" alt=\"image\" src=\"https://github.com/user-attachments/assets/33603f42-5435-421a-9641-baf72faacb22\" />\r\n\r\nEuroBERT is a multilin"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+      "published": "Wed, 04 Mar 2026 17:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp\" />Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now he"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Bridging the operational AI gap",
+      "link": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+      "published": "Wed, 04 Mar 2026 14:00:00 +0000",
+      "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are "
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Extending single-minus amplitudes to gravitons",
+      "link": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+      "published": "Wed, 04 Mar 2026 10:00:00 GMT",
+      "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Understanding AI and learning outcomes",
+      "link": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "published": "Wed, 04 Mar 2026 00:00:00 GMT",
+      "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI\u2019s impact on student learning across diverse educational environments over time."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Axios uses AI to help deliver high-impact local journalism",
+      "link": "https://openai.com/index/axios-allison-murphy",
+      "published": "Wed, 04 Mar 2026 00:00:00 GMT",
+      "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Create new worlds in Project Genie with these 4 tips",
@@ -81,14 +137,6 @@
       "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London\u2019s King\u2019s Cross tech h"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Our agreement with the Department of War",
-      "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
-      "published": "Sat, 28 Feb 2026 12:30:00 GMT",
-      "summary": "Details on OpenAI\u2019s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Statement on the comments from Secretary of War Pete Hegseth",
@@ -103,22 +151,6 @@
       "link": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
       "published": "Fri, 27 Feb 2026 10:00:00 +0000",
       "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped \u201cKorea Baduk Association,\u201d the governing body for professional Go. Th"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Joint Statement from OpenAI and Microsoft",
-      "link": "https://openai.com/index/continuing-microsoft-partnership",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI and Amazon announce strategic partnership",
-      "link": "https://openai.com/index/amazon-partnership",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI\u2019s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
     },
     {
       "source": "Anthropic Blog",
@@ -161,14 +193,6 @@
       "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Build with Nano Banana 2, our best image generation and editing model",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
-      "published": "Thu, 26 Feb 2026 16:00:00 +0000",
-      "summary": "Build with Nano Banana 2"
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Finding value with AI and Industry 5.0 transformation",
@@ -183,14 +207,6 @@
       "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
       "published": "2026-02-25T23:57:06.000Z",
       "summary": "An update to Anthropic&#x27;s policy to mitigate catastrophic risks from AI"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The human work behind humanoid robots is being hidden",
-      "link": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
-      "published": "Mon, 23 Feb 2026 17:05:00 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. In January, Nvidia\u2019s Jensen Huang, the head of the world\u2019s mos"
     },
     {
       "source": "DeepMind Blog",
@@ -233,32 +249,16 @@
       "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
     },
     {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.2.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.2.0",
-      "published": "2026-02-16T18:55:53Z",
-      "summary": "## New Model additions\r\n\r\n### VoxtralRealtime\r\n\r\n<img width=\"1920\" height=\"1080\" alt=\"image\" src=\"https://github.com/user-attachments/assets/80e37670-6d70-402b-8c8e-ccfb8c32df2d\" />\r\n\r\nVoxtralRealtime"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Rethinking\u00a0imitation\u00a0learning\u00a0with Predictive Inverse Dynamics Models",
       "link": "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
       "published": "Thu, 05 Feb 2026 17:00:00 +0000",
       "summary": "<p>This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambigu"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
-      "link": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
-      "published": "Thu, 05 Feb 2026 05:07:55 +0000",
-      "summary": "<p>Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with c"
     }
   ],
-  "timestamp": "2026-03-04T14:10:46.714811",
-  "last_updated": "2026-03-04T14:10:46.714811",
+  "timestamp": "2026-03-04T19:52:24.422463",
+  "last_updated": "2026-03-04T19:52:24.422463",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
