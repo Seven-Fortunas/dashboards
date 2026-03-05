@@ -1,24 +1,26 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-05 14:34:40 UTC
+**Last Updated:** 2026-03-05 20:04:50 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Google AI Blog | [Ask a Techspert: How does AI understand my visual searches?](https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/) | Thu, 05 Ma |
+| Google AI Blog | [The latest AI news we announced in February](https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/) | Thu, 05 Ma |
+| OpenAI Blog | [Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4) | Thu, 05 Ma |
+| OpenAI Blog | [Reasoning models struggle to control their chains of thought, and that’s good](https://openai.com/index/reasoning-models-chain-of-thought-controllability) | Thu, 05 Ma |
+| OpenAI Blog | [GPT-5.4 Thinking System Card](https://openai.com/index/gpt-5-4-thinking-system-card) | Thu, 05 Ma |
 | MIT Technology Review AI | [Online harassment is entering its AI era](https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/) | Thu, 05 Ma |
+| OpenAI Blog | [Ensuring AI use in education leads to opportunity](https://openai.com/index/ai-education-opportunity) | Thu, 05 Ma |
 | Microsoft Research AI | [Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/) | Wed, 04 Ma |
 | HuggingFace Transformers | [Release v5.3.0](https://github.com/huggingface/transformers/releases/tag/v5.3.0) | 2026-03-04 |
 | Google AI Blog | [Use Canvas in AI Mode to get things done and bring your ideas to life, right in ](https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/) | Wed, 04 Ma |
 | MIT Technology Review AI | [Bridging the operational AI gap](https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/) | Wed, 04 Ma |
 | OpenAI Blog | [Extending single-minus amplitudes to gravitons](https://openai.com/index/extending-single-minus-amplitudes-to-gravitons) | Wed, 04 Ma |
-| OpenAI Blog | [Understanding AI and learning outcomes](https://openai.com/index/understanding-ai-and-learning-outcomes) | Wed, 04 Ma |
-| OpenAI Blog | [How Axios uses AI to help deliver high-impact local journalism](https://openai.com/index/axios-allison-murphy) | Wed, 04 Ma |
 | Google AI Blog | [Create new worlds in Project Genie with these 4 tips](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/) | Tue, 03 Ma |
 | DeepMind Blog | [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/) | Tue, 03 Ma |
 | Google AI Blog | [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/) | Tue, 03 Ma |
-| OpenAI Blog | [GPT-5.3 Instant System Card](https://openai.com/index/gpt-5-3-instant-system-card) | Tue, 03 Ma |
-| OpenAI Blog | [GPT-5.3 Instant: Smoother, more useful everyday conversations](https://openai.com/index/gpt-5-3-instant) | Tue, 03 Ma |
 | LangChain Releases | [Release langchain-core==1.2.17](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.17) | 2026-03-02 |
 | Anthropic Blog | [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6) | 2026-03-02 |
 | Anthropic Blog | [Enabling Claude Code to work more autonomously](https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously) | 2026-03-02 |
@@ -27,8 +29,6 @@
 | Anthropic Blog | [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war) | 2026-02-28 |
 | MIT Technology Review AI | [AI is rewiring how the world’s best Go players think](https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/) | Fri, 27 Fe |
 | Anthropic Blog | [Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war) | 2026-02-26 |
-| Google AI Blog | [Google and the Massachusetts AI Hub are launching a new AI training initiative f](https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/) | Thu, 26 Fe |
-| Google AI Blog | [Get more context and understand translations more deeply with new AI-powered upd](https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/) | Thu, 26 Fe |
 | Microsoft Research AI | [CORPGEN advances AI agents for real work](https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/) | Thu, 26 Fe |
 | DeepMind Blog | [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/) | Thu, 26 Fe |
 | Anthropic Blog | [Responsible Scaling Policy Version 3.0](https://www.anthropic.com/news/responsible-scaling-policy-v3) | 2026-02-25 |
