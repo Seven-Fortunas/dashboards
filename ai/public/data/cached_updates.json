@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Online harassment is entering its AI era",
+      "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+      "published": "Thu, 05 Mar 2026 10:00:00 +0000",
+      "summary": "Scott Shambaugh didn\u2019t think twice when he denied an AI agent\u2019s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwh"
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
@@ -193,14 +201,6 @@
       "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Finding value with AI and Industry 5.0 transformation",
-      "link": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
-      "published": "Thu, 26 Feb 2026 15:00:59 +0000",
-      "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shi"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Responsible Scaling Policy Version 3.0",
@@ -257,8 +257,8 @@
       "summary": "<p>This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambigu"
     }
   ],
-  "timestamp": "2026-03-05T07:57:11.774157",
-  "last_updated": "2026-03-05T07:57:11.774157",
+  "timestamp": "2026-03-05T14:34:40.239849",
+  "last_updated": "2026-03-05T14:34:40.239849",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

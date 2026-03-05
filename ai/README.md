@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-05 07:57:11 UTC
+**Last Updated:** 2026-03-05 14:34:40 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Online harassment is entering its AI era](https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/) | Thu, 05 Ma |
 | Microsoft Research AI | [Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/) | Wed, 04 Ma |
 | HuggingFace Transformers | [Release v5.3.0](https://github.com/huggingface/transformers/releases/tag/v5.3.0) | 2026-03-04 |
 | Google AI Blog | [Use Canvas in AI Mode to get things done and bring your ideas to life, right in ](https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/) | Wed, 04 Ma |
@@ -30,7 +31,6 @@
 | Google AI Blog | [Get more context and understand translations more deeply with new AI-powered upd](https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/) | Thu, 26 Fe |
 | Microsoft Research AI | [CORPGEN advances AI agents for real work](https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/) | Thu, 26 Fe |
 | DeepMind Blog | [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/) | Thu, 26 Fe |
-| MIT Technology Review AI | [Finding value with AI and Industry 5.0 transformation](https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/) | Thu, 26 Fe |
 | Anthropic Blog | [Responsible Scaling Policy Version 3.0](https://www.anthropic.com/news/responsible-scaling-policy-v3) | 2026-02-25 |
 | DeepMind Blog | [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/) | Thu, 19 Fe |
 | Microsoft Research AI | [Media Authenticity Methods in Practice: Capabilities, Limitations, and Direction](https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/) | Thu, 19 Fe |
