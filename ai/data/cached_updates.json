@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Where things stand with the Department of War",
+      "link": "https://www.anthropic.com/news/where-stand-department-war",
+      "published": "2026-03-06T00:51:17.000Z",
+      "summary": "A statement from Dario Amodei"
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Ask a Techspert: How does AI understand my visual searches?",
@@ -57,6 +65,14 @@
       "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity."
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing ChatGPT for Excel and new financial data integrations",
+      "link": "https://openai.com/index/chatgpt-for-excel",
+      "published": "Thu, 05 Mar 2026 00:00:00 GMT",
+      "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments."
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
@@ -87,14 +103,6 @@
       "link": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
       "published": "Wed, 04 Mar 2026 14:00:00 +0000",
       "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are "
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Extending single-minus amplitudes to gravitons",
-      "link": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
-      "published": "Wed, 04 Mar 2026 10:00:00 GMT",
-      "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity."
     },
     {
       "source": "Google AI Blog",
@@ -201,14 +209,6 @@
       "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Responsible Scaling Policy Version 3.0",
-      "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
-      "published": "2026-02-25T23:57:06.000Z",
-      "summary": "An update to Anthropic&#x27;s policy to mitigate catastrophic risks from AI"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
@@ -257,8 +257,8 @@
       "summary": "<p>This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambigu"
     }
   ],
-  "timestamp": "2026-03-05T20:04:50.145517",
-  "last_updated": "2026-03-05T20:04:50.145517",
+  "timestamp": "2026-03-06T05:01:45.517645",
+  "last_updated": "2026-03-06T05:01:45.517645",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
