@@ -27,6 +27,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "GPT-5.4 Thinking System Card",
+      "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Introducing GPT-5.4",
       "link": "https://openai.com/index/introducing-gpt-5-4",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
@@ -39,14 +47,6 @@
       "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
       "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "GPT-5.4 Thinking System Card",
-      "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
-      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": ""
     },
     {
       "source": "MIT Technology Review AI",
@@ -67,10 +67,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Introducing ChatGPT for Excel and new financial data integrations",
-      "link": "https://openai.com/index/chatgpt-for-excel",
+      "title": "The five AI value models driving business reinvention",
+      "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
       "published": "Thu, 05 Mar 2026 00:00:00 GMT",
-      "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments."
+      "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage."
     },
     {
       "source": "Microsoft Research AI",
@@ -257,8 +257,8 @@
       "summary": "<p>This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambigu"
     }
   ],
-  "timestamp": "2026-03-06T05:01:45.517645",
-  "last_updated": "2026-03-06T05:01:45.517645",
+  "timestamp": "2026-03-06T07:54:22.075293",
+  "last_updated": "2026-03-06T07:54:22.075293",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
