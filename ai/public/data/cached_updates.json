@@ -3,6 +3,14 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
+      "title": "Partnering with Mozilla to improve Firefox\u2019s security",
+      "link": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "published": "2026-03-06T11:54:43.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
       "title": "Where things stand with the Department of War",
       "link": "https://www.anthropic.com/news/where-stand-department-war",
       "published": "2026-03-06T00:51:17.000Z",
@@ -185,14 +193,6 @@
       "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped \u201cKorea Baduk Association,\u201d the governing body for professional Go. Th"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Statement from Dario Amodei on our discussions with the Department of War",
-      "link": "https://www.anthropic.com/news/statement-department-of-war",
-      "published": "2026-02-26T22:46:57.000Z",
-      "summary": "A statement from our CEO on national security uses of AI"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "CORPGEN advances AI agents for real work",
@@ -257,8 +257,8 @@
       "summary": "<p>This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambigu"
     }
   ],
-  "timestamp": "2026-03-06T07:54:22.075293",
-  "last_updated": "2026-03-06T07:54:22.075293",
+  "timestamp": "2026-03-06T14:06:59.230760",
+  "last_updated": "2026-03-06T14:06:59.230760",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
