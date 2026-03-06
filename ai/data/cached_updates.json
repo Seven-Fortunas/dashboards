@@ -1,12 +1,60 @@
 {
   "updates": [
     {
+      "source": "TensorFlow Releases",
+      "type": "github",
+      "title": "Release v2.21.0",
+      "link": "https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0",
+      "published": "2026-03-06T19:48:15Z",
+      "summary": "# Release 2.21.0\r\n\r\n## TensorFlow\r\n\r\n### Breaking Changes\r\n\r\n* Support for Python 3.9 has been removed starting with TF 2.21.\r\n* The TensorBoard (TB) dependency has been removed starting with TF 2.21."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Is the Pentagon allowed to surveil Americans with AI?",
+      "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+      "published": "Fri, 06 Mar 2026 19:21:22 +0000",
+      "summary": "The ongoing public feud between the Department of Defense and AI company Anthropic over its technology has raised a deep open question: does the law actually allow the US government to conduct mass su"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+      "published": "Fri, 06 Mar 2026 18:00:00 +0000",
+      "summary": "Photos of animals being identified by the SpeciesNet AI model"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Partnering with Mozilla to improve Firefox\u2019s security",
       "link": "https://www.anthropic.com/news/mozilla-firefox-security",
       "published": "2026-03-06T11:54:43.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Codex Security: now in research preview",
+      "link": "https://openai.com/index/codex-security-now-in-research-preview",
+      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "link": "https://openai.com/index/descript",
+      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Balyasny Asset Management built an AI research engine for investing",
+      "link": "https://openai.com/index/balyasny-asset-management",
+      "published": "Fri, 06 Mar 2026 07:00:00 GMT",
+      "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale."
     },
     {
       "source": "Anthropic Blog",
@@ -35,14 +83,6 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "GPT-5.4 Thinking System Card",
-      "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
-      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": ""
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Introducing GPT-5.4",
       "link": "https://openai.com/index/introducing-gpt-5-4",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
@@ -63,22 +103,6 @@
       "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
       "published": "Thu, 05 Mar 2026 10:00:00 +0000",
       "summary": "Scott Shambaugh didn\u2019t think twice when he denied an AI agent\u2019s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwh"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Ensuring AI use in education leads to opportunity",
-      "link": "https://openai.com/index/ai-education-opportunity",
-      "published": "Thu, 05 Mar 2026 09:00:00 GMT",
-      "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "The five AI value models driving business reinvention",
-      "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-      "published": "Thu, 05 Mar 2026 00:00:00 GMT",
-      "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage."
     },
     {
       "source": "Microsoft Research AI",
@@ -129,14 +153,6 @@
       "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet."
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
-      "published": "Tue, 03 Mar 2026 16:34:00 +0000",
-      "summary": "Gemini 3.1 Flash Lite logo"
-    },
-    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.2.17",
@@ -183,14 +199,6 @@
       "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
       "published": "2026-02-28T01:31:43.000Z",
       "summary": "Anthropic&#x27;s response to the Secretary of War and advice for customers"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "AI is rewiring how the world\u2019s best Go players think",
-      "link": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
-      "published": "Fri, 27 Feb 2026 10:00:00 +0000",
-      "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped \u201cKorea Baduk Association,\u201d the governing body for professional Go. Th"
     },
     {
       "source": "Microsoft Research AI",
@@ -257,8 +265,8 @@
       "summary": "<p>This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambigu"
     }
   ],
-  "timestamp": "2026-03-06T14:06:59.230760",
-  "last_updated": "2026-03-06T14:06:59.230760",
+  "timestamp": "2026-03-06T19:49:55.730088",
+  "last_updated": "2026-03-06T19:49:55.730088",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
