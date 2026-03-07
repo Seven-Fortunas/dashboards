@@ -83,18 +83,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
-      "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "GPT-5.4 Thinking System Card",
       "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
       "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing GPT-5.4",
+      "link": "https://openai.com/index/introducing-gpt-5-4",
+      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "summary": "Introducing GPT-5.4, OpenAI\u2019s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context."
     },
     {
       "source": "MIT Technology Review AI",
@@ -265,8 +265,8 @@
       "summary": "<p>This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambigu"
     }
   ],
-  "timestamp": "2026-03-07T07:41:51.339046",
-  "last_updated": "2026-03-07T07:41:51.339046",
+  "timestamp": "2026-03-07T13:51:28.157361",
+  "last_updated": "2026-03-07T13:51:28.157361",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
