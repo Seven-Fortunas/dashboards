@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-07 13:51:28 UTC
+**Last Updated:** 2026-03-07 19:00:45 UTC
 
 ## Latest Updates
 
@@ -38,4 +38,3 @@
 | Microsoft Research AI | [Project Silica’s advances in glass storage technology](https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/) | Wed, 18 Fe |
 | DeepMind Blog | [A new way to express yourself: Gemini can now create music](https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/) | Wed, 18 Fe |
 | DeepMind Blog | [Accelerating discovery in India through AI-powered science and education](https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/) | Tue, 17 Fe |
-| Microsoft Research AI | [Rethinking imitation learning with Predictive Inverse Dynamics Models](https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/) | Thu, 05 Fe |
