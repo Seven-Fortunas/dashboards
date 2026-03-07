@@ -265,8 +265,8 @@
       "summary": "<p>This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambigu"
     }
   ],
-  "timestamp": "2026-03-07T04:48:25.509867",
-  "last_updated": "2026-03-07T04:48:25.509867",
+  "timestamp": "2026-03-07T07:41:51.339046",
+  "last_updated": "2026-03-07T07:41:51.339046",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
