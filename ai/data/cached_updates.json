@@ -255,18 +255,10 @@
       "link": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
       "published": "Tue, 17 Feb 2026 13:42:20 +0000",
       "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Rethinking\u00a0imitation\u00a0learning\u00a0with Predictive Inverse Dynamics Models",
-      "link": "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
-      "published": "Thu, 05 Feb 2026 17:00:00 +0000",
-      "summary": "<p>This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambigu"
     }
   ],
-  "timestamp": "2026-03-07T13:51:28.157361",
-  "last_updated": "2026-03-07T13:51:28.157361",
+  "timestamp": "2026-03-07T19:00:45.471511",
+  "last_updated": "2026-03-07T19:00:45.471511",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
