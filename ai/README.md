@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-07 19:00:45 UTC
+**Last Updated:** 2026-03-08 05:02:35 UTC
 
 ## Latest Updates
 
@@ -10,13 +10,13 @@
 | MIT Technology Review AI | [Is the Pentagon allowed to surveil Americans with AI?](https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/) | Fri, 06 Ma |
 | Google AI Blog | [How our open-source AI model SpeciesNet is helping to promote wildlife conservat](https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/) | Fri, 06 Ma |
 | Anthropic Blog | [Partnering with Mozilla to improve Firefox’s security](https://www.anthropic.com/news/mozilla-firefox-security) | 2026-03-06 |
-| OpenAI Blog | [Codex Security: now in research preview](https://openai.com/index/codex-security-now-in-research-preview) | Fri, 06 Ma |
 | OpenAI Blog | [How Descript enables multilingual video dubbing at scale](https://openai.com/index/descript) | Fri, 06 Ma |
+| OpenAI Blog | [Codex Security: now in research preview](https://openai.com/index/codex-security-now-in-research-preview) | Fri, 06 Ma |
 | OpenAI Blog | [How Balyasny Asset Management built an AI research engine for investing](https://openai.com/index/balyasny-asset-management) | Fri, 06 Ma |
 | Anthropic Blog | [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war) | 2026-03-06 |
 | Google AI Blog | [Ask a Techspert: How does AI understand my visual searches?](https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/) | Thu, 05 Ma |
 | Google AI Blog | [The latest AI news we announced in February](https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/) | Thu, 05 Ma |
-| OpenAI Blog | [GPT-5.4 Thinking System Card](https://openai.com/index/gpt-5-4-thinking-system-card) | Thu, 05 Ma |
+| OpenAI Blog | [Reasoning models struggle to control their chains of thought, and that’s good](https://openai.com/index/reasoning-models-chain-of-thought-controllability) | Thu, 05 Ma |
 | OpenAI Blog | [Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4) | Thu, 05 Ma |
 | MIT Technology Review AI | [Online harassment is entering its AI era](https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/) | Thu, 05 Ma |
 | Microsoft Research AI | [Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/) | Wed, 04 Ma |
