@@ -1,12 +1,28 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "How AI is turning the Iran conflict into theater",
+      "link": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
+      "published": "Mon, 09 Mar 2026 15:11:01 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. \u201cAnyone wanna host a get together in SF and pull this up on a "
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Partnering with Mozilla to improve Firefox\u2019s security",
       "link": "https://www.anthropic.com/news/mozilla-firefox-security",
       "published": "2026-03-09T13:41:16.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI to acquire Promptfoo",
+      "link": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "published": "Mon, 09 Mar 2026 10:00:00 GMT",
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development."
     },
     {
       "source": "TensorFlow Releases",
@@ -79,14 +95,6 @@
       "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
       "published": "Thu, 05 Mar 2026 16:30:00 +0000",
       "summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\""
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing GPT-5.4",
-      "link": "https://openai.com/index/introducing-gpt-5-4",
-      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "Introducing GPT-5.4, OpenAI\u2019s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context."
     },
     {
       "source": "OpenAI Blog",
@@ -185,14 +193,6 @@
       "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pur"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "I checked out one of the biggest anti-AI protests yet",
-      "link": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
-      "published": "Mon, 02 Mar 2026 12:55:20 +0000",
-      "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London\u2019s King\u2019s Cross tech h"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Statement on the comments from Secretary of War Pete Hegseth",
@@ -257,8 +257,8 @@
       "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
     }
   ],
-  "timestamp": "2026-03-09T15:14:21.769029",
-  "last_updated": "2026-03-09T15:14:21.769029",
+  "timestamp": "2026-03-09T18:59:54.659017",
+  "last_updated": "2026-03-09T18:59:54.659017",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
