@@ -1,12 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-09 15:14:21 UTC
+**Last Updated:** 2026-03-09 18:59:54 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [How AI is turning the Iran conflict into theater](https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/) | Mon, 09 Ma |
 | Anthropic Blog | [Partnering with Mozilla to improve Firefox’s security](https://www.anthropic.com/news/mozilla-firefox-security) | 2026-03-09 |
+| OpenAI Blog | [OpenAI to acquire Promptfoo](https://openai.com/index/openai-to-acquire-promptfoo) | Mon, 09 Ma |
 | TensorFlow Releases | [Release v2.21.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0) | 2026-03-06 |
 | MIT Technology Review AI | [Is the Pentagon allowed to surveil Americans with AI?](https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/) | Fri, 06 Ma |
 | Google AI Blog | [How our open-source AI model SpeciesNet is helping to promote wildlife conservat](https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/) | Fri, 06 Ma |
@@ -16,7 +18,6 @@
 | Anthropic Blog | [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war) | 2026-03-06 |
 | Google AI Blog | [Ask a Techspert: How does AI understand my visual searches?](https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/) | Thu, 05 Ma |
 | Google AI Blog | [The latest AI news we announced in February](https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/) | Thu, 05 Ma |
-| OpenAI Blog | [Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4) | Thu, 05 Ma |
 | OpenAI Blog | [GPT-5.4 Thinking System Card](https://openai.com/index/gpt-5-4-thinking-system-card) | Thu, 05 Ma |
 | MIT Technology Review AI | [Online harassment is entering its AI era](https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/) | Thu, 05 Ma |
 | Microsoft Research AI | [Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/) | Wed, 04 Ma |
@@ -29,7 +30,6 @@
 | Anthropic Blog | [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6) | 2026-03-02 |
 | Anthropic Blog | [Enabling Claude Code to work more autonomously](https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously) | 2026-03-02 |
 | MIT Technology Review AI | [OpenAI’s “compromise” with the Pentagon is what Anthropic feared](https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/) | Mon, 02 Ma |
-| MIT Technology Review AI | [I checked out one of the biggest anti-AI protests yet](https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/) | Mon, 02 Ma |
 | Anthropic Blog | [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war) | 2026-02-28 |
 | Microsoft Research AI | [CORPGEN advances AI agents for real work](https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/) | Thu, 26 Fe |
 | DeepMind Blog | [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/) | Thu, 26 Fe |
