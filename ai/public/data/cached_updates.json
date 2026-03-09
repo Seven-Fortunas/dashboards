@@ -83,10 +83,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Introducing GPT-5.4",
-      "link": "https://openai.com/index/introducing-gpt-5-4",
+      "title": "GPT-5.4 Thinking System Card",
+      "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "Introducing GPT-5.4, OpenAI\u2019s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context."
+      "summary": ""
     },
     {
       "source": "OpenAI Blog",
@@ -257,8 +257,8 @@
       "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
     }
   ],
-  "timestamp": "2026-03-08T19:02:55.703145",
-  "last_updated": "2026-03-08T19:02:55.703145",
+  "timestamp": "2026-03-09T05:13:25.960896",
+  "last_updated": "2026-03-09T05:13:25.960896",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
