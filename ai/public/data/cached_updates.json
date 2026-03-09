@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Partnering with Mozilla to improve Firefox\u2019s security",
+      "link": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "published": "2026-03-09T13:41:16.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
       "source": "TensorFlow Releases",
       "type": "github",
       "title": "Release v2.21.0",
@@ -23,14 +31,6 @@
       "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
       "published": "Fri, 06 Mar 2026 18:00:00 +0000",
       "summary": "Photos of animals being identified by the SpeciesNet AI model"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Partnering with Mozilla to improve Firefox\u2019s security",
-      "link": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "published": "2026-03-06T11:54:43.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "OpenAI Blog",
@@ -83,18 +83,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "GPT-5.4 Thinking System Card",
-      "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "title": "Introducing GPT-5.4",
+      "link": "https://openai.com/index/introducing-gpt-5-4",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": ""
+      "summary": "Introducing GPT-5.4, OpenAI\u2019s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context."
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
-      "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "title": "GPT-5.4 Thinking System Card",
+      "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard."
+      "summary": ""
     },
     {
       "source": "MIT Technology Review AI",
@@ -257,8 +257,8 @@
       "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
     }
   ],
-  "timestamp": "2026-03-09T08:01:56.559277",
-  "last_updated": "2026-03-09T08:01:56.559277",
+  "timestamp": "2026-03-09T15:14:21.769029",
+  "last_updated": "2026-03-09T15:14:21.769029",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
