@@ -1,12 +1,44 @@
 {
   "updates": [
     {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "From raw interaction to reusable knowledge: Rethinking memory for AI agents",
+      "link": "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
+      "published": "Tue, 10 Mar 2026 16:00:41 +0000",
+      "summary": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficul"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "How Pok\u00e9mon Go is giving delivery robots an inch-perfect view of the world",
+      "link": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
+      "published": "Tue, 10 Mar 2026 13:47:26 +0000",
+      "summary": "Pok\u00e9mon Go was the world\u2019s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pok\u00e9mon franchise fast became a global phenomenon. From Chica"
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
       "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
       "published": "Tue, 10 Mar 2026 13:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\" />Today we announced new beta features for Gemini in Sheets to h"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "link": "https://openai.com/index/instruction-hierarchy-challenge",
+      "published": "Tue, 10 Mar 2026 11:00:00 GMT",
+      "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "New ways to learn math and science in ChatGPT",
+      "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+      "published": "Tue, 10 Mar 2026 10:00:00 GMT",
+      "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time."
     },
     {
       "source": "LangChain Releases",
@@ -23,6 +55,14 @@
       "link": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
       "published": "Mon, 09 Mar 2026 15:11:01 +0000",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. \u201cAnyone wanna host a get together in SF and pull this up on a "
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
+      "link": "https://deepmind.google/blog/10-years-of-alphago/",
+      "published": "Mon, 09 Mar 2026 13:52:36 +0000",
+      "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI."
     },
     {
       "source": "Anthropic Blog",
@@ -81,14 +121,6 @@
       "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How Balyasny Asset Management built an AI research engine for investing",
-      "link": "https://openai.com/index/balyasny-asset-management",
-      "published": "Fri, 06 Mar 2026 07:00:00 GMT",
-      "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Where things stand with the Department of War",
@@ -111,14 +143,6 @@
       "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
       "published": "Thu, 05 Mar 2026 16:30:00 +0000",
       "summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\""
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
-      "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard."
     },
     {
       "source": "MIT Technology Review AI",
@@ -185,14 +209,6 @@
       "summary": "Introducing Claude Code upgrades: native VS Code extension, terminal UX updates, and checkpoints for autonomous development. Handle complex tasks with confidence."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "OpenAI\u2019s \u201ccompromise\u201d with the Pentagon is what Anthropic feared",
-      "link": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
-      "published": "Mon, 02 Mar 2026 17:29:42 +0000",
-      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pur"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Statement on the comments from Secretary of War Pete Hegseth",
@@ -247,18 +263,10 @@
       "link": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
       "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Accelerating discovery in India through AI-powered science and education",
-      "link": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
-      "published": "Tue, 17 Feb 2026 13:42:20 +0000",
-      "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
     }
   ],
-  "timestamp": "2026-03-10T13:12:59.369356",
-  "last_updated": "2026-03-10T13:12:59.369356",
+  "timestamp": "2026-03-10T18:57:25.924230",
+  "last_updated": "2026-03-10T18:57:25.924230",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
