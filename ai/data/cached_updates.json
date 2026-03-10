@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+      "published": "Tue, 10 Mar 2026 13:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\" />Today we announced new beta features for Gemini in Sheets to h"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.2.18",
@@ -107,10 +115,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "GPT-5.4 Thinking System Card",
-      "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
+      "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": ""
+      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard."
     },
     {
       "source": "MIT Technology Review AI",
@@ -151,14 +159,6 @@
       "link": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
       "published": "Wed, 04 Mar 2026 14:00:00 +0000",
       "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are "
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Create new worlds in Project Genie with these 4 tips",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
-      "published": "Tue, 03 Mar 2026 17:00:00 +0000",
-      "summary": "A screen capture of Project Genie, an experimental interface showing a grid of circular images, many of which appear to be 360-degree views, with a large, central black globe labeled Create your own"
     },
     {
       "source": "DeepMind Blog",
@@ -257,8 +257,8 @@
       "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
     }
   ],
-  "timestamp": "2026-03-10T06:58:07.105654",
-  "last_updated": "2026-03-10T06:58:07.105654",
+  "timestamp": "2026-03-10T13:12:59.369356",
+  "last_updated": "2026-03-10T13:12:59.369356",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
