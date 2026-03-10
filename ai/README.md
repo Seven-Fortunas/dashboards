@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-09 18:59:54 UTC
+**Last Updated:** 2026-03-10 02:28:50 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.2.18](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.18) | 2026-03-09 |
 | MIT Technology Review AI | [How AI is turning the Iran conflict into theater](https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/) | Mon, 09 Ma |
 | Anthropic Blog | [Partnering with Mozilla to improve Firefox’s security](https://www.anthropic.com/news/mozilla-firefox-security) | 2026-03-09 |
 | OpenAI Blog | [OpenAI to acquire Promptfoo](https://openai.com/index/openai-to-acquire-promptfoo) | Mon, 09 Ma |
@@ -26,7 +27,6 @@
 | MIT Technology Review AI | [Bridging the operational AI gap](https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/) | Wed, 04 Ma |
 | Google AI Blog | [Create new worlds in Project Genie with these 4 tips](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/) | Tue, 03 Ma |
 | DeepMind Blog | [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/) | Tue, 03 Ma |
-| LangChain Releases | [Release langchain-core==1.2.17](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.17) | 2026-03-02 |
 | Anthropic Blog | [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6) | 2026-03-02 |
 | Anthropic Blog | [Enabling Claude Code to work more autonomously](https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously) | 2026-03-02 |
 | MIT Technology Review AI | [OpenAI’s “compromise” with the Pentagon is what Anthropic feared](https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/) | Mon, 02 Ma |

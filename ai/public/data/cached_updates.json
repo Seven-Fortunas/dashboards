@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.2.18",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.18",
+      "published": "2026-03-09T20:40:19Z",
+      "summary": "Changes since langchain-core==1.2.17\n\nrelease(core): 1.2.18 (#35704)\nfix(core): fix double backticks in deprecation docstring for alternative_import (#35658)\nfix(core): preserve default_factory when g"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "How AI is turning the Iran conflict into theater",
@@ -161,14 +169,6 @@
       "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet."
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.2.17",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.17",
-      "published": "2026-03-02T22:48:13Z",
-      "summary": "Changes since langchain-core==1.2.16\n\nrelease(core): 1.2.17 (#35527)\nfix(core): extract usage metadata from serialized tracer message outputs (#35526)\nchore: bump the langchain-deps group across 3 dir"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Claude Opus 4.6",
@@ -257,8 +257,8 @@
       "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
     }
   ],
-  "timestamp": "2026-03-09T18:59:54.659017",
-  "last_updated": "2026-03-09T18:59:54.659017",
+  "timestamp": "2026-03-10T02:28:50.813812",
+  "last_updated": "2026-03-10T02:28:50.813812",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
