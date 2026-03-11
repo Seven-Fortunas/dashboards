@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude Opus 4.6",
+      "link": "https://www.anthropic.com/news/claude-opus-4-6",
+      "published": "2026-03-11T17:28:58.000Z",
+      "summary": "We\u2019re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Sonnet 4.6",
+      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "published": "2026-03-11T17:28:36.000Z",
+      "summary": "Claude Sonnet 4.6 is a full upgrade of the model\u2019s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing The Anthropic Institute",
+      "link": "https://www.anthropic.com/news/the-anthropic-institute",
+      "published": "2026-03-11T15:17:09.000Z",
+      "summary": "We\u2019re launching The Anthropic Institute, a new effort to confront the most significant challenges that powerful AI will pose to our societies."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
@@ -9,12 +33,28 @@
       "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how\u2014or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, sta"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing The Anthropic Institute",
-      "link": "https://www.anthropic.com/news/the-anthropic-institute",
-      "published": "2026-03-11T09:46:51.000Z",
-      "summary": "We\u2019re launching The Anthropic Institute, a new effort to confront the most significant challenges that powerful AI will pose to our societies."
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Designing AI agents to resist prompt injection",
+      "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "published": "Wed, 11 Mar 2026 11:30:00 GMT",
+      "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "link": "https://openai.com/index/wayfair",
+      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "link": "https://openai.com/index/equip-responses-api-computer-environment",
+      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
     },
     {
       "source": "Anthropic Blog",
@@ -97,14 +137,6 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI to acquire Promptfoo",
-      "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-      "published": "Mon, 09 Mar 2026 10:00:00 GMT",
-      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development."
-    },
-    {
       "source": "TensorFlow Releases",
       "type": "github",
       "title": "Release v2.21.0",
@@ -127,30 +159,6 @@
       "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
       "published": "Fri, 06 Mar 2026 18:00:00 +0000",
       "summary": "Photos of animals being identified by the SpeciesNet AI model"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Codex Security: now in research preview",
-      "link": "https://openai.com/index/codex-security-now-in-research-preview",
-      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
-      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How Descript enables multilingual video dubbing at scale",
-      "link": "https://openai.com/index/descript",
-      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
-      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Where things stand with the Department of War",
-      "link": "https://www.anthropic.com/news/where-stand-department-war",
-      "published": "2026-03-06T00:51:17.000Z",
-      "summary": "A statement from Dario Amodei"
     },
     {
       "source": "Google AI Blog",
@@ -209,14 +217,6 @@
       "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Claude Opus 4.6",
-      "link": "https://www.anthropic.com/news/claude-opus-4-6",
-      "published": "2026-03-02T21:09:02.000Z",
-      "summary": "We\u2019re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "CORPGEN advances AI agents for real work",
@@ -265,8 +265,8 @@
       "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
     }
   ],
-  "timestamp": "2026-03-11T13:12:22.880209",
-  "last_updated": "2026-03-11T13:12:22.880209",
+  "timestamp": "2026-03-11T19:00:07.627064",
+  "last_updated": "2026-03-11T19:00:07.627064",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
