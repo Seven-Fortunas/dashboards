@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
+      "link": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+      "published": "Wed, 11 Mar 2026 12:46:21 +0000",
+      "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how\u2014or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, sta"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing The Anthropic Institute",
+      "link": "https://www.anthropic.com/news/the-anthropic-institute",
+      "published": "2026-03-11T09:46:51.000Z",
+      "summary": "We\u2019re launching The Anthropic Institute, a new effort to confront the most significant challenges that powerful AI will pose to our societies."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Sydney will become Anthropic\u2019s fourth office in Asia-Pacific",
@@ -115,18 +131,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How Descript enables multilingual video dubbing at scale",
-      "link": "https://openai.com/index/descript",
-      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
-      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Codex Security: now in research preview",
       "link": "https://openai.com/index/codex-security-now-in-research-preview",
       "published": "Fri, 06 Mar 2026 10:00:00 GMT",
       "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "link": "https://openai.com/index/descript",
+      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages."
     },
     {
       "source": "Anthropic Blog",
@@ -185,14 +201,6 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp\" />Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now he"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Bridging the operational AI gap",
-      "link": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-      "published": "Wed, 04 Mar 2026 14:00:00 +0000",
-      "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are "
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
@@ -207,14 +215,6 @@
       "link": "https://www.anthropic.com/news/claude-opus-4-6",
       "published": "2026-03-02T21:09:02.000Z",
       "summary": "We\u2019re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Enabling Claude Code to work more autonomously",
-      "link": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
-      "published": "2026-03-02T21:07:46.000Z",
-      "summary": "Introducing Claude Code upgrades: native VS Code extension, terminal UX updates, and checkpoints for autonomous development. Handle complex tasks with confidence."
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
     }
   ],
-  "timestamp": "2026-03-11T07:01:20.363723",
-  "last_updated": "2026-03-11T07:01:20.363723",
+  "timestamp": "2026-03-11T13:12:22.880209",
+  "last_updated": "2026-03-11T13:12:22.880209",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
