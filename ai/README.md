@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-10 18:57:25 UTC
+**Last Updated:** 2026-03-11 02:28:16 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Sydney will become Anthropic’s fourth office in Asia-Pacific](https://www.anthropic.com/news/sydney-fourth-office-asia-pacific) | 2026-03-11 |
 | Microsoft Research AI | [From raw interaction to reusable knowledge: Rethinking memory for AI agents](https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/) | Tue, 10 Ma |
 | MIT Technology Review AI | [How Pokémon Go is giving delivery robots an inch-perfect view of the world](https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/) | Tue, 10 Ma |
 | Google AI Blog | [Gemini in Google Sheets just achieved state-of-the-art performance.](https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/) | Tue, 10 Ma |
@@ -32,7 +33,6 @@
 | DeepMind Blog | [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/) | Tue, 03 Ma |
 | Anthropic Blog | [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6) | 2026-03-02 |
 | Anthropic Blog | [Enabling Claude Code to work more autonomously](https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously) | 2026-03-02 |
-| Anthropic Blog | [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war) | 2026-02-28 |
 | Microsoft Research AI | [CORPGEN advances AI agents for real work](https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/) | Thu, 26 Fe |
 | DeepMind Blog | [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/) | Thu, 26 Fe |
 | DeepMind Blog | [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/) | Thu, 19 Fe |

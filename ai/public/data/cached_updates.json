@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Sydney will become Anthropic\u2019s fourth office in Asia-Pacific",
+      "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+      "published": "2026-03-11T02:10:54.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "From raw interaction to reusable knowledge: Rethinking memory for AI agents",
@@ -209,14 +217,6 @@
       "summary": "Introducing Claude Code upgrades: native VS Code extension, terminal UX updates, and checkpoints for autonomous development. Handle complex tasks with confidence."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Statement on the comments from Secretary of War Pete Hegseth",
-      "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
-      "published": "2026-02-28T01:31:43.000Z",
-      "summary": "Anthropic&#x27;s response to the Secretary of War and advice for customers"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "CORPGEN advances AI agents for real work",
@@ -265,8 +265,8 @@
       "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
     }
   ],
-  "timestamp": "2026-03-10T18:57:25.924230",
-  "last_updated": "2026-03-10T18:57:25.924230",
+  "timestamp": "2026-03-11T02:28:16.226056",
+  "last_updated": "2026-03-11T02:28:16.226056",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
