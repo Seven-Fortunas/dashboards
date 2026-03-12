@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "How AI is helping improve heart health in rural Australia",
+      "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+      "published": "Thu, 12 Mar 2026 15:00:00 +0000",
+      "summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Claude Opus 4.6",
@@ -23,6 +31,14 @@
       "link": "https://www.anthropic.com/news/the-anthropic-institute",
       "published": "2026-03-11T15:17:09.000Z",
       "summary": "We\u2019re launching The Anthropic Institute, a new effort to confront the most significant challenges that powerful AI will pose to our societies."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "link": "https://openai.com/index/rakuten",
+      "published": "Wed, 11 Mar 2026 13:00:00 GMT",
+      "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks."
     },
     {
       "source": "MIT Technology Review AI",
@@ -67,7 +83,7 @@
     {
       "source": "Microsoft Research AI",
       "type": "rss",
-      "title": "From raw interaction to reusable knowledge: Rethinking memory for AI agents",
+      "title": "PlugMem: Transforming raw agent interactions into reusable knowledge",
       "link": "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
       "published": "Tue, 10 Mar 2026 16:00:41 +0000",
       "summary": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficul"
@@ -95,14 +111,6 @@
       "link": "https://openai.com/index/instruction-hierarchy-challenge",
       "published": "Tue, 10 Mar 2026 11:00:00 GMT",
       "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "New ways to learn math and science in ChatGPT",
-      "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-      "published": "Tue, 10 Mar 2026 10:00:00 GMT",
-      "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time."
     },
     {
       "source": "LangChain Releases",
@@ -201,14 +209,6 @@
       "summary": "## New Model additions\r\n\r\n### EuroBERT\r\n\r\n<img width=\"1080\" height=\"1080\" alt=\"image\" src=\"https://github.com/user-attachments/assets/33603f42-5435-421a-9641-baf72faacb22\" />\r\n\r\nEuroBERT is a multilin"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
-      "published": "Wed, 04 Mar 2026 17:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp\" />Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now he"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
@@ -265,8 +265,8 @@
       "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
     }
   ],
-  "timestamp": "2026-03-11T19:00:07.627064",
-  "last_updated": "2026-03-11T19:00:07.627064",
+  "timestamp": "2026-03-12T02:34:19.260953",
+  "last_updated": "2026-03-12T02:34:19.260953",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
