@@ -1,12 +1,36 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic invests $100 million into the Claude Partner Network",
+      "link": "https://www.anthropic.com/news/claude-partner-network",
+      "published": "2026-03-12T18:50:09.000Z",
+      "summary": "We\u2019re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude."
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
+      "link": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+      "published": "Thu, 12 Mar 2026 16:38:45 +0000",
+      "summary": "<p>As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge ha"
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "How AI is helping improve heart health in rural Australia",
       "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
       "published": "Thu, 12 Mar 2026 15:00:00 +0000",
       "summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Pragmatic by design: Engineering AI for the real world",
+      "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+      "published": "Thu, 12 Mar 2026 13:00:00 +0000",
+      "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people aliv"
     },
     {
       "source": "Anthropic Blog",
@@ -91,6 +115,14 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Building a strong data infrastructure for AI agent success",
+      "link": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
+      "published": "Tue, 10 Mar 2026 14:00:00 +0000",
+      "summary": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of compa"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "How Pok\u00e9mon Go is giving delivery robots an inch-perfect view of the world",
       "link": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
       "published": "Tue, 10 Mar 2026 13:47:26 +0000",
@@ -137,28 +169,12 @@
       "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Partnering with Mozilla to improve Firefox\u2019s security",
-      "link": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "published": "2026-03-09T13:41:16.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "TensorFlow Releases",
       "type": "github",
       "title": "Release v2.21.0",
       "link": "https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0",
       "published": "2026-03-06T19:48:15Z",
       "summary": "# Release 2.21.0\r\n\r\n## TensorFlow\r\n\r\n### Breaking Changes\r\n\r\n* Support for Python 3.9 has been removed starting with TF 2.21.\r\n* The TensorBoard (TB) dependency has been removed starting with TF 2.21."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Is the Pentagon allowed to surveil Americans with AI?",
-      "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
-      "published": "Fri, 06 Mar 2026 19:21:22 +0000",
-      "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass su"
     },
     {
       "source": "Google AI Blog",
@@ -183,14 +199,6 @@
       "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
       "published": "Thu, 05 Mar 2026 16:30:00 +0000",
       "summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\""
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Online harassment is entering its AI era",
-      "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-      "published": "Thu, 05 Mar 2026 10:00:00 +0000",
-      "summary": "Scott Shambaugh didn\u2019t think twice when he denied an AI agent\u2019s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwh"
     },
     {
       "source": "Microsoft Research AI",
@@ -249,14 +257,6 @@
       "summary": "<p>As synthetic media grows, verifying what\u2019s real, and the origin of content, matters more than ever. Our latest report explores media integrity and authentication methods, their limits, and practica"
     },
     {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Project Silica\u2019s advances in glass storage technology",
-      "link": "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
-      "published": "Wed, 18 Feb 2026 16:11:45 +0000",
-      "summary": "<p>Project Silica introduces new techniques for encoding data in borosilicate glass, as described in the journal Nature. These advances lower media cost and simplify writing and reading systems while "
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "A new way to express yourself: Gemini can now create music",
@@ -265,8 +265,8 @@
       "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
     }
   ],
-  "timestamp": "2026-03-12T13:12:36.415487",
-  "last_updated": "2026-03-12T13:12:36.415487",
+  "timestamp": "2026-03-12T19:00:48.737486",
+  "last_updated": "2026-03-12T19:00:48.737486",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
