@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-12 19:00:48 UTC
+**Last Updated:** 2026-03-13 02:32:06 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [A defense official reveals how AI chatbots could be used for targeting decisions](https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/) | Thu, 12 Ma |
 | Anthropic Blog | [Anthropic invests $100 million into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network) | 2026-03-12 |
 | Microsoft Research AI | [Systematic debugging for AI agents: Introducing the AgentRx framework](https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/) | Thu, 12 Ma |
 | Google AI Blog | [How AI is helping improve heart health in rural Australia](https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/) | Thu, 12 Ma |
@@ -25,7 +26,6 @@
 | Google AI Blog | [Gemini in Google Sheets just achieved state-of-the-art performance.](https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/) | Tue, 10 Ma |
 | OpenAI Blog | [Improving instruction hierarchy in frontier LLMs](https://openai.com/index/instruction-hierarchy-challenge) | Tue, 10 Ma |
 | LangChain Releases | [Release langchain-core==1.2.18](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.18) | 2026-03-09 |
-| MIT Technology Review AI | [How AI is turning the Iran conflict into theater](https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/) | Mon, 09 Ma |
 | DeepMind Blog | [From games to biology and beyond: 10 years of AlphaGo’s impact](https://deepmind.google/blog/10-years-of-alphago/) | Mon, 09 Ma |
 | TensorFlow Releases | [Release v2.21.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0) | 2026-03-06 |
 | Google AI Blog | [How our open-source AI model SpeciesNet is helping to promote wildlife conservat](https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/) | Fri, 06 Ma |

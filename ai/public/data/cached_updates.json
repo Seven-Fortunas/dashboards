@@ -1,11 +1,19 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+      "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+      "published": "Thu, 12 Mar 2026 22:23:34 +0000",
+      "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations\u2014which would be vetted by humans\u2014about which to strike first, according to a Defense Department officia"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Anthropic invests $100 million into the Claude Partner Network",
       "link": "https://www.anthropic.com/news/claude-partner-network",
-      "published": "2026-03-12T18:50:09.000Z",
+      "published": "2026-03-12T19:25:16.000Z",
       "summary": "We\u2019re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude."
     },
     {
@@ -153,14 +161,6 @@
       "summary": "Changes since langchain-core==1.2.17\n\nrelease(core): 1.2.18 (#35704)\nfix(core): fix double backticks in deprecation docstring for alternative_import (#35658)\nfix(core): preserve default_factory when g"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "How AI is turning the Iran conflict into theater",
-      "link": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
-      "published": "Mon, 09 Mar 2026 15:11:01 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. \u201cAnyone wanna host a get together in SF and pull this up on a "
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
@@ -265,8 +265,8 @@
       "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
     }
   ],
-  "timestamp": "2026-03-12T19:00:48.737486",
-  "last_updated": "2026-03-12T19:00:48.737486",
+  "timestamp": "2026-03-13T02:32:06.768874",
+  "last_updated": "2026-03-13T02:32:06.768874",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
