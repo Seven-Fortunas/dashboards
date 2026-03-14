@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Opus 4.5",
+      "link": "https://www.anthropic.com/news/claude-opus-4-5",
+      "published": "2026-03-13T20:56:07.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Why physical AI is becoming manufacturing\u2019s next advantage",
@@ -119,14 +127,6 @@
       "link": "https://openai.com/index/equip-responses-api-computer-environment",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
       "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Sydney will become Anthropic\u2019s fourth office in Asia-Pacific",
-      "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
-      "published": "2026-03-11T02:10:54.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
     }
   ],
-  "timestamp": "2026-03-13T18:51:03.677775",
-  "last_updated": "2026-03-13T18:51:03.677775",
+  "timestamp": "2026-03-14T02:29:46.915251",
+  "last_updated": "2026-03-14T02:29:46.915251",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
