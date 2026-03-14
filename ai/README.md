@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-13 18:51:03 UTC
+**Last Updated:** 2026-03-14 02:29:46 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Introducing Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) | 2026-03-13 |
 | MIT Technology Review AI | [Why physical AI is becoming manufacturing’s next advantage](https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/) | Fri, 13 Ma |
 | LangChain Releases | [Release langchain-core==1.2.19](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.19) | 2026-03-13 |
 | MIT Technology Review AI | [A defense official reveals how AI chatbots could be used for targeting decisions](https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/) | Thu, 12 Ma |
@@ -21,7 +22,6 @@
 | OpenAI Blog | [Designing AI agents to resist prompt injection](https://openai.com/index/designing-agents-to-resist-prompt-injection) | Wed, 11 Ma |
 | OpenAI Blog | [Wayfair boosts catalog accuracy and support speed with OpenAI](https://openai.com/index/wayfair) | Wed, 11 Ma |
 | OpenAI Blog | [From model to agent: Equipping the Responses API with a computer environment](https://openai.com/index/equip-responses-api-computer-environment) | Wed, 11 Ma |
-| Anthropic Blog | [Sydney will become Anthropic’s fourth office in Asia-Pacific](https://www.anthropic.com/news/sydney-fourth-office-asia-pacific) | 2026-03-11 |
 | Microsoft Research AI | [PlugMem: Transforming raw agent interactions into reusable knowledge](https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/) | Tue, 10 Ma |
 | MIT Technology Review AI | [Building a strong data infrastructure for AI agent success](https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/) | Tue, 10 Ma |
 | Google AI Blog | [Gemini in Google Sheets just achieved state-of-the-art performance.](https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/) | Tue, 10 Ma |
