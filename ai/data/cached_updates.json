@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Nurturing agentic AI beyond the toddler stage",
+      "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+      "published": "Mon, 16 Mar 2026 13:00:00 +0000",
+      "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Securing digital assets against future\u00a0threats",
+      "link": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
+      "published": "Mon, 16 Mar 2026 11:00:00 +0000",
+      "summary": ""
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Opus 4.5",
@@ -97,14 +113,6 @@
       "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
-      "link": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
-      "published": "Wed, 11 Mar 2026 12:46:21 +0000",
-      "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how\u2014or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, sta"
-    },
-    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Designing AI agents to resist prompt injection",
@@ -115,18 +123,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "link": "https://openai.com/index/wayfair",
-      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "From model to agent: Equipping the Responses API with a computer environment",
       "link": "https://openai.com/index/equip-responses-api-computer-environment",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
       "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "link": "https://openai.com/index/wayfair",
+      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
     },
     {
       "source": "Microsoft Research AI",
@@ -135,14 +143,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
       "published": "Tue, 10 Mar 2026 16:00:41 +0000",
       "summary": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficul"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Building a strong data infrastructure for AI agent success",
-      "link": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
-      "published": "Tue, 10 Mar 2026 14:00:00 +0000",
-      "summary": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of compa"
     },
     {
       "source": "Google AI Blog",
@@ -265,8 +265,8 @@
       "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
     }
   ],
-  "timestamp": "2026-03-16T07:25:31.526064",
-  "last_updated": "2026-03-16T07:25:31.526064",
+  "timestamp": "2026-03-16T13:24:17.511370",
+  "last_updated": "2026-03-16T13:24:17.511370",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
