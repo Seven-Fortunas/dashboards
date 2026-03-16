@@ -3,6 +3,14 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Where OpenAI\u2019s technology could show up in Iran",
+      "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+      "published": "Mon, 16 Mar 2026 17:06:21 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. It&#8217;s been just over two weeks since OpenAI reached a con"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "Nurturing agentic AI beyond the toddler stage",
       "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
       "published": "Mon, 16 Mar 2026 13:00:00 +0000",
@@ -15,6 +23,14 @@
       "link": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
       "published": "Mon, 16 Mar 2026 11:00:00 +0000",
       "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Why Codex Security Doesn\u2019t Include a SAST Report",
+      "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "published": "Mon, 16 Mar 2026 00:00:00 GMT",
+      "summary": "A deep dive into why Codex Security doesn\u2019t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives."
     },
     {
       "source": "Anthropic Blog",
@@ -73,14 +89,6 @@
       "summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Pragmatic by design: Engineering AI for the real world",
-      "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
-      "published": "Thu, 12 Mar 2026 13:00:00 +0000",
-      "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people aliv"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Claude Opus 4.6",
@@ -123,18 +131,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "From model to agent: Equipping the Responses API with a computer environment",
-      "link": "https://openai.com/index/equip-responses-api-computer-environment",
-      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
       "link": "https://openai.com/index/wayfair",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
       "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "link": "https://openai.com/index/equip-responses-api-computer-environment",
+      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
     },
     {
       "source": "Microsoft Research AI",
@@ -151,14 +159,6 @@
       "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
       "published": "Tue, 10 Mar 2026 13:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\" />Today we announced new beta features for Gemini in Sheets to h"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Improving instruction hierarchy in frontier LLMs",
-      "link": "https://openai.com/index/instruction-hierarchy-challenge",
-      "published": "Tue, 10 Mar 2026 11:00:00 GMT",
-      "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks."
     },
     {
       "source": "DeepMind Blog",
@@ -265,8 +265,8 @@
       "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
     }
   ],
-  "timestamp": "2026-03-16T13:24:17.511370",
-  "last_updated": "2026-03-16T13:24:17.511370",
+  "timestamp": "2026-03-16T19:10:49.578130",
+  "last_updated": "2026-03-16T19:10:49.578130",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
