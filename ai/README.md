@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-16 07:25:31 UTC
+**Last Updated:** 2026-03-16 13:24:17 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Nurturing agentic AI beyond the toddler stage](https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/) | Mon, 16 Ma |
+| MIT Technology Review AI | [Securing digital assets against future threats](https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/) | Mon, 16 Ma |
 | Anthropic Blog | [Introducing Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) | 2026-03-13 |
 | MIT Technology Review AI | [Why physical AI is becoming manufacturing’s next advantage](https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/) | Fri, 13 Ma |
 | LangChain Releases | [Release langchain-core==1.2.19](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.19) | 2026-03-13 |
@@ -18,12 +20,10 @@
 | Anthropic Blog | [Introducing Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) | 2026-03-11 |
 | Anthropic Blog | [Introducing The Anthropic Institute](https://www.anthropic.com/news/the-anthropic-institute) | 2026-03-11 |
 | OpenAI Blog | [Rakuten fixes issues twice as fast with Codex](https://openai.com/index/rakuten) | Wed, 11 Ma |
-| MIT Technology Review AI | [Hustlers are cashing in on China’s OpenClaw AI craze](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) | Wed, 11 Ma |
 | OpenAI Blog | [Designing AI agents to resist prompt injection](https://openai.com/index/designing-agents-to-resist-prompt-injection) | Wed, 11 Ma |
-| OpenAI Blog | [Wayfair boosts catalog accuracy and support speed with OpenAI](https://openai.com/index/wayfair) | Wed, 11 Ma |
 | OpenAI Blog | [From model to agent: Equipping the Responses API with a computer environment](https://openai.com/index/equip-responses-api-computer-environment) | Wed, 11 Ma |
+| OpenAI Blog | [Wayfair boosts catalog accuracy and support speed with OpenAI](https://openai.com/index/wayfair) | Wed, 11 Ma |
 | Microsoft Research AI | [PlugMem: Transforming raw agent interactions into reusable knowledge](https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/) | Tue, 10 Ma |
-| MIT Technology Review AI | [Building a strong data infrastructure for AI agent success](https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/) | Tue, 10 Ma |
 | Google AI Blog | [Gemini in Google Sheets just achieved state-of-the-art performance.](https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/) | Tue, 10 Ma |
 | OpenAI Blog | [Improving instruction hierarchy in frontier LLMs](https://openai.com/index/instruction-hierarchy-challenge) | Tue, 10 Ma |
 | DeepMind Blog | [From games to biology and beyond: 10 years of AlphaGo’s impact](https://deepmind.google/blog/10-years-of-alphago/) | Mon, 09 Ma |
