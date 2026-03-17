@@ -1,11 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-17 13:23:17 UTC
+**Last Updated:** 2026-03-17 19:09:22 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Google AI Blog | [Bringing the power of Personal Intelligence to more people](https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/) | Tue, 17 Ma |
+| Google AI Blog | [Our latest investment in open source security for the AI era](https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/) | Tue, 17 Ma |
+| OpenAI Blog | [Introducing GPT-5.4 mini and nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano) | Tue, 17 Ma |
 | MIT Technology Review AI | [Where OpenAI’s technology could show up in Iran](https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/) | Mon, 16 Ma |
 | MIT Technology Review AI | [Nurturing agentic AI beyond the toddler stage](https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/) | Mon, 16 Ma |
 | MIT Technology Review AI | [Securing digital assets against future threats](https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/) | Mon, 16 Ma |
@@ -22,15 +25,12 @@
 | Anthropic Blog | [Introducing The Anthropic Institute](https://www.anthropic.com/news/the-anthropic-institute) | 2026-03-11 |
 | OpenAI Blog | [Rakuten fixes issues twice as fast with Codex](https://openai.com/index/rakuten) | Wed, 11 Ma |
 | OpenAI Blog | [Designing AI agents to resist prompt injection](https://openai.com/index/designing-agents-to-resist-prompt-injection) | Wed, 11 Ma |
-| OpenAI Blog | [Wayfair boosts catalog accuracy and support speed with OpenAI](https://openai.com/index/wayfair) | Wed, 11 Ma |
 | OpenAI Blog | [From model to agent: Equipping the Responses API with a computer environment](https://openai.com/index/equip-responses-api-computer-environment) | Wed, 11 Ma |
 | Microsoft Research AI | [PlugMem: Transforming raw agent interactions into reusable knowledge](https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/) | Tue, 10 Ma |
 | Google AI Blog | [Gemini in Google Sheets just achieved state-of-the-art performance.](https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/) | Tue, 10 Ma |
 | DeepMind Blog | [From games to biology and beyond: 10 years of AlphaGo’s impact](https://deepmind.google/blog/10-years-of-alphago/) | Mon, 09 Ma |
 | TensorFlow Releases | [Release v2.21.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0) | 2026-03-06 |
 | Google AI Blog | [How our open-source AI model SpeciesNet is helping to promote wildlife conservat](https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/) | Fri, 06 Ma |
-| Google AI Blog | [Ask a Techspert: How does AI understand my visual searches?](https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/) | Thu, 05 Ma |
-| Google AI Blog | [The latest AI news we announced in February](https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/) | Thu, 05 Ma |
 | Microsoft Research AI | [Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/) | Wed, 04 Ma |
 | HuggingFace Transformers | [Release v5.3.0](https://github.com/huggingface/transformers/releases/tag/v5.3.0) | 2026-03-04 |
 | DeepMind Blog | [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/) | Tue, 03 Ma |
