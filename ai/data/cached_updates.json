@@ -131,18 +131,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "link": "https://openai.com/index/wayfair",
-      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "From model to agent: Equipping the Responses API with a computer environment",
       "link": "https://openai.com/index/equip-responses-api-computer-environment",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
       "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "link": "https://openai.com/index/wayfair",
+      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
     }
   ],
-  "timestamp": "2026-03-16T19:10:49.578130",
-  "last_updated": "2026-03-16T19:10:49.578130",
+  "timestamp": "2026-03-17T02:33:43.289097",
+  "last_updated": "2026-03-17T02:33:43.289097",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
