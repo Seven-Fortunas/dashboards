@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-16 19:10:49 UTC
+**Last Updated:** 2026-03-17 02:33:43 UTC
 
 ## Latest Updates
 
@@ -22,8 +22,8 @@
 | Anthropic Blog | [Introducing The Anthropic Institute](https://www.anthropic.com/news/the-anthropic-institute) | 2026-03-11 |
 | OpenAI Blog | [Rakuten fixes issues twice as fast with Codex](https://openai.com/index/rakuten) | Wed, 11 Ma |
 | OpenAI Blog | [Designing AI agents to resist prompt injection](https://openai.com/index/designing-agents-to-resist-prompt-injection) | Wed, 11 Ma |
-| OpenAI Blog | [Wayfair boosts catalog accuracy and support speed with OpenAI](https://openai.com/index/wayfair) | Wed, 11 Ma |
 | OpenAI Blog | [From model to agent: Equipping the Responses API with a computer environment](https://openai.com/index/equip-responses-api-computer-environment) | Wed, 11 Ma |
+| OpenAI Blog | [Wayfair boosts catalog accuracy and support speed with OpenAI](https://openai.com/index/wayfair) | Wed, 11 Ma |
 | Microsoft Research AI | [PlugMem: Transforming raw agent interactions into reusable knowledge](https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/) | Tue, 10 Ma |
 | Google AI Blog | [Gemini in Google Sheets just achieved state-of-the-art performance.](https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/) | Tue, 10 Ma |
 | DeepMind Blog | [From games to biology and beyond: 10 years of AlphaGo’s impact](https://deepmind.google/blog/10-years-of-alphago/) | Mon, 09 Ma |
