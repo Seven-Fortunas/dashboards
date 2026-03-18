@@ -1,14 +1,16 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-17 19:09:22 UTC
+**Last Updated:** 2026-03-18 02:40:23 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [The Pentagon is planning for AI companies to train on classified data, defense o](https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/) | Tue, 17 Ma |
 | Google AI Blog | [Bringing the power of Personal Intelligence to more people](https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/) | Tue, 17 Ma |
 | Google AI Blog | [Our latest investment in open source security for the AI era](https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/) | Tue, 17 Ma |
 | OpenAI Blog | [Introducing GPT-5.4 mini and nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano) | Tue, 17 Ma |
+| OpenAI Blog | [Equipping workers with insights about compensation](https://openai.com/index/equipping-workers-with-insights-about-compensation) | Tue, 17 Ma |
 | MIT Technology Review AI | [Where OpenAI’s technology could show up in Iran](https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/) | Mon, 16 Ma |
 | MIT Technology Review AI | [Nurturing agentic AI beyond the toddler stage](https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/) | Mon, 16 Ma |
 | MIT Technology Review AI | [Securing digital assets against future threats](https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/) | Mon, 16 Ma |
@@ -16,7 +18,6 @@
 | Anthropic Blog | [Introducing Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) | 2026-03-13 |
 | MIT Technology Review AI | [Why physical AI is becoming manufacturing’s next advantage](https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/) | Fri, 13 Ma |
 | LangChain Releases | [Release langchain-core==1.2.19](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.19) | 2026-03-13 |
-| MIT Technology Review AI | [A defense official reveals how AI chatbots could be used for targeting decisions](https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/) | Thu, 12 Ma |
 | Anthropic Blog | [Anthropic invests $100 million into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network) | 2026-03-12 |
 | Microsoft Research AI | [Systematic debugging for AI agents: Introducing the AgentRx framework](https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/) | Thu, 12 Ma |
 | Google AI Blog | [How AI is helping improve heart health in rural Australia](https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/) | Thu, 12 Ma |
@@ -25,7 +26,6 @@
 | Anthropic Blog | [Introducing The Anthropic Institute](https://www.anthropic.com/news/the-anthropic-institute) | 2026-03-11 |
 | OpenAI Blog | [Rakuten fixes issues twice as fast with Codex](https://openai.com/index/rakuten) | Wed, 11 Ma |
 | OpenAI Blog | [Designing AI agents to resist prompt injection](https://openai.com/index/designing-agents-to-resist-prompt-injection) | Wed, 11 Ma |
-| OpenAI Blog | [From model to agent: Equipping the Responses API with a computer environment](https://openai.com/index/equip-responses-api-computer-environment) | Wed, 11 Ma |
 | Microsoft Research AI | [PlugMem: Transforming raw agent interactions into reusable knowledge](https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/) | Tue, 10 Ma |
 | Google AI Blog | [Gemini in Google Sheets just achieved state-of-the-art performance.](https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/) | Tue, 10 Ma |
 | DeepMind Blog | [From games to biology and beyond: 10 years of AlphaGo’s impact](https://deepmind.google/blog/10-years-of-alphago/) | Mon, 09 Ma |
