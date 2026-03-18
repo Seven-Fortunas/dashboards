@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.2.20",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.20",
+      "published": "2026-03-18T17:34:58Z",
+      "summary": "Changes since langchain-core==1.2.19\n\nrelease(core): 1.2.20 (#36085)\nfix(core): trace invocation params in metadata (#36080)\nfeat: Add LangSmith integration metadata to create_agent and init_chat_mode"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
@@ -39,6 +47,14 @@
       "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "published": "Tue, 17 Mar 2026 10:00:00 GMT",
       "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "link": "https://openai.com/index/japan-teen-safety-blueprint",
+      "published": "Tue, 17 Mar 2026 10:00:00 GMT",
+      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI."
     },
     {
       "source": "OpenAI Blog",
@@ -97,14 +113,6 @@
       "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today\u2019s manufactur"
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.2.19",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.19",
-      "published": "2026-03-13T13:45:07Z",
-      "summary": "Changes since langchain-core==1.2.18\n\nrelease(core): 1.2.19 (#35832)\nchore(core): move BaseCrossEncoder to langchain-core (#35809)\nchore: bump tornado from 6.5.2 to 6.5.5 in /libs/core (#35775)"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Anthropic invests $100 million into the Claude Partner Network",
@@ -159,14 +167,6 @@
       "link": "https://openai.com/index/rakuten",
       "published": "Wed, 11 Mar 2026 13:00:00 GMT",
       "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Designing AI agents to resist prompt injection",
-      "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-      "published": "Wed, 11 Mar 2026 11:30:00 GMT",
-      "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "<p>As synthetic media grows, verifying what\u2019s real, and the origin of content, matters more than ever. Our latest report explores media integrity and authentication methods, their limits, and practica"
     }
   ],
-  "timestamp": "2026-03-18T13:24:36.264437",
-  "last_updated": "2026-03-18T13:24:36.264437",
+  "timestamp": "2026-03-18T19:08:43.380805",
+  "last_updated": "2026-03-18T19:08:43.380805",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
