@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+      "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+      "published": "Tue, 17 Mar 2026 22:30:46 +0000",
+      "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#1"
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Bringing the power of Personal Intelligence to more people",
@@ -23,6 +31,14 @@
       "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "published": "Tue, 17 Mar 2026 10:00:00 GMT",
       "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Equipping workers with insights about compensation",
+      "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "published": "Tue, 17 Mar 2026 00:00:00 GMT",
+      "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap."
     },
     {
       "source": "MIT Technology Review AI",
@@ -79,14 +95,6 @@
       "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.19",
       "published": "2026-03-13T13:45:07Z",
       "summary": "Changes since langchain-core==1.2.18\n\nrelease(core): 1.2.19 (#35832)\nchore(core): move BaseCrossEncoder to langchain-core (#35809)\nchore: bump tornado from 6.5.2 to 6.5.5 in /libs/core (#35775)"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
-      "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
-      "published": "Thu, 12 Mar 2026 22:23:34 +0000",
-      "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations\u2014which would be vetted by humans\u2014about which to strike first, according to a Defense Department officia"
     },
     {
       "source": "Anthropic Blog",
@@ -151,14 +159,6 @@
       "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
       "published": "Wed, 11 Mar 2026 11:30:00 GMT",
       "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "From model to agent: Equipping the Responses API with a computer environment",
-      "link": "https://openai.com/index/equip-responses-api-computer-environment",
-      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
     }
   ],
-  "timestamp": "2026-03-17T19:09:22.917734",
-  "last_updated": "2026-03-17T19:09:22.917734",
+  "timestamp": "2026-03-18T02:40:23.017122",
+  "last_updated": "2026-03-18T02:40:23.017122",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
