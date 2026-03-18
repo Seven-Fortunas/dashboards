@@ -9,6 +9,14 @@
       "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#1"
     },
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Measuring progress toward AGI: A cognitive framework",
+      "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+      "published": "Tue, 17 Mar 2026 16:03:47 +0000",
+      "summary": "We\u2019re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Bringing the power of Personal Intelligence to more people",
@@ -255,18 +263,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/",
       "published": "Thu, 19 Feb 2026 16:00:51 +0000",
       "summary": "<p>As synthetic media grows, verifying what\u2019s real, and the origin of content, matters more than ever. Our latest report explores media integrity and authentication methods, their limits, and practica"
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "A new way to express yourself: Gemini can now create music",
-      "link": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
-      "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
     }
   ],
-  "timestamp": "2026-03-18T07:08:09.743645",
-  "last_updated": "2026-03-18T07:08:09.743645",
+  "timestamp": "2026-03-18T13:24:36.264437",
+  "last_updated": "2026-03-18T13:24:36.264437",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
