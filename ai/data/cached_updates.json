@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI to acquire Astral",
+      "link": "https://openai.com/index/openai-to-acquire-astral",
+      "published": "Thu, 19 Mar 2026 00:00:00 GMT",
+      "summary": "Accelerates Codex growth to power the next generation of Python developer tools"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.2.20",
@@ -43,18 +51,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Introducing GPT-5.4 mini and nano",
-      "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
       "link": "https://openai.com/index/japan-teen-safety-blueprint",
       "published": "Tue, 17 Mar 2026 10:00:00 GMT",
       "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing GPT-5.4 mini and nano",
+      "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "published": "Tue, 17 Mar 2026 10:00:00 GMT",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
     },
     {
       "source": "OpenAI Blog",
@@ -161,14 +169,6 @@
       "summary": "We\u2019re launching The Anthropic Institute, a new effort to confront the most significant challenges that powerful AI will pose to our societies."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Rakuten fixes issues twice as fast with Codex",
-      "link": "https://openai.com/index/rakuten",
-      "published": "Wed, 11 Mar 2026 13:00:00 GMT",
-      "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "PlugMem: Transforming raw agent interactions into reusable knowledge",
@@ -265,8 +265,8 @@
       "summary": "<p>As synthetic media grows, verifying what\u2019s real, and the origin of content, matters more than ever. Our latest report explores media integrity and authentication methods, their limits, and practica"
     }
   ],
-  "timestamp": "2026-03-19T07:04:17.531231",
-  "last_updated": "2026-03-19T07:04:17.531231",
+  "timestamp": "2026-03-19T13:16:47.638739",
+  "last_updated": "2026-03-19T13:16:47.638739",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
