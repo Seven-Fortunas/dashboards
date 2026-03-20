@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-20 07:02:49 UTC
+**Last Updated:** 2026-03-20 13:10:38 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [OpenAI is throwing everything into building a fully automated researcher](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/) | Fri, 20 Ma |
 | OpenAI Blog | [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment) | Thu, 19 Ma |
 | OpenAI Blog | [OpenAI to acquire Astral](https://openai.com/index/openai-to-acquire-astral) | Thu, 19 Ma |
 | LangChain Releases | [Release langchain-core==1.2.20](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.20) | 2026-03-18 |
@@ -20,7 +21,6 @@
 | MIT Technology Review AI | [Nurturing agentic AI beyond the toddler stage](https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/) | Mon, 16 Ma |
 | MIT Technology Review AI | [Securing digital assets against future threats](https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/) | Mon, 16 Ma |
 | Anthropic Blog | [Introducing Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) | 2026-03-13 |
-| MIT Technology Review AI | [Why physical AI is becoming manufacturing’s next advantage](https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/) | Fri, 13 Ma |
 | Anthropic Blog | [Anthropic invests $100 million into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network) | 2026-03-12 |
 | Microsoft Research AI | [Systematic debugging for AI agents: Introducing the AgentRx framework](https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/) | Thu, 12 Ma |
 | Google AI Blog | [How AI is helping improve heart health in rural Australia](https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/) | Thu, 12 Ma |
