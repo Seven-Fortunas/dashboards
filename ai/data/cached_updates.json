@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "OpenAI is throwing everything into building a fully automated researcher",
+      "link": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+      "published": "Fri, 20 Mar 2026 11:57:16 +0000",
+      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "How we monitor internal coding agents for misalignment",
@@ -111,14 +119,6 @@
       "link": "https://www.anthropic.com/news/claude-opus-4-5",
       "published": "2026-03-13T20:56:07.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Why physical AI is becoming manufacturing\u2019s next advantage",
-      "link": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
-      "published": "Fri, 13 Mar 2026 15:16:55 +0000",
-      "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today\u2019s manufactur"
     },
     {
       "source": "Anthropic Blog",
@@ -265,8 +265,8 @@
       "summary": "<p>As synthetic media grows, verifying what\u2019s real, and the origin of content, matters more than ever. Our latest report explores media integrity and authentication methods, their limits, and practica"
     }
   ],
-  "timestamp": "2026-03-20T07:02:49.299896",
-  "last_updated": "2026-03-20T07:02:49.299896",
+  "timestamp": "2026-03-20T13:10:38.587837",
+  "last_updated": "2026-03-20T13:10:38.587837",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
