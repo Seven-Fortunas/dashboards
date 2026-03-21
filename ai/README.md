@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-21 13:00:20 UTC
+**Last Updated:** 2026-03-21 18:42:42 UTC
 
 ## Latest Updates
 
@@ -37,5 +37,3 @@
 | DeepMind Blog | [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/) | Tue, 03 Ma |
 | Microsoft Research AI | [CORPGEN advances AI agents for real work](https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/) | Thu, 26 Fe |
 | DeepMind Blog | [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/) | Thu, 26 Fe |
-| DeepMind Blog | [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/) | Thu, 19 Fe |
-| Microsoft Research AI | [Media Authenticity Methods in Practice: Capabilities, Limitations, and Direction](https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/) | Thu, 19 Fe |
