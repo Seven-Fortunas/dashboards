@@ -247,26 +247,10 @@
       "link": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
       "published": "Thu, 26 Feb 2026 16:01:50 +0000",
       "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
-      "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
-      "published": "Thu, 19 Feb 2026 16:06:14 +0000",
-      "summary": "3.1 Pro is designed for tasks where a simple answer isn\u2019t enough."
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions",
-      "link": "https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/",
-      "published": "Thu, 19 Feb 2026 16:00:51 +0000",
-      "summary": "<p>As synthetic media grows, verifying what\u2019s real, and the origin of content, matters more than ever. Our latest report explores media integrity and authentication methods, their limits, and practica"
     }
   ],
-  "timestamp": "2026-03-21T13:00:20.145094",
-  "last_updated": "2026-03-21T13:00:20.145094",
+  "timestamp": "2026-03-21T18:42:42.249032",
+  "last_updated": "2026-03-21T18:42:42.249032",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
