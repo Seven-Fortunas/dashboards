@@ -3,6 +3,14 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "The Bay Area\u2019s animal welfare movement wants to recruit AI",
+      "link": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+      "published": "Mon, 23 Mar 2026 09:00:00 +0000",
+      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "OpenAI is throwing everything into building a fully automated researcher",
       "link": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
       "published": "Fri, 20 Mar 2026 11:57:16 +0000",
@@ -103,14 +111,6 @@
       "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
       "published": "Mon, 16 Mar 2026 13:00:00 +0000",
       "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Securing digital assets against future\u00a0threats",
-      "link": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
-      "published": "Mon, 16 Mar 2026 11:00:00 +0000",
-      "summary": ""
     },
     {
       "source": "Anthropic Blog",
@@ -249,8 +249,8 @@
       "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
     }
   ],
-  "timestamp": "2026-03-23T07:18:30.164448",
-  "last_updated": "2026-03-23T07:18:30.164448",
+  "timestamp": "2026-03-23T13:19:04.375867",
+  "last_updated": "2026-03-23T13:19:04.375867",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
