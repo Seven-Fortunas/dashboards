@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-23 07:18:30 UTC
+**Last Updated:** 2026-03-23 13:19:04 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [The Bay Area’s animal welfare movement wants to recruit AI](https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/) | Mon, 23 Ma |
 | MIT Technology Review AI | [OpenAI is throwing everything into building a fully automated researcher](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/) | Fri, 20 Ma |
 | OpenAI Blog | [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment) | Thu, 19 Ma |
 | OpenAI Blog | [OpenAI to acquire Astral](https://openai.com/index/openai-to-acquire-astral) | Thu, 19 Ma |
@@ -19,7 +20,6 @@
 | OpenAI Blog | [Equipping workers with insights about compensation](https://openai.com/index/equipping-workers-with-insights-about-compensation) | Tue, 17 Ma |
 | MIT Technology Review AI | [Where OpenAI’s technology could show up in Iran](https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/) | Mon, 16 Ma |
 | MIT Technology Review AI | [Nurturing agentic AI beyond the toddler stage](https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/) | Mon, 16 Ma |
-| MIT Technology Review AI | [Securing digital assets against future threats](https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/) | Mon, 16 Ma |
 | Anthropic Blog | [Introducing Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) | 2026-03-13 |
 | Anthropic Blog | [Anthropic invests $100 million into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network) | 2026-03-12 |
 | Microsoft Research AI | [Systematic debugging for AI agents: Introducing the AgentRx framework](https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/) | Thu, 12 Ma |
