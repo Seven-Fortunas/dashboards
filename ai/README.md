@@ -1,25 +1,26 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-23 13:19:04 UTC
+**Last Updated:** 2026-03-23 19:02:12 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| PyTorch Releases | [Release v2.11.0](https://github.com/pytorch/pytorch/releases/tag/v2.11.0) | 2026-03-23 |
+| LangChain Releases | [Release langchain-core==1.2.21](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.21) | 2026-03-23 |
+| MIT Technology Review AI | [The hardest question to answer about AI-fueled delusions](https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/) | Mon, 23 Ma |
 | MIT Technology Review AI | [The Bay Area’s animal welfare movement wants to recruit AI](https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/) | Mon, 23 Ma |
+| OpenAI Blog | [Creating with Sora Safely](https://openai.com/index/creating-with-sora-safely) | Mon, 23 Ma |
 | MIT Technology Review AI | [OpenAI is throwing everything into building a fully automated researcher](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/) | Fri, 20 Ma |
 | OpenAI Blog | [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment) | Thu, 19 Ma |
 | OpenAI Blog | [OpenAI to acquire Astral](https://openai.com/index/openai-to-acquire-astral) | Thu, 19 Ma |
-| LangChain Releases | [Release langchain-core==1.2.20](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.20) | 2026-03-18 |
 | MIT Technology Review AI | [The Pentagon is planning for AI companies to train on classified data, defense o](https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/) | Tue, 17 Ma |
 | DeepMind Blog | [Measuring progress toward AGI: A cognitive framework](https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/) | Tue, 17 Ma |
 | Google AI Blog | [Bringing the power of Personal Intelligence to more people](https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/) | Tue, 17 Ma |
 | Google AI Blog | [Our latest investment in open source security for the AI era](https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/) | Tue, 17 Ma |
 | OpenAI Blog | [Introducing GPT-5.4 mini and nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano) | Tue, 17 Ma |
 | OpenAI Blog | [OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first](https://openai.com/index/japan-teen-safety-blueprint) | Tue, 17 Ma |
-| OpenAI Blog | [Equipping workers with insights about compensation](https://openai.com/index/equipping-workers-with-insights-about-compensation) | Tue, 17 Ma |
 | MIT Technology Review AI | [Where OpenAI’s technology could show up in Iran](https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/) | Mon, 16 Ma |
-| MIT Technology Review AI | [Nurturing agentic AI beyond the toddler stage](https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/) | Mon, 16 Ma |
 | Anthropic Blog | [Introducing Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) | 2026-03-13 |
 | Anthropic Blog | [Anthropic invests $100 million into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network) | 2026-03-12 |
 | Microsoft Research AI | [Systematic debugging for AI agents: Introducing the AgentRx framework](https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/) | Thu, 12 Ma |
