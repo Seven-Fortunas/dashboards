@@ -1,12 +1,44 @@
 {
   "updates": [
     {
+      "source": "PyTorch Releases",
+      "type": "github",
+      "title": "Release v2.11.0",
+      "link": "https://github.com/pytorch/pytorch/releases/tag/v2.11.0",
+      "published": "2026-03-23T18:38:28Z",
+      "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.2.21",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.21",
+      "published": "2026-03-23T18:01:16Z",
+      "summary": "Changes since langchain-core==1.2.20\n\nrelease(core): 1.2.21 (#36179)\nfix(core,model-profiles): add missing `ModelProfile` fields, warn on schema drift (#36129)\nchore(core): remove stale blockbuster al"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "The hardest question to answer about AI-fueled delusions",
+      "link": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+      "published": "Mon, 23 Mar 2026 16:31:20 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. I was originally going to write this week\u2019s newsletter about A"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "The Bay Area\u2019s animal welfare movement wants to recruit AI",
       "link": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
       "published": "Mon, 23 Mar 2026 09:00:00 +0000",
       "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Creating with Sora Safely",
+      "link": "https://openai.com/index/creating-with-sora-safely",
+      "published": "Mon, 23 Mar 2026 00:00:00 GMT",
+      "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we\u2019ve built Sora 2 and the Sora app with safety at the foundation. Our approac"
     },
     {
       "source": "MIT Technology Review AI",
@@ -31,14 +63,6 @@
       "link": "https://openai.com/index/openai-to-acquire-astral",
       "published": "Thu, 19 Mar 2026 00:00:00 GMT",
       "summary": "Accelerates Codex growth to power the next generation of Python developer tools"
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.2.20",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.20",
-      "published": "2026-03-18T17:34:58Z",
-      "summary": "Changes since langchain-core==1.2.19\n\nrelease(core): 1.2.20 (#36085)\nfix(core): trace invocation params in metadata (#36080)\nfeat: Add LangSmith integration metadata to create_agent and init_chat_mode"
     },
     {
       "source": "MIT Technology Review AI",
@@ -89,28 +113,12 @@
       "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Equipping workers with insights about compensation",
-      "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-      "published": "Tue, 17 Mar 2026 00:00:00 GMT",
-      "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Where OpenAI\u2019s technology could show up in Iran",
       "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
       "published": "Mon, 16 Mar 2026 17:06:21 +0000",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. It&#8217;s been just over two weeks since OpenAI reached a con"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Nurturing agentic AI beyond the toddler stage",
-      "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
-      "published": "Mon, 16 Mar 2026 13:00:00 +0000",
-      "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark"
     },
     {
       "source": "Anthropic Blog",
@@ -249,8 +257,8 @@
       "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
     }
   ],
-  "timestamp": "2026-03-23T13:19:04.375867",
-  "last_updated": "2026-03-23T13:19:04.375867",
+  "timestamp": "2026-03-23T19:02:12.920228",
+  "last_updated": "2026-03-23T19:02:12.920228",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
