@@ -99,18 +99,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Introducing GPT-5.4 mini and nano",
-      "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
       "link": "https://openai.com/index/japan-teen-safety-blueprint",
       "published": "Tue, 17 Mar 2026 10:00:00 GMT",
       "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing GPT-5.4 mini and nano",
+      "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "published": "Tue, 17 Mar 2026 10:00:00 GMT",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
     },
     {
       "source": "MIT Technology Review AI",
@@ -257,8 +257,8 @@
       "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
     }
   ],
-  "timestamp": "2026-03-24T02:33:56.805855",
-  "last_updated": "2026-03-24T02:33:56.805855",
+  "timestamp": "2026-03-24T07:11:32.617311",
+  "last_updated": "2026-03-24T07:11:32.617311",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
