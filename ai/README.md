@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-25 07:09:12 UTC
+**Last Updated:** 2026-03-25 13:22:05 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Agentic commerce runs on truth and context](https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/) | Wed, 25 Ma |
+| MIT Technology Review AI | [The AI Hype Index: AI goes to war](https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/) | Wed, 25 Ma |
 | LangChain Releases | [Release langchain-core==1.2.22](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.22) | 2026-03-24 |
 | OpenAI Blog | [Helping developers build safer AI experiences for teens](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard) | Tue, 24 Ma |
 | OpenAI Blog | [Update on the OpenAI Foundation](https://openai.com/index/update-on-the-openai-foundation) | Tue, 24 Ma |
@@ -16,11 +18,9 @@
 | OpenAI Blog | [Creating with Sora Safely](https://openai.com/index/creating-with-sora-safely) | Mon, 23 Ma |
 | MIT Technology Review AI | [OpenAI is throwing everything into building a fully automated researcher](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/) | Fri, 20 Ma |
 | OpenAI Blog | [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment) | Thu, 19 Ma |
-| MIT Technology Review AI | [The Pentagon is planning for AI companies to train on classified data, defense o](https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/) | Tue, 17 Ma |
 | DeepMind Blog | [Measuring progress toward AGI: A cognitive framework](https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/) | Tue, 17 Ma |
 | Google AI Blog | [Bringing the power of Personal Intelligence to more people](https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/) | Tue, 17 Ma |
 | Google AI Blog | [Our latest investment in open source security for the AI era](https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/) | Tue, 17 Ma |
-| MIT Technology Review AI | [Where OpenAI’s technology could show up in Iran](https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/) | Mon, 16 Ma |
 | Anthropic Blog | [Introducing Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) | 2026-03-13 |
 | Anthropic Blog | [Anthropic invests $100 million into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network) | 2026-03-12 |
 | Microsoft Research AI | [Systematic debugging for AI agents: Introducing the AgentRx framework](https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/) | Thu, 12 Ma |
