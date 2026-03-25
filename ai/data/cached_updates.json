@@ -153,30 +153,6 @@
       "summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Claude Opus 4.6",
-      "link": "https://www.anthropic.com/news/claude-opus-4-6",
-      "published": "2026-03-11T17:28:58.000Z",
-      "summary": "We\u2019re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Sonnet 4.6",
-      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "published": "2026-03-11T17:28:36.000Z",
-      "summary": "Claude Sonnet 4.6 is a full upgrade of the model\u2019s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing The Anthropic Institute",
-      "link": "https://www.anthropic.com/news/the-anthropic-institute",
-      "published": "2026-03-11T15:17:09.000Z",
-      "summary": "We\u2019re launching The Anthropic Institute, a new effort to confront the most significant challenges that powerful AI will pose to our societies."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "PlugMem: Transforming raw agent interactions into reusable knowledge",
@@ -257,8 +233,8 @@
       "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
     }
   ],
-  "timestamp": "2026-03-24T19:11:16.176153",
-  "last_updated": "2026-03-24T19:11:16.176153",
+  "timestamp": "2026-03-25T02:39:12.713077",
+  "last_updated": "2026-03-25T02:39:12.713077",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
