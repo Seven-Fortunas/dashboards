@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-24 19:11:16 UTC
+**Last Updated:** 2026-03-25 02:39:12 UTC
 
 ## Latest Updates
 
@@ -25,9 +25,6 @@
 | Anthropic Blog | [Anthropic invests $100 million into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network) | 2026-03-12 |
 | Microsoft Research AI | [Systematic debugging for AI agents: Introducing the AgentRx framework](https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/) | Thu, 12 Ma |
 | Google AI Blog | [How AI is helping improve heart health in rural Australia](https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/) | Thu, 12 Ma |
-| Anthropic Blog | [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6) | 2026-03-11 |
-| Anthropic Blog | [Introducing Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) | 2026-03-11 |
-| Anthropic Blog | [Introducing The Anthropic Institute](https://www.anthropic.com/news/the-anthropic-institute) | 2026-03-11 |
 | Microsoft Research AI | [PlugMem: Transforming raw agent interactions into reusable knowledge](https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/) | Tue, 10 Ma |
 | Google AI Blog | [Gemini in Google Sheets just achieved state-of-the-art performance.](https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/) | Tue, 10 Ma |
 | DeepMind Blog | [From games to biology and beyond: 10 years of AlphaGo’s impact](https://deepmind.google/blog/10-years-of-alphago/) | Mon, 09 Ma |
