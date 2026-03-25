@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Agentic commerce runs on truth and context",
+      "link": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+      "published": "Wed, 25 Mar 2026 11:48:13 +0000",
+      "summary": "Imagine telling a digital agent, \u201cUse my points and book a family trip to Italy. Keep it within budget, pick hotels we\u2019ve liked before, and handle the details.\u201d Instead of returning a list of links, t"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "The AI Hype Index: AI goes to war",
+      "link": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+      "published": "Wed, 25 Mar 2026 09:00:00 +0000",
+      "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic\u2019s AI model Claude; then OpenAI swept the Pentagon off its feet with an \u201copportunistic and sloppy\u201d deal. Users quit ChatG"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.2.22",
@@ -81,14 +97,6 @@
       "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents\u2014analyzing real-world deployments to detect risks and strengthen AI safety safeguards."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-      "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-      "published": "Tue, 17 Mar 2026 22:30:46 +0000",
-      "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#1"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Measuring progress toward AGI: A cognitive framework",
@@ -111,14 +119,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
       "published": "Tue, 17 Mar 2026 16:00:00 +0000",
       "summary": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Where OpenAI\u2019s technology could show up in Iran",
-      "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
-      "published": "Mon, 16 Mar 2026 17:06:21 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. It&#8217;s been just over two weeks since OpenAI reached a con"
     },
     {
       "source": "Anthropic Blog",
@@ -233,8 +233,8 @@
       "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
     }
   ],
-  "timestamp": "2026-03-25T07:09:12.024956",
-  "last_updated": "2026-03-25T07:09:12.024956",
+  "timestamp": "2026-03-25T13:22:05.663109",
+  "last_updated": "2026-03-25T13:22:05.663109",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
