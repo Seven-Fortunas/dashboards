@@ -161,14 +161,6 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic invests $100 million into the Claude Partner Network",
-      "link": "https://www.anthropic.com/news/claude-partner-network",
-      "published": "2026-03-12T19:25:16.000Z",
-      "summary": "We\u2019re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
@@ -249,8 +241,8 @@
       "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
     }
   ],
-  "timestamp": "2026-03-25T19:02:25.474587",
-  "last_updated": "2026-03-25T19:02:25.474587",
+  "timestamp": "2026-03-26T02:46:23.803233",
+  "last_updated": "2026-03-26T02:46:23.803233",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
