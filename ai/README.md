@@ -1,15 +1,16 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-26 07:16:33 UTC
+**Last Updated:** 2026-03-26 13:39:43 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Partnering with Mozilla to improve Firefox’s security](https://www.anthropic.com/news/mozilla-firefox-security) | 2026-03-26 |
+| DeepMind Blog | [Protecting people from harmful manipulation](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/) | Wed, 25 Ma |
 | DeepMind Blog | [Lyria 3 Pro: Create longer tracks in more](https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/) | Wed, 25 Ma |
 | Google AI Blog | [Build with Lyria 3, our newest music generation model](https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/) | Wed, 25 Ma |
 | Google AI Blog | [Lyria 3 Pro: Create longer tracks in more Google products](https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/) | Wed, 25 Ma |
-| Anthropic Blog | [Partnering with Mozilla to improve Firefox’s security](https://www.anthropic.com/news/mozilla-firefox-security) | 2026-03-25 |
 | MIT Technology Review AI | [This startup wants to change how mathematicians do math](https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/) | Wed, 25 Ma |
 | MIT Technology Review AI | [Agentic commerce runs on truth and context](https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/) | Wed, 25 Ma |
 | OpenAI Blog | [Inside our approach to the Model Spec](https://openai.com/index/our-approach-to-the-model-spec) | Wed, 25 Ma |
@@ -35,4 +36,3 @@
 | HuggingFace Transformers | [Release v5.3.0](https://github.com/huggingface/transformers/releases/tag/v5.3.0) | 2026-03-04 |
 | DeepMind Blog | [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/) | Tue, 03 Ma |
 | Microsoft Research AI | [CORPGEN advances AI agents for real work](https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/) | Thu, 26 Fe |
-| DeepMind Blog | [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/) | Thu, 26 Fe |
