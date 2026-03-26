@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Partnering with Mozilla to improve Firefox\u2019s security",
+      "link": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "published": "2026-03-26T11:05:56.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Protecting people from harmful manipulation",
+      "link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+      "published": "Wed, 25 Mar 2026 16:46:20 +0000",
+      "summary": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures."
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Lyria 3 Pro: Create longer tracks in more",
@@ -23,14 +39,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
       "published": "Wed, 25 Mar 2026 16:00:00 +0000",
       "summary": "Sizzle video showing new capabilities from Lyria 3 Pro"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Partnering with Mozilla to improve Firefox\u2019s security",
-      "link": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "published": "2026-03-25T14:43:53.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "MIT Technology Review AI",
@@ -231,18 +239,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/",
       "published": "Thu, 26 Feb 2026 17:06:34 +0000",
       "summary": "<p>By mid-morning, a typical knowledge worker is already juggling a client report, a budget spreadsheet, a slide deck, and an email backlog, all interdependent and all demanding attention at once. For"
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-      "link": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
-      "published": "Thu, 26 Feb 2026 16:01:50 +0000",
-      "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
     }
   ],
-  "timestamp": "2026-03-26T07:16:33.382888",
-  "last_updated": "2026-03-26T07:16:33.382888",
+  "timestamp": "2026-03-26T13:39:43.137977",
+  "last_updated": "2026-03-26T13:39:43.137977",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
