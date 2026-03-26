@@ -1,6 +1,62 @@
 {
   "updates": [
     {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "AsgardBench: A\u00a0benchmark for\u00a0visually grounded interactive\u00a0planning",
+      "link": "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
+      "published": "Thu, 26 Mar 2026 19:02:53 +0000",
+      "summary": "<p>Imagine a robot tasked with cleaning a kitchen. It needs to observe its environment, decide what to do, and adjust when things don&#8217;t go as expected, for example, when the mug it was tasked to"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+      "published": "Thu, 26 Mar 2026 17:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp\" />In the latest episode of our Dialogues on Technology and Society "
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
+      "link": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
+      "published": "Thu, 26 Mar 2026 16:03:56 +0000",
+      "summary": "<p>Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two s"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Transform your headphones into a live personal translator on iOS.",
+      "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+      "published": "Thu, 26 Mar 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp\" />Google Translate\u2019s Live translate with headphones is officiall"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "published": "Thu, 26 Mar 2026 15:23:35 +0000",
+      "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+      "published": "Thu, 26 Mar 2026 15:21:00 +0000",
+      "summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Search Live is expanding globally",
+      "link": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+      "published": "Thu, 26 Mar 2026 15:00:00 +0000",
+      "summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Partnering with Mozilla to improve Firefox\u2019s security",
@@ -31,14 +87,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
       "published": "Wed, 25 Mar 2026 16:00:00 +0000",
       "summary": "Google Lyria teaser"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
-      "published": "Wed, 25 Mar 2026 16:00:00 +0000",
-      "summary": "Sizzle video showing new capabilities from Lyria 3 Pro"
     },
     {
       "source": "MIT Technology Review AI",
@@ -99,18 +147,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Update on the OpenAI Foundation",
-      "link": "https://openai.com/index/update-on-the-openai-foundation",
-      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
-      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Powering product discovery in ChatGPT",
       "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "published": "Tue, 24 Mar 2026 09:00:00 GMT",
       "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Update on the OpenAI Foundation",
+      "link": "https://openai.com/index/update-on-the-openai-foundation",
+      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
     },
     {
       "source": "PyTorch Releases",
@@ -145,22 +193,6 @@
       "summary": "We\u2019re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations."
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Bringing the power of Personal Intelligence to more people",
-      "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
-      "published": "Tue, 17 Mar 2026 16:00:00 +0000",
-      "summary": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Our latest investment in open source security for the AI era",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
-      "published": "Tue, 17 Mar 2026 16:00:00 +0000",
-      "summary": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Opus 4.5",
@@ -175,14 +207,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
       "published": "Thu, 12 Mar 2026 16:38:45 +0000",
       "summary": "<p>As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge ha"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "How AI is helping improve heart health in rural Australia",
-      "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
-      "published": "Thu, 12 Mar 2026 15:00:00 +0000",
-      "summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background."
     },
     {
       "source": "Microsoft Research AI",
@@ -223,26 +247,10 @@
       "link": "https://github.com/huggingface/transformers/releases/tag/v5.3.0",
       "published": "2026-03-04T17:42:16Z",
       "summary": "## New Model additions\r\n\r\n### EuroBERT\r\n\r\n<img width=\"1080\" height=\"1080\" alt=\"image\" src=\"https://github.com/user-attachments/assets/33603f42-5435-421a-9641-baf72faacb22\" />\r\n\r\nEuroBERT is a multilin"
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-      "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
-      "published": "Tue, 03 Mar 2026 16:35:55 +0000",
-      "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet."
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "CORPGEN advances AI agents for real work",
-      "link": "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/",
-      "published": "Thu, 26 Feb 2026 17:06:34 +0000",
-      "summary": "<p>By mid-morning, a typical knowledge worker is already juggling a client report, a budget spreadsheet, a slide deck, and an email backlog, all interdependent and all demanding attention at once. For"
     }
   ],
-  "timestamp": "2026-03-26T13:39:43.137977",
-  "last_updated": "2026-03-26T13:39:43.137977",
+  "timestamp": "2026-03-26T19:14:50.846281",
+  "last_updated": "2026-03-26T19:14:50.846281",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
