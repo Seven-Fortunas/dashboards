@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-27 07:15:46 UTC
+**Last Updated:** 2026-03-27 13:17:08 UTC
 
 ## Latest Updates
 
@@ -14,7 +14,7 @@
 | DeepMind Blog | [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/) | Thu, 26 Ma |
 | Google AI Blog | [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/) | Thu, 26 Ma |
 | Google AI Blog | [Search Live is expanding globally](https://blog.google/products-and-platforms/products/search/search-live-global-expansion/) | Thu, 26 Ma |
-| Anthropic Blog | [Partnering with Mozilla to improve Firefox’s security](https://www.anthropic.com/news/mozilla-firefox-security) | 2026-03-26 |
+| Anthropic Blog | [Mozilla Firefox Security](https://www.anthropic.com/news/mozilla-firefox-security) | 2026-03-26 |
 | DeepMind Blog | [Protecting people from harmful manipulation](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/) | Wed, 25 Ma |
 | DeepMind Blog | [Lyria 3 Pro: Create longer tracks in more](https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/) | Wed, 25 Ma |
 | Google AI Blog | [Build with Lyria 3, our newest music generation model](https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/) | Wed, 25 Ma |
