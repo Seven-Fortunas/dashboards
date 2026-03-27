@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-26 19:14:50 UTC
+**Last Updated:** 2026-03-27 02:48:31 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| HuggingFace Transformers | [Release v5.4.0](https://github.com/huggingface/transformers/releases/tag/v5.4.0) | 2026-03-27 |
 | Microsoft Research AI | [AsgardBench: A benchmark for visually grounded interactive planning](https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/) | Thu, 26 Ma |
 | Google AI Blog | [Watch James Manyika talk AI and creativity with LL COOL J.](https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/) | Thu, 26 Ma |
 | Microsoft Research AI | [GroundedPlanBench: Spatially grounded long-horizon task planning for robot manip](https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/) | Thu, 26 Ma |
@@ -30,10 +31,8 @@
 | MIT Technology Review AI | [The hardest question to answer about AI-fueled delusions](https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/) | Mon, 23 Ma |
 | MIT Technology Review AI | [The Bay Area’s animal welfare movement wants to recruit AI](https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/) | Mon, 23 Ma |
 | DeepMind Blog | [Measuring progress toward AGI: A cognitive framework](https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/) | Tue, 17 Ma |
-| Anthropic Blog | [Introducing Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) | 2026-03-13 |
 | Microsoft Research AI | [Systematic debugging for AI agents: Introducing the AgentRx framework](https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/) | Thu, 12 Ma |
 | Microsoft Research AI | [PlugMem: Transforming raw agent interactions into reusable knowledge](https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/) | Tue, 10 Ma |
 | DeepMind Blog | [From games to biology and beyond: 10 years of AlphaGo’s impact](https://deepmind.google/blog/10-years-of-alphago/) | Mon, 09 Ma |
 | TensorFlow Releases | [Release v2.21.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0) | 2026-03-06 |
 | Microsoft Research AI | [Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/) | Wed, 04 Ma |
-| HuggingFace Transformers | [Release v5.3.0](https://github.com/huggingface/transformers/releases/tag/v5.3.0) | 2026-03-04 |

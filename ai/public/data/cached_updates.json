@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.4.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.4.0",
+      "published": "2026-03-27T00:33:02Z",
+      "summary": "## New Model additions\r\n\r\n### VidEoMT\r\n\r\n<img width=\"1480\" height=\"460\" alt=\"image\" src=\"https://github.com/user-attachments/assets/bec6fc25-b0ab-4227-8c2b-a838554f37f3\" />\r\n\r\nVideo Encoder-only Mask "
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "AsgardBench: A\u00a0benchmark for\u00a0visually grounded interactive\u00a0planning",
@@ -193,14 +201,6 @@
       "summary": "We\u2019re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Opus 4.5",
-      "link": "https://www.anthropic.com/news/claude-opus-4-5",
-      "published": "2026-03-13T20:56:07.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
@@ -239,18 +239,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
       "published": "Wed, 04 Mar 2026 18:05:57 +0000",
       "summary": "<p>We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open\u2011weight multimodal reasoning model, available through Microsoft Foundry (opens in new tab), HuggingFace (opens in n"
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.3.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.3.0",
-      "published": "2026-03-04T17:42:16Z",
-      "summary": "## New Model additions\r\n\r\n### EuroBERT\r\n\r\n<img width=\"1080\" height=\"1080\" alt=\"image\" src=\"https://github.com/user-attachments/assets/33603f42-5435-421a-9641-baf72faacb22\" />\r\n\r\nEuroBERT is a multilin"
     }
   ],
-  "timestamp": "2026-03-26T19:14:50.846281",
-  "last_updated": "2026-03-26T19:14:50.846281",
+  "timestamp": "2026-03-27T02:48:31.753111",
+  "last_updated": "2026-03-27T02:48:31.753111",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
