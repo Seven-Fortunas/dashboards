@@ -67,10 +67,10 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
-      "title": "Partnering with Mozilla to improve Firefox\u2019s security",
+      "title": "Mozilla Firefox Security",
       "link": "https://www.anthropic.com/news/mozilla-firefox-security",
       "published": "2026-03-26T11:05:56.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+      "summary": ""
     },
     {
       "source": "DeepMind Blog",
@@ -241,8 +241,8 @@
       "summary": "<p>We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open\u2011weight multimodal reasoning model, available through Microsoft Foundry (opens in new tab), HuggingFace (opens in n"
     }
   ],
-  "timestamp": "2026-03-27T07:15:46.476355",
-  "last_updated": "2026-03-27T07:15:46.476355",
+  "timestamp": "2026-03-27T13:17:08.326966",
+  "last_updated": "2026-03-27T13:17:08.326966",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
