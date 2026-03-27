@@ -155,18 +155,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Powering product discovery in ChatGPT",
-      "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
-      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Update on the OpenAI Foundation",
       "link": "https://openai.com/index/update-on-the-openai-foundation",
       "published": "Tue, 24 Mar 2026 09:00:00 GMT",
       "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Powering product discovery in ChatGPT",
+      "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
     },
     {
       "source": "PyTorch Releases",
@@ -241,8 +241,8 @@
       "summary": "<p>We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open\u2011weight multimodal reasoning model, available through Microsoft Foundry (opens in new tab), HuggingFace (opens in n"
     }
   ],
-  "timestamp": "2026-03-27T02:48:31.753111",
-  "last_updated": "2026-03-27T02:48:31.753111",
+  "timestamp": "2026-03-27T07:15:46.476355",
+  "last_updated": "2026-03-27T07:15:46.476355",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
