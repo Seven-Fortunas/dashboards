@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-27 13:17:08 UTC
+**Last Updated:** 2026-03-27 19:01:58 UTC
 
 ## Latest Updates
 
@@ -14,7 +14,7 @@
 | DeepMind Blog | [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/) | Thu, 26 Ma |
 | Google AI Blog | [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/) | Thu, 26 Ma |
 | Google AI Blog | [Search Live is expanding globally](https://blog.google/products-and-platforms/products/search/search-live-global-expansion/) | Thu, 26 Ma |
-| Anthropic Blog | [Mozilla Firefox Security](https://www.anthropic.com/news/mozilla-firefox-security) | 2026-03-26 |
+| Anthropic Blog | [Partnering with Mozilla to improve Firefox’s security](https://www.anthropic.com/news/mozilla-firefox-security) | 2026-03-26 |
 | DeepMind Blog | [Protecting people from harmful manipulation](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/) | Wed, 25 Ma |
 | DeepMind Blog | [Lyria 3 Pro: Create longer tracks in more](https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/) | Wed, 25 Ma |
 | Google AI Blog | [Build with Lyria 3, our newest music generation model](https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/) | Wed, 25 Ma |
@@ -25,8 +25,8 @@
 | OpenAI Blog | [Introducing the OpenAI Safety Bug Bounty program](https://openai.com/index/safety-bug-bounty) | Wed, 25 Ma |
 | LangChain Releases | [Release langchain-core==1.2.22](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.22) | 2026-03-24 |
 | OpenAI Blog | [Helping developers build safer AI experiences for teens](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard) | Tue, 24 Ma |
-| OpenAI Blog | [Update on the OpenAI Foundation](https://openai.com/index/update-on-the-openai-foundation) | Tue, 24 Ma |
 | OpenAI Blog | [Powering product discovery in ChatGPT](https://openai.com/index/powering-product-discovery-in-chatgpt) | Tue, 24 Ma |
+| OpenAI Blog | [Update on the OpenAI Foundation](https://openai.com/index/update-on-the-openai-foundation) | Tue, 24 Ma |
 | PyTorch Releases | [Release v2.11.0](https://github.com/pytorch/pytorch/releases/tag/v2.11.0) | 2026-03-23 |
 | MIT Technology Review AI | [The hardest question to answer about AI-fueled delusions](https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/) | Mon, 23 Ma |
 | MIT Technology Review AI | [The Bay Area’s animal welfare movement wants to recruit AI](https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/) | Mon, 23 Ma |

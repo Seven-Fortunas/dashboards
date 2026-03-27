@@ -67,10 +67,10 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
-      "title": "Mozilla Firefox Security",
+      "title": "Partnering with Mozilla to improve Firefox\u2019s security",
       "link": "https://www.anthropic.com/news/mozilla-firefox-security",
       "published": "2026-03-26T11:05:56.000Z",
-      "summary": ""
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "DeepMind Blog",
@@ -155,18 +155,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Update on the OpenAI Foundation",
-      "link": "https://openai.com/index/update-on-the-openai-foundation",
-      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
-      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Powering product discovery in ChatGPT",
       "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "published": "Tue, 24 Mar 2026 09:00:00 GMT",
       "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Update on the OpenAI Foundation",
+      "link": "https://openai.com/index/update-on-the-openai-foundation",
+      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
     },
     {
       "source": "PyTorch Releases",
@@ -241,8 +241,8 @@
       "summary": "<p>We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open\u2011weight multimodal reasoning model, available through Microsoft Foundry (opens in new tab), HuggingFace (opens in n"
     }
   ],
-  "timestamp": "2026-03-27T13:17:08.326966",
-  "last_updated": "2026-03-27T13:17:08.326966",
+  "timestamp": "2026-03-27T19:01:58.206409",
+  "last_updated": "2026-03-27T19:01:58.206409",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
