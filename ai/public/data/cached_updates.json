@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.2.23",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.23",
+      "published": "2026-03-27T23:28:27Z",
+      "summary": "Changes since langchain-core==1.2.22\n\nrelease(core): 1.2.23 (#36323)\nrevert: Revert \"fix(core): trace invocation params in metadata\" (#36322)\nchore: bump requests from 2.32.5 to 2.33.0 in /libs/core ("
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "link": "https://openai.com/index/stadler",
+      "published": "Fri, 27 Mar 2026 22:00:00 GMT",
+      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees."
+    },
+    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.4.0",
@@ -137,14 +153,6 @@
       "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.2.22",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.22",
-      "published": "2026-03-24T18:49:00Z",
-      "summary": "Changes since langchain-core==1.2.21\n\nrelease(core): 1.2.22 (#36201)\nfix(core): validate paths in `prompt.save` and `load_prompt`, deprecate methods (#36200)"
-    },
-    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Helping developers build safer AI experiences for teens",
@@ -159,14 +167,6 @@
       "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "published": "Tue, 24 Mar 2026 09:00:00 GMT",
       "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Update on the OpenAI Foundation",
-      "link": "https://openai.com/index/update-on-the-openai-foundation",
-      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
-      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
     },
     {
       "source": "PyTorch Releases",
@@ -241,8 +241,8 @@
       "summary": "<p>We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open\u2011weight multimodal reasoning model, available through Microsoft Foundry (opens in new tab), HuggingFace (opens in n"
     }
   ],
-  "timestamp": "2026-03-27T19:01:58.206409",
-  "last_updated": "2026-03-27T19:01:58.206409",
+  "timestamp": "2026-03-28T02:37:52.193515",
+  "last_updated": "2026-03-28T02:37:52.193515",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
