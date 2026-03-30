@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-30 02:54:59 UTC
+**Last Updated:** 2026-03-30 07:49:56 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Helping disaster response teams turn AI into action across Asia](https://openai.com/index/helping-disaster-response-teams-asia) | Sun, 29 Ma |
 | LangChain Releases | [Release langchain-core==1.2.23](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.23) | 2026-03-27 |
 | OpenAI Blog | [STADLER reshapes knowledge work at a 230-year-old company](https://openai.com/index/stadler) | Fri, 27 Ma |
 | HuggingFace Transformers | [Release v5.4.0](https://github.com/huggingface/transformers/releases/tag/v5.4.0) | 2026-03-27 |
@@ -26,7 +27,6 @@
 | MIT Technology Review AI | [The AI Hype Index: AI goes to war](https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/) | Wed, 25 Ma |
 | OpenAI Blog | [Introducing the OpenAI Safety Bug Bounty program](https://openai.com/index/safety-bug-bounty) | Wed, 25 Ma |
 | OpenAI Blog | [Helping developers build safer AI experiences for teens](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard) | Tue, 24 Ma |
-| OpenAI Blog | [Powering product discovery in ChatGPT](https://openai.com/index/powering-product-discovery-in-chatgpt) | Tue, 24 Ma |
 | PyTorch Releases | [Release v2.11.0](https://github.com/pytorch/pytorch/releases/tag/v2.11.0) | 2026-03-23 |
 | MIT Technology Review AI | [The hardest question to answer about AI-fueled delusions](https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/) | Mon, 23 Ma |
 | MIT Technology Review AI | [The Bay Area’s animal welfare movement wants to recruit AI](https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/) | Mon, 23 Ma |
