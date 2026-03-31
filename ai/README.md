@@ -1,11 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-31 13:43:53 UTC
+**Last Updated:** 2026-03-31 19:08:42 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Google AI Blog | [Build with Veo 3.1 Lite, our most cost-effective video generation model](https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/) | Tue, 31 Ma |
+| MIT Technology Review AI | [Shifting to AI model customization is an architectural imperative](https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/) | Tue, 31 Ma |
+| MIT Technology Review AI | [AI benchmarks are broken. Here’s what we need instead.](https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/) | Tue, 31 Ma |
 | MIT Technology Review AI | [There are more AI health tools than ever—but how well do they work?](https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/) | Mon, 30 Ma |
 | MIT Technology Review AI | [The Pentagon’s culture war tactic against Anthropic has backfired](https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/) | Mon, 30 Ma |
 | OpenAI Blog | [Helping disaster response teams turn AI into action across Asia](https://openai.com/index/helping-disaster-response-teams-asia) | Sun, 29 Ma |
@@ -22,11 +25,8 @@
 | Anthropic Blog | [Partnering with Mozilla to improve Firefox’s security](https://www.anthropic.com/news/mozilla-firefox-security) | 2026-03-26 |
 | DeepMind Blog | [Protecting people from harmful manipulation](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/) | Wed, 25 Ma |
 | DeepMind Blog | [Lyria 3 Pro: Create longer tracks in more](https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/) | Wed, 25 Ma |
-| Google AI Blog | [Build with Lyria 3, our newest music generation model](https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/) | Wed, 25 Ma |
 | MIT Technology Review AI | [This startup wants to change how mathematicians do math](https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/) | Wed, 25 Ma |
-| MIT Technology Review AI | [Agentic commerce runs on truth and context](https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/) | Wed, 25 Ma |
 | OpenAI Blog | [Inside our approach to the Model Spec](https://openai.com/index/our-approach-to-the-model-spec) | Wed, 25 Ma |
-| MIT Technology Review AI | [The AI Hype Index: AI goes to war](https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/) | Wed, 25 Ma |
 | OpenAI Blog | [Introducing the OpenAI Safety Bug Bounty program](https://openai.com/index/safety-bug-bounty) | Wed, 25 Ma |
 | OpenAI Blog | [Helping developers build safer AI experiences for teens](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard) | Tue, 24 Ma |
 | PyTorch Releases | [Release v2.11.0](https://github.com/pytorch/pytorch/releases/tag/v2.11.0) | 2026-03-23 |
