@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "ADeLe: Predicting and explaining AI performance across tasks",
+      "link": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+      "published": "Wed, 01 Apr 2026 16:00:58 +0000",
+      "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "We\u2019re creating a new satellite imagery map to help protect Brazil\u2019s forests.",
@@ -239,18 +247,10 @@
       "link": "https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0",
       "published": "2026-03-06T19:48:15Z",
       "summary": "# Release 2.21.0\r\n\r\n## TensorFlow\r\n\r\n### Breaking Changes\r\n\r\n* Support for Python 3.9 has been removed starting with TF 2.21.\r\n* The TensorBoard (TB) dependency has been removed starting with TF 2.21."
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
-      "link": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
-      "published": "Wed, 04 Mar 2026 18:05:57 +0000",
-      "summary": "<p>We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open\u2011weight multimodal reasoning model, available through Microsoft Foundry (opens in new tab), HuggingFace (opens in n"
     }
   ],
-  "timestamp": "2026-04-01T13:46:09.344669",
-  "last_updated": "2026-04-01T13:46:09.344669",
+  "timestamp": "2026-04-01T19:10:04.364493",
+  "last_updated": "2026-04-01T19:10:04.364493",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
