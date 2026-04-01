@@ -1,13 +1,15 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-03-31 19:08:42 UTC
+**Last Updated:** 2026-04-01 03:18:07 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Australian government and Anthropic sign MOU for AI safety and research](https://www.anthropic.com/news/australia-MOU) | 2026-03-31 |
 | Google AI Blog | [Build with Veo 3.1 Lite, our most cost-effective video generation model](https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/) | Tue, 31 Ma |
 | MIT Technology Review AI | [Shifting to AI model customization is an architectural imperative](https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/) | Tue, 31 Ma |
+| OpenAI Blog | [Accelerating the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai) | Tue, 31 Ma |
 | MIT Technology Review AI | [AI benchmarks are broken. Here’s what we need instead.](https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/) | Tue, 31 Ma |
 | MIT Technology Review AI | [There are more AI health tools than ever—but how well do they work?](https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/) | Mon, 30 Ma |
 | MIT Technology Review AI | [The Pentagon’s culture war tactic against Anthropic has backfired](https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/) | Mon, 30 Ma |
@@ -28,7 +30,6 @@
 | MIT Technology Review AI | [This startup wants to change how mathematicians do math](https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/) | Wed, 25 Ma |
 | OpenAI Blog | [Inside our approach to the Model Spec](https://openai.com/index/our-approach-to-the-model-spec) | Wed, 25 Ma |
 | OpenAI Blog | [Introducing the OpenAI Safety Bug Bounty program](https://openai.com/index/safety-bug-bounty) | Wed, 25 Ma |
-| OpenAI Blog | [Helping developers build safer AI experiences for teens](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard) | Tue, 24 Ma |
 | PyTorch Releases | [Release v2.11.0](https://github.com/pytorch/pytorch/releases/tag/v2.11.0) | 2026-03-23 |
 | DeepMind Blog | [Measuring progress toward AGI: A cognitive framework](https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/) | Tue, 17 Ma |
 | Microsoft Research AI | [Systematic debugging for AI agents: Introducing the AgentRx framework](https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/) | Thu, 12 Ma |
