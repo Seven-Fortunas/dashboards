@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "We\u2019re creating a new satellite imagery map to help protect Brazil\u2019s forests.",
+      "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+      "published": "Wed, 01 Apr 2026 13:30:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\" />Google partnered with the Brazilian government on a sa"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "The latest AI news we announced in March 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "published": "Wed, 01 Apr 2026 13:00:00 +0000",
+      "summary": "March 2026 AI Recap showing new updates"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "The gig workers who are training humanoid robots at home",
+      "link": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+      "published": "Wed, 01 Apr 2026 11:00:00 +0000",
+      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "link": "https://openai.com/index/gradient-labs",
+      "published": "Wed, 01 Apr 2026 02:00:00 GMT",
+      "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Australian government and Anthropic sign MOU for AI safety and research",
@@ -129,22 +161,6 @@
       "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise."
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
-      "published": "Thu, 26 Mar 2026 15:21:00 +0000",
-      "summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Search Live is expanding globally",
-      "link": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
-      "published": "Thu, 26 Mar 2026 15:00:00 +0000",
-      "summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Partnering with Mozilla to improve Firefox\u2019s security",
@@ -169,28 +185,12 @@
       "summary": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We\u2019re also bringing Lyria to more Google products and surfaces."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "This startup wants to change how mathematicians do math",
-      "link": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-      "published": "Wed, 25 Mar 2026 13:59:17 +0000",
-      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing proble"
-    },
-    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Inside our approach to the Model Spec",
       "link": "https://openai.com/index/our-approach-to-the-model-spec",
       "published": "Wed, 25 Mar 2026 10:00:00 GMT",
       "summary": "Learn how OpenAI\u2019s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing the OpenAI Safety Bug Bounty program",
-      "link": "https://openai.com/index/safety-bug-bounty",
-      "published": "Wed, 25 Mar 2026 00:00:00 GMT",
-      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
     },
     {
       "source": "PyTorch Releases",
@@ -249,8 +249,8 @@
       "summary": "<p>We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open\u2011weight multimodal reasoning model, available through Microsoft Foundry (opens in new tab), HuggingFace (opens in n"
     }
   ],
-  "timestamp": "2026-04-01T07:41:49.728855",
-  "last_updated": "2026-04-01T07:41:49.728855",
+  "timestamp": "2026-04-01T13:46:09.344669",
+  "last_updated": "2026-04-01T13:46:09.344669",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
