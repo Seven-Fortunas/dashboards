@@ -1,6 +1,46 @@
 {
   "updates": [
     {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.5.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.5.0",
+      "published": "2026-04-02T16:15:33Z",
+      "summary": "# Release v5.5.0\r\n\r\n<img width=\"2786\" height=\"1504\" alt=\"image\" src=\"https://github.com/user-attachments/assets/6c8c878f-042b-4858-9f64-73fd9ccd7e4b\" />\r\n\r\n## New Model additions\r\n\r\n### Gemma4\r\n\r\n[Gem"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+      "published": "Thu, 02 Apr 2026 16:00:49 +0000",
+      "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Create, edit and share videos at no cost in Google Vids",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "published": "Thu, 02 Apr 2026 16:00:00 +0000",
+      "summary": "Google Vids logo surrounded by various video editing UI"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI acquires TBPN",
+      "link": "https://openai.com/index/openai-acquires-tbpn",
+      "published": "Thu, 02 Apr 2026 10:30:00 GMT",
+      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Codex now offers more flexible pricing for teams",
+      "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "published": "Thu, 02 Apr 2026 10:00:00 GMT",
+      "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption."
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.2.24",
@@ -113,22 +153,6 @@
       "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "STADLER reshapes knowledge work at a 230-year-old company",
-      "link": "https://openai.com/index/stadler",
-      "published": "Fri, 27 Mar 2026 22:00:00 GMT",
-      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees."
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.4.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.4.0",
-      "published": "2026-03-27T00:33:02Z",
-      "summary": "## New Model additions\r\n\r\n### VidEoMT\r\n\r\n<img width=\"1480\" height=\"460\" alt=\"image\" src=\"https://github.com/user-attachments/assets/bec6fc25-b0ab-4227-8c2b-a838554f37f3\" />\r\n\r\nVideo Encoder-only Mask "
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "AsgardBench: A\u00a0benchmark for\u00a0visually grounded interactive\u00a0planning",
@@ -151,14 +175,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
       "published": "Thu, 26 Mar 2026 16:03:56 +0000",
       "summary": "<p>Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two s"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Transform your headphones into a live personal translator on iOS.",
-      "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
-      "published": "Thu, 26 Mar 2026 16:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp\" />Google Translate\u2019s Live translate with headphones is officiall"
     },
     {
       "source": "DeepMind Blog",
@@ -193,14 +209,6 @@
       "summary": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We\u2019re also bringing Lyria to more Google products and surfaces."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Inside our approach to the Model Spec",
-      "link": "https://openai.com/index/our-approach-to-the-model-spec",
-      "published": "Wed, 25 Mar 2026 10:00:00 GMT",
-      "summary": "Learn how OpenAI\u2019s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance."
-    },
-    {
       "source": "PyTorch Releases",
       "type": "github",
       "title": "Release v2.11.0",
@@ -233,14 +241,6 @@
       "summary": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficul"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
-      "link": "https://deepmind.google/blog/10-years-of-alphago/",
-      "published": "Mon, 09 Mar 2026 13:52:36 +0000",
-      "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI."
-    },
-    {
       "source": "TensorFlow Releases",
       "type": "github",
       "title": "Release v2.21.0",
@@ -249,8 +249,8 @@
       "summary": "# Release 2.21.0\r\n\r\n## TensorFlow\r\n\r\n### Breaking Changes\r\n\r\n* Support for Python 3.9 has been removed starting with TF 2.21.\r\n* The TensorBoard (TB) dependency has been removed starting with TF 2.21."
     }
   ],
-  "timestamp": "2026-04-02T13:25:13.705080",
-  "last_updated": "2026-04-02T13:25:13.705080",
+  "timestamp": "2026-04-02T19:03:07.609697",
+  "last_updated": "2026-04-02T19:03:07.609697",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
