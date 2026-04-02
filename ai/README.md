@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-01 19:10:04 UTC
+**Last Updated:** 2026-04-02 02:43:56 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.2.24](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.24) | 2026-04-01 |
 | Microsoft Research AI | [ADeLe: Predicting and explaining AI performance across tasks](https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/) | Wed, 01 Ap |
 | Google AI Blog | [We’re creating a new satellite imagery map to help protect Brazil’s forests.](https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/) | Wed, 01 Ap |
 | Google AI Blog | [The latest AI news we announced in March 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/) | Wed, 01 Ap |
@@ -19,7 +20,6 @@
 | MIT Technology Review AI | [There are more AI health tools than ever—but how well do they work?](https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/) | Mon, 30 Ma |
 | MIT Technology Review AI | [The Pentagon’s culture war tactic against Anthropic has backfired](https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/) | Mon, 30 Ma |
 | OpenAI Blog | [Helping disaster response teams turn AI into action across Asia](https://openai.com/index/helping-disaster-response-teams-asia) | Sun, 29 Ma |
-| LangChain Releases | [Release langchain-core==1.2.23](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.23) | 2026-03-27 |
 | OpenAI Blog | [STADLER reshapes knowledge work at a 230-year-old company](https://openai.com/index/stadler) | Fri, 27 Ma |
 | HuggingFace Transformers | [Release v5.4.0](https://github.com/huggingface/transformers/releases/tag/v5.4.0) | 2026-03-27 |
 | Microsoft Research AI | [AsgardBench: A benchmark for visually grounded interactive planning](https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/) | Thu, 26 Ma |

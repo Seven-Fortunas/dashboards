@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.2.24",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.24",
+      "published": "2026-04-01T20:01:05Z",
+      "summary": "Changes since langchain-core==1.2.23\n\nrelease(core): 1.2.24 (#36434)\nfeat(core): impute placeholder filenames for OpenAI file inputs (#36433)\nchore: pygments>=2.20.0 across all packages (CVE-2026-4539"
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "ADeLe: Predicting and explaining AI performance across tasks",
@@ -103,14 +111,6 @@
       "link": "https://openai.com/index/helping-disaster-response-teams-asia",
       "published": "Sun, 29 Mar 2026 22:15:00 GMT",
       "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation"
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.2.23",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.23",
-      "published": "2026-03-27T23:28:27Z",
-      "summary": "Changes since langchain-core==1.2.22\n\nrelease(core): 1.2.23 (#36323)\nrevert: Revert \"fix(core): trace invocation params in metadata\" (#36322)\nchore: bump requests from 2.32.5 to 2.33.0 in /libs/core ("
     },
     {
       "source": "OpenAI Blog",
@@ -249,8 +249,8 @@
       "summary": "# Release 2.21.0\r\n\r\n## TensorFlow\r\n\r\n### Breaking Changes\r\n\r\n* Support for Python 3.9 has been removed starting with TF 2.21.\r\n* The TensorBoard (TB) dependency has been removed starting with TF 2.21."
     }
   ],
-  "timestamp": "2026-04-01T19:10:04.364493",
-  "last_updated": "2026-04-01T19:10:04.364493",
+  "timestamp": "2026-04-02T02:43:56.728471",
+  "last_updated": "2026-04-02T02:43:56.728471",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
