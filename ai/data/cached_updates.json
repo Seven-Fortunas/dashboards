@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.2.25",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.25",
+      "published": "2026-04-02T22:39:22Z",
+      "summary": "Changes since langchain-core==1.2.24\n\nrelease(core): 1.2.25 (#36473)\nfix(core): harden check for txt files in deprecated prompt loading functions (#36471)\nfix(core): fixed typos in the documentation ("
+    },
+    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.5.0",
@@ -15,6 +23,14 @@
       "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
       "published": "Thu, 02 Apr 2026 16:00:49 +0000",
       "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+      "published": "Thu, 02 Apr 2026 16:00:00 +0000",
+      "summary": "Gemini API Dials"
     },
     {
       "source": "Google AI Blog",
@@ -39,14 +55,6 @@
       "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
       "published": "Thu, 02 Apr 2026 10:00:00 GMT",
       "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption."
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.2.24",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.24",
-      "published": "2026-04-01T20:01:05Z",
-      "summary": "Changes since langchain-core==1.2.23\n\nrelease(core): 1.2.24 (#36434)\nfeat(core): impute placeholder filenames for OpenAI file inputs (#36433)\nchore: pygments>=2.20.0 across all packages (CVE-2026-4539"
     },
     {
       "source": "Microsoft Research AI",
@@ -161,14 +169,6 @@
       "summary": "<p>Imagine a robot tasked with cleaning a kitchen. It needs to observe its environment, decide what to do, and adjust when things don&#8217;t go as expected, for example, when the mug it was tasked to"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
-      "published": "Thu, 26 Mar 2026 17:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp\" />In the latest episode of our Dialogues on Technology and Society "
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
@@ -249,8 +249,8 @@
       "summary": "# Release 2.21.0\r\n\r\n## TensorFlow\r\n\r\n### Breaking Changes\r\n\r\n* Support for Python 3.9 has been removed starting with TF 2.21.\r\n* The TensorBoard (TB) dependency has been removed starting with TF 2.21."
     }
   ],
-  "timestamp": "2026-04-02T19:03:07.609697",
-  "last_updated": "2026-04-02T19:03:07.609697",
+  "timestamp": "2026-04-03T02:46:14.539821",
+  "last_updated": "2026-04-03T02:46:14.539821",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
