@@ -1,12 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-03 18:54:34 UTC
+**Last Updated:** 2026-04-04 02:36:39 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| LangChain Releases | [Release langchain-core==1.2.25](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.25) | 2026-04-02 |
+| LangChain Releases | [Release langchain-core==1.2.26](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.26) | 2026-04-03 |
 | HuggingFace Transformers | [Release v5.5.0](https://github.com/huggingface/transformers/releases/tag/v5.5.0) | 2026-04-02 |
 | DeepMind Blog | [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) | Thu, 02 Ap |
 | Google AI Blog | [New ways to balance cost and reliability in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/) | Thu, 02 Ap |

@@ -3,10 +3,10 @@
     {
       "source": "LangChain Releases",
       "type": "github",
-      "title": "Release langchain-core==1.2.25",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.25",
-      "published": "2026-04-02T22:39:22Z",
-      "summary": "Changes since langchain-core==1.2.24\n\nrelease(core): 1.2.25 (#36473)\nfix(core): harden check for txt files in deprecated prompt loading functions (#36471)\nfix(core): fixed typos in the documentation ("
+      "title": "Release langchain-core==1.2.26",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.26",
+      "published": "2026-04-03T23:30:48Z",
+      "summary": "Changes since langchain-core==1.2.25\n\nrelease(core): 1.2.26 (#36511)\nfix(core): add init validator and serialization mappings for Bedrock models (#34510)\nfeat(core): add `ChatBaseten` to serializable "
     },
     {
       "source": "HuggingFace Transformers",
@@ -249,8 +249,8 @@
       "summary": "# Release 2.21.0\r\n\r\n## TensorFlow\r\n\r\n### Breaking Changes\r\n\r\n* Support for Python 3.9 has been removed starting with TF 2.21.\r\n* The TensorBoard (TB) dependency has been removed starting with TF 2.21."
     }
   ],
-  "timestamp": "2026-04-03T18:54:34.103691",
-  "last_updated": "2026-04-03T18:54:34.103691",
+  "timestamp": "2026-04-04T02:36:39.299226",
+  "last_updated": "2026-04-04T02:36:39.299226",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
