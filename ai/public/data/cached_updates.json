@@ -249,8 +249,8 @@
       "summary": "# Release 2.21.0\r\n\r\n## TensorFlow\r\n\r\n### Breaking Changes\r\n\r\n* Support for Python 3.9 has been removed starting with TF 2.21.\r\n* The TensorBoard (TB) dependency has been removed starting with TF 2.21."
     }
   ],
-  "timestamp": "2026-04-04T13:06:07.182575",
-  "last_updated": "2026-04-04T13:06:07.182575",
+  "timestamp": "2026-04-04T18:51:24.952889",
+  "last_updated": "2026-04-04T18:51:24.952889",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
