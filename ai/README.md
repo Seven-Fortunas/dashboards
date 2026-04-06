@@ -1,12 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-06 13:20:58 UTC
+**Last Updated:** 2026-04-06 19:08:35 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [The one piece of data that could actually shed light on your job and AI](https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/) | Mon, 06 Ap |
 | MIT Technology Review AI | [AI is changing how small online sellers decide what to make](https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/) | Mon, 06 Ap |
+| OpenAI Blog | [Announcing the OpenAI Safety Fellowship](https://openai.com/index/introducing-openai-safety-fellowship) | Mon, 06 Ap |
 | OpenAI Blog | [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age) | Mon, 06 Ap |
 | LangChain Releases | [Release langchain-core==1.2.26](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.26) | 2026-04-03 |
 | HuggingFace Transformers | [Release v5.5.0](https://github.com/huggingface/transformers/releases/tag/v5.5.0) | 2026-04-02 |
@@ -23,9 +25,7 @@
 | Anthropic Blog | [Australian government and Anthropic sign MOU for AI safety and research](https://www.anthropic.com/news/australia-MOU) | 2026-03-31 |
 | Google AI Blog | [Build with Veo 3.1 Lite, our most cost-effective video generation model](https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/) | Tue, 31 Ma |
 | MIT Technology Review AI | [Shifting to AI model customization is an architectural imperative](https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/) | Tue, 31 Ma |
-| OpenAI Blog | [Accelerating the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai) | Tue, 31 Ma |
 | MIT Technology Review AI | [AI benchmarks are broken. Here’s what we need instead.](https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/) | Tue, 31 Ma |
-| MIT Technology Review AI | [There are more AI health tools than ever—but how well do they work?](https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/) | Mon, 30 Ma |
 | Microsoft Research AI | [AsgardBench: A benchmark for visually grounded interactive planning](https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/) | Thu, 26 Ma |
 | Microsoft Research AI | [GroundedPlanBench: Spatially grounded long-horizon task planning for robot manip](https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/) | Thu, 26 Ma |
 | DeepMind Blog | [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/) | Thu, 26 Ma |
