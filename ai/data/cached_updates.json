@@ -3,10 +3,26 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "The one piece of data that could actually shed light on your job and AI",
+      "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+      "published": "Mon, 06 Apr 2026 16:33:35 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Within Silicon Valley\u2019s orbit, an AI-fueled jobs apocalypse is"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "AI is changing how small online sellers decide what to make",
       "link": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
       "published": "Mon, 06 Apr 2026 11:00:00 +0000",
       "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most p"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Announcing the OpenAI Safety Fellowship",
+      "link": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "published": "Mon, 06 Apr 2026 10:00:00 GMT",
+      "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent"
     },
     {
       "source": "OpenAI Blog",
@@ -137,28 +153,12 @@
       "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into inc"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Accelerating the next phase of AI",
-      "link": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "published": "Tue, 31 Mar 2026 13:00:00 GMT",
-      "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "AI benchmarks are broken. Here\u2019s what we need instead.",
       "link": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
       "published": "Tue, 31 Mar 2026 12:01:08 +0000",
       "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI mod"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "There are more AI health tools than ever\u2014but how well do they work?",
-      "link": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-      "published": "Mon, 30 Mar 2026 16:00:00 +0000",
-      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A cou"
     },
     {
       "source": "Microsoft Research AI",
@@ -241,8 +241,8 @@
       "summary": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficul"
     }
   ],
-  "timestamp": "2026-04-06T13:20:58.835425",
-  "last_updated": "2026-04-06T13:20:58.835425",
+  "timestamp": "2026-04-06T19:08:35.708663",
+  "last_updated": "2026-04-06T19:08:35.708663",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
