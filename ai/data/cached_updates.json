@@ -239,18 +239,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
       "published": "Tue, 10 Mar 2026 16:00:41 +0000",
       "summary": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficul"
-    },
-    {
-      "source": "TensorFlow Releases",
-      "type": "github",
-      "title": "Release v2.21.0",
-      "link": "https://github.com/tensorflow/tensorflow/releases/tag/v2.21.0",
-      "published": "2026-03-06T19:48:15Z",
-      "summary": "# Release 2.21.0\r\n\r\n## TensorFlow\r\n\r\n### Breaking Changes\r\n\r\n* Support for Python 3.9 has been removed starting with TF 2.21.\r\n* The TensorBoard (TB) dependency has been removed starting with TF 2.21."
     }
   ],
-  "timestamp": "2026-04-05T18:52:45.068355",
-  "last_updated": "2026-04-05T18:52:45.068355",
+  "timestamp": "2026-04-06T02:55:49.287811",
+  "last_updated": "2026-04-06T02:55:49.287811",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
