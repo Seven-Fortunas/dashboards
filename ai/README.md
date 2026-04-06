@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-06 07:51:42 UTC
+**Last Updated:** 2026-04-06 13:20:58 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [AI is changing how small online sellers decide what to make](https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/) | Mon, 06 Ap |
+| OpenAI Blog | [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age) | Mon, 06 Ap |
 | LangChain Releases | [Release langchain-core==1.2.26](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.26) | 2026-04-03 |
 | HuggingFace Transformers | [Release v5.5.0](https://github.com/huggingface/transformers/releases/tag/v5.5.0) | 2026-04-02 |
 | DeepMind Blog | [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) | Thu, 02 Ap |
@@ -24,8 +26,6 @@
 | OpenAI Blog | [Accelerating the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai) | Tue, 31 Ma |
 | MIT Technology Review AI | [AI benchmarks are broken. Here’s what we need instead.](https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/) | Tue, 31 Ma |
 | MIT Technology Review AI | [There are more AI health tools than ever—but how well do they work?](https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/) | Mon, 30 Ma |
-| MIT Technology Review AI | [The Pentagon’s culture war tactic against Anthropic has backfired](https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/) | Mon, 30 Ma |
-| OpenAI Blog | [Helping disaster response teams turn AI into action across Asia](https://openai.com/index/helping-disaster-response-teams-asia) | Sun, 29 Ma |
 | Microsoft Research AI | [AsgardBench: A benchmark for visually grounded interactive planning](https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/) | Thu, 26 Ma |
 | Microsoft Research AI | [GroundedPlanBench: Spatially grounded long-horizon task planning for robot manip](https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/) | Thu, 26 Ma |
 | DeepMind Blog | [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/) | Thu, 26 Ma |
