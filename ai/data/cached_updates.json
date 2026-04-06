@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "AI is changing how small online sellers decide what to make",
+      "link": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "published": "Mon, 06 Apr 2026 11:00:00 +0000",
+      "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most p"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Industrial policy for the Intelligence Age",
+      "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "published": "Mon, 06 Apr 2026 02:30:00 GMT",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves."
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.2.26",
@@ -145,22 +161,6 @@
       "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A cou"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The Pentagon\u2019s culture war tactic against Anthropic has backfired",
-      "link": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
-      "published": "Mon, 30 Mar 2026 15:42:50 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Last Thursday, a California judge temporarily blocked the Pent"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Helping disaster response teams turn AI into action across Asia",
-      "link": "https://openai.com/index/helping-disaster-response-teams-asia",
-      "published": "Sun, 29 Mar 2026 22:15:00 GMT",
-      "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "AsgardBench: A\u00a0benchmark for\u00a0visually grounded interactive\u00a0planning",
@@ -241,8 +241,8 @@
       "summary": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficul"
     }
   ],
-  "timestamp": "2026-04-06T07:51:42.493289",
-  "last_updated": "2026-04-06T07:51:42.493289",
+  "timestamp": "2026-04-06T13:20:58.835425",
+  "last_updated": "2026-04-06T13:20:58.835425",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
