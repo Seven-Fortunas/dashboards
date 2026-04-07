@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-06 19:08:35 UTC
+**Last Updated:** 2026-04-07 02:49:40 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Anthropic expands partnership with Google and Broadcom for multiple gigawatts of](https://www.anthropic.com/news/google-broadcom-partnership-compute) | 2026-04-06 |
 | MIT Technology Review AI | [The one piece of data that could actually shed light on your job and AI](https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/) | Mon, 06 Ap |
 | MIT Technology Review AI | [AI is changing how small online sellers decide what to make](https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/) | Mon, 06 Ap |
 | OpenAI Blog | [Announcing the OpenAI Safety Fellowship](https://openai.com/index/introducing-openai-safety-fellowship) | Mon, 06 Ap |
