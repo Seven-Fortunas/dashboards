@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.2.27",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.27",
+      "published": "2026-04-07T14:56:49Z",
+      "summary": "Changes since langchain-core==1.2.26\r\n\r\nrelease(core): 1.2.27 (#36586)\r\nfix(core): handle symlinks in deprecated prompt save path (#36585)\r\nchore: add comment explaining `pygments>=2.20.0` (#36570)\r\n\r"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Enabling agent-first process redesign",
+      "link": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
+      "published": "Tue, 07 Apr 2026 14:00:00 +0000",
+      "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute en"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
@@ -39,14 +55,6 @@
       "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
       "published": "Mon, 06 Apr 2026 02:30:00 GMT",
       "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves."
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.2.26",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.26",
-      "published": "2026-04-03T23:30:48Z",
-      "summary": "Changes since langchain-core==1.2.25\n\nrelease(core): 1.2.26 (#36511)\nfix(core): add init validator and serialization mappings for Bedrock models (#34510)\nfeat(core): add `ChatBaseten` to serializable "
     },
     {
       "source": "HuggingFace Transformers",
@@ -161,14 +169,6 @@
       "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into inc"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "AI benchmarks are broken. Here\u2019s what we need instead.",
-      "link": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-      "published": "Tue, 31 Mar 2026 12:01:08 +0000",
-      "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI mod"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "AsgardBench: A\u00a0benchmark for\u00a0visually grounded interactive\u00a0planning",
@@ -249,8 +249,8 @@
       "summary": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficul"
     }
   ],
-  "timestamp": "2026-04-07T13:27:29.793116",
-  "last_updated": "2026-04-07T13:27:29.793116",
+  "timestamp": "2026-04-07T19:11:53.561427",
+  "last_updated": "2026-04-07T19:11:53.561427",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
