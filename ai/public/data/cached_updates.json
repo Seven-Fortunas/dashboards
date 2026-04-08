@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing the Child Safety Blueprint",
+      "link": "https://openai.com/index/introducing-child-safety-blueprint",
+      "published": "Wed, 08 Apr 2026 05:00:00 GMT",
+      "summary": "Discover OpenAI\u2019s Child Safety Blueprint\u2014a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online."
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.2.27",
@@ -137,14 +145,6 @@
       "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Gradient Labs gives every bank customer an AI account manager",
-      "link": "https://openai.com/index/gradient-labs",
-      "published": "Wed, 01 Apr 2026 02:00:00 GMT",
-      "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Australian government and Anthropic sign MOU for AI safety and research",
@@ -249,8 +249,8 @@
       "summary": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficul"
     }
   ],
-  "timestamp": "2026-04-08T07:42:06.337767",
-  "last_updated": "2026-04-08T07:42:06.337767",
+  "timestamp": "2026-04-08T13:42:35.228306",
+  "last_updated": "2026-04-08T13:42:35.228306",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

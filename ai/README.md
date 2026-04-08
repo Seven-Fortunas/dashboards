@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-08 07:42:06 UTC
+**Last Updated:** 2026-04-08 13:42:35 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Introducing the Child Safety Blueprint](https://openai.com/index/introducing-child-safety-blueprint) | Wed, 08 Ap |
 | LangChain Releases | [Release langchain-core==1.2.27](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.27) | 2026-04-07 |
 | MIT Technology Review AI | [Enabling agent-first process redesign](https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/) | Tue, 07 Ap |
 | Anthropic Blog | [Anthropic expands partnership with Google and Broadcom for multiple gigawatts of](https://www.anthropic.com/news/google-broadcom-partnership-compute) | 2026-04-06 |
@@ -23,7 +24,6 @@
 | Google AI Blog | [We’re creating a new satellite imagery map to help protect Brazil’s forests.](https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/) | Wed, 01 Ap |
 | Google AI Blog | [The latest AI news we announced in March 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/) | Wed, 01 Ap |
 | MIT Technology Review AI | [The gig workers who are training humanoid robots at home](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/) | Wed, 01 Ap |
-| OpenAI Blog | [Gradient Labs gives every bank customer an AI account manager](https://openai.com/index/gradient-labs) | Wed, 01 Ap |
 | Anthropic Blog | [Australian government and Anthropic sign MOU for AI safety and research](https://www.anthropic.com/news/australia-MOU) | 2026-03-31 |
 | Google AI Blog | [Build with Veo 3.1 Lite, our most cost-effective video generation model](https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/) | Tue, 31 Ma |
 | MIT Technology Review AI | [Shifting to AI model customization is an architectural imperative](https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/) | Tue, 31 Ma |
