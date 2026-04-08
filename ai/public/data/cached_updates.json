@@ -1,20 +1,28 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==0.3.84",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.84",
+      "published": "2026-04-08T19:14:21Z",
+      "summary": "Changes since langchain-core==0.3.83\n\nrelease(core): 0.3.84 (#36616)\nfix(core): sanitize prompts more (#36613)"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Mustafa Suleyman: AI development won\u2019t hit a wall anytime soon\u2014here\u2019s why",
+      "link": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+      "published": "Wed, 08 Apr 2026 14:00:00 +0000",
+      "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catas"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Introducing the Child Safety Blueprint",
       "link": "https://openai.com/index/introducing-child-safety-blueprint",
       "published": "Wed, 08 Apr 2026 05:00:00 GMT",
       "summary": "Discover OpenAI\u2019s Child Safety Blueprint\u2014a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online."
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.2.27",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.27",
-      "published": "2026-04-07T14:56:49Z",
-      "summary": "Changes since langchain-core==1.2.26\r\n\r\nrelease(core): 1.2.27 (#36586)\r\nfix(core): handle symlinks in deprecated prompt save path (#36585)\r\nchore: add comment explaining `pygments>=2.20.0` (#36570)\r\n\r"
     },
     {
       "source": "MIT Technology Review AI",
@@ -38,7 +46,7 @@
       "title": "The one piece of data that could actually shed light on your job and AI",
       "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
       "published": "Mon, 06 Apr 2026 16:33:35 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Within Silicon Valley\u2019s orbit, an AI-fueled jobs apocalypse is"
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Within Silicon Valley\u2019s orbit, an AI-fueled jobs apocalyp"
     },
     {
       "source": "MIT Technology Review AI",
@@ -161,14 +169,6 @@
       "summary": "Build with Veo 3.1 Lite"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Shifting to AI model customization is an architectural imperative",
-      "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-      "published": "Tue, 31 Mar 2026 14:12:50 +0000",
-      "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into inc"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "AsgardBench: A\u00a0benchmark for\u00a0visually grounded interactive\u00a0planning",
@@ -249,8 +249,8 @@
       "summary": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficul"
     }
   ],
-  "timestamp": "2026-04-08T13:42:35.228306",
-  "last_updated": "2026-04-08T13:42:35.228306",
+  "timestamp": "2026-04-08T19:24:05.301875",
+  "last_updated": "2026-04-08T19:24:05.301875",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
