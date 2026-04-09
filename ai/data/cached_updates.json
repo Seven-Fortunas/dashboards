@@ -9,6 +9,14 @@
       "summary": "Changes since langchain-core==0.3.83\n\nrelease(core): 0.3.84 (#36616)\nfix(core): sanitize prompts more (#36613)"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "The next phase of enterprise AI",
+      "link": "https://openai.com/index/next-phase-of-enterprise-ai",
+      "published": "Wed, 08 Apr 2026 14:00:00 GMT",
+      "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Mustafa Suleyman: AI development won\u2019t hit a wall anytime soon\u2014here\u2019s why",
@@ -113,14 +121,6 @@
       "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Codex now offers more flexible pricing for teams",
-      "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
-      "published": "Thu, 02 Apr 2026 10:00:00 GMT",
-      "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "ADeLe: Predicting and explaining AI performance across tasks",
@@ -193,14 +193,6 @@
       "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Partnering with Mozilla to improve Firefox\u2019s security",
-      "link": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "published": "2026-03-26T11:05:56.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Protecting people from harmful manipulation",
@@ -249,8 +241,8 @@
       "summary": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficul"
     }
   ],
-  "timestamp": "2026-04-08T19:24:05.301875",
-  "last_updated": "2026-04-08T19:24:05.301875",
+  "timestamp": "2026-04-09T02:45:18.716738",
+  "last_updated": "2026-04-09T02:45:18.716738",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
