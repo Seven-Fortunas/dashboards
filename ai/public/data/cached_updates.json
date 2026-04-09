@@ -1,12 +1,20 @@
 {
   "updates": [
     {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "New Future of\u00a0Work:\u00a0AI is driving rapid change,\u00a0uneven benefits",
+      "link": "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+      "published": "Thu, 09 Apr 2026 16:11:44 +0000",
+      "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
+    },
+    {
       "source": "HuggingFace Transformers",
       "type": "github",
-      "title": "Release v5.5.1",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.5.1",
-      "published": "2026-04-09T05:53:03Z",
-      "summary": "# Patch release v5.5.1\r\n\r\nThis patch is very small and focuses on vLLM and Gemma4! \r\n\r\n** Fix export for gemma4 and add Integration tests (#45285) by @Cyrilvallez \r\n** Fix vllm cis (#45139) by @Arthur"
+      "title": "Release v5.5.3",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.5.3",
+      "published": "2026-04-09T15:53:11Z",
+      "summary": "Small patch release to fix `device_map` support for Gemma4! It contains the following commit:\r\n\r\n- [gemma4] Fix device map auto (#45347) by @Cyrilvallez "
     },
     {
       "source": "OpenAI Blog",
@@ -231,18 +239,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
       "published": "Thu, 12 Mar 2026 16:38:45 +0000",
       "summary": "<p>As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge ha"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "PlugMem: Transforming raw agent interactions into reusable knowledge",
-      "link": "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
-      "published": "Tue, 10 Mar 2026 16:00:41 +0000",
-      "summary": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficul"
     }
   ],
-  "timestamp": "2026-04-09T13:53:27.469901",
-  "last_updated": "2026-04-09T13:53:27.469901",
+  "timestamp": "2026-04-09T19:15:30.099380",
+  "last_updated": "2026-04-09T19:15:30.099380",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

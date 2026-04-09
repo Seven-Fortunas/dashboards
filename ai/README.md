@@ -1,12 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-09 13:53:27 UTC
+**Last Updated:** 2026-04-09 19:15:30 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| HuggingFace Transformers | [Release v5.5.1](https://github.com/huggingface/transformers/releases/tag/v5.5.1) | 2026-04-09 |
+| Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
+| HuggingFace Transformers | [Release v5.5.3](https://github.com/huggingface/transformers/releases/tag/v5.5.3) | 2026-04-09 |
 | OpenAI Blog | [OpenAI Full Fan Mode Contest: Terms & Conditions](https://openai.com/index/full-fan-mode-contest-terms-conditions) | Thu, 09 Ap |
 | LangChain Releases | [Release langchain-core==0.3.84](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.84) | 2026-04-08 |
 | OpenAI Blog | [The next phase of enterprise AI](https://openai.com/index/next-phase-of-enterprise-ai) | Wed, 08 Ap |
@@ -35,4 +36,3 @@
 | PyTorch Releases | [Release v2.11.0](https://github.com/pytorch/pytorch/releases/tag/v2.11.0) | 2026-03-23 |
 | DeepMind Blog | [Measuring progress toward AGI: A cognitive framework](https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/) | Tue, 17 Ma |
 | Microsoft Research AI | [Systematic debugging for AI agents: Introducing the AgentRx framework](https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/) | Thu, 12 Ma |
-| Microsoft Research AI | [PlugMem: Transforming raw agent interactions into reusable knowledge](https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/) | Tue, 10 Ma |
