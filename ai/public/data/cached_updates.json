@@ -9,6 +9,14 @@
       "summary": "# Patch release v5.5.1\r\n\r\nThis patch is very small and focuses on vLLM and Gemma4! \r\n\r\n** Fix export for gemma4 and add Integration tests (#45285) by @Cyrilvallez \r\n** Fix vllm cis (#45139) by @Arthur"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+      "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+      "published": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on "
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==0.3.84",
@@ -111,14 +119,6 @@
       "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
       "published": "Thu, 02 Apr 2026 16:00:00 +0000",
       "summary": "Google Vids logo surrounded by various video editing UI"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI acquires TBPN",
-      "link": "https://openai.com/index/openai-acquires-tbpn",
-      "published": "Thu, 02 Apr 2026 10:30:00 GMT",
-      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community."
     },
     {
       "source": "Microsoft Research AI",
@@ -241,8 +241,8 @@
       "summary": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficul"
     }
   ],
-  "timestamp": "2026-04-09T07:44:33.804732",
-  "last_updated": "2026-04-09T07:44:33.804732",
+  "timestamp": "2026-04-09T13:53:27.469901",
+  "last_updated": "2026-04-09T13:53:27.469901",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
