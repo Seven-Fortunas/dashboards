@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-09 02:45:18 UTC
+**Last Updated:** 2026-04-09 07:44:33 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| HuggingFace Transformers | [Release v5.5.1](https://github.com/huggingface/transformers/releases/tag/v5.5.1) | 2026-04-09 |
 | LangChain Releases | [Release langchain-core==0.3.84](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.84) | 2026-04-08 |
 | OpenAI Blog | [The next phase of enterprise AI](https://openai.com/index/next-phase-of-enterprise-ai) | Wed, 08 Ap |
 | MIT Technology Review AI | [Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why](https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/) | Wed, 08 Ap |
@@ -16,7 +17,6 @@
 | MIT Technology Review AI | [AI is changing how small online sellers decide what to make](https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/) | Mon, 06 Ap |
 | OpenAI Blog | [Announcing the OpenAI Safety Fellowship](https://openai.com/index/introducing-openai-safety-fellowship) | Mon, 06 Ap |
 | OpenAI Blog | [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age) | Mon, 06 Ap |
-| HuggingFace Transformers | [Release v5.5.0](https://github.com/huggingface/transformers/releases/tag/v5.5.0) | 2026-04-02 |
 | DeepMind Blog | [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) | Thu, 02 Ap |
 | Google AI Blog | [New ways to balance cost and reliability in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/) | Thu, 02 Ap |
 | Google AI Blog | [Create, edit and share videos at no cost in Google Vids](https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/) | Thu, 02 Ap |

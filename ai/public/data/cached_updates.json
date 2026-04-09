@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.5.1",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.5.1",
+      "published": "2026-04-09T05:53:03Z",
+      "summary": "# Patch release v5.5.1\r\n\r\nThis patch is very small and focuses on vLLM and Gemma4! \r\n\r\n** Fix export for gemma4 and add Integration tests (#45285) by @Cyrilvallez \r\n** Fix vllm cis (#45139) by @Arthur"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==0.3.84",
@@ -79,14 +87,6 @@
       "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
       "published": "Mon, 06 Apr 2026 02:30:00 GMT",
       "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves."
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.5.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.5.0",
-      "published": "2026-04-02T16:15:33Z",
-      "summary": "# Release v5.5.0\r\n\r\n<img width=\"2786\" height=\"1504\" alt=\"image\" src=\"https://github.com/user-attachments/assets/6c8c878f-042b-4858-9f64-73fd9ccd7e4b\" />\r\n\r\n## New Model additions\r\n\r\n### Gemma4\r\n\r\n[Gem"
     },
     {
       "source": "DeepMind Blog",
@@ -241,8 +241,8 @@
       "summary": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficul"
     }
   ],
-  "timestamp": "2026-04-09T02:45:18.716738",
-  "last_updated": "2026-04-09T02:45:18.716738",
+  "timestamp": "2026-04-09T07:44:33.804732",
+  "last_updated": "2026-04-09T07:44:33.804732",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
