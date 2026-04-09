@@ -1,12 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-08 19:24:05 UTC
+**Last Updated:** 2026-04-09 02:45:18 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
 | LangChain Releases | [Release langchain-core==0.3.84](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.84) | 2026-04-08 |
+| OpenAI Blog | [The next phase of enterprise AI](https://openai.com/index/next-phase-of-enterprise-ai) | Wed, 08 Ap |
 | MIT Technology Review AI | [Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why](https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/) | Wed, 08 Ap |
 | OpenAI Blog | [Introducing the Child Safety Blueprint](https://openai.com/index/introducing-child-safety-blueprint) | Wed, 08 Ap |
 | MIT Technology Review AI | [Enabling agent-first process redesign](https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/) | Tue, 07 Ap |
@@ -20,7 +21,6 @@
 | Google AI Blog | [New ways to balance cost and reliability in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/) | Thu, 02 Ap |
 | Google AI Blog | [Create, edit and share videos at no cost in Google Vids](https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/) | Thu, 02 Ap |
 | OpenAI Blog | [OpenAI acquires TBPN](https://openai.com/index/openai-acquires-tbpn) | Thu, 02 Ap |
-| OpenAI Blog | [Codex now offers more flexible pricing for teams](https://openai.com/index/codex-flexible-pricing-for-teams) | Thu, 02 Ap |
 | Microsoft Research AI | [ADeLe: Predicting and explaining AI performance across tasks](https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/) | Wed, 01 Ap |
 | Google AI Blog | [We’re creating a new satellite imagery map to help protect Brazil’s forests.](https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/) | Wed, 01 Ap |
 | Google AI Blog | [The latest AI news we announced in March 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/) | Wed, 01 Ap |
@@ -30,7 +30,6 @@
 | Microsoft Research AI | [AsgardBench: A benchmark for visually grounded interactive planning](https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/) | Thu, 26 Ma |
 | Microsoft Research AI | [GroundedPlanBench: Spatially grounded long-horizon task planning for robot manip](https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/) | Thu, 26 Ma |
 | DeepMind Blog | [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/) | Thu, 26 Ma |
-| Anthropic Blog | [Partnering with Mozilla to improve Firefox’s security](https://www.anthropic.com/news/mozilla-firefox-security) | 2026-03-26 |
 | DeepMind Blog | [Protecting people from harmful manipulation](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/) | Wed, 25 Ma |
 | DeepMind Blog | [Lyria 3 Pro: Create longer tracks in more](https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/) | Wed, 25 Ma |
 | PyTorch Releases | [Release v2.11.0](https://github.com/pytorch/pytorch/releases/tag/v2.11.0) | 2026-03-23 |
