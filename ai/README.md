@@ -1,26 +1,26 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-10 13:21:35 UTC
+**Last Updated:** 2026-04-10 19:01:07 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.3.0a1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.0a1) | 2026-04-10 |
 | Anthropic Blog | [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services) | 2026-04-10 |
+| OpenAI Blog | [Using projects in ChatGPT](https://openai.com/academy/projects) | Fri, 10 Ap |
+| OpenAI Blog | [Prompting fundamentals](https://openai.com/academy/prompting) | Fri, 10 Ap |
+| OpenAI Blog | [Using skills](https://openai.com/academy/skills) | Fri, 10 Ap |
+| OpenAI Blog | [Analyzing data with ChatGPT](https://openai.com/academy/data-analysis) | Fri, 10 Ap |
+| OpenAI Blog | [Creating images with ChatGPT](https://openai.com/academy/image-generation) | Fri, 10 Ap |
 | Anthropic Blog | [Advancing Claude in healthcare and the life sciences](https://www.anthropic.com/news/healthcare-life-sciences) | 2026-04-09 |
 | Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
 | HuggingFace Transformers | [Release v5.5.3](https://github.com/huggingface/transformers/releases/tag/v5.5.3) | 2026-04-09 |
-| OpenAI Blog | [OpenAI Full Fan Mode Contest: Terms & Conditions](https://openai.com/index/full-fan-mode-contest-terms-conditions) | Thu, 09 Ap |
-| OpenAI Blog | [CyberAgent moves faster with ChatGPT Enterprise and Codex](https://openai.com/index/cyberagent) | Thu, 09 Ap |
-| LangChain Releases | [Release langchain-core==0.3.84](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.84) | 2026-04-08 |
-| OpenAI Blog | [The next phase of enterprise AI](https://openai.com/index/next-phase-of-enterprise-ai) | Wed, 08 Ap |
 | MIT Technology Review AI | [Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why](https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/) | Wed, 08 Ap |
-| OpenAI Blog | [Introducing the Child Safety Blueprint](https://openai.com/index/introducing-child-safety-blueprint) | Wed, 08 Ap |
 | MIT Technology Review AI | [Enabling agent-first process redesign](https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/) | Tue, 07 Ap |
 | Anthropic Blog | [Anthropic expands partnership with Google and Broadcom for multiple gigawatts of](https://www.anthropic.com/news/google-broadcom-partnership-compute) | 2026-04-06 |
 | MIT Technology Review AI | [The one piece of data that could actually shed light on your job and AI](https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/) | Mon, 06 Ap |
 | MIT Technology Review AI | [AI is changing how small online sellers decide what to make](https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/) | Mon, 06 Ap |
-| OpenAI Blog | [Announcing the OpenAI Safety Fellowship](https://openai.com/index/introducing-openai-safety-fellowship) | Mon, 06 Ap |
 | DeepMind Blog | [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) | Thu, 02 Ap |
 | Google AI Blog | [New ways to balance cost and reliability in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/) | Thu, 02 Ap |
 | Google AI Blog | [Create, edit and share videos at no cost in Google Vids](https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/) | Thu, 02 Ap |
