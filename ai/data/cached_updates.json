@@ -3,6 +3,14 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
+      "title": "Claude for Financial Services",
+      "link": "https://www.anthropic.com/news/claude-for-financial-services",
+      "published": "2026-04-10T12:11:09.000Z",
+      "summary": "Today, we&#x27;re introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
       "title": "Advancing Claude in healthcare and the life sciences",
       "link": "https://www.anthropic.com/news/healthcare-life-sciences",
       "published": "2026-04-09T20:25:31.000Z",
@@ -27,18 +35,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-      "link": "https://openai.com/index/cyberagent",
-      "published": "Thu, 09 Apr 2026 00:00:00 GMT",
-      "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
       "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
       "published": "Thu, 09 Apr 2026 00:00:00 GMT",
       "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on "
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "link": "https://openai.com/index/cyberagent",
+      "published": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming."
     },
     {
       "source": "LangChain Releases",
@@ -249,8 +257,8 @@
       "summary": "<p>As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge ha"
     }
   ],
-  "timestamp": "2026-04-10T07:49:53.599811",
-  "last_updated": "2026-04-10T07:49:53.599811",
+  "timestamp": "2026-04-10T13:21:35.815239",
+  "last_updated": "2026-04-10T13:21:35.815239",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
