@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Advancing Claude in healthcare and the life sciences",
+      "link": "https://www.anthropic.com/news/healthcare-life-sciences",
+      "published": "2026-04-09T20:25:31.000Z",
+      "summary": "Introducing Claude for Healthcare with HIPAA-ready infrastructure, plus expanded Life Sciences tools for clinical trials and regulatory submissions. New connectors to CMS, Medidata, and ClinicalTrials"
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "New Future of\u00a0Work:\u00a0AI is driving rapid change,\u00a0uneven benefits",
@@ -15,6 +23,14 @@
       "link": "https://github.com/huggingface/transformers/releases/tag/v5.5.3",
       "published": "2026-04-09T15:53:11Z",
       "summary": "Small patch release to fix `device_map` support for Gemma4! It contains the following commit:\r\n\r\n- [gemma4] Fix device map auto (#45347) by @Cyrilvallez "
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "link": "https://openai.com/index/cyberagent",
+      "published": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming."
     },
     {
       "source": "OpenAI Blog",
@@ -95,14 +111,6 @@
       "link": "https://openai.com/index/introducing-openai-safety-fellowship",
       "published": "Mon, 06 Apr 2026 10:00:00 GMT",
       "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Industrial policy for the Intelligence Age",
-      "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "published": "Mon, 06 Apr 2026 02:30:00 GMT",
-      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves."
     },
     {
       "source": "DeepMind Blog",
@@ -241,8 +249,8 @@
       "summary": "<p>As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge ha"
     }
   ],
-  "timestamp": "2026-04-09T19:15:30.099380",
-  "last_updated": "2026-04-09T19:15:30.099380",
+  "timestamp": "2026-04-10T02:56:37.975736",
+  "last_updated": "2026-04-10T02:56:37.975736",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
