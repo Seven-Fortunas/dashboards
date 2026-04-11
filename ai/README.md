@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-11 13:09:22 UTC
+**Last Updated:** 2026-04-11 18:53:30 UTC
 
 ## Latest Updates
 
@@ -8,11 +8,11 @@
 |--------|-------|----------|
 | LangChain Releases | [Release langchain-core==1.3.0a1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.0a1) | 2026-04-10 |
 | Anthropic Blog | [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services) | 2026-04-10 |
-| OpenAI Blog | [Using custom GPTs](https://openai.com/academy/custom-gpts) | Fri, 10 Ap |
-| OpenAI Blog | [ChatGPT for customer success teams](https://openai.com/academy/customer-success) | Fri, 10 Ap |
-| OpenAI Blog | [Applications of AI at OpenAI](https://openai.com/academy/applications-of-ai) | Fri, 10 Ap |
-| OpenAI Blog | [Research with ChatGPT](https://openai.com/academy/search-and-deep-research) | Fri, 10 Ap |
+| OpenAI Blog | [Responsible and safe use of AI](https://openai.com/academy/responsible-and-safe-use) | Fri, 10 Ap |
 | OpenAI Blog | [Analyzing data with ChatGPT](https://openai.com/academy/data-analysis) | Fri, 10 Ap |
+| OpenAI Blog | [Getting started with ChatGPT](https://openai.com/academy/getting-started) | Fri, 10 Ap |
+| OpenAI Blog | [ChatGPT for operations teams](https://openai.com/academy/operations) | Fri, 10 Ap |
+| OpenAI Blog | [Writing with ChatGPT](https://openai.com/academy/writing) | Fri, 10 Ap |
 | Anthropic Blog | [Advancing Claude in healthcare and the life sciences](https://www.anthropic.com/news/healthcare-life-sciences) | 2026-04-09 |
 | Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
 | HuggingFace Transformers | [Release v5.5.3](https://github.com/huggingface/transformers/releases/tag/v5.5.3) | 2026-04-09 |
@@ -37,4 +37,3 @@
 | DeepMind Blog | [Lyria 3 Pro: Create longer tracks in more](https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/) | Wed, 25 Ma |
 | PyTorch Releases | [Release v2.11.0](https://github.com/pytorch/pytorch/releases/tag/v2.11.0) | 2026-03-23 |
 | DeepMind Blog | [Measuring progress toward AGI: A cognitive framework](https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/) | Tue, 17 Ma |
-| Microsoft Research AI | [Systematic debugging for AI agents: Introducing the AgentRx framework](https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/) | Thu, 12 Ma |
