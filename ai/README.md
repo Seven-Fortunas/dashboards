@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-10 19:01:07 UTC
+**Last Updated:** 2026-04-11 02:41:20 UTC
 
 ## Latest Updates
 
@@ -8,11 +8,11 @@
 |--------|-------|----------|
 | LangChain Releases | [Release langchain-core==1.3.0a1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.0a1) | 2026-04-10 |
 | Anthropic Blog | [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services) | 2026-04-10 |
-| OpenAI Blog | [Using projects in ChatGPT](https://openai.com/academy/projects) | Fri, 10 Ap |
-| OpenAI Blog | [Prompting fundamentals](https://openai.com/academy/prompting) | Fri, 10 Ap |
-| OpenAI Blog | [Using skills](https://openai.com/academy/skills) | Fri, 10 Ap |
+| OpenAI Blog | [Using custom GPTs](https://openai.com/academy/custom-gpts) | Fri, 10 Ap |
+| OpenAI Blog | [ChatGPT for customer success teams](https://openai.com/academy/customer-success) | Fri, 10 Ap |
+| OpenAI Blog | [Applications of AI at OpenAI](https://openai.com/academy/applications-of-ai) | Fri, 10 Ap |
+| OpenAI Blog | [Research with ChatGPT](https://openai.com/academy/search-and-deep-research) | Fri, 10 Ap |
 | OpenAI Blog | [Analyzing data with ChatGPT](https://openai.com/academy/data-analysis) | Fri, 10 Ap |
-| OpenAI Blog | [Creating images with ChatGPT](https://openai.com/academy/image-generation) | Fri, 10 Ap |
 | Anthropic Blog | [Advancing Claude in healthcare and the life sciences](https://www.anthropic.com/news/healthcare-life-sciences) | 2026-04-09 |
 | Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
 | HuggingFace Transformers | [Release v5.5.3](https://github.com/huggingface/transformers/releases/tag/v5.5.3) | 2026-04-09 |
