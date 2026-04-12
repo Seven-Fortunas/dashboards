@@ -19,22 +19,6 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Responsible and safe use of AI",
-      "link": "https://openai.com/academy/responsible-and-safe-use",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Analyzing data with ChatGPT",
-      "link": "https://openai.com/academy/data-analysis",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Getting started with ChatGPT",
       "link": "https://openai.com/academy/getting-started",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -43,10 +27,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "ChatGPT for operations teams",
-      "link": "https://openai.com/academy/operations",
+      "title": "Brainstorming with ChatGPT",
+      "link": "https://openai.com/academy/brainstorming",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution."
+      "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans."
     },
     {
       "source": "OpenAI Blog",
@@ -55,6 +39,22 @@
       "link": "https://openai.com/academy/writing",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
       "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "ChatGPT for research",
+      "link": "https://openai.com/academy/research",
+      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Responsible and safe use of AI",
+      "link": "https://openai.com/academy/responsible-and-safe-use",
+      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT."
     },
     {
       "source": "Anthropic Blog",
@@ -249,8 +249,8 @@
       "summary": "We\u2019re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations."
     }
   ],
-  "timestamp": "2026-04-11T18:53:30.001479",
-  "last_updated": "2026-04-11T18:53:30.001479",
+  "timestamp": "2026-04-12T03:19:46.818550",
+  "last_updated": "2026-04-12T03:19:46.818550",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
