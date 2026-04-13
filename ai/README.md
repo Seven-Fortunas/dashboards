@@ -1,18 +1,19 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-13 08:11:47 UTC
+**Last Updated:** 2026-04-13 13:50:39 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Want to understand the current state of AI? Check out these charts.](https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/) | Mon, 13 Ap |
+| OpenAI Blog | [Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI](https://openai.com/index/cloudflare-openai-agent-cloud) | Mon, 13 Ap |
 | LangChain Releases | [Release langchain-core==1.3.0a1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.0a1) | 2026-04-10 |
 | Anthropic Blog | [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services) | 2026-04-10 |
-| OpenAI Blog | [Using custom GPTs](https://openai.com/academy/custom-gpts) | Fri, 10 Ap |
-| OpenAI Blog | [Prompting fundamentals](https://openai.com/academy/prompting) | Fri, 10 Ap |
-| OpenAI Blog | [Working with files in ChatGPT](https://openai.com/academy/working-with-files) | Fri, 10 Ap |
-| OpenAI Blog | [Research with ChatGPT](https://openai.com/academy/search-and-deep-research) | Fri, 10 Ap |
-| OpenAI Blog | [Getting started with ChatGPT](https://openai.com/academy/getting-started) | Fri, 10 Ap |
+| OpenAI Blog | [ChatGPT for operations teams](https://openai.com/academy/operations) | Fri, 10 Ap |
+| OpenAI Blog | [Applications of AI at OpenAI](https://openai.com/academy/applications-of-ai) | Fri, 10 Ap |
+| OpenAI Blog | [ChatGPT for finance teams](https://openai.com/academy/finance) | Fri, 10 Ap |
+| OpenAI Blog | [Brainstorming with ChatGPT](https://openai.com/academy/brainstorming) | Fri, 10 Ap |
 | Anthropic Blog | [Advancing Claude in healthcare and the life sciences](https://www.anthropic.com/news/healthcare-life-sciences) | 2026-04-09 |
 | Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
 | HuggingFace Transformers | [Release v5.5.3](https://github.com/huggingface/transformers/releases/tag/v5.5.3) | 2026-04-09 |
@@ -27,7 +28,6 @@
 | Microsoft Research AI | [ADeLe: Predicting and explaining AI performance across tasks](https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/) | Wed, 01 Ap |
 | Google AI Blog | [We’re creating a new satellite imagery map to help protect Brazil’s forests.](https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/) | Wed, 01 Ap |
 | Google AI Blog | [The latest AI news we announced in March 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/) | Wed, 01 Ap |
-| MIT Technology Review AI | [The gig workers who are training humanoid robots at home](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/) | Wed, 01 Ap |
 | Anthropic Blog | [Australian government and Anthropic sign MOU for AI safety and research](https://www.anthropic.com/news/australia-MOU) | 2026-03-31 |
 | Google AI Blog | [Build with Veo 3.1 Lite, our most cost-effective video generation model](https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/) | Tue, 31 Ma |
 | Microsoft Research AI | [AsgardBench: A benchmark for visually grounded interactive planning](https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/) | Thu, 26 Ma |

@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Want to understand the current state of AI? Check out these charts.",
+      "link": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+      "published": "Mon, 13 Apr 2026 13:00:00 +0000",
+      "summary": "If you\u2019re following AI news, you\u2019re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can\u2019t even read a clock. The 2026 AI Index from Stanford University\u2019s Instit"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "published": "Mon, 13 Apr 2026 06:00:00 GMT",
+      "summary": "Cloudflare brings OpenAI\u2019s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.3.0a1",
@@ -19,42 +35,34 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Using custom GPTs",
-      "link": "https://openai.com/academy/custom-gpts",
+      "title": "ChatGPT for operations teams",
+      "link": "https://openai.com/academy/operations",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants."
+      "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution."
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Prompting fundamentals",
-      "link": "https://openai.com/academy/prompting",
+      "title": "Applications of AI at OpenAI",
+      "link": "https://openai.com/academy/applications-of-ai",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT."
+      "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks."
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Working with files in ChatGPT",
-      "link": "https://openai.com/academy/working-with-files",
+      "title": "ChatGPT for finance teams",
+      "link": "https://openai.com/academy/finance",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more."
+      "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly."
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Research with ChatGPT",
-      "link": "https://openai.com/academy/search-and-deep-research",
+      "title": "Brainstorming with ChatGPT",
+      "link": "https://openai.com/academy/brainstorming",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Getting started with ChatGPT",
-      "link": "https://openai.com/academy/getting-started",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
+      "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans."
     },
     {
       "source": "Anthropic Blog",
@@ -169,14 +177,6 @@
       "summary": "March 2026 AI Recap showing new updates"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The gig workers who are training humanoid robots at home",
-      "link": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
-      "published": "Wed, 01 Apr 2026 11:00:00 +0000",
-      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Australian government and Anthropic sign MOU for AI safety and research",
@@ -249,8 +249,8 @@
       "summary": "We\u2019re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations."
     }
   ],
-  "timestamp": "2026-04-13T08:11:47.607726",
-  "last_updated": "2026-04-13T08:11:47.607726",
+  "timestamp": "2026-04-13T13:50:39.240776",
+  "last_updated": "2026-04-13T13:50:39.240776",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
