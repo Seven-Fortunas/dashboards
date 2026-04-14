@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Coming soon: 10 Things That Matter in AI Right Now",
+      "link": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+      "published": "Tue, 14 Apr 2026 11:00:00 +0000",
+      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Bringing people together at AI for the Economy Forum",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+      "published": "Tue, 14 Apr 2026 09:00:00 +0000",
+      "summary": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\""
+    },
+    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.5.4",
@@ -121,14 +137,6 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The one piece of data that could actually shed light on your job and AI",
-      "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
-      "published": "Mon, 06 Apr 2026 16:33:35 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Within Silicon Valley\u2019s orbit, an AI-fueled jobs apocalyp"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Gemma 4: Byte for byte, the most capable open models",
@@ -175,14 +183,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
       "published": "Wed, 01 Apr 2026 13:00:00 +0000",
       "summary": "March 2026 AI Recap showing new updates"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-      "published": "Tue, 31 Mar 2026 16:00:00 +0000",
-      "summary": "Build with Veo 3.1 Lite"
     },
     {
       "source": "Microsoft Research AI",
@@ -241,8 +241,8 @@
       "summary": "We\u2019re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations."
     }
   ],
-  "timestamp": "2026-04-14T07:55:25.828409",
-  "last_updated": "2026-04-14T07:55:25.828409",
+  "timestamp": "2026-04-14T13:56:11.251378",
+  "last_updated": "2026-04-14T13:56:11.251378",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
