@@ -3,6 +3,30 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Redefining the future of software engineering",
+      "link": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+      "published": "Tue, 14 Apr 2026 18:00:00 +0000",
+      "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Secon"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "published": "Tue, 14 Apr 2026 17:00:00 +0000",
+      "summary": "Video showing Skills in Chrome"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic\u2019s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+      "link": "https://www.anthropic.com/news/narasimhan-board",
+      "published": "2026-04-14T14:00:04.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "Coming soon: 10 Things That Matter in AI Right Now",
       "link": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
       "published": "Tue, 14 Apr 2026 11:00:00 +0000",
@@ -23,6 +47,14 @@
       "link": "https://github.com/huggingface/transformers/releases/tag/v5.5.4",
       "published": "2026-04-13T16:58:06Z",
       "summary": "# Patch release v5.5.4\r\n\r\nThis is mostly some fixes that are good to have asap, mostly for tokenizers;\r\n** Fix Kimi-K2.5 tokenizer regression and _patch_mistral_regex Attribute\u2026 (#45305) by ArthurZuck"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+      "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+      "published": "Mon, 13 Apr 2026 15:52:13 +0000",
+      "summary": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics."
     },
     {
       "source": "MIT Technology Review AI",
@@ -121,14 +153,6 @@
       "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catas"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Enabling agent-first process redesign",
-      "link": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
-      "published": "Tue, 07 Apr 2026 14:00:00 +0000",
-      "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute en"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
@@ -177,14 +201,6 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\" />Google partnered with the Brazilian government on a sa"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "The latest AI news we announced in March 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-      "published": "Wed, 01 Apr 2026 13:00:00 +0000",
-      "summary": "March 2026 AI Recap showing new updates"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "AsgardBench: A\u00a0benchmark for\u00a0visually grounded interactive\u00a0planning",
@@ -231,18 +247,10 @@
       "link": "https://github.com/pytorch/pytorch/releases/tag/v2.11.0",
       "published": "2026-03-23T18:38:28Z",
       "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Measuring progress toward AGI: A cognitive framework",
-      "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
-      "published": "Tue, 17 Mar 2026 16:03:47 +0000",
-      "summary": "We\u2019re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations."
     }
   ],
-  "timestamp": "2026-04-14T13:56:11.251378",
-  "last_updated": "2026-04-14T13:56:11.251378",
+  "timestamp": "2026-04-14T19:23:53.950622",
+  "last_updated": "2026-04-14T19:23:53.950622",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
