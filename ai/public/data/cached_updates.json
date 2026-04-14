@@ -177,14 +177,6 @@
       "summary": "March 2026 AI Recap showing new updates"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Australian government and Anthropic sign MOU for AI safety and research",
-      "link": "https://www.anthropic.com/news/australia-MOU",
-      "published": "2026-03-31T23:16:54.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
@@ -249,8 +241,8 @@
       "summary": "We\u2019re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations."
     }
   ],
-  "timestamp": "2026-04-13T19:20:19.923026",
-  "last_updated": "2026-04-13T19:20:19.923026",
+  "timestamp": "2026-04-14T02:57:50.643881",
+  "last_updated": "2026-04-14T02:57:50.643881",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
