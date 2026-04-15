@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+      "published": "Wed, 15 Apr 2026 16:03:19 +0000",
+      "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+      "published": "Wed, 15 Apr 2026 15:00:00 +0000",
+      "summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "The next evolution of the Agents SDK",
+      "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "published": "Wed, 15 Apr 2026 10:00:00 GMT",
+      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Building trust in the AI era with privacy-led UX",
@@ -115,26 +139,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Responsible and safe use of AI",
-      "link": "https://openai.com/academy/responsible-and-safe-use",
+      "title": "Using projects in ChatGPT",
+      "link": "https://openai.com/academy/projects",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT."
+      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively."
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Research with ChatGPT",
-      "link": "https://openai.com/academy/search-and-deep-research",
+      "title": "Brainstorming with ChatGPT",
+      "link": "https://openai.com/academy/brainstorming",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Prompting fundamentals",
-      "link": "https://openai.com/academy/prompting",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT."
+      "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans."
     },
     {
       "source": "Anthropic Blog",
@@ -193,14 +209,6 @@
       "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "We\u2019re creating a new satellite imagery map to help protect Brazil\u2019s forests.",
-      "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
-      "published": "Wed, 01 Apr 2026 13:30:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\" />Google partnered with the Brazilian government on a sa"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "AsgardBench: A\u00a0benchmark for\u00a0visually grounded interactive\u00a0planning",
@@ -233,14 +241,6 @@
       "summary": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures."
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Lyria 3 Pro: Create longer tracks in more",
-      "link": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
-      "published": "Wed, 25 Mar 2026 16:01:39 +0000",
-      "summary": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We\u2019re also bringing Lyria to more Google products and surfaces."
-    },
-    {
       "source": "PyTorch Releases",
       "type": "github",
       "title": "Release v2.11.0",
@@ -249,8 +249,8 @@
       "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
     }
   ],
-  "timestamp": "2026-04-15T13:49:46.489277",
-  "last_updated": "2026-04-15T13:49:46.489277",
+  "timestamp": "2026-04-15T19:25:03.700993",
+  "last_updated": "2026-04-15T19:25:03.700993",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
