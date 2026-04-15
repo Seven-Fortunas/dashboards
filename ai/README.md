@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-15 07:55:51 UTC
+**Last Updated:** 2026-04-15 13:49:46 UTC
 
 ## Latest Updates
 
@@ -20,9 +20,9 @@
 | MIT Technology Review AI | [Want to understand the current state of AI? Check out these charts.](https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/) | Mon, 13 Ap |
 | OpenAI Blog | [Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI](https://openai.com/index/cloudflare-openai-agent-cloud) | Mon, 13 Ap |
 | Anthropic Blog | [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services) | 2026-04-10 |
-| OpenAI Blog | [ChatGPT for finance teams](https://openai.com/academy/finance) | Fri, 10 Ap |
-| OpenAI Blog | [ChatGPT for marketing teams](https://openai.com/academy/marketing) | Fri, 10 Ap |
-| OpenAI Blog | [Getting started with ChatGPT](https://openai.com/academy/getting-started) | Fri, 10 Ap |
+| OpenAI Blog | [Responsible and safe use of AI](https://openai.com/academy/responsible-and-safe-use) | Fri, 10 Ap |
+| OpenAI Blog | [Research with ChatGPT](https://openai.com/academy/search-and-deep-research) | Fri, 10 Ap |
+| OpenAI Blog | [Prompting fundamentals](https://openai.com/academy/prompting) | Fri, 10 Ap |
 | Anthropic Blog | [Advancing Claude in healthcare and the life sciences](https://www.anthropic.com/news/healthcare-life-sciences) | 2026-04-09 |
 | Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
 | Anthropic Blog | [Anthropic expands partnership with Google and Broadcom for multiple gigawatts of](https://www.anthropic.com/news/google-broadcom-partnership-compute) | 2026-04-06 |
