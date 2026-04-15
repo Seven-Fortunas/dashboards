@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Building trust in the AI era with privacy-led UX",
+      "link": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+      "published": "Wed, 15 Apr 2026 06:00:00 +0000",
+      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped oppor"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.2.29",
@@ -107,18 +115,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Healthcare",
-      "link": "https://openai.com/academy/healthcare",
+      "title": "ChatGPT for finance teams",
+      "link": "https://openai.com/academy/finance",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Getting started with ChatGPT",
-      "link": "https://openai.com/academy/getting-started",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
+      "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly."
     },
     {
       "source": "OpenAI Blog",
@@ -127,6 +127,14 @@
       "link": "https://openai.com/academy/marketing",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
       "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Getting started with ChatGPT",
+      "link": "https://openai.com/academy/getting-started",
+      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
     },
     {
       "source": "Anthropic Blog",
@@ -143,14 +151,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
       "published": "Thu, 09 Apr 2026 16:11:44 +0000",
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Mustafa Suleyman: AI development won\u2019t hit a wall anytime soon\u2014here\u2019s why",
-      "link": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
-      "published": "Wed, 08 Apr 2026 14:00:00 +0000",
-      "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catas"
     },
     {
       "source": "Anthropic Blog",
@@ -249,8 +249,8 @@
       "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
     }
   ],
-  "timestamp": "2026-04-15T02:55:35.889025",
-  "last_updated": "2026-04-15T02:55:35.889025",
+  "timestamp": "2026-04-15T07:55:51.185364",
+  "last_updated": "2026-04-15T07:55:51.185364",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
