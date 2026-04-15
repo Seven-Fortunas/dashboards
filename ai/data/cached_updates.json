@@ -115,26 +115,26 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "ChatGPT for finance teams",
-      "link": "https://openai.com/academy/finance",
+      "title": "Responsible and safe use of AI",
+      "link": "https://openai.com/academy/responsible-and-safe-use",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly."
+      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT."
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "ChatGPT for marketing teams",
-      "link": "https://openai.com/academy/marketing",
+      "title": "Research with ChatGPT",
+      "link": "https://openai.com/academy/search-and-deep-research",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster."
+      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights."
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Getting started with ChatGPT",
-      "link": "https://openai.com/academy/getting-started",
+      "title": "Prompting fundamentals",
+      "link": "https://openai.com/academy/prompting",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
+      "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT."
     },
     {
       "source": "Anthropic Blog",
@@ -249,8 +249,8 @@
       "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
     }
   ],
-  "timestamp": "2026-04-15T07:55:51.185364",
-  "last_updated": "2026-04-15T07:55:51.185364",
+  "timestamp": "2026-04-15T13:49:46.489277",
+  "last_updated": "2026-04-15T13:49:46.489277",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
