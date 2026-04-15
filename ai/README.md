@@ -1,27 +1,27 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-14 19:23:53 UTC
+**Last Updated:** 2026-04-15 02:55:35 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.2.29](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.29) | 2026-04-14 |
 | MIT Technology Review AI | [Redefining the future of software engineering](https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/) | Tue, 14 Ap |
 | Google AI Blog | [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/) | Tue, 14 Ap |
 | Anthropic Blog | [Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Director](https://www.anthropic.com/news/narasimhan-board) | 2026-04-14 |
 | MIT Technology Review AI | [Coming soon: 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/) | Tue, 14 Ap |
 | Google AI Blog | [Bringing people together at AI for the Economy Forum](https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/) | Tue, 14 Ap |
+| OpenAI Blog | [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense) | Tue, 14 Ap |
 | HuggingFace Transformers | [Release v5.5.4](https://github.com/huggingface/transformers/releases/tag/v5.5.4) | 2026-04-13 |
 | DeepMind Blog | [Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embo](https://deepmind.google/blog/gemini-robotics-er-1-6/) | Mon, 13 Ap |
 | MIT Technology Review AI | [Why opinion on AI is so divided](https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/) | Mon, 13 Ap |
-| LangChain Releases | [Release langchain-core==1.3.0a2](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.0a2) | 2026-04-13 |
 | MIT Technology Review AI | [Want to understand the current state of AI? Check out these charts.](https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/) | Mon, 13 Ap |
 | OpenAI Blog | [Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI](https://openai.com/index/cloudflare-openai-agent-cloud) | Mon, 13 Ap |
 | Anthropic Blog | [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services) | 2026-04-10 |
-| OpenAI Blog | [ChatGPT for operations teams](https://openai.com/academy/operations) | Fri, 10 Ap |
-| OpenAI Blog | [Applications of AI at OpenAI](https://openai.com/academy/applications-of-ai) | Fri, 10 Ap |
-| OpenAI Blog | [ChatGPT for finance teams](https://openai.com/academy/finance) | Fri, 10 Ap |
-| OpenAI Blog | [Brainstorming with ChatGPT](https://openai.com/academy/brainstorming) | Fri, 10 Ap |
+| OpenAI Blog | [Healthcare](https://openai.com/academy/healthcare) | Fri, 10 Ap |
+| OpenAI Blog | [Getting started with ChatGPT](https://openai.com/academy/getting-started) | Fri, 10 Ap |
+| OpenAI Blog | [ChatGPT for marketing teams](https://openai.com/academy/marketing) | Fri, 10 Ap |
 | Anthropic Blog | [Advancing Claude in healthcare and the life sciences](https://www.anthropic.com/news/healthcare-life-sciences) | 2026-04-09 |
 | Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
 | MIT Technology Review AI | [Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why](https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/) | Wed, 08 Ap |

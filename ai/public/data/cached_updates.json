@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.2.29",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.29",
+      "published": "2026-04-14T20:45:15Z",
+      "summary": "Changes since langchain-core==1.2.28\n\nrelease(core): 1.2.29 and also port #36725 (#36727)"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Redefining the future of software engineering",
@@ -41,6 +49,14 @@
       "summary": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\""
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Trusted access for the next era of cyber defense",
+      "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "published": "Tue, 14 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance."
+    },
+    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.5.4",
@@ -63,14 +79,6 @@
       "link": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
       "published": "Mon, 13 Apr 2026 15:48:28 +0000",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. In an industry that doesn\u2019t stand still, Stanford\u2019s AI Index, "
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.3.0a2",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.0a2",
-      "published": "2026-04-13T14:38:14Z",
-      "summary": "Initial release\n\nrelease(core): 1.3.0.a2 (#36698)\nfix(core): Use reference counting for storing inherited run trees to support garbage collection (#36660)\ndocs(core): nit (#36685)\nrelease(core): 1.3.0"
     },
     {
       "source": "MIT Technology Review AI",
@@ -99,34 +107,26 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "ChatGPT for operations teams",
-      "link": "https://openai.com/academy/operations",
+      "title": "Healthcare",
+      "link": "https://openai.com/academy/healthcare",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution."
+      "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools."
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Applications of AI at OpenAI",
-      "link": "https://openai.com/academy/applications-of-ai",
+      "title": "Getting started with ChatGPT",
+      "link": "https://openai.com/academy/getting-started",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks."
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "ChatGPT for finance teams",
-      "link": "https://openai.com/academy/finance",
+      "title": "ChatGPT for marketing teams",
+      "link": "https://openai.com/academy/marketing",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Brainstorming with ChatGPT",
-      "link": "https://openai.com/academy/brainstorming",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans."
+      "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster."
     },
     {
       "source": "Anthropic Blog",
@@ -249,8 +249,8 @@
       "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
     }
   ],
-  "timestamp": "2026-04-14T19:23:53.950622",
-  "last_updated": "2026-04-14T19:23:53.950622",
+  "timestamp": "2026-04-15T02:55:35.889025",
+  "last_updated": "2026-04-15T02:55:35.889025",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
