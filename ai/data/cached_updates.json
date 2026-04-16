@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "A new way to explore the web with AI Mode in Chrome",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+      "published": "Thu, 16 Apr 2026 17:00:00 +0000",
+      "summary": "AI Mode in Chrome"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "New ways to create personalized images in the Gemini app",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "published": "Thu, 16 Apr 2026 16:00:00 +0000",
+      "summary": "Example images made with Personal Intelligence"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Opus 4.7",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "published": "2026-04-16T14:53:34.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.2.31",
@@ -22,7 +46,7 @@
       "title": "Treating enterprise AI as an operating layer",
       "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
       "published": "Thu, 16 Apr 2026 13:00:00 +0000",
-      "summary": "There\u2019s a fault line running through enterprise AI, and it\u2019s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks \u2014 GPT versus Gemini, reasonin"
+      "summary": "There\u2019s a fault line running through enterprise AI, and it\u2019s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks\u2014GPT versus Gemini, reasoning "
     },
     {
       "source": "MIT Technology Review AI",
@@ -31,6 +55,22 @@
       "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
       "published": "Thu, 16 Apr 2026 12:00:00 +0000",
       "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than "
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Codex for (almost) everything",
+      "link": "https://openai.com/index/codex-for-almost-everything",
+      "published": "Thu, 16 Apr 2026 10:00:00 GMT",
+      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "link": "https://openai.com/index/introducing-gpt-rosalind",
+      "published": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows."
     },
     {
       "source": "OpenAI Blog",
@@ -129,28 +169,12 @@
       "summary": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "published": "Mon, 13 Apr 2026 06:00:00 GMT",
-      "summary": "Cloudflare brings OpenAI\u2019s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Claude for Financial Services",
       "link": "https://www.anthropic.com/news/claude-for-financial-services",
       "published": "2026-04-10T12:11:09.000Z",
       "summary": "Today, we&#x27;re introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Responsible and safe use of AI",
-      "link": "https://openai.com/academy/responsible-and-safe-use",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT."
     },
     {
       "source": "Anthropic Blog",
@@ -183,22 +207,6 @@
       "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
       "published": "Thu, 02 Apr 2026 16:00:49 +0000",
       "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows."
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "New ways to balance cost and reliability in the Gemini API",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-      "published": "Thu, 02 Apr 2026 16:00:00 +0000",
-      "summary": "Gemini API Dials"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Create, edit and share videos at no cost in Google Vids",
-      "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
-      "published": "Thu, 02 Apr 2026 16:00:00 +0000",
-      "summary": "Google Vids logo surrounded by various video editing UI"
     },
     {
       "source": "Microsoft Research AI",
@@ -249,8 +257,8 @@
       "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
     }
   ],
-  "timestamp": "2026-04-16T13:58:50.194114",
-  "last_updated": "2026-04-16T13:58:50.194114",
+  "timestamp": "2026-04-16T19:23:03.373014",
+  "last_updated": "2026-04-16T19:23:03.373014",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
