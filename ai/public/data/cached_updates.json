@@ -1,20 +1,44 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Opus 4.7",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "published": "2026-04-17T17:43:02.000Z",
+      "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "published": "2026-04-17T14:58:21.000Z",
+      "summary": "Today, we\u2019re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.3.0",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.0",
+      "published": "2026-04-17T14:51:57Z",
+      "summary": "Changes since langchain-core==1.2.31\n\nrelease(core): release 1.3.0 (#36851)\nrelease(core): 1.3.0a3 (#36829)\nchore(core): keep checkpoint_ns behavior in streaming metadata for backwards compat (#36828)"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+      "published": "Fri, 17 Apr 2026 14:00:00 +0000",
+      "summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "How robots learn: A brief, contemporary history",
       "link": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
       "published": "Fri, 17 Apr 2026 10:00:00 +0000",
       "summary": "Roboticists used to dream big but build small. They\u2019d hope to match or exceed the extraordinary complexity of the human body, and then they\u2019d spend their career refining robotic arms for auto plants. "
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.3.0a3",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.0a3",
-      "published": "2026-04-16T19:40:49Z",
-      "summary": "Initial release\n\nrelease(core): 1.3.0a3 (#36829)\nchore(core): keep checkpoint_ns behavior in streaming metadata for backwards compat (#36828)\nfeat(core): Add chat model and LLM invocation params to tr"
     },
     {
       "source": "Google AI Blog",
@@ -31,14 +55,6 @@
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
       "published": "Thu, 16 Apr 2026 16:00:00 +0000",
       "summary": "Example images made with Personal Intelligence"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Opus 4.7",
-      "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "published": "2026-04-16T14:53:34.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "MIT Technology Review AI",
@@ -137,14 +153,6 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Bringing people together at AI for the Economy Forum",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
-      "published": "Tue, 14 Apr 2026 09:00:00 +0000",
-      "summary": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\""
-    },
-    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Trusted access for the next era of cyber defense",
@@ -191,14 +199,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
       "published": "Thu, 09 Apr 2026 16:11:44 +0000",
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
-      "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "published": "2026-04-06T21:43:38.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "DeepMind Blog",
@@ -257,8 +257,8 @@
       "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
     }
   ],
-  "timestamp": "2026-04-17T13:41:24.685973",
-  "last_updated": "2026-04-17T13:41:24.685973",
+  "timestamp": "2026-04-17T19:08:32.896498",
+  "last_updated": "2026-04-17T19:08:32.896498",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
