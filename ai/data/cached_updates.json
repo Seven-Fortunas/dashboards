@@ -185,14 +185,6 @@
       "summary": "Introducing Claude for Healthcare with HIPAA-ready infrastructure, plus expanded Life Sciences tools for clinical trials and regulatory submissions. New connectors to CMS, Medidata, and ClinicalTrials"
     },
     {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "New Future of\u00a0Work:\u00a0AI is driving rapid change,\u00a0uneven benefits",
-      "link": "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
-      "published": "Thu, 09 Apr 2026 16:11:44 +0000",
-      "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
@@ -207,30 +199,6 @@
       "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
       "published": "Thu, 02 Apr 2026 16:00:49 +0000",
       "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows."
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "ADeLe: Predicting and explaining AI performance across tasks",
-      "link": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
-      "published": "Wed, 01 Apr 2026 16:00:58 +0000",
-      "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "AsgardBench: A\u00a0benchmark for\u00a0visually grounded interactive\u00a0planning",
-      "link": "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
-      "published": "Thu, 26 Mar 2026 19:02:53 +0000",
-      "summary": "<p>Imagine a robot tasked with cleaning a kitchen. It needs to observe its environment, decide what to do, and adjust when things don&#8217;t go as expected, for example, when the mug it was tasked to"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
-      "link": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
-      "published": "Thu, 26 Mar 2026 16:03:56 +0000",
-      "summary": "<p>Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two s"
     },
     {
       "source": "DeepMind Blog",
@@ -257,10 +225,17 @@
       "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
     }
   ],
-  "timestamp": "2026-04-17T03:17:40.506074",
-  "last_updated": "2026-04-17T03:17:40.506074",
-  "failures": [],
-  "failed_sources": [],
-  "failure_count": 0,
+  "timestamp": "2026-04-17T07:56:57.288914",
+  "last_updated": "2026-04-17T07:56:57.288914",
+  "failures": [
+    {
+      "source": "Microsoft Research AI",
+      "error": "Feed parse error: <unknown>:2:0: syntax error"
+    }
+  ],
+  "failed_sources": [
+    "Microsoft Research AI"
+  ],
+  "failure_count": 1,
   "source_count": 10
 }
