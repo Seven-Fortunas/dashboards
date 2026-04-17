@@ -1,15 +1,15 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-16 19:23:03 UTC
+**Last Updated:** 2026-04-17 03:17:40 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.3.0a3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.0a3) | 2026-04-16 |
 | Google AI Blog | [A new way to explore the web with AI Mode in Chrome](https://blog.google/products-and-platforms/products/search/ai-mode-chrome/) | Thu, 16 Ap |
 | Google AI Blog | [New ways to create personalized images in the Gemini app](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/) | Thu, 16 Ap |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-04-16 |
-| LangChain Releases | [Release langchain-core==1.2.31](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.31) | 2026-04-16 |
 | MIT Technology Review AI | [Making AI operational in constrained public sector environments](https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/) | Thu, 16 Ap |
 | MIT Technology Review AI | [Treating enterprise AI as an operating layer](https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/) | Thu, 16 Ap |
 | MIT Technology Review AI | [Why having “humans in the loop” in an AI war is an illusion](https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/) | Thu, 16 Ap |
