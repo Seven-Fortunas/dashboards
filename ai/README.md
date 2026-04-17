@@ -1,6 +1,8 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-17 03:17:40 UTC
+**Last Updated:** 2026-04-17 07:56:57 UTC
+
+ℹ️ **INFO:** 1/10 data sources failed.
 
 ## Latest Updates
 
@@ -29,12 +31,12 @@
 | DeepMind Blog | [Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embo](https://deepmind.google/blog/gemini-robotics-er-1-6/) | Mon, 13 Ap |
 | Anthropic Blog | [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services) | 2026-04-10 |
 | Anthropic Blog | [Advancing Claude in healthcare and the life sciences](https://www.anthropic.com/news/healthcare-life-sciences) | 2026-04-09 |
-| Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
 | Anthropic Blog | [Anthropic expands partnership with Google and Broadcom for multiple gigawatts of](https://www.anthropic.com/news/google-broadcom-partnership-compute) | 2026-04-06 |
 | DeepMind Blog | [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) | Thu, 02 Ap |
-| Microsoft Research AI | [ADeLe: Predicting and explaining AI performance across tasks](https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/) | Wed, 01 Ap |
-| Microsoft Research AI | [AsgardBench: A benchmark for visually grounded interactive planning](https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/) | Thu, 26 Ma |
-| Microsoft Research AI | [GroundedPlanBench: Spatially grounded long-horizon task planning for robot manip](https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/) | Thu, 26 Ma |
 | DeepMind Blog | [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/) | Thu, 26 Ma |
 | DeepMind Blog | [Protecting people from harmful manipulation](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/) | Wed, 25 Ma |
 | PyTorch Releases | [Release v2.11.0](https://github.com/pytorch/pytorch/releases/tag/v2.11.0) | 2026-03-23 |
+
+## Failed Sources
+
+- **Microsoft Research AI:** Feed parse error: <unknown>:2:0: syntax error
