@@ -1,13 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-17 07:56:57 UTC
-
-ℹ️ **INFO:** 1/10 data sources failed.
+**Last Updated:** 2026-04-17 13:41:24 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [How robots learn: A brief, contemporary history](https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/) | Fri, 17 Ap |
 | LangChain Releases | [Release langchain-core==1.3.0a3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.0a3) | 2026-04-16 |
 | Google AI Blog | [A new way to explore the web with AI Mode in Chrome](https://blog.google/products-and-platforms/products/search/ai-mode-chrome/) | Thu, 16 Ap |
 | Google AI Blog | [New ways to create personalized images in the Gemini app](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/) | Thu, 16 Ap |
@@ -22,7 +21,6 @@
 | Google AI Blog | [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/) | Wed, 15 Ap |
 | OpenAI Blog | [The next evolution of the Agents SDK](https://openai.com/index/the-next-evolution-of-the-agents-sdk) | Wed, 15 Ap |
 | MIT Technology Review AI | [Building trust in the AI era with privacy-led UX](https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/) | Wed, 15 Ap |
-| MIT Technology Review AI | [Redefining the future of software engineering](https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/) | Tue, 14 Ap |
 | Google AI Blog | [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/) | Tue, 14 Ap |
 | Anthropic Blog | [Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Director](https://www.anthropic.com/news/narasimhan-board) | 2026-04-14 |
 | Google AI Blog | [Bringing people together at AI for the Economy Forum](https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/) | Tue, 14 Ap |
@@ -31,12 +29,12 @@
 | DeepMind Blog | [Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embo](https://deepmind.google/blog/gemini-robotics-er-1-6/) | Mon, 13 Ap |
 | Anthropic Blog | [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services) | 2026-04-10 |
 | Anthropic Blog | [Advancing Claude in healthcare and the life sciences](https://www.anthropic.com/news/healthcare-life-sciences) | 2026-04-09 |
+| Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
 | Anthropic Blog | [Anthropic expands partnership with Google and Broadcom for multiple gigawatts of](https://www.anthropic.com/news/google-broadcom-partnership-compute) | 2026-04-06 |
 | DeepMind Blog | [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) | Thu, 02 Ap |
+| Microsoft Research AI | [ADeLe: Predicting and explaining AI performance across tasks](https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/) | Wed, 01 Ap |
+| Microsoft Research AI | [AsgardBench: A benchmark for visually grounded interactive planning](https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/) | Thu, 26 Ma |
+| Microsoft Research AI | [GroundedPlanBench: Spatially grounded long-horizon task planning for robot manip](https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/) | Thu, 26 Ma |
 | DeepMind Blog | [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/) | Thu, 26 Ma |
 | DeepMind Blog | [Protecting people from harmful manipulation](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/) | Wed, 25 Ma |
 | PyTorch Releases | [Release v2.11.0](https://github.com/pytorch/pytorch/releases/tag/v2.11.0) | 2026-03-23 |
-
-## Failed Sources
-
-- **Microsoft Research AI:** Feed parse error: <unknown>:2:0: syntax error
