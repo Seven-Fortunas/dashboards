@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Opus 4.7",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "published": "2026-04-20T17:27:26.000Z",
+      "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Chinese tech workers are starting to train their AI doubles\u2013and pushing back",
@@ -15,14 +23,6 @@
       "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
       "published": "Mon, 20 Apr 2026 00:00:00 GMT",
       "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Opus 4.7",
-      "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "published": "2026-04-17T17:43:02.000Z",
-      "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
     },
     {
       "source": "Anthropic Blog",
@@ -257,8 +257,8 @@
       "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
     }
   ],
-  "timestamp": "2026-04-20T13:53:18.368988",
-  "last_updated": "2026-04-20T13:53:18.368988",
+  "timestamp": "2026-04-20T19:13:33.913260",
+  "last_updated": "2026-04-20T19:13:33.913260",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

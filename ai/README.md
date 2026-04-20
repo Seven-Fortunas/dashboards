@@ -1,14 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-20 13:53:18 UTC
+**Last Updated:** 2026-04-20 19:13:33 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-04-20 |
 | MIT Technology Review AI | [Chinese tech workers are starting to train their AI doubles–and pushing back](https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/) | Mon, 20 Ap |
 | OpenAI Blog | [OpenAI helps Hyatt advance AI among colleagues](https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise) | Mon, 20 Ap |
-| Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-04-17 |
 | Anthropic Blog | [Introducing Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs) | 2026-04-17 |
 | LangChain Releases | [Release langchain-core==1.3.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.0) | 2026-04-17 |
 | Google AI Blog | [7 ways to travel smarter this summer, with help from Google](https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/) | Fri, 17 Ap |
