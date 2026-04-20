@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Chinese tech workers are starting to train their AI doubles\u2013and pushing back",
+      "link": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+      "published": "Mon, 20 Apr 2026 09:00:00 +0000",
+      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them\u2014and it\u2019s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier thi"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI helps Hyatt advance AI among colleagues",
+      "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "published": "Mon, 20 Apr 2026 00:00:00 GMT",
+      "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Opus 4.7",
@@ -129,14 +145,6 @@
       "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Building trust in the AI era with privacy-led UX",
-      "link": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-      "published": "Wed, 15 Apr 2026 06:00:00 +0000",
-      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped oppor"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Turn your best AI prompts into one-click tools in Chrome",
@@ -151,14 +159,6 @@
       "link": "https://www.anthropic.com/news/narasimhan-board",
       "published": "2026-04-14T14:00:04.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Trusted access for the next era of cyber defense",
-      "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-      "published": "Tue, 14 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance."
     },
     {
       "source": "HuggingFace Transformers",
@@ -257,8 +257,8 @@
       "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
     }
   ],
-  "timestamp": "2026-04-20T08:17:32.495239",
-  "last_updated": "2026-04-20T08:17:32.495239",
+  "timestamp": "2026-04-20T13:53:18.368988",
+  "last_updated": "2026-04-20T13:53:18.368988",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

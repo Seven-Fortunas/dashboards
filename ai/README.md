@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-20 08:17:32 UTC
+**Last Updated:** 2026-04-20 13:53:18 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Chinese tech workers are starting to train their AI doubles–and pushing back](https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/) | Mon, 20 Ap |
+| OpenAI Blog | [OpenAI helps Hyatt advance AI among colleagues](https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise) | Mon, 20 Ap |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-04-17 |
 | Anthropic Blog | [Introducing Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs) | 2026-04-17 |
 | LangChain Releases | [Release langchain-core==1.3.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.0) | 2026-04-17 |
@@ -22,10 +24,8 @@
 | DeepMind Blog | [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/) | Wed, 15 Ap |
 | Google AI Blog | [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/) | Wed, 15 Ap |
 | OpenAI Blog | [The next evolution of the Agents SDK](https://openai.com/index/the-next-evolution-of-the-agents-sdk) | Wed, 15 Ap |
-| MIT Technology Review AI | [Building trust in the AI era with privacy-led UX](https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/) | Wed, 15 Ap |
 | Google AI Blog | [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/) | Tue, 14 Ap |
 | Anthropic Blog | [Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Director](https://www.anthropic.com/news/narasimhan-board) | 2026-04-14 |
-| OpenAI Blog | [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense) | Tue, 14 Ap |
 | HuggingFace Transformers | [Release v5.5.4](https://github.com/huggingface/transformers/releases/tag/v5.5.4) | 2026-04-13 |
 | DeepMind Blog | [Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embo](https://deepmind.google/blog/gemini-robotics-er-1-6/) | Mon, 13 Ap |
 | Anthropic Blog | [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services) | 2026-04-10 |
