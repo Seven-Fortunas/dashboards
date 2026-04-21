@@ -9,6 +9,14 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Scaling Codex to enterprises worldwide",
+      "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "published": "Tue, 21 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI launches Codex Transformation Partners, a program with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Opus 4.7",
@@ -145,14 +153,6 @@
       "summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "The next evolution of the Agents SDK",
-      "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "published": "Wed, 15 Apr 2026 10:00:00 GMT",
-      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Turn your best AI prompts into one-click tools in Chrome",
@@ -257,8 +257,8 @@
       "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
     }
   ],
-  "timestamp": "2026-04-21T08:01:04.825466",
-  "last_updated": "2026-04-21T08:01:04.825466",
+  "timestamp": "2026-04-21T13:54:31.993125",
+  "last_updated": "2026-04-21T13:54:31.993125",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

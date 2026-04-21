@@ -1,12 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-21 08:01:04 UTC
+**Last Updated:** 2026-04-21 13:54:31 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
 | Anthropic Blog | [Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute](https://www.anthropic.com/news/anthropic-amazon-compute) | 2026-04-21 |
+| OpenAI Blog | [Scaling Codex to enterprises worldwide](https://openai.com/index/scaling-codex-to-enterprises-worldwide) | Tue, 21 Ap |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-04-20 |
 | MIT Technology Review AI | [Chinese tech workers are starting to train their AI doubles–and pushing back](https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/) | Mon, 20 Ap |
 | OpenAI Blog | [OpenAI helps Hyatt advance AI among colleagues](https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise) | Mon, 20 Ap |
@@ -24,7 +25,6 @@
 | OpenAI Blog | [Accelerating the cyber defense ecosystem that protects us all](https://openai.com/index/accelerating-cyber-defense-ecosystem) | Thu, 16 Ap |
 | DeepMind Blog | [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/) | Wed, 15 Ap |
 | Google AI Blog | [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/) | Wed, 15 Ap |
-| OpenAI Blog | [The next evolution of the Agents SDK](https://openai.com/index/the-next-evolution-of-the-agents-sdk) | Wed, 15 Ap |
 | Google AI Blog | [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/) | Tue, 14 Ap |
 | Anthropic Blog | [Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Director](https://www.anthropic.com/news/narasimhan-board) | 2026-04-14 |
 | HuggingFace Transformers | [Release v5.5.4](https://github.com/huggingface/transformers/releases/tag/v5.5.4) | 2026-04-13 |
