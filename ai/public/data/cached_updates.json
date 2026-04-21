@@ -3,6 +3,14 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
+      "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+      "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
+      "published": "2026-04-21T01:50:34.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
       "title": "Introducing Claude Opus 4.7",
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
       "published": "2026-04-20T17:27:26.000Z",
@@ -185,14 +193,6 @@
       "summary": "Today, we&#x27;re introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Advancing Claude in healthcare and the life sciences",
-      "link": "https://www.anthropic.com/news/healthcare-life-sciences",
-      "published": "2026-04-09T20:25:31.000Z",
-      "summary": "Introducing Claude for Healthcare with HIPAA-ready infrastructure, plus expanded Life Sciences tools for clinical trials and regulatory submissions. New connectors to CMS, Medidata, and ClinicalTrials"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "New Future of\u00a0Work:\u00a0AI is driving rapid change,\u00a0uneven benefits",
@@ -257,8 +257,8 @@
       "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
     }
   ],
-  "timestamp": "2026-04-20T19:13:33.913260",
-  "last_updated": "2026-04-20T19:13:33.913260",
+  "timestamp": "2026-04-21T03:18:39.511883",
+  "last_updated": "2026-04-21T03:18:39.511883",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

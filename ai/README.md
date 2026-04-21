@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-20 19:13:33 UTC
+**Last Updated:** 2026-04-21 03:18:39 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute](https://www.anthropic.com/news/anthropic-amazon-compute) | 2026-04-21 |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-04-20 |
 | MIT Technology Review AI | [Chinese tech workers are starting to train their AI doubles–and pushing back](https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/) | Mon, 20 Ap |
 | OpenAI Blog | [OpenAI helps Hyatt advance AI among colleagues](https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise) | Mon, 20 Ap |
@@ -29,7 +30,6 @@
 | HuggingFace Transformers | [Release v5.5.4](https://github.com/huggingface/transformers/releases/tag/v5.5.4) | 2026-04-13 |
 | DeepMind Blog | [Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embo](https://deepmind.google/blog/gemini-robotics-er-1-6/) | Mon, 13 Ap |
 | Anthropic Blog | [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services) | 2026-04-10 |
-| Anthropic Blog | [Advancing Claude in healthcare and the life sciences](https://www.anthropic.com/news/healthcare-life-sciences) | 2026-04-09 |
 | Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
 | DeepMind Blog | [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) | Thu, 02 Ap |
 | Microsoft Research AI | [ADeLe: Predicting and explaining AI performance across tasks](https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/) | Wed, 01 Ap |
