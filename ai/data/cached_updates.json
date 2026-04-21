@@ -1,11 +1,27 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Building agent-first governance and security",
+      "link": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/",
+      "published": "Tue, 21 Apr 2026 17:22:54 +0000",
+      "summary": "As AI agents increasingly work alongside humans across organizations, companies could be inadvertently opening a new attack surface. Insecure agents can be manipulated to access sensitive systems and "
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "published": "Tue, 21 Apr 2026 14:30:00 +0000",
+      "summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
       "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
-      "published": "2026-04-21T01:50:34.000Z",
+      "published": "2026-04-21T14:08:40.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
@@ -14,7 +30,7 @@
       "title": "Scaling Codex to enterprises worldwide",
       "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
       "published": "Tue, 21 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI launches Codex Transformation Partners, a program with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle."
+      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU."
     },
     {
       "source": "Anthropic Blog",
@@ -27,7 +43,7 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
-      "title": "Chinese tech workers are starting to train their AI doubles\u2013and pushing back",
+      "title": "Chinese tech workers are starting to train their AI doubles\u2014and pushing back",
       "link": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
       "published": "Mon, 20 Apr 2026 09:00:00 +0000",
       "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them\u2014and it\u2019s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier thi"
@@ -105,14 +121,6 @@
       "summary": "There\u2019s a fault line running through enterprise AI, and it\u2019s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks\u2014GPT versus Gemini, reasoning "
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Why having \u201chumans in the loop\u201d in an AI war is an illusion",
-      "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
-      "published": "Thu, 16 Apr 2026 12:00:00 +0000",
-      "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than "
-    },
-    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Codex for (almost) everything",
@@ -151,14 +159,6 @@
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
       "published": "Wed, 15 Apr 2026 15:00:00 +0000",
       "summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-      "published": "Tue, 14 Apr 2026 17:00:00 +0000",
-      "summary": "Video showing Skills in Chrome"
     },
     {
       "source": "Anthropic Blog",
@@ -257,8 +257,8 @@
       "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
     }
   ],
-  "timestamp": "2026-04-21T13:54:31.993125",
-  "last_updated": "2026-04-21T13:54:31.993125",
+  "timestamp": "2026-04-21T19:20:11.456381",
+  "last_updated": "2026-04-21T19:20:11.456381",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
