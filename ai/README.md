@@ -1,15 +1,17 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-21 13:54:31 UTC
+**Last Updated:** 2026-04-21 19:20:11 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Building agent-first governance and security](https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/) | Tue, 21 Ap |
+| Google AI Blog | [3 new ways Ads Advisor is making Google Ads safer and faster](https://blog.google/products/ads-commerce/ads-advisor-google-ads/) | Tue, 21 Ap |
 | Anthropic Blog | [Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute](https://www.anthropic.com/news/anthropic-amazon-compute) | 2026-04-21 |
 | OpenAI Blog | [Scaling Codex to enterprises worldwide](https://openai.com/index/scaling-codex-to-enterprises-worldwide) | Tue, 21 Ap |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-04-20 |
-| MIT Technology Review AI | [Chinese tech workers are starting to train their AI doubles–and pushing back](https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/) | Mon, 20 Ap |
+| MIT Technology Review AI | [Chinese tech workers are starting to train their AI doubles—and pushing back](https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/) | Mon, 20 Ap |
 | OpenAI Blog | [OpenAI helps Hyatt advance AI among colleagues](https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise) | Mon, 20 Ap |
 | Anthropic Blog | [Introducing Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs) | 2026-04-17 |
 | LangChain Releases | [Release langchain-core==1.3.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.0) | 2026-04-17 |
@@ -19,13 +21,11 @@
 | Google AI Blog | [New ways to create personalized images in the Gemini app](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/) | Thu, 16 Ap |
 | MIT Technology Review AI | [Making AI operational in constrained public sector environments](https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/) | Thu, 16 Ap |
 | MIT Technology Review AI | [Treating enterprise AI as an operating layer](https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/) | Thu, 16 Ap |
-| MIT Technology Review AI | [Why having “humans in the loop” in an AI war is an illusion](https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/) | Thu, 16 Ap |
 | OpenAI Blog | [Codex for (almost) everything](https://openai.com/index/codex-for-almost-everything) | Thu, 16 Ap |
 | OpenAI Blog | [Introducing GPT-Rosalind for life sciences research](https://openai.com/index/introducing-gpt-rosalind) | Thu, 16 Ap |
 | OpenAI Blog | [Accelerating the cyber defense ecosystem that protects us all](https://openai.com/index/accelerating-cyber-defense-ecosystem) | Thu, 16 Ap |
 | DeepMind Blog | [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/) | Wed, 15 Ap |
 | Google AI Blog | [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/) | Wed, 15 Ap |
-| Google AI Blog | [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/) | Tue, 14 Ap |
 | Anthropic Blog | [Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Director](https://www.anthropic.com/news/narasimhan-board) | 2026-04-14 |
 | HuggingFace Transformers | [Release v5.5.4](https://github.com/huggingface/transformers/releases/tag/v5.5.4) | 2026-04-13 |
 | DeepMind Blog | [Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embo](https://deepmind.google/blog/gemini-robotics-er-1-6/) | Mon, 13 Ap |
