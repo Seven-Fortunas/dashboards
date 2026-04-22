@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "published": "Wed, 22 Apr 2026 12:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\" />The eighth generation of Google\u2019s TPU includes two specialized "
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "AI needs a strong data fabric to deliver business value",
+      "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "published": "Wed, 22 Apr 2026 10:05:06 +0000",
+      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, h"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "10 Things That Matter in AI Right Now",
@@ -33,12 +49,12 @@
       "summary": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity\u2019s domain. As it turns out, building an AI system that can compose a novel or code an "
     },
     {
-      "source": "MIT Technology Review AI",
+      "source": "DeepMind Blog",
       "type": "rss",
-      "title": "Weaponized deepfakes",
-      "link": "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/",
-      "published": "Tue, 21 Apr 2026 20:45:00 +0000",
-      "summary": "For years, experts have warned that deepfakes\u2014AI-generated videos, images, or audio recordings of people doing or saying things they haven\u2019t actually done in real life\u2014could be deployed in malicious w"
+      "title": "Partnering with industry leaders to accelerate AI transformation",
+      "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+      "published": "Tue, 21 Apr 2026 14:54:15 +0000",
+      "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     },
     {
       "source": "Google AI Blog",
@@ -153,14 +169,6 @@
       "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation."
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-      "published": "Wed, 15 Apr 2026 15:00:00 +0000",
-      "summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Anthropic\u2019s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
@@ -241,14 +249,6 @@
       "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise."
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Protecting people from harmful manipulation",
-      "link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
-      "published": "Wed, 25 Mar 2026 16:46:20 +0000",
-      "summary": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures."
-    },
-    {
       "source": "PyTorch Releases",
       "type": "github",
       "title": "Release v2.11.0",
@@ -257,8 +257,8 @@
       "summary": "# PyTorch 2.11.0 Release Notes\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- [I"
     }
   ],
-  "timestamp": "2026-04-22T07:57:37.428952",
-  "last_updated": "2026-04-22T07:57:37.428952",
+  "timestamp": "2026-04-22T13:54:26.962971",
+  "last_updated": "2026-04-22T13:54:26.962971",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
