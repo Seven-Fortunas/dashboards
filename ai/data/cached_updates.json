@@ -51,18 +51,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Workspace agents",
-      "link": "https://openai.com/academy/workspace-agents",
-      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
       "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
       "published": "Wed, 22 Apr 2026 10:00:00 GMT",
       "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Workspace agents",
+      "link": "https://openai.com/academy/workspace-agents",
+      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
     },
     {
       "source": "OpenAI Blog",
@@ -257,8 +257,8 @@
       "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise."
     }
   ],
-  "timestamp": "2026-04-23T03:20:19.845933",
-  "last_updated": "2026-04-23T03:20:19.845933",
+  "timestamp": "2026-04-23T08:03:23.405272",
+  "last_updated": "2026-04-23T08:03:23.405272",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
