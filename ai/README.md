@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-23 03:20:19 UTC
+**Last Updated:** 2026-04-23 08:03:23 UTC
 
 ## Latest Updates
 
@@ -12,8 +12,8 @@
 | Google AI Blog | [We're launching two specialized TPUs for the agentic era.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/) | Wed, 22 Ap |
 | MIT Technology Review AI | [AI needs a strong data fabric to deliver business value](https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/) | Wed, 22 Ap |
 | OpenAI Blog | [Introducing workspace agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt) | Wed, 22 Ap |
-| OpenAI Blog | [Workspace agents](https://openai.com/academy/workspace-agents) | Wed, 22 Ap |
 | OpenAI Blog | [Speeding up agentic workflows with WebSockets in the Responses API](https://openai.com/index/speeding-up-agentic-workflows-with-websockets) | Wed, 22 Ap |
+| OpenAI Blog | [Workspace agents](https://openai.com/academy/workspace-agents) | Wed, 22 Ap |
 | OpenAI Blog | [Introducing OpenAI Privacy Filter](https://openai.com/index/introducing-openai-privacy-filter) | Wed, 22 Ap |
 | MIT Technology Review AI | [10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/) | Tue, 21 Ap |
 | MIT Technology Review AI | [LLMs+](https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/) | Tue, 21 Ap |
