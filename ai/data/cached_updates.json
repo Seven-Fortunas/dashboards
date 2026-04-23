@@ -1,20 +1,28 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+      "published": "Thu, 23 Apr 2026 09:00:00 +0000",
+      "summary": "Aerial image of the data center"
+    },
+    {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.6.1",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.6.1",
+      "published": "2026-04-23T08:20:03Z",
+      "summary": "# Patch release v5.6.1\r\n\r\nFlash attention path was broken! Sorry everyone for this one \ud83e\udd17 \r\n\r\n* Fix AttributeError on s_aux=None in flash_attention_forward (https://github.com/huggingface/transformers/"
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "AutoAdapt: Automated domain adaptation for large language\u00a0models",
       "link": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
       "published": "Wed, 22 Apr 2026 16:25:30 +0000",
       "summary": "<p>Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine, and cloud incident response, performance and reli"
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.6.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.6.0",
-      "published": "2026-04-22T15:52:30Z",
-      "summary": "# Release v5.6.0\r\n\r\n\r\n## New Model additions\r\n\r\n### OpenAI Privacy Filter\r\n\r\nOpenAI Privacy Filter is a bidirectional token-classification model for personally identifiable information (PII) detection"
     },
     {
       "source": "OpenAI Blog",
@@ -43,6 +51,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "Workspace agents",
+      "link": "https://openai.com/academy/workspace-agents",
+      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Introducing workspace agents in ChatGPT",
       "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
       "published": "Wed, 22 Apr 2026 10:00:00 GMT",
@@ -55,14 +71,6 @@
       "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
       "published": "Wed, 22 Apr 2026 10:00:00 GMT",
       "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Workspace agents",
-      "link": "https://openai.com/academy/workspace-agents",
-      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
     },
     {
       "source": "OpenAI Blog",
@@ -169,14 +177,6 @@
       "summary": "AI Mode in Chrome"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "New ways to create personalized images in the Gemini app",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-      "published": "Thu, 16 Apr 2026 16:00:00 +0000",
-      "summary": "Example images made with Personal Intelligence"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
@@ -257,8 +257,8 @@
       "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise."
     }
   ],
-  "timestamp": "2026-04-23T08:03:23.405272",
-  "last_updated": "2026-04-23T08:03:23.405272",
+  "timestamp": "2026-04-23T13:56:33.066590",
+  "last_updated": "2026-04-23T13:56:33.066590",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
