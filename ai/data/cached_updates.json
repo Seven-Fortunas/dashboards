@@ -17,6 +17,14 @@
       "summary": "# Release v5.6.0\r\n\r\n\r\n## New Model additions\r\n\r\n### OpenAI Privacy Filter\r\n\r\nOpenAI Privacy Filter is a bidirectional token-classification model for personally identifiable information (PII) detection"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Making ChatGPT better for clinicians",
+      "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "published": "Wed, 22 Apr 2026 15:00:00 GMT",
+      "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "We're launching two specialized TPUs for the agentic era.",
@@ -119,14 +127,6 @@
       "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
       "published": "2026-04-21T14:08:40.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Scaling Codex to enterprises worldwide",
-      "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "published": "Tue, 21 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU."
     },
     {
       "source": "Anthropic Blog",
@@ -257,8 +257,8 @@
       "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise."
     }
   ],
-  "timestamp": "2026-04-22T19:21:38.911776",
-  "last_updated": "2026-04-22T19:21:38.911776",
+  "timestamp": "2026-04-23T03:20:19.845933",
+  "last_updated": "2026-04-23T03:20:19.845933",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
