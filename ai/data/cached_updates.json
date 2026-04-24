@@ -41,6 +41,30 @@
       "summary": ""
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Automations",
+      "link": "https://openai.com/academy/codex-automations",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Top 10 uses for Codex at work",
+      "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Plugins and skills",
+      "link": "https://openai.com/academy/codex-plugins-and-skills",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Elevating Austria: Google invests in its first data center in the Alps.",
@@ -49,28 +73,12 @@
       "summary": "Aerial image of the data center"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
-      "published": "Thu, 23 Apr 2026 00:00:00 GMT",
-      "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "AutoAdapt: Automated domain adaptation for large language\u00a0models",
       "link": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
       "published": "Wed, 22 Apr 2026 16:25:30 +0000",
       "summary": "<p>Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine, and cloud incident response, performance and reli"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Making ChatGPT better for clinicians",
-      "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
-      "published": "Wed, 22 Apr 2026 15:00:00 GMT",
-      "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research."
     },
     {
       "source": "Google AI Blog",
@@ -95,14 +103,6 @@
       "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
       "published": "Wed, 22 Apr 2026 10:05:06 +0000",
       "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, h"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Workspace agents",
-      "link": "https://openai.com/academy/workspace-agents",
-      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
     },
     {
       "source": "MIT Technology Review AI",
@@ -209,14 +209,6 @@
       "summary": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Claude for Financial Services",
-      "link": "https://www.anthropic.com/news/claude-for-financial-services",
-      "published": "2026-04-10T12:11:09.000Z",
-      "summary": "Today, we&#x27;re introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "New Future of\u00a0Work:\u00a0AI is driving rapid change,\u00a0uneven benefits",
@@ -257,8 +249,8 @@
       "summary": "<p>Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two s"
     }
   ],
-  "timestamp": "2026-04-23T19:18:48.308580",
-  "last_updated": "2026-04-23T19:18:48.308580",
+  "timestamp": "2026-04-24T03:22:26.308175",
+  "last_updated": "2026-04-24T03:22:26.308175",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
