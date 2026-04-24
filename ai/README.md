@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-24 08:11:51 UTC
+**Last Updated:** 2026-04-24 13:47:44 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [An update on our election safeguards](https://www.anthropic.com/news/election-safeguards-update) | 2026-04-24 |
 | Anthropic Blog | [Anthropic and NEC partner to build AI-native engineering at scale in Japan](https://www.anthropic.com/news/anthropic-nec) | 2026-04-24 |
 | LangChain Releases | [Release langchain-core==1.3.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.1) | 2026-04-23 |
 | HuggingFace Transformers | [Release v5.6.2](https://github.com/huggingface/transformers/releases/tag/v5.6.2) | 2026-04-23 |
@@ -31,7 +32,6 @@
 | Anthropic Blog | [Introducing Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs) | 2026-04-17 |
 | Google AI Blog | [7 ways to travel smarter this summer, with help from Google](https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/) | Fri, 17 Ap |
 | DeepMind Blog | [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/) | Wed, 15 Ap |
-| Anthropic Blog | [Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Director](https://www.anthropic.com/news/narasimhan-board) | 2026-04-14 |
 | DeepMind Blog | [Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embo](https://deepmind.google/blog/gemini-robotics-er-1-6/) | Mon, 13 Ap |
 | Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
 | DeepMind Blog | [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) | Thu, 02 Ap |
