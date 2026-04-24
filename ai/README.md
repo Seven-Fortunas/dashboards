@@ -1,14 +1,16 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-24 13:47:44 UTC
+**Last Updated:** 2026-04-24 19:00:28 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Google AI Blog | [8 Gemini tips for organizing your space (and life)](https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/) | Fri, 24 Ap |
 | Anthropic Blog | [An update on our election safeguards](https://www.anthropic.com/news/election-safeguards-update) | 2026-04-24 |
+| Anthropic Blog | [Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute](https://www.anthropic.com/news/anthropic-amazon-compute) | 2026-04-24 |
+| LangChain Releases | [Release langchain-core==1.3.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.2) | 2026-04-24 |
 | Anthropic Blog | [Anthropic and NEC partner to build AI-native engineering at scale in Japan](https://www.anthropic.com/news/anthropic-nec) | 2026-04-24 |
-| LangChain Releases | [Release langchain-core==1.3.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.1) | 2026-04-23 |
 | HuggingFace Transformers | [Release v5.6.2](https://github.com/huggingface/transformers/releases/tag/v5.6.2) | 2026-04-23 |
 | Google AI Blog | [Here’s how our TPUs power increasingly demanding AI workloads.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/) | Thu, 23 Ap |
 | OpenAI Blog | [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5) | Thu, 23 Ap |
@@ -27,10 +29,8 @@
 | MIT Technology Review AI | [World models](https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/) | Tue, 21 Ap |
 | DeepMind Blog | [Partnering with industry leaders to accelerate AI transformation](https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/) | Tue, 21 Ap |
 | Google AI Blog | [3 new ways Ads Advisor is making Google Ads safer and faster](https://blog.google/products/ads-commerce/ads-advisor-google-ads/) | Tue, 21 Ap |
-| Anthropic Blog | [Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute](https://www.anthropic.com/news/anthropic-amazon-compute) | 2026-04-21 |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-04-20 |
 | Anthropic Blog | [Introducing Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs) | 2026-04-17 |
-| Google AI Blog | [7 ways to travel smarter this summer, with help from Google](https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/) | Fri, 17 Ap |
 | DeepMind Blog | [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/) | Wed, 15 Ap |
 | DeepMind Blog | [Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embo](https://deepmind.google/blog/gemini-robotics-er-1-6/) | Mon, 13 Ap |
 | Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
