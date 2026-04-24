@@ -3,6 +3,14 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
+      "title": "An update on our election safeguards",
+      "link": "https://www.anthropic.com/news/election-safeguards-update",
+      "published": "2026-04-24T13:43:15.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
       "title": "Anthropic and NEC partner to build AI-native engineering at scale in Japan",
       "link": "https://www.anthropic.com/news/anthropic-nec",
       "published": "2026-04-24T04:06:50.000Z",
@@ -201,14 +209,6 @@
       "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic\u2019s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
-      "link": "https://www.anthropic.com/news/narasimhan-board",
-      "published": "2026-04-14T14:00:04.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
@@ -257,8 +257,8 @@
       "summary": "<p>Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two s"
     }
   ],
-  "timestamp": "2026-04-24T08:11:51.539075",
-  "last_updated": "2026-04-24T08:11:51.539075",
+  "timestamp": "2026-04-24T13:47:44.011374",
+  "last_updated": "2026-04-24T13:47:44.011374",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
