@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic and NEC partner to build AI-native engineering at scale in Japan",
+      "link": "https://www.anthropic.com/news/anthropic-nec",
+      "published": "2026-04-24T04:06:50.000Z",
+      "summary": "NEC will deploy Claude to 30,000 employees and become Anthropic&#x27;s first Japan-based global partner, co-developing AI products for finance, manufacturing, and government"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.3.1",
@@ -249,8 +257,8 @@
       "summary": "<p>Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two s"
     }
   ],
-  "timestamp": "2026-04-24T03:22:26.308175",
-  "last_updated": "2026-04-24T03:22:26.308175",
+  "timestamp": "2026-04-24T08:11:51.539075",
+  "last_updated": "2026-04-24T08:11:51.539075",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

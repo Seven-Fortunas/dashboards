@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-24 03:22:26 UTC
+**Last Updated:** 2026-04-24 08:11:51 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Anthropic and NEC partner to build AI-native engineering at scale in Japan](https://www.anthropic.com/news/anthropic-nec) | 2026-04-24 |
 | LangChain Releases | [Release langchain-core==1.3.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.1) | 2026-04-23 |
 | HuggingFace Transformers | [Release v5.6.2](https://github.com/huggingface/transformers/releases/tag/v5.6.2) | 2026-04-23 |
 | Google AI Blog | [Here’s how our TPUs power increasingly demanding AI workloads.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/) | Thu, 23 Ap |
