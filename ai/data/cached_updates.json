@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Three reasons why DeepSeek\u2019s new model matters",
+      "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "published": "Fri, 24 Apr 2026 21:40:58 +0000",
+      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design t"
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "8 Gemini tips for organizing your space (and life)",
@@ -161,14 +169,6 @@
       "summary": "When ChatGPT was released to the public in late 2022, it opened people\u2019s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught th"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "World models",
-      "link": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
-      "published": "Tue, 21 Apr 2026 20:45:00 +0000",
-      "summary": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity\u2019s domain. As it turns out, building an AI system that can compose a novel or code an "
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Partnering with industry leaders to accelerate AI transformation",
@@ -257,8 +257,8 @@
       "summary": "<p>Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two s"
     }
   ],
-  "timestamp": "2026-04-24T19:00:28.104615",
-  "last_updated": "2026-04-24T19:00:28.104615",
+  "timestamp": "2026-04-25T02:51:43.375794",
+  "last_updated": "2026-04-25T02:51:43.375794",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
