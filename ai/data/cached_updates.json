@@ -257,8 +257,8 @@
       "summary": "<p>Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two s"
     }
   ],
-  "timestamp": "2026-04-25T02:51:43.375794",
-  "last_updated": "2026-04-25T02:51:43.375794",
+  "timestamp": "2026-04-25T07:25:15.588986",
+  "last_updated": "2026-04-25T07:25:15.588986",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
