@@ -247,18 +247,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
       "published": "Thu, 26 Mar 2026 19:02:53 +0000",
       "summary": "<p>Imagine a robot tasked with cleaning a kitchen. It needs to observe its environment, decide what to do, and adjust when things don&#8217;t go as expected, for example, when the mug it was tasked to"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
-      "link": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
-      "published": "Thu, 26 Mar 2026 16:03:56 +0000",
-      "summary": "<p>Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two s"
     }
   ],
-  "timestamp": "2026-04-25T13:15:28.954161",
-  "last_updated": "2026-04-25T13:15:28.954161",
+  "timestamp": "2026-04-25T19:01:02.032824",
+  "last_updated": "2026-04-25T19:01:02.032824",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
