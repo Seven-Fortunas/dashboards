@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-24 19:00:28 UTC
+**Last Updated:** 2026-04-25 02:51:43 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Three reasons why DeepSeek’s new model matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/) | Fri, 24 Ap |
 | Google AI Blog | [8 Gemini tips for organizing your space (and life)](https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/) | Fri, 24 Ap |
 | Anthropic Blog | [An update on our election safeguards](https://www.anthropic.com/news/election-safeguards-update) | 2026-04-24 |
 | Anthropic Blog | [Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute](https://www.anthropic.com/news/anthropic-amazon-compute) | 2026-04-24 |
@@ -26,7 +27,6 @@
 | MIT Technology Review AI | [10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/) | Tue, 21 Ap |
 | MIT Technology Review AI | [LLMs+](https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/) | Tue, 21 Ap |
 | MIT Technology Review AI | [Supercharged scams](https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/) | Tue, 21 Ap |
-| MIT Technology Review AI | [World models](https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/) | Tue, 21 Ap |
 | DeepMind Blog | [Partnering with industry leaders to accelerate AI transformation](https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/) | Tue, 21 Ap |
 | Google AI Blog | [3 new ways Ads Advisor is making Google Ads safer and faster](https://blog.google/products/ads-commerce/ads-advisor-google-ads/) | Tue, 21 Ap |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-04-20 |
