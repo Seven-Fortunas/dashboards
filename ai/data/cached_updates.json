@@ -239,18 +239,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
       "published": "Wed, 01 Apr 2026 16:00:58 +0000",
       "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "AsgardBench: A\u00a0benchmark for\u00a0visually grounded interactive\u00a0planning",
-      "link": "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
-      "published": "Thu, 26 Mar 2026 19:02:53 +0000",
-      "summary": "<p>Imagine a robot tasked with cleaning a kitchen. It needs to observe its environment, decide what to do, and adjust when things don&#8217;t go as expected, for example, when the mug it was tasked to"
     }
   ],
-  "timestamp": "2026-04-25T19:01:02.032824",
-  "last_updated": "2026-04-25T19:01:02.032824",
+  "timestamp": "2026-04-26T03:29:28.872932",
+  "last_updated": "2026-04-26T03:29:28.872932",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
