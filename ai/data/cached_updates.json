@@ -1,12 +1,12 @@
 {
   "updates": [
     {
-      "source": "OpenAI Blog",
+      "source": "MIT Technology Review AI",
       "type": "rss",
-      "title": "The next phase of the Microsoft OpenAI partnership",
-      "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
-      "published": "Mon, 27 Apr 2026 13:00:00 GMT",
-      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
+      "title": "The missing step between hype and profit",
+      "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+      "published": "Mon, 27 Apr 2026 16:13:41 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. In February, I picked up a flyer at an anti-AI march in London"
     },
     {
       "source": "Google AI Blog",
@@ -39,6 +39,22 @@
       "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
       "published": "Mon, 27 Apr 2026 06:00:00 GMT",
       "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "An open-source spec for orchestration: Symphony",
+      "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "published": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems\u2014boosting engineering output and reducing context switching."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Choco automates food distribution with AI agents",
+      "link": "https://openai.com/index/choco",
+      "published": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth\u2014an in-depth customer story on real-world AI impact."
     },
     {
       "source": "OpenAI Blog",
@@ -121,14 +137,6 @@
       "summary": ""
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing GPT-5.5",
-      "link": "https://openai.com/index/introducing-gpt-5-5",
-      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "summary": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Elevating Austria: Google invests in its first data center in the Alps.",
@@ -175,14 +183,6 @@
       "link": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
       "published": "Tue, 21 Apr 2026 20:45:00 +0000",
       "summary": ""
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "LLMs+",
-      "link": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
-      "published": "Tue, 21 Apr 2026 20:45:00 +0000",
-      "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI\u2019s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entir"
     },
     {
       "source": "DeepMind Blog",
@@ -241,8 +241,8 @@
       "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
     }
   ],
-  "timestamp": "2026-04-27T14:05:43.187310",
-  "last_updated": "2026-04-27T14:05:43.187310",
+  "timestamp": "2026-04-27T19:40:13.557916",
+  "last_updated": "2026-04-27T19:40:13.557916",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
