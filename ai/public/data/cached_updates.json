@@ -1,12 +1,44 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "published": "Mon, 27 Apr 2026 13:00:00 GMT",
+      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "published": "Mon, 27 Apr 2026 13:00:00 +0000",
+      "summary": "A web next to a laptop"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Rebuilding the data stack for AI",
+      "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "published": "Mon, 27 Apr 2026 13:00:00 +0000",
+      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI "
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Announcing our partnership with the Republic of Korea",
       "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
       "published": "Mon, 27 Apr 2026 07:00:06 +0000",
       "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "published": "Mon, 27 Apr 2026 06:00:00 GMT",
+      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
     },
     {
       "source": "OpenAI Blog",
@@ -22,7 +54,7 @@
       "title": "Three reasons why DeepSeek\u2019s new model matters",
       "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "published": "Fri, 24 Apr 2026 21:40:58 +0000",
-      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design t"
+      "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that hel"
     },
     {
       "source": "Google AI Blog",
@@ -83,14 +115,6 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Introducing GPT-5.5",
-      "link": "https://openai.com/index/introducing-gpt-5-5",
-      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "summary": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "GPT-5.5 System Card",
       "link": "https://openai.com/index/gpt-5-5-system-card",
       "published": "Thu, 23 Apr 2026 11:00:00 GMT",
@@ -99,18 +123,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Plugins and skills",
-      "link": "https://openai.com/academy/codex-plugins-and-skills",
-      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "What is Codex?",
-      "link": "https://openai.com/academy/what-is-codex",
-      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards."
+      "title": "Introducing GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5",
+      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "summary": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
     },
     {
       "source": "Google AI Blog",
@@ -169,28 +185,12 @@
       "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI\u2019s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entir"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Supercharged scams",
-      "link": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
-      "published": "Tue, 21 Apr 2026 20:45:00 +0000",
-      "summary": "When ChatGPT was released to the public in late 2022, it opened people\u2019s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught th"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Partnering with industry leaders to accelerate AI transformation",
       "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
       "published": "Tue, 21 Apr 2026 14:54:15 +0000",
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-      "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-      "published": "Tue, 21 Apr 2026 14:30:00 +0000",
-      "summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient."
     },
     {
       "source": "Anthropic Blog",
@@ -241,8 +241,8 @@
       "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
     }
   ],
-  "timestamp": "2026-04-27T08:33:32.500392",
-  "last_updated": "2026-04-27T08:33:32.500392",
+  "timestamp": "2026-04-27T14:05:43.187310",
+  "last_updated": "2026-04-27T14:05:43.187310",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
