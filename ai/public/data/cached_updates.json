@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Announcing our partnership with the Republic of Korea",
+      "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "published": "Mon, 27 Apr 2026 07:00:06 +0000",
+      "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Our principles",
@@ -75,14 +83,6 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "GPT-5.5 System Card",
-      "link": "https://openai.com/index/gpt-5-5-system-card",
-      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "summary": ""
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Introducing GPT-5.5",
       "link": "https://openai.com/index/introducing-gpt-5-5",
       "published": "Thu, 23 Apr 2026 11:00:00 GMT",
@@ -91,18 +91,26 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Top 10 uses for Codex at work",
-      "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows."
+      "title": "GPT-5.5 System Card",
+      "link": "https://openai.com/index/gpt-5-5-system-card",
+      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "summary": ""
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How to get started with Codex",
-      "link": "https://openai.com/academy/codex-how-to-start",
+      "title": "Plugins and skills",
+      "link": "https://openai.com/academy/codex-plugins-and-skills",
       "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance."
+      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "What is Codex?",
+      "link": "https://openai.com/academy/what-is-codex",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards."
     },
     {
       "source": "Google AI Blog",
@@ -225,14 +233,6 @@
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Gemma 4: Byte for byte, the most capable open models",
-      "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-      "published": "Thu, 02 Apr 2026 16:00:49 +0000",
-      "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "ADeLe: Predicting and explaining AI performance across tasks",
@@ -241,8 +241,8 @@
       "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
     }
   ],
-  "timestamp": "2026-04-27T03:33:52.365459",
-  "last_updated": "2026-04-27T03:33:52.365459",
+  "timestamp": "2026-04-27T08:33:32.500392",
+  "last_updated": "2026-04-27T08:33:32.500392",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

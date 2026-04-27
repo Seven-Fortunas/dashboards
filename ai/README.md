@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-27 03:33:52 UTC
+**Last Updated:** 2026-04-27 08:33:32 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| DeepMind Blog | [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/) | Mon, 27 Ap |
 | OpenAI Blog | [Our principles](https://openai.com/index/our-principles) | Sun, 26 Ap |
 | MIT Technology Review AI | [Three reasons why DeepSeek’s new model matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/) | Fri, 24 Ap |
 | Google AI Blog | [8 Gemini tips for organizing your space (and life)](https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/) | Fri, 24 Ap |
@@ -15,10 +16,10 @@
 | Anthropic Blog | [Anthropic and NEC partner to build AI-native engineering at scale in Japan](https://www.anthropic.com/news/anthropic-nec) | 2026-04-24 |
 | HuggingFace Transformers | [Release v5.6.2](https://github.com/huggingface/transformers/releases/tag/v5.6.2) | 2026-04-23 |
 | Google AI Blog | [Here’s how our TPUs power increasingly demanding AI workloads.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/) | Thu, 23 Ap |
-| OpenAI Blog | [GPT-5.5 System Card](https://openai.com/index/gpt-5-5-system-card) | Thu, 23 Ap |
 | OpenAI Blog | [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5) | Thu, 23 Ap |
-| OpenAI Blog | [Top 10 uses for Codex at work](https://openai.com/academy/top-10-use-cases-codex-for-work) | Thu, 23 Ap |
-| OpenAI Blog | [How to get started with Codex](https://openai.com/academy/codex-how-to-start) | Thu, 23 Ap |
+| OpenAI Blog | [GPT-5.5 System Card](https://openai.com/index/gpt-5-5-system-card) | Thu, 23 Ap |
+| OpenAI Blog | [Plugins and skills](https://openai.com/academy/codex-plugins-and-skills) | Thu, 23 Ap |
+| OpenAI Blog | [What is Codex?](https://openai.com/academy/what-is-codex) | Thu, 23 Ap |
 | Google AI Blog | [Elevating Austria: Google invests in its first data center in the Alps.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/) | Thu, 23 Ap |
 | Microsoft Research AI | [AutoAdapt: Automated domain adaptation for large language models](https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/) | Wed, 22 Ap |
 | Google AI Blog | [We're launching two specialized TPUs for the agentic era.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/) | Wed, 22 Ap |
@@ -34,5 +35,4 @@
 | DeepMind Blog | [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/) | Wed, 15 Ap |
 | DeepMind Blog | [Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embo](https://deepmind.google/blog/gemini-robotics-er-1-6/) | Mon, 13 Ap |
 | Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
-| DeepMind Blog | [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) | Thu, 02 Ap |
 | Microsoft Research AI | [ADeLe: Predicting and explaining AI performance across tasks](https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/) | Wed, 01 Ap |
