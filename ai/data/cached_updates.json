@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Our principles",
+      "link": "https://openai.com/index/our-principles",
+      "published": "Sun, 26 Apr 2026 16:00:00 GMT",
+      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Three reasons why DeepSeek\u2019s new model matters",
@@ -67,14 +75,6 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Introducing GPT-5.5",
-      "link": "https://openai.com/index/introducing-gpt-5-5",
-      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "summary": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "GPT-5.5 System Card",
       "link": "https://openai.com/index/gpt-5-5-system-card",
       "published": "Thu, 23 Apr 2026 11:00:00 GMT",
@@ -83,10 +83,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Automations",
-      "link": "https://openai.com/academy/codex-automations",
-      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort."
+      "title": "Introducing GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5",
+      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "summary": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
     },
     {
       "source": "OpenAI Blog",
@@ -99,10 +99,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Plugins and skills",
-      "link": "https://openai.com/academy/codex-plugins-and-skills",
+      "title": "How to get started with Codex",
+      "link": "https://openai.com/academy/codex-how-to-start",
       "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results."
+      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance."
     },
     {
       "source": "Google AI Blog",
@@ -241,8 +241,8 @@
       "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
     }
   ],
-  "timestamp": "2026-04-26T19:02:46.048352",
-  "last_updated": "2026-04-26T19:02:46.048352",
+  "timestamp": "2026-04-27T03:33:52.365459",
+  "last_updated": "2026-04-27T03:33:52.365459",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
