@@ -3,10 +3,34 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Elon Musk and Sam Altman are going to court over OpenAI\u2019s future",
+      "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "published": "Mon, 27 Apr 2026 22:52:57 +0000",
+      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI\u2019s highly antici"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic Sydney office",
+      "link": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+      "published": "2026-04-27T22:30:22.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "The missing step between hype and profit",
       "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
       "published": "Mon, 27 Apr 2026 16:13:41 +0000",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. In February, I picked up a flyer at an anti-AI march in London"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI available at FedRAMP Moderate",
+      "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "published": "Mon, 27 Apr 2026 14:00:00 GMT",
+      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies."
     },
     {
       "source": "Google AI Blog",
@@ -129,14 +153,6 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\" />Learn how Google\u2019s TPUs power increasingly demanding AI workloads with th"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "GPT-5.5 System Card",
-      "link": "https://openai.com/index/gpt-5-5-system-card",
-      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "summary": ""
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Elevating Austria: Google invests in its first data center in the Alps.",
@@ -177,14 +193,6 @@
       "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, h"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "10 Things That Matter in AI Right Now",
-      "link": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
-      "published": "Tue, 21 Apr 2026 20:45:00 +0000",
-      "summary": ""
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Partnering with industry leaders to accelerate AI transformation",
@@ -199,14 +207,6 @@
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
       "published": "2026-04-20T17:27:26.000Z",
       "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Design by Anthropic Labs",
-      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "published": "2026-04-17T14:58:21.000Z",
-      "summary": "Today, we\u2019re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
     },
     {
       "source": "DeepMind Blog",
@@ -241,8 +241,8 @@
       "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
     }
   ],
-  "timestamp": "2026-04-27T19:40:13.557916",
-  "last_updated": "2026-04-27T19:40:13.557916",
+  "timestamp": "2026-04-28T03:38:17.980068",
+  "last_updated": "2026-04-28T03:38:17.980068",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
