@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "An update on our election safeguards",
+      "link": "https://www.anthropic.com/news/election-safeguards-update",
+      "published": "2026-04-28T08:59:45.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Elon Musk and Sam Altman are going to court over OpenAI\u2019s future",
@@ -103,14 +111,6 @@
       "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
       "published": "Fri, 24 Apr 2026 19:00:00 +0000",
       "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "An update on our election safeguards",
-      "link": "https://www.anthropic.com/news/election-safeguards-update",
-      "published": "2026-04-24T18:01:39.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "Anthropic Blog",
@@ -241,8 +241,8 @@
       "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
     }
   ],
-  "timestamp": "2026-04-28T08:31:41.418415",
-  "last_updated": "2026-04-28T08:31:41.418415",
+  "timestamp": "2026-04-28T14:23:53.922424",
+  "last_updated": "2026-04-28T14:23:53.922424",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
