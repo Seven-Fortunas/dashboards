@@ -1,12 +1,44 @@
 {
   "updates": [
     {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.7.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.7.0",
+      "published": "2026-04-28T18:32:50Z",
+      "summary": "# Release v5.7.0\r\n\r\n\r\n## New Model additions\r\n\r\n### Laguna\r\n\r\n<img width=\"699\" height=\"176\" alt=\"image\" src=\"https://github.com/user-attachments/assets/d3bae269-bea7-4ddf-a53f-d4718befdb17\" />\r\n\r\nLagu"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude for Creative Work",
+      "link": "https://www.anthropic.com/news/claude-for-creative-work",
+      "published": "2026-04-28T17:25:41.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+      "published": "Tue, 28 Apr 2026 16:00:00 +0000",
+      "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "An update on our election safeguards",
       "link": "https://www.anthropic.com/news/election-safeguards-update",
       "published": "2026-04-28T08:59:45.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "link": "https://openai.com/index/openai-on-aws",
+      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments."
     },
     {
       "source": "MIT Technology Review AI",
@@ -89,14 +121,6 @@
       "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth\u2014an in-depth customer story on real-world AI impact."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Our principles",
-      "link": "https://openai.com/index/our-principles",
-      "published": "Sun, 26 Apr 2026 16:00:00 GMT",
-      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Three reasons why DeepSeek\u2019s new model matters",
@@ -137,14 +161,6 @@
       "summary": "NEC will deploy Claude to 30,000 employees and become Anthropic&#x27;s first Japan-based global partner, co-developing AI products for finance, manufacturing, and government"
     },
     {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.6.2",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.6.2",
-      "published": "2026-04-23T18:36:03Z",
-      "summary": "# Patch release v5.6.2\r\n\r\nQwen 3.5 and 3.6 MoE (text-only) were broken when using with FP8. It should now work again with this :saluting_face: \r\n\r\n* Fix configuration reading and error handling for ke"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Here\u2019s how our TPUs power increasingly demanding AI workloads.",
@@ -169,14 +185,6 @@
       "summary": "<p>Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine, and cloud incident response, performance and reli"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "We're launching two specialized TPUs for the agentic era.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
-      "published": "Wed, 22 Apr 2026 12:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\" />The eighth generation of Google\u2019s TPU includes two specialized "
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
@@ -199,14 +207,6 @@
       "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
       "published": "Tue, 21 Apr 2026 14:54:15 +0000",
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Opus 4.7",
-      "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "published": "2026-04-20T17:27:26.000Z",
-      "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
     },
     {
       "source": "DeepMind Blog",
@@ -241,8 +241,8 @@
       "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
     }
   ],
-  "timestamp": "2026-04-28T14:23:53.922424",
-  "last_updated": "2026-04-28T14:23:53.922424",
+  "timestamp": "2026-04-28T19:47:24.771302",
+  "last_updated": "2026-04-28T19:47:24.771302",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
