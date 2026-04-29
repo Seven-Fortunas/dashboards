@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-28 19:47:24 UTC
+**Last Updated:** 2026-04-29 03:36:31 UTC
 
 ## Latest Updates
 
@@ -10,6 +10,7 @@
 | Anthropic Blog | [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) | 2026-04-28 |
 | Google AI Blog | [Celebrating 20 years of Google Translate: Fun facts, tips and new features to tr](https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/) | Tue, 28 Ap |
 | Anthropic Blog | [An update on our election safeguards](https://www.anthropic.com/news/election-safeguards-update) | 2026-04-28 |
+| OpenAI Blog | [Our commitment to community safety](https://openai.com/index/our-commitment-to-community-safety) | Tue, 28 Ap |
 | OpenAI Blog | [OpenAI models, Codex, and Managed Agents come to AWS](https://openai.com/index/openai-on-aws) | Tue, 28 Ap |
 | MIT Technology Review AI | [Elon Musk and Sam Altman are going to court over OpenAI’s future](https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/) | Mon, 27 Ap |
 | Anthropic Blog | [Anthropic Sydney office](https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand) | 2026-04-27 |
@@ -20,7 +21,6 @@
 | DeepMind Blog | [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/) | Mon, 27 Ap |
 | OpenAI Blog | [The next phase of the Microsoft OpenAI partnership](https://openai.com/index/next-phase-of-microsoft-partnership) | Mon, 27 Ap |
 | OpenAI Blog | [An open-source spec for orchestration: Symphony](https://openai.com/index/open-source-codex-orchestration-symphony) | Mon, 27 Ap |
-| OpenAI Blog | [Choco automates food distribution with AI agents](https://openai.com/index/choco) | Mon, 27 Ap |
 | MIT Technology Review AI | [Three reasons why DeepSeek’s new model matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/) | Fri, 24 Ap |
 | Google AI Blog | [8 Gemini tips for organizing your space (and life)](https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/) | Fri, 24 Ap |
 | Anthropic Blog | [Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute](https://www.anthropic.com/news/anthropic-amazon-compute) | 2026-04-24 |

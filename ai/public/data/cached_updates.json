@@ -35,6 +35,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "Our commitment to community safety",
+      "link": "https://openai.com/index/our-commitment-to-community-safety",
+      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
       "link": "https://openai.com/index/openai-on-aws",
       "published": "Tue, 28 Apr 2026 00:00:00 GMT",
@@ -111,14 +119,6 @@
       "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
       "published": "Mon, 27 Apr 2026 00:00:00 GMT",
       "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems\u2014boosting engineering output and reducing context switching."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Choco automates food distribution with AI agents",
-      "link": "https://openai.com/index/choco",
-      "published": "Mon, 27 Apr 2026 00:00:00 GMT",
-      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth\u2014an in-depth customer story on real-world AI impact."
     },
     {
       "source": "MIT Technology Review AI",
@@ -241,8 +241,8 @@
       "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
     }
   ],
-  "timestamp": "2026-04-28T19:47:24.771302",
-  "last_updated": "2026-04-28T19:47:24.771302",
+  "timestamp": "2026-04-29T03:36:31.830712",
+  "last_updated": "2026-04-29T03:36:31.830712",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
