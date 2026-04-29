@@ -1,17 +1,18 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-29 08:25:33 UTC
+**Last Updated:** 2026-04-29 14:09:59 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Cybersecurity in the Intelligence Age](https://openai.com/index/cybersecurity-in-the-intelligence-age) | Wed, 29 Ap |
 | HuggingFace Transformers | [Release v5.7.0](https://github.com/huggingface/transformers/releases/tag/v5.7.0) | 2026-04-28 |
 | Anthropic Blog | [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) | 2026-04-28 |
 | Google AI Blog | [Celebrating 20 years of Google Translate: Fun facts, tips and new features to tr](https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/) | Tue, 28 Ap |
 | Anthropic Blog | [An update on our election safeguards](https://www.anthropic.com/news/election-safeguards-update) | 2026-04-28 |
-| OpenAI Blog | [OpenAI models, Codex, and Managed Agents come to AWS](https://openai.com/index/openai-on-aws) | Tue, 28 Ap |
 | OpenAI Blog | [Our commitment to community safety](https://openai.com/index/our-commitment-to-community-safety) | Tue, 28 Ap |
+| OpenAI Blog | [OpenAI models, Codex, and Managed Agents come to AWS](https://openai.com/index/openai-on-aws) | Tue, 28 Ap |
 | MIT Technology Review AI | [Elon Musk and Sam Altman are going to court over OpenAI’s future](https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/) | Mon, 27 Ap |
 | Anthropic Blog | [Anthropic Sydney office](https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand) | 2026-04-27 |
 | MIT Technology Review AI | [The missing step between hype and profit](https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/) | Mon, 27 Ap |
@@ -20,7 +21,6 @@
 | MIT Technology Review AI | [Rebuilding the data stack for AI](https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/) | Mon, 27 Ap |
 | DeepMind Blog | [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/) | Mon, 27 Ap |
 | OpenAI Blog | [The next phase of the Microsoft OpenAI partnership](https://openai.com/index/next-phase-of-microsoft-partnership) | Mon, 27 Ap |
-| OpenAI Blog | [An open-source spec for orchestration: Symphony](https://openai.com/index/open-source-codex-orchestration-symphony) | Mon, 27 Ap |
 | MIT Technology Review AI | [Three reasons why DeepSeek’s new model matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/) | Fri, 24 Ap |
 | Google AI Blog | [8 Gemini tips for organizing your space (and life)](https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/) | Fri, 24 Ap |
 | Anthropic Blog | [Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute](https://www.anthropic.com/news/anthropic-amazon-compute) | 2026-04-24 |

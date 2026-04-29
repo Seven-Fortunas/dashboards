@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Cybersecurity in the Intelligence Age",
+      "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "published": "Wed, 29 Apr 2026 04:00:00 GMT",
+      "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems."
+    },
+    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.7.0",
@@ -35,18 +43,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "link": "https://openai.com/index/openai-on-aws",
-      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Our commitment to community safety",
       "link": "https://openai.com/index/our-commitment-to-community-safety",
       "published": "Tue, 28 Apr 2026 00:00:00 GMT",
       "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "link": "https://openai.com/index/openai-on-aws",
+      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments."
     },
     {
       "source": "MIT Technology Review AI",
@@ -111,14 +119,6 @@
       "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
       "published": "Mon, 27 Apr 2026 06:00:00 GMT",
       "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "An open-source spec for orchestration: Symphony",
-      "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
-      "published": "Mon, 27 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems\u2014boosting engineering output and reducing context switching."
     },
     {
       "source": "MIT Technology Review AI",
@@ -241,8 +241,8 @@
       "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
     }
   ],
-  "timestamp": "2026-04-29T08:25:33.240877",
-  "last_updated": "2026-04-29T08:25:33.240877",
+  "timestamp": "2026-04-29T14:09:59.096438",
+  "last_updated": "2026-04-29T14:09:59.096438",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
