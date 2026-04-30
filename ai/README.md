@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-30 03:37:55 UTC
+**Last Updated:** 2026-04-30 08:28:24 UTC
 
 ## Latest Updates
 
@@ -13,8 +13,8 @@
 | Anthropic Blog | [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) | 2026-04-28 |
 | Google AI Blog | [Celebrating 20 years of Google Translate: Fun facts, tips and new features to tr](https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/) | Tue, 28 Ap |
 | Anthropic Blog | [An update on our election safeguards](https://www.anthropic.com/news/election-safeguards-update) | 2026-04-28 |
-| OpenAI Blog | [OpenAI models, Codex, and Managed Agents come to AWS](https://openai.com/index/openai-on-aws) | Tue, 28 Ap |
 | OpenAI Blog | [Our commitment to community safety](https://openai.com/index/our-commitment-to-community-safety) | Tue, 28 Ap |
+| OpenAI Blog | [OpenAI models, Codex, and Managed Agents come to AWS](https://openai.com/index/openai-on-aws) | Tue, 28 Ap |
 | MIT Technology Review AI | [Elon Musk and Sam Altman are going to court over OpenAI’s future](https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/) | Mon, 27 Ap |
 | Anthropic Blog | [Anthropic Sydney office](https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand) | 2026-04-27 |
 | MIT Technology Review AI | [The missing step between hype and profit](https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/) | Mon, 27 Ap |
