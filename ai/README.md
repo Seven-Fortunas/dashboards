@@ -1,11 +1,15 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-30 14:07:48 UTC
+**Last Updated:** 2026-04-30 19:40:19 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [The Long-Term Benefit Trust](https://www.anthropic.com/news/the-long-term-benefit-trust) | 2026-04-30 |
+| MIT Technology Review AI | [This startup’s new mechanistic interpretability tool lets you debug LLMs](https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/) | Thu, 30 Ap |
+| DeepMind Blog | [Enabling a new model for healthcare with AI co-clinician](https://deepmind.google/blog/ai-co-clinician/) | Thu, 30 Ap |
+| OpenAI Blog | [Introducing Advanced Account Security](https://openai.com/index/advanced-account-security) | Thu, 30 Ap |
 | OpenAI Blog | [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from) | Wed, 29 Ap |
 | OpenAI Blog | [Building the compute infrastructure for the Intelligence Age](https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age) | Wed, 29 Ap |
 | OpenAI Blog | [Cybersecurity in the Intelligence Age](https://openai.com/index/cybersecurity-in-the-intelligence-age) | Wed, 29 Ap |
@@ -13,7 +17,6 @@
 | Anthropic Blog | [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) | 2026-04-28 |
 | Google AI Blog | [Celebrating 20 years of Google Translate: Fun facts, tips and new features to tr](https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/) | Tue, 28 Ap |
 | Anthropic Blog | [An update on our election safeguards](https://www.anthropic.com/news/election-safeguards-update) | 2026-04-28 |
-| OpenAI Blog | [Our commitment to community safety](https://openai.com/index/our-commitment-to-community-safety) | Tue, 28 Ap |
 | OpenAI Blog | [OpenAI models, Codex, and Managed Agents come to AWS](https://openai.com/index/openai-on-aws) | Tue, 28 Ap |
 | MIT Technology Review AI | [Elon Musk and Sam Altman are going to court over OpenAI’s future](https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/) | Mon, 27 Ap |
 | Anthropic Blog | [Anthropic Sydney office](https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand) | 2026-04-27 |
@@ -25,14 +28,11 @@
 | Google AI Blog | [8 Gemini tips for organizing your space (and life)](https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/) | Fri, 24 Ap |
 | Anthropic Blog | [Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute](https://www.anthropic.com/news/anthropic-amazon-compute) | 2026-04-24 |
 | LangChain Releases | [Release langchain-core==1.3.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.2) | 2026-04-24 |
-| Anthropic Blog | [Anthropic and NEC partner to build AI-native engineering at scale in Japan](https://www.anthropic.com/news/anthropic-nec) | 2026-04-24 |
 | Google AI Blog | [Here’s how our TPUs power increasingly demanding AI workloads.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/) | Thu, 23 Ap |
 | Google AI Blog | [Elevating Austria: Google invests in its first data center in the Alps.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/) | Thu, 23 Ap |
 | Microsoft Research AI | [AutoAdapt: Automated domain adaptation for large language models](https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/) | Wed, 22 Ap |
 | DeepMind Blog | [Decoupled DiLoCo: A new frontier for resilient, distributed AI training](https://deepmind.google/blog/decoupled-diloco/) | Wed, 22 Ap |
-| MIT Technology Review AI | [AI needs a strong data fabric to deliver business value](https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/) | Wed, 22 Ap |
 | DeepMind Blog | [Partnering with industry leaders to accelerate AI transformation](https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/) | Tue, 21 Ap |
 | DeepMind Blog | [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/) | Wed, 15 Ap |
-| DeepMind Blog | [Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embo](https://deepmind.google/blog/gemini-robotics-er-1-6/) | Mon, 13 Ap |
 | Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
 | Microsoft Research AI | [ADeLe: Predicting and explaining AI performance across tasks](https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/) | Wed, 01 Ap |
