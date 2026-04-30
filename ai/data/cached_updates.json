@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "The Long-Term Benefit Trust",
+      "link": "https://www.anthropic.com/news/the-long-term-benefit-trust",
+      "published": "2026-04-30T16:44:34.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "This startup\u2019s new mechanistic interpretability tool lets you debug LLMs",
+      "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+      "published": "Thu, 30 Apr 2026 15:59:41 +0000",
+      "summary": "The San Francisco\u2013based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters\u2014the settings that determine a mo"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "link": "https://deepmind.google/blog/ai-co-clinician/",
+      "published": "Thu, 30 Apr 2026 12:14:15 +0000",
+      "summary": "Researching the path to AI-augmented care and development of an AI co-clinician."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing Advanced Account Security",
+      "link": "https://openai.com/index/advanced-account-security",
+      "published": "Thu, 30 Apr 2026 00:00:00 GMT",
+      "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover."
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Where the goblins came from",
@@ -55,14 +87,6 @@
       "link": "https://www.anthropic.com/news/election-safeguards-update",
       "published": "2026-04-28T08:59:45.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Our commitment to community safety",
-      "link": "https://openai.com/index/our-commitment-to-community-safety",
-      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
     },
     {
       "source": "OpenAI Blog",
@@ -153,14 +177,6 @@
       "summary": "Changes since langchain-core==1.3.1\n\nrelease(core): 1.3.2 (#36990)\nfeat(core): add content-block-centric streaming (v2) (#36834)"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic and NEC partner to build AI-native engineering at scale in Japan",
-      "link": "https://www.anthropic.com/news/anthropic-nec",
-      "published": "2026-04-24T04:06:50.000Z",
-      "summary": "NEC will deploy Claude to 30,000 employees and become Anthropic&#x27;s first Japan-based global partner, co-developing AI products for finance, manufacturing, and government"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Here\u2019s how our TPUs power increasingly demanding AI workloads.",
@@ -193,14 +209,6 @@
       "summary": ""
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "AI needs a strong data fabric to deliver business value",
-      "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-      "published": "Wed, 22 Apr 2026 10:05:06 +0000",
-      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, h"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Partnering with industry leaders to accelerate AI transformation",
@@ -215,14 +223,6 @@
       "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
       "published": "Wed, 15 Apr 2026 16:03:19 +0000",
       "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation."
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
-      "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-      "published": "Mon, 13 Apr 2026 15:52:13 +0000",
-      "summary": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics."
     },
     {
       "source": "Microsoft Research AI",
@@ -241,8 +241,8 @@
       "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
     }
   ],
-  "timestamp": "2026-04-30T14:07:48.809070",
-  "last_updated": "2026-04-30T14:07:48.809070",
+  "timestamp": "2026-04-30T19:40:19.724164",
+  "last_updated": "2026-04-30T19:40:19.724164",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
