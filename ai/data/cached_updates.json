@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "A new US phone network for Christians aims to block porn and gender-related content",
+      "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+      "published": "Fri, 01 May 2026 09:00:00 +0000",
+      "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blo"
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Red-teaming\u00a0a\u00a0network of agents: Understanding what breaks when AI agents interact at scale",
@@ -153,14 +161,6 @@
       "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Three reasons why DeepSeek\u2019s new model matters",
-      "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "published": "Fri, 24 Apr 2026 21:40:58 +0000",
-      "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that hel"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "8 Gemini tips for organizing your space (and life)",
@@ -249,8 +249,8 @@
       "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
     }
   ],
-  "timestamp": "2026-05-01T08:19:44.726632",
-  "last_updated": "2026-05-01T08:19:44.726632",
+  "timestamp": "2026-05-01T13:28:14.234542",
+  "last_updated": "2026-05-01T13:28:14.234542",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
