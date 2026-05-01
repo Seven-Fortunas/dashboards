@@ -3,6 +3,38 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Cyber-Insecurity in the AI Era",
+      "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+      "published": "Fri, 01 May 2026 15:54:01 +0000",
+      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This s"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude for Creative Work",
+      "link": "https://www.anthropic.com/news/claude-for-creative-work",
+      "published": "2026-05-01T15:44:00.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Operationalizing AI for Scale and Sovereignty",
+      "link": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+      "published": "Fri, 01 May 2026 15:31:09 +0000",
+      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high\u2011quality data needed to power reliable insight"
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.4.0a2",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.0a2",
+      "published": "2026-05-01T15:02:35Z",
+      "summary": "Initial release\n\nrelease(core): 1.4.0a2 (#37134)\nrefactor(core): unwind _AsyncEventsResult hybrid for astream_events (#37133)\nrelease(core): 1.4.0a1 (#37132)\nMerge remote-tracking branch 'origin/maste"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "A new US phone network for Christians aims to block porn and gender-related content",
       "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
       "published": "Fri, 01 May 2026 09:00:00 +0000",
@@ -81,14 +113,6 @@
       "summary": "# Release v5.7.0\r\n\r\n\r\n## New Model additions\r\n\r\n### Laguna\r\n\r\n<img width=\"699\" height=\"176\" alt=\"image\" src=\"https://github.com/user-attachments/assets/d3bae269-bea7-4ddf-a53f-d4718befdb17\" />\r\n\r\nLagu"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Claude for Creative Work",
-      "link": "https://www.anthropic.com/news/claude-for-creative-work",
-      "published": "2026-04-28T17:25:41.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
@@ -129,28 +153,12 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The missing step between hype and profit",
-      "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-      "published": "Mon, 27 Apr 2026 16:13:41 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. In February, I picked up a flyer at an anti-AI march in London"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
       "published": "Mon, 27 Apr 2026 13:00:00 +0000",
       "summary": "A web next to a laptop"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Rebuilding the data stack for AI",
-      "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-      "published": "Mon, 27 Apr 2026 13:00:00 +0000",
-      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI "
     },
     {
       "source": "DeepMind Blog",
@@ -175,14 +183,6 @@
       "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
       "published": "2026-04-24T15:50:13.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.3.2",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.2",
-      "published": "2026-04-24T15:49:42Z",
-      "summary": "Changes since langchain-core==1.3.1\n\nrelease(core): 1.3.2 (#36990)\nfeat(core): add content-block-centric streaming (v2) (#36834)"
     },
     {
       "source": "Google AI Blog",
@@ -239,18 +239,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
       "published": "Thu, 09 Apr 2026 16:11:44 +0000",
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "ADeLe: Predicting and explaining AI performance across tasks",
-      "link": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
-      "published": "Wed, 01 Apr 2026 16:00:58 +0000",
-      "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
     }
   ],
-  "timestamp": "2026-05-01T13:28:14.234542",
-  "last_updated": "2026-05-01T13:28:14.234542",
+  "timestamp": "2026-05-01T19:17:59.879277",
+  "last_updated": "2026-05-01T19:17:59.879277",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
