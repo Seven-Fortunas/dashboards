@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-04-30 19:40:19 UTC
+**Last Updated:** 2026-05-01 03:50:12 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Microsoft Research AI | [Red-teaming a network of agents: Understanding what breaks when AI agents intera](https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/) | Thu, 30 Ap |
 | Anthropic Blog | [The Long-Term Benefit Trust](https://www.anthropic.com/news/the-long-term-benefit-trust) | 2026-04-30 |
 | MIT Technology Review AI | [This startup’s new mechanistic interpretability tool lets you debug LLMs](https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/) | Thu, 30 Ap |
 | DeepMind Blog | [Enabling a new model for healthcare with AI co-clinician](https://deepmind.google/blog/ai-co-clinician/) | Thu, 30 Ap |
