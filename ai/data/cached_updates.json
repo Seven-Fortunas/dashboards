@@ -99,10 +99,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "link": "https://openai.com/index/openai-on-aws",
+      "title": "Our commitment to community safety",
+      "link": "https://openai.com/index/our-commitment-to-community-safety",
       "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments."
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
     },
     {
       "source": "MIT Technology Review AI",
@@ -249,8 +249,8 @@
       "summary": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failu"
     }
   ],
-  "timestamp": "2026-05-01T03:50:12.485618",
-  "last_updated": "2026-05-01T03:50:12.485618",
+  "timestamp": "2026-05-01T08:19:44.726632",
+  "last_updated": "2026-05-01T08:19:44.726632",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
