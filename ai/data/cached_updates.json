@@ -3,6 +3,14 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI\u2019s models",
+      "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "published": "Fri, 01 May 2026 22:08:19 +0000",
+      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived h"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "Cyber-Insecurity in the AI Era",
       "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
       "published": "Fri, 01 May 2026 15:54:01 +0000",
@@ -137,14 +145,6 @@
       "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI\u2019s future",
-      "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-      "published": "Mon, 27 Apr 2026 22:52:57 +0000",
-      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI\u2019s highly antici"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Anthropic Sydney office",
@@ -241,8 +241,8 @@
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
     }
   ],
-  "timestamp": "2026-05-01T19:17:59.879277",
-  "last_updated": "2026-05-01T19:17:59.879277",
+  "timestamp": "2026-05-02T03:23:28.803440",
+  "last_updated": "2026-05-02T03:23:28.803440",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
