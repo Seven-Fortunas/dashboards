@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-01 19:17:59 UTC
+**Last Updated:** 2026-05-02 03:23:28 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, ](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/) | Fri, 01 Ma |
 | MIT Technology Review AI | [Cyber-Insecurity in the AI Era](https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/) | Fri, 01 Ma |
 | Anthropic Blog | [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) | 2026-05-01 |
 | MIT Technology Review AI | [Operationalizing AI for Scale and Sovereignty](https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/) | Fri, 01 Ma |
@@ -23,7 +24,6 @@
 | Google AI Blog | [Celebrating 20 years of Google Translate: Fun facts, tips and new features to tr](https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/) | Tue, 28 Ap |
 | Anthropic Blog | [An update on our election safeguards](https://www.anthropic.com/news/election-safeguards-update) | 2026-04-28 |
 | OpenAI Blog | [Our commitment to community safety](https://openai.com/index/our-commitment-to-community-safety) | Tue, 28 Ap |
-| MIT Technology Review AI | [Elon Musk and Sam Altman are going to court over OpenAI’s future](https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/) | Mon, 27 Ap |
 | Anthropic Blog | [Anthropic Sydney office](https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand) | 2026-04-27 |
 | Google AI Blog | [Join the new AI Agents Vibe Coding Course from Google and Kaggle](https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/) | Mon, 27 Ap |
 | DeepMind Blog | [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/) | Mon, 27 Ap |
