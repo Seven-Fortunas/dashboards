@@ -1,12 +1,36 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "The latest AI news we announced in April 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "published": "Mon, 04 May 2026 17:00:00 +0000",
+      "summary": "mp4 featuring an underwater video and a mobile AI video mockup."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+      "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+      "published": "Mon, 04 May 2026 15:51:27 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI\u2014Sam Altman and Elon"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Building a new enterprise AI services company with Blackstone, Hellman &amp; Friedman, and Goldman Sachs",
       "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
-      "published": "2026-05-04T13:04:29.000Z",
+      "published": "2026-05-04T15:43:58.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "published": "Mon, 04 May 2026 00:00:00 GMT",
+      "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking."
     },
     {
       "source": "MIT Technology Review AI",
@@ -62,7 +86,7 @@
       "title": "Red-teaming\u00a0a\u00a0network of agents: Understanding what breaks when AI agents interact at scale",
       "link": "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/",
       "published": "Thu, 30 Apr 2026 21:53:21 +0000",
-      "summary": "<p>Safe agents don\u2019t guarantee a safe ecosystem of interconnected agents. Microsoft Research examines what breaks when AI agents interact and why network-level risks require new approaches.</p>\n<p>The"
+      "summary": "Safe agents don\u2019t guarantee a safe ecosystem of interconnected agents. Microsoft Research examines what breaks when AI agents interact and why network-level risks require new approaches."
     },
     {
       "source": "Anthropic Blog",
@@ -71,14 +95,6 @@
       "link": "https://www.anthropic.com/news/the-long-term-benefit-trust",
       "published": "2026-04-30T16:44:34.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "This startup\u2019s new mechanistic interpretability tool lets you debug LLMs",
-      "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-      "published": "Thu, 30 Apr 2026 15:59:41 +0000",
-      "summary": "The San Francisco\u2013based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters\u2014the settings that determine a mo"
     },
     {
       "source": "DeepMind Blog",
@@ -145,14 +161,6 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Our commitment to community safety",
-      "link": "https://openai.com/index/our-commitment-to-community-safety",
-      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Anthropic Sydney office",
@@ -193,20 +201,12 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\" />Learn how Google\u2019s TPUs power increasingly demanding AI workloads with th"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-      "published": "Thu, 23 Apr 2026 09:00:00 +0000",
-      "summary": "Aerial image of the data center"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "AutoAdapt: Automated domain adaptation for large language\u00a0models",
       "link": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
       "published": "Wed, 22 Apr 2026 16:25:30 +0000",
-      "summary": "<p>Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine, and cloud incident response, performance and reli"
+      "summary": "Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine, and cloud incident response, performance and reliabi"
     },
     {
       "source": "DeepMind Blog",
@@ -238,11 +238,11 @@
       "title": "New Future of\u00a0Work:\u00a0AI is driving rapid change,\u00a0uneven benefits",
       "link": "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
       "published": "Thu, 09 Apr 2026 16:11:44 +0000",
-      "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
+      "summary": "For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increasing"
     }
   ],
-  "timestamp": "2026-05-04T14:14:09.357280",
-  "last_updated": "2026-05-04T14:14:09.357280",
+  "timestamp": "2026-05-04T19:46:45.798181",
+  "last_updated": "2026-05-04T19:46:45.798181",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
