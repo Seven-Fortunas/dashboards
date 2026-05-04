@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Building a new enterprise AI services company with Blackstone, Hellman &amp; Friedman, and Goldman Sachs",
+      "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "published": "2026-05-04T13:04:29.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI\u2019s models",
@@ -177,14 +185,6 @@
       "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
-      "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
-      "published": "2026-04-24T15:50:13.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Here\u2019s how our TPUs power increasingly demanding AI workloads.",
@@ -241,8 +241,8 @@
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
     }
   ],
-  "timestamp": "2026-05-04T08:35:54.903293",
-  "last_updated": "2026-05-04T08:35:54.903293",
+  "timestamp": "2026-05-04T14:14:09.357280",
+  "last_updated": "2026-05-04T14:14:09.357280",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
