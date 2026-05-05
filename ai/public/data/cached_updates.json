@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Opus 4.7",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "published": "2026-05-04T23:23:49.000Z",
+      "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "The latest AI news we announced in April 2026",
@@ -23,6 +31,14 @@
       "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
       "published": "2026-05-04T15:43:58.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "published": "Mon, 04 May 2026 15:30:00 +0000",
+      "summary": "Gemini API"
     },
     {
       "source": "OpenAI Blog",
@@ -161,14 +177,6 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic Sydney office",
-      "link": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
-      "published": "2026-04-27T22:30:22.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
@@ -191,14 +199,6 @@
       "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
       "published": "Fri, 24 Apr 2026 19:00:00 +0000",
       "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Here\u2019s how our TPUs power increasingly demanding AI workloads.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-      "published": "Thu, 23 Apr 2026 12:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\" />Learn how Google\u2019s TPUs power increasingly demanding AI workloads with th"
     },
     {
       "source": "Microsoft Research AI",
@@ -241,8 +241,8 @@
       "summary": "For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increasing"
     }
   ],
-  "timestamp": "2026-05-04T19:46:45.798181",
-  "last_updated": "2026-05-04T19:46:45.798181",
+  "timestamp": "2026-05-05T03:26:04.431500",
+  "last_updated": "2026-05-05T03:26:04.431500",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

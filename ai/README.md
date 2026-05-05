@@ -1,14 +1,16 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-04 19:46:45 UTC
+**Last Updated:** 2026-05-05 03:26:04 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-05-04 |
 | Google AI Blog | [The latest AI news we announced in April 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/) | Mon, 04 Ma |
 | MIT Technology Review AI | [Week one of the Musk v. Altman trial: What it was like in the room](https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/) | Mon, 04 Ma |
 | Anthropic Blog | [Building a new enterprise AI services company with Blackstone, Hellman &amp; Fri](https://www.anthropic.com/news/enterprise-ai-services-company) | 2026-05-04 |
+| Google AI Blog | [Reduce friction and latency for long-running jobs with Webhooks in Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/) | Mon, 04 Ma |
 | OpenAI Blog | [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale) | Mon, 04 Ma |
 | MIT Technology Review AI | [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, ](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/) | Fri, 01 Ma |
 | MIT Technology Review AI | [Cyber-Insecurity in the AI Era](https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/) | Fri, 01 Ma |
@@ -26,11 +28,9 @@
 | HuggingFace Transformers | [Release v5.7.0](https://github.com/huggingface/transformers/releases/tag/v5.7.0) | 2026-04-28 |
 | Google AI Blog | [Celebrating 20 years of Google Translate: Fun facts, tips and new features to tr](https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/) | Tue, 28 Ap |
 | Anthropic Blog | [An update on our election safeguards](https://www.anthropic.com/news/election-safeguards-update) | 2026-04-28 |
-| Anthropic Blog | [Anthropic Sydney office](https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand) | 2026-04-27 |
 | Google AI Blog | [Join the new AI Agents Vibe Coding Course from Google and Kaggle](https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/) | Mon, 27 Ap |
 | DeepMind Blog | [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/) | Mon, 27 Ap |
 | Google AI Blog | [8 Gemini tips for organizing your space (and life)](https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/) | Fri, 24 Ap |
-| Google AI Blog | [Here’s how our TPUs power increasingly demanding AI workloads.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/) | Thu, 23 Ap |
 | Microsoft Research AI | [AutoAdapt: Automated domain adaptation for large language models](https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/) | Wed, 22 Ap |
 | DeepMind Blog | [Decoupled DiLoCo: A new frontier for resilient, distributed AI training](https://deepmind.google/blog/decoupled-diloco/) | Wed, 22 Ap |
 | DeepMind Blog | [Partnering with industry leaders to accelerate AI transformation](https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/) | Tue, 21 Ap |
