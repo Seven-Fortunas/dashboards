@@ -1,6 +1,78 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.3.3",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.3",
+      "published": "2026-05-05T19:02:53Z",
+      "summary": "Changes since langchain-core==1.3.2\n\nrelease(core): 1.3.3 (#37198)\nfix(core): set deprecation `since` to 1.3.3 to match release (#37200)\nfix(core, langchain): harden `load()` against untrusted manifes"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Agents for financial services and insurance",
+      "link": "https://www.anthropic.com/news/finance-agents",
+      "published": "2026-05-05T17:38:31.000Z",
+      "summary": "We&#x27;re releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations."
+    },
+    {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.8.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.8.0",
+      "published": "2026-05-05T16:52:21Z",
+      "summary": "# Release v5.8.0\r\n\r\n\r\n## New Model additions\r\n\r\n### DeepSeek-V4\r\n\r\n<img width=\"6604\" height=\"3574\" alt=\"image\" src=\"https://github.com/user-attachments/assets/4c0fdb29-f770-463c-a97b-d24438896a4c\" />\r"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "published": "Tue, 05 May 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Google is partnering with XPRIZE and Range Media Partners on the $3."
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Microsoft at NSDI 2026: Advances in large-scale networked systems",
+      "link": "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
+      "published": "Tue, 05 May 2026 16:00:00 +0000",
+      "summary": "<p>Microsoft researchers share advances in building and operating large-scale distributed systems, spanning datacenters, networking, and the growing intersection with AI during  NSDI \u201926.</p>\n<p>The p"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "GPT-5.5 Instant System Card",
+      "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "published": "Tue, 05 May 2026 10:00:00 GMT",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "link": "https://openai.com/index/gpt-5-5-instant",
+      "published": "Tue, 05 May 2026 10:00:00 GMT",
+      "summary": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "A blueprint for using AI to strengthen democracy",
+      "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+      "published": "Tue, 05 May 2026 09:00:00 +0000",
+      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, repr"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "New ways to buy ChatGPT ads",
+      "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "published": "Tue, 05 May 2026 00:00:00 GMT",
+      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Opus 4.7",
@@ -89,28 +161,12 @@
       "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high\u2011quality data needed to power reliable insight"
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.4.0a2",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.0a2",
-      "published": "2026-05-01T15:02:35Z",
-      "summary": "Initial release\n\nrelease(core): 1.4.0a2 (#37134)\nrefactor(core): unwind _AsyncEventsResult hybrid for astream_events (#37133)\nrelease(core): 1.4.0a1 (#37132)\nMerge remote-tracking branch 'origin/maste"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "A new US phone network for Christians aims to block porn and gender-related content",
-      "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-      "published": "Fri, 01 May 2026 09:00:00 +0000",
-      "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blo"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Red-teaming\u00a0a\u00a0network of agents: Understanding what breaks when AI agents interact at scale",
       "link": "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/",
       "published": "Thu, 30 Apr 2026 21:53:21 +0000",
-      "summary": "Safe agents don\u2019t guarantee a safe ecosystem of interconnected agents. Microsoft Research examines what breaks when AI agents interact and why network-level risks require new approaches."
+      "summary": "<p>Safe agents don\u2019t guarantee a safe ecosystem of interconnected agents. Microsoft Research examines what breaks when AI agents interact and why network-level risks require new approaches.</p>\n<p>The"
     },
     {
       "source": "Anthropic Blog",
@@ -129,52 +185,12 @@
       "summary": "Researching the path to AI-augmented care and development of an AI co-clinician."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing Advanced Account Security",
-      "link": "https://openai.com/index/advanced-account-security",
-      "published": "Thu, 30 Apr 2026 00:00:00 GMT",
-      "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Where the goblins came from",
-      "link": "https://openai.com/index/where-the-goblins-came-from",
-      "published": "Wed, 29 Apr 2026 20:00:00 GMT",
-      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Building the compute infrastructure for the Intelligence Age",
-      "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-      "published": "Wed, 29 Apr 2026 15:00:00 GMT",
-      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand."
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.7.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.7.0",
-      "published": "2026-04-28T18:32:50Z",
-      "summary": "# Release v5.7.0\r\n\r\n\r\n## New Model additions\r\n\r\n### Laguna\r\n\r\n<img width=\"699\" height=\"176\" alt=\"image\" src=\"https://github.com/user-attachments/assets/d3bae269-bea7-4ddf-a53f-d4718befdb17\" />\r\n\r\nLagu"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
       "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
       "published": "Tue, 28 Apr 2026 16:00:00 +0000",
       "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "An update on our election safeguards",
-      "link": "https://www.anthropic.com/news/election-safeguards-update",
-      "published": "2026-04-28T08:59:45.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "Google AI Blog",
@@ -193,20 +209,12 @@
       "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "8 Gemini tips for organizing your space (and life)",
-      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-      "published": "Fri, 24 Apr 2026 19:00:00 +0000",
-      "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "AutoAdapt: Automated domain adaptation for large language\u00a0models",
       "link": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
       "published": "Wed, 22 Apr 2026 16:25:30 +0000",
-      "summary": "Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine, and cloud incident response, performance and reliabi"
+      "summary": "<p>Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine, and cloud incident response, performance and reli"
     },
     {
       "source": "DeepMind Blog",
@@ -238,11 +246,11 @@
       "title": "New Future of\u00a0Work:\u00a0AI is driving rapid change,\u00a0uneven benefits",
       "link": "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
       "published": "Thu, 09 Apr 2026 16:11:44 +0000",
-      "summary": "For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increasing"
+      "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
     }
   ],
-  "timestamp": "2026-05-05T08:17:45.294782",
-  "last_updated": "2026-05-05T08:17:45.294782",
+  "timestamp": "2026-05-05T19:28:16.998912",
+  "last_updated": "2026-05-05T19:28:16.998912",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
