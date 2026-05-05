@@ -1,12 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-05 03:26:04 UTC
+**Last Updated:** 2026-05-05 08:17:45 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-05-04 |
+| OpenAI Blog | [OpenAI and PwC collaborate to reimagine the office of the CFO](https://openai.com/index/openai-pwc-finance-collaboration) | Mon, 04 Ma |
 | Google AI Blog | [The latest AI news we announced in April 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/) | Mon, 04 Ma |
 | MIT Technology Review AI | [Week one of the Musk v. Altman trial: What it was like in the room](https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/) | Mon, 04 Ma |
 | Anthropic Blog | [Building a new enterprise AI services company with Blackstone, Hellman &amp; Fri](https://www.anthropic.com/news/enterprise-ai-services-company) | 2026-05-04 |
@@ -24,7 +25,6 @@
 | OpenAI Blog | [Introducing Advanced Account Security](https://openai.com/index/advanced-account-security) | Thu, 30 Ap |
 | OpenAI Blog | [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from) | Wed, 29 Ap |
 | OpenAI Blog | [Building the compute infrastructure for the Intelligence Age](https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age) | Wed, 29 Ap |
-| OpenAI Blog | [Cybersecurity in the Intelligence Age](https://openai.com/index/cybersecurity-in-the-intelligence-age) | Wed, 29 Ap |
 | HuggingFace Transformers | [Release v5.7.0](https://github.com/huggingface/transformers/releases/tag/v5.7.0) | 2026-04-28 |
 | Google AI Blog | [Celebrating 20 years of Google Translate: Fun facts, tips and new features to tr](https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/) | Tue, 28 Ap |
 | Anthropic Blog | [An update on our election safeguards](https://www.anthropic.com/news/election-safeguards-update) | 2026-04-28 |

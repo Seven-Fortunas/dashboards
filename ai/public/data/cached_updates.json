@@ -9,6 +9,14 @@
       "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "link": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "published": "Mon, 04 May 2026 21:00:00 GMT",
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "The latest AI news we announced in April 2026",
@@ -145,14 +153,6 @@
       "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Cybersecurity in the Intelligence Age",
-      "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-      "published": "Wed, 29 Apr 2026 04:00:00 GMT",
-      "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems."
-    },
-    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.7.0",
@@ -241,8 +241,8 @@
       "summary": "For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increasing"
     }
   ],
-  "timestamp": "2026-05-05T03:26:04.431500",
-  "last_updated": "2026-05-05T03:26:04.431500",
+  "timestamp": "2026-05-05T08:17:45.294782",
+  "last_updated": "2026-05-05T08:17:45.294782",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
