@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "link": "https://www.anthropic.com/news/higher-limits-spacex",
+      "published": "2026-05-06T16:35:37.000Z",
+      "summary": "We\u2019ve raised Claude&#x27;s usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "5 gardening tips you can try right in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "published": "Wed, 06 May 2026 16:00:00 +0000",
+      "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifyi"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "published": "Wed, 06 May 2026 00:00:00 GMT",
+      "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity "
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How frontier enterprises are building an AI advantage",
+      "link": "https://openai.com/index/introducing-b2b-signals",
+      "published": "Wed, 06 May 2026 00:00:00 GMT",
+      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==0.3.85",
@@ -73,28 +105,12 @@
       "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, repr"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "New ways to buy ChatGPT ads",
-      "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "published": "Tue, 05 May 2026 00:00:00 GMT",
-      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Opus 4.7",
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
       "published": "2026-05-04T23:23:49.000Z",
       "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "link": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "published": "Mon, 04 May 2026 21:00:00 GMT",
-      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function."
     },
     {
       "source": "Google AI Blog",
@@ -169,14 +185,6 @@
       "summary": "<p>Safe agents don\u2019t guarantee a safe ecosystem of interconnected agents. Microsoft Research examines what breaks when AI agents interact and why network-level risks require new approaches.</p>\n<p>The"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "The Long-Term Benefit Trust",
-      "link": "https://www.anthropic.com/news/the-long-term-benefit-trust",
-      "published": "2026-04-30T16:44:34.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Enabling a new model for healthcare with AI co-clinician",
@@ -191,14 +199,6 @@
       "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
       "published": "Tue, 28 Apr 2026 16:00:00 +0000",
       "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "published": "Mon, 27 Apr 2026 13:00:00 +0000",
-      "summary": "A web next to a laptop"
     },
     {
       "source": "DeepMind Blog",
@@ -249,8 +249,8 @@
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
     }
   ],
-  "timestamp": "2026-05-06T14:26:05.443092",
-  "last_updated": "2026-05-06T14:26:05.443092",
+  "timestamp": "2026-05-06T19:51:54.728676",
+  "last_updated": "2026-05-06T19:51:54.728676",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
