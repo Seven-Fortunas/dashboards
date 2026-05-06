@@ -43,6 +43,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "GPT-5.5 Instant System Card",
+      "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "published": "Tue, 05 May 2026 10:00:00 GMT",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
       "link": "https://openai.com/index/gpt-5-5-instant",
       "published": "Tue, 05 May 2026 10:00:00 GMT",
@@ -51,10 +59,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "GPT-5.5 Instant System Card",
-      "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "link": "https://openai.com/index/mrc-supercomputer-networking",
       "published": "Tue, 05 May 2026 10:00:00 GMT",
-      "summary": ""
+      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters."
     },
     {
       "source": "MIT Technology Review AI",
@@ -119,14 +127,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
       "published": "Mon, 04 May 2026 15:30:00 +0000",
       "summary": "Gemini API"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-      "published": "Mon, 04 May 2026 00:00:00 GMT",
-      "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking."
     },
     {
       "source": "MIT Technology Review AI",
@@ -249,8 +249,8 @@
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
     }
   ],
-  "timestamp": "2026-05-06T08:32:51.431808",
-  "last_updated": "2026-05-06T08:32:51.431808",
+  "timestamp": "2026-05-06T14:26:05.443092",
+  "last_updated": "2026-05-06T14:26:05.443092",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
