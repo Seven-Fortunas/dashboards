@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-06 03:36:50 UTC
+**Last Updated:** 2026-05-06 08:32:51 UTC
 
 ## Latest Updates
 
@@ -11,8 +11,8 @@
 | HuggingFace Transformers | [Release v5.8.0](https://github.com/huggingface/transformers/releases/tag/v5.8.0) | 2026-05-05 |
 | Google AI Blog | [Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Fu](https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/) | Tue, 05 Ma |
 | Microsoft Research AI | [Microsoft at NSDI 2026: Advances in large-scale networked systems](https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/) | Tue, 05 Ma |
-| OpenAI Blog | [GPT-5.5 Instant System Card](https://openai.com/index/gpt-5-5-instant-system-card) | Tue, 05 Ma |
 | OpenAI Blog | [GPT-5.5 Instant: smarter, clearer, and more personalized](https://openai.com/index/gpt-5-5-instant) | Tue, 05 Ma |
+| OpenAI Blog | [GPT-5.5 Instant System Card](https://openai.com/index/gpt-5-5-instant-system-card) | Tue, 05 Ma |
 | MIT Technology Review AI | [A blueprint for using AI to strengthen democracy](https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/) | Tue, 05 Ma |
 | OpenAI Blog | [New ways to buy ChatGPT ads](https://openai.com/index/new-ways-to-buy-chatgpt-ads) | Tue, 05 Ma |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-05-04 |

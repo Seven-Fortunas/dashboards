@@ -43,18 +43,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "GPT-5.5 Instant System Card",
-      "link": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "published": "Tue, 05 May 2026 10:00:00 GMT",
-      "summary": ""
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
       "link": "https://openai.com/index/gpt-5-5-instant",
       "published": "Tue, 05 May 2026 10:00:00 GMT",
       "summary": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "GPT-5.5 Instant System Card",
+      "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "published": "Tue, 05 May 2026 10:00:00 GMT",
+      "summary": ""
     },
     {
       "source": "MIT Technology Review AI",
@@ -249,8 +249,8 @@
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
     }
   ],
-  "timestamp": "2026-05-06T03:36:50.134897",
-  "last_updated": "2026-05-06T03:36:50.134897",
+  "timestamp": "2026-05-06T08:32:51.431808",
+  "last_updated": "2026-05-06T08:32:51.431808",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
