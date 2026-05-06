@@ -1,12 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-05 19:28:16 UTC
+**Last Updated:** 2026-05-06 03:36:50 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| LangChain Releases | [Release langchain-core==1.3.3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.3) | 2026-05-05 |
+| LangChain Releases | [Release langchain-core==0.3.85](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.85) | 2026-05-05 |
 | Anthropic Blog | [Agents for financial services and insurance](https://www.anthropic.com/news/finance-agents) | 2026-05-05 |
 | HuggingFace Transformers | [Release v5.8.0](https://github.com/huggingface/transformers/releases/tag/v5.8.0) | 2026-05-05 |
 | Google AI Blog | [Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Fu](https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/) | Tue, 05 Ma |
