@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-06 08:32:51 UTC
+**Last Updated:** 2026-05-06 14:26:05 UTC
 
 ## Latest Updates
 
@@ -11,8 +11,9 @@
 | HuggingFace Transformers | [Release v5.8.0](https://github.com/huggingface/transformers/releases/tag/v5.8.0) | 2026-05-05 |
 | Google AI Blog | [Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Fu](https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/) | Tue, 05 Ma |
 | Microsoft Research AI | [Microsoft at NSDI 2026: Advances in large-scale networked systems](https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/) | Tue, 05 Ma |
-| OpenAI Blog | [GPT-5.5 Instant: smarter, clearer, and more personalized](https://openai.com/index/gpt-5-5-instant) | Tue, 05 Ma |
 | OpenAI Blog | [GPT-5.5 Instant System Card](https://openai.com/index/gpt-5-5-instant-system-card) | Tue, 05 Ma |
+| OpenAI Blog | [GPT-5.5 Instant: smarter, clearer, and more personalized](https://openai.com/index/gpt-5-5-instant) | Tue, 05 Ma |
+| OpenAI Blog | [Unlocking large scale AI training networks with MRC (Multipath Reliable Connecti](https://openai.com/index/mrc-supercomputer-networking) | Tue, 05 Ma |
 | MIT Technology Review AI | [A blueprint for using AI to strengthen democracy](https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/) | Tue, 05 Ma |
 | OpenAI Blog | [New ways to buy ChatGPT ads](https://openai.com/index/new-ways-to-buy-chatgpt-ads) | Tue, 05 Ma |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-05-04 |
@@ -21,7 +22,6 @@
 | MIT Technology Review AI | [Week one of the Musk v. Altman trial: What it was like in the room](https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/) | Mon, 04 Ma |
 | Anthropic Blog | [Building a new enterprise AI services company with Blackstone, Hellman &amp; Fri](https://www.anthropic.com/news/enterprise-ai-services-company) | 2026-05-04 |
 | Google AI Blog | [Reduce friction and latency for long-running jobs with Webhooks in Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/) | Mon, 04 Ma |
-| OpenAI Blog | [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale) | Mon, 04 Ma |
 | MIT Technology Review AI | [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, ](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/) | Fri, 01 Ma |
 | MIT Technology Review AI | [Cyber-Insecurity in the AI Era](https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/) | Fri, 01 Ma |
 | Anthropic Blog | [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) | 2026-05-01 |
