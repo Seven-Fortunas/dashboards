@@ -1,23 +1,23 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-07 08:40:44 UTC
+**Last Updated:** 2026-05-07 14:26:18 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Parloa builds service agents customers want to talk to](https://openai.com/index/parloa) | Thu, 07 Ma |
 | Anthropic Blog | [Agents for financial services](https://www.anthropic.com/news/finance-agents) | 2026-05-06 |
 | Anthropic Blog | [Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex) | 2026-05-06 |
 | Google AI Blog | [5 gardening tips you can try right in Search](https://blog.google/products-and-platforms/products/search/gardening-tips/) | Wed, 06 Ma |
 | OpenAI Blog | [Introducing ChatGPT Futures: Class of 2026](https://openai.com/index/introducing-chatgpt-futures-class-of-2026) | Wed, 06 Ma |
-| OpenAI Blog | [How frontier enterprises are building an AI advantage](https://openai.com/index/introducing-b2b-signals) | Wed, 06 Ma |
 | OpenAI Blog | [Uber uses OpenAI to help people earn smarter and book faster](https://openai.com/index/uber) | Wed, 06 Ma |
+| OpenAI Blog | [How frontier enterprises are building an AI advantage](https://openai.com/index/introducing-b2b-signals) | Wed, 06 Ma |
 | OpenAI Blog | [Singular Bank helps bankers move fast with ChatGPT and Codex](https://openai.com/index/singular-bank) | Wed, 06 Ma |
 | LangChain Releases | [Release langchain-core==0.3.85](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.85) | 2026-05-05 |
 | HuggingFace Transformers | [Release v5.8.0](https://github.com/huggingface/transformers/releases/tag/v5.8.0) | 2026-05-05 |
 | Google AI Blog | [Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Fu](https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/) | Tue, 05 Ma |
 | Microsoft Research AI | [Microsoft at NSDI 2026: Advances in large-scale networked systems](https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/) | Tue, 05 Ma |
-| OpenAI Blog | [Unlocking large scale AI training networks with MRC (Multipath Reliable Connecti](https://openai.com/index/mrc-supercomputer-networking) | Tue, 05 Ma |
 | MIT Technology Review AI | [A blueprint for using AI to strengthen democracy](https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/) | Tue, 05 Ma |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-05-04 |
 | Google AI Blog | [The latest AI news we announced in April 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/) | Mon, 04 Ma |

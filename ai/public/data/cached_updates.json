@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Parloa builds service agents customers want to talk to",
+      "link": "https://openai.com/index/parloa",
+      "published": "Thu, 07 May 2026 11:00:00 GMT",
+      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Agents for financial services",
@@ -35,18 +43,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How frontier enterprises are building an AI advantage",
-      "link": "https://openai.com/index/introducing-b2b-signals",
-      "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Uber uses OpenAI to help people earn smarter and book faster",
       "link": "https://openai.com/index/uber",
       "published": "Wed, 06 May 2026 00:00:00 GMT",
       "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How frontier enterprises are building an AI advantage",
+      "link": "https://openai.com/index/introducing-b2b-signals",
+      "published": "Wed, 06 May 2026 00:00:00 GMT",
+      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
     },
     {
       "source": "OpenAI Blog",
@@ -87,14 +95,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
       "published": "Tue, 05 May 2026 16:00:00 +0000",
       "summary": "<p>Microsoft researchers share advances in building and operating large-scale distributed systems, spanning datacenters, networking, and the growing intersection with AI during  NSDI \u201926.</p>\n<p>The p"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "link": "https://openai.com/index/mrc-supercomputer-networking",
-      "published": "Tue, 05 May 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters."
     },
     {
       "source": "MIT Technology Review AI",
@@ -249,8 +249,8 @@
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
     }
   ],
-  "timestamp": "2026-05-07T08:40:44.706777",
-  "last_updated": "2026-05-07T08:40:44.706777",
+  "timestamp": "2026-05-07T14:26:18.937846",
+  "last_updated": "2026-05-07T14:26:18.937846",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
