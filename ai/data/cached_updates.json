@@ -35,10 +35,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "link": "https://openai.com/index/singular-bank",
+      "title": "How frontier enterprises are building an AI advantage",
+      "link": "https://openai.com/index/introducing-b2b-signals",
       "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up."
+      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
     },
     {
       "source": "OpenAI Blog",
@@ -51,10 +51,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How frontier enterprises are building an AI advantage",
-      "link": "https://openai.com/index/introducing-b2b-signals",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "link": "https://openai.com/index/singular-bank",
       "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up."
     },
     {
       "source": "LangChain Releases",
@@ -91,10 +91,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "link": "https://openai.com/index/gpt-5-5-instant",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "link": "https://openai.com/index/mrc-supercomputer-networking",
       "published": "Tue, 05 May 2026 10:00:00 GMT",
-      "summary": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls."
+      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters."
     },
     {
       "source": "MIT Technology Review AI",
@@ -249,8 +249,8 @@
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
     }
   ],
-  "timestamp": "2026-05-07T03:36:47.722980",
-  "last_updated": "2026-05-07T03:36:47.722980",
+  "timestamp": "2026-05-07T08:40:44.706777",
+  "last_updated": "2026-05-07T08:40:44.706777",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
