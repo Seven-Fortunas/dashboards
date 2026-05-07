@@ -1,12 +1,44 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==0.3.86",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.86",
+      "published": "2026-05-07T16:48:35Z",
+      "summary": "Changes since langchain-core==0.3.85\n\nrelease(core): 0.3.86 (#37242)\nfix(core): backport path-traversal fix to v0.3 (CVE-2026-34070, GHSA-qh6h-p6c9-ff54) (#37233)"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Parloa builds service agents customers want to talk to",
       "link": "https://openai.com/index/parloa",
       "published": "Thu, 07 May 2026 11:00:00 GMT",
       "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Advancing voice intelligence with new models in the API",
+      "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "published": "Thu, 07 May 2026 10:00:00 GMT",
+      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Testing ads in ChatGPT",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "published": "Thu, 07 May 2026 00:00:00 GMT",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "published": "Thu, 07 May 2026 00:00:00 GMT",
+      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected."
     },
     {
       "source": "Anthropic Blog",
@@ -33,44 +65,20 @@
       "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifyi"
     },
     {
-      "source": "OpenAI Blog",
+      "source": "DeepMind Blog",
       "type": "rss",
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity "
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "link": "https://deepmind.google/blog/alphaevolve-impact/",
+      "published": "Wed, 06 May 2026 10:43:49 +0000",
+      "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science."
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "link": "https://openai.com/index/uber",
-      "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How frontier enterprises are building an AI advantage",
+      "title": "How frontier firms are pulling ahead",
       "link": "https://openai.com/index/introducing-b2b-signals",
       "published": "Wed, 06 May 2026 00:00:00 GMT",
       "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "link": "https://openai.com/index/singular-bank",
-      "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up."
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==0.3.85",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.85",
-      "published": "2026-05-05T20:43:46Z",
-      "summary": "Changes since langchain-core==0.3.84\n\nrelease(core): 0.3.85 (#37205)\nfix(core, langchain): harden `load()` against untrusted manifests (#37201)"
     },
     {
       "source": "HuggingFace Transformers",
@@ -233,14 +241,6 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
-      "published": "Wed, 15 Apr 2026 16:03:19 +0000",
-      "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "New Future of\u00a0Work:\u00a0AI is driving rapid change,\u00a0uneven benefits",
@@ -249,8 +249,8 @@
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
     }
   ],
-  "timestamp": "2026-05-07T14:26:18.937846",
-  "last_updated": "2026-05-07T14:26:18.937846",
+  "timestamp": "2026-05-07T19:47:09.226483",
+  "last_updated": "2026-05-07T19:47:09.226483",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

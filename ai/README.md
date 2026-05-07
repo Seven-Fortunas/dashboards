@@ -1,20 +1,21 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-07 14:26:18 UTC
+**Last Updated:** 2026-05-07 19:47:09 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==0.3.86](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.86) | 2026-05-07 |
 | OpenAI Blog | [Parloa builds service agents customers want to talk to](https://openai.com/index/parloa) | Thu, 07 Ma |
+| OpenAI Blog | [Advancing voice intelligence with new models in the API](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api) | Thu, 07 Ma |
+| OpenAI Blog | [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt) | Thu, 07 Ma |
+| OpenAI Blog | [Introducing Trusted Contact in ChatGPT](https://openai.com/index/introducing-trusted-contact-in-chatgpt) | Thu, 07 Ma |
 | Anthropic Blog | [Agents for financial services](https://www.anthropic.com/news/finance-agents) | 2026-05-06 |
 | Anthropic Blog | [Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex) | 2026-05-06 |
 | Google AI Blog | [5 gardening tips you can try right in Search](https://blog.google/products-and-platforms/products/search/gardening-tips/) | Wed, 06 Ma |
-| OpenAI Blog | [Introducing ChatGPT Futures: Class of 2026](https://openai.com/index/introducing-chatgpt-futures-class-of-2026) | Wed, 06 Ma |
-| OpenAI Blog | [Uber uses OpenAI to help people earn smarter and book faster](https://openai.com/index/uber) | Wed, 06 Ma |
-| OpenAI Blog | [How frontier enterprises are building an AI advantage](https://openai.com/index/introducing-b2b-signals) | Wed, 06 Ma |
-| OpenAI Blog | [Singular Bank helps bankers move fast with ChatGPT and Codex](https://openai.com/index/singular-bank) | Wed, 06 Ma |
-| LangChain Releases | [Release langchain-core==0.3.85](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.85) | 2026-05-05 |
+| DeepMind Blog | [AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) | Wed, 06 Ma |
+| OpenAI Blog | [How frontier firms are pulling ahead](https://openai.com/index/introducing-b2b-signals) | Wed, 06 Ma |
 | HuggingFace Transformers | [Release v5.8.0](https://github.com/huggingface/transformers/releases/tag/v5.8.0) | 2026-05-05 |
 | Google AI Blog | [Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Fu](https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/) | Tue, 05 Ma |
 | Microsoft Research AI | [Microsoft at NSDI 2026: Advances in large-scale networked systems](https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/) | Tue, 05 Ma |
@@ -35,5 +36,4 @@
 | Microsoft Research AI | [AutoAdapt: Automated domain adaptation for large language models](https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/) | Wed, 22 Ap |
 | DeepMind Blog | [Decoupled DiLoCo: A new frontier for resilient, distributed AI training](https://deepmind.google/blog/decoupled-diloco/) | Wed, 22 Ap |
 | DeepMind Blog | [Partnering with industry leaders to accelerate AI transformation](https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/) | Tue, 21 Ap |
-| DeepMind Blog | [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/) | Wed, 15 Ap |
 | Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
