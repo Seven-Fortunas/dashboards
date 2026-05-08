@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "See what happens when creative legends use AI to make ads for small businesses.",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "published": "Fri, 08 May 2026 15:00:00 +0000",
+      "summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Agents for financial services",
@@ -51,18 +59,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Testing ads in ChatGPT",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published": "Thu, 07 May 2026 00:00:00 GMT",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Introducing Trusted Contact in ChatGPT",
       "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
       "published": "Thu, 07 May 2026 00:00:00 GMT",
       "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Testing ads in ChatGPT",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "published": "Thu, 07 May 2026 00:00:00 GMT",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
     },
     {
       "source": "Anthropic Blog",
@@ -201,14 +209,6 @@
       "summary": "Researching the path to AI-augmented care and development of an AI co-clinician."
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-      "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-      "published": "Tue, 28 Apr 2026 16:00:00 +0000",
-      "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Announcing our partnership with the Republic of Korea",
@@ -249,8 +249,8 @@
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
     }
   ],
-  "timestamp": "2026-05-08T14:01:39.699160",
-  "last_updated": "2026-05-08T14:01:39.699160",
+  "timestamp": "2026-05-08T19:25:17.063192",
+  "last_updated": "2026-05-08T19:25:17.063192",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
