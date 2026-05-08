@@ -51,18 +51,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "published": "Thu, 07 May 2026 00:00:00 GMT",
-      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Testing ads in ChatGPT",
       "link": "https://openai.com/index/testing-ads-in-chatgpt",
       "published": "Thu, 07 May 2026 00:00:00 GMT",
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "published": "Thu, 07 May 2026 00:00:00 GMT",
+      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected."
     },
     {
       "source": "Anthropic Blog",
@@ -249,8 +249,8 @@
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
     }
   ],
-  "timestamp": "2026-05-08T03:31:40.455445",
-  "last_updated": "2026-05-08T03:31:40.455445",
+  "timestamp": "2026-05-08T07:47:51.302887",
+  "last_updated": "2026-05-08T07:47:51.302887",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

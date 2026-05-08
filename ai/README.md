@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-08 03:31:40 UTC
+**Last Updated:** 2026-05-08 07:47:51 UTC
 
 ## Latest Updates
 
@@ -12,8 +12,8 @@
 | OpenAI Blog | [Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber](https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber) | Thu, 07 Ma |
 | OpenAI Blog | [Parloa builds service agents customers want to talk to](https://openai.com/index/parloa) | Thu, 07 Ma |
 | OpenAI Blog | [Advancing voice intelligence with new models in the API](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api) | Thu, 07 Ma |
-| OpenAI Blog | [Introducing Trusted Contact in ChatGPT](https://openai.com/index/introducing-trusted-contact-in-chatgpt) | Thu, 07 Ma |
 | OpenAI Blog | [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt) | Thu, 07 Ma |
+| OpenAI Blog | [Introducing Trusted Contact in ChatGPT](https://openai.com/index/introducing-trusted-contact-in-chatgpt) | Thu, 07 Ma |
 | Anthropic Blog | [Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex) | 2026-05-06 |
 | Google AI Blog | [5 gardening tips you can try right in Search](https://blog.google/products-and-platforms/products/search/gardening-tips/) | Wed, 06 Ma |
 | DeepMind Blog | [AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) | Wed, 06 Ma |
