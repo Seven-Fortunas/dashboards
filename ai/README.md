@@ -1,21 +1,22 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-07 19:47:09 UTC
+**Last Updated:** 2026-05-08 03:31:40 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Agents for financial services](https://www.anthropic.com/news/finance-agents) | 2026-05-07 |
+| Anthropic Blog | [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) | 2026-05-07 |
 | LangChain Releases | [Release langchain-core==0.3.86](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.86) | 2026-05-07 |
+| OpenAI Blog | [Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber](https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber) | Thu, 07 Ma |
 | OpenAI Blog | [Parloa builds service agents customers want to talk to](https://openai.com/index/parloa) | Thu, 07 Ma |
 | OpenAI Blog | [Advancing voice intelligence with new models in the API](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api) | Thu, 07 Ma |
-| OpenAI Blog | [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt) | Thu, 07 Ma |
 | OpenAI Blog | [Introducing Trusted Contact in ChatGPT](https://openai.com/index/introducing-trusted-contact-in-chatgpt) | Thu, 07 Ma |
-| Anthropic Blog | [Agents for financial services](https://www.anthropic.com/news/finance-agents) | 2026-05-06 |
+| OpenAI Blog | [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt) | Thu, 07 Ma |
 | Anthropic Blog | [Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex) | 2026-05-06 |
 | Google AI Blog | [5 gardening tips you can try right in Search](https://blog.google/products-and-platforms/products/search/gardening-tips/) | Wed, 06 Ma |
 | DeepMind Blog | [AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) | Wed, 06 Ma |
-| OpenAI Blog | [How frontier firms are pulling ahead](https://openai.com/index/introducing-b2b-signals) | Wed, 06 Ma |
 | HuggingFace Transformers | [Release v5.8.0](https://github.com/huggingface/transformers/releases/tag/v5.8.0) | 2026-05-05 |
 | Google AI Blog | [Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Fu](https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/) | Tue, 05 Ma |
 | Microsoft Research AI | [Microsoft at NSDI 2026: Advances in large-scale networked systems](https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/) | Tue, 05 Ma |
@@ -27,7 +28,6 @@
 | Google AI Blog | [Reduce friction and latency for long-running jobs with Webhooks in Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/) | Mon, 04 Ma |
 | MIT Technology Review AI | [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, ](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/) | Fri, 01 Ma |
 | MIT Technology Review AI | [Cyber-Insecurity in the AI Era](https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/) | Fri, 01 Ma |
-| Anthropic Blog | [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) | 2026-05-01 |
 | MIT Technology Review AI | [Operationalizing AI for Scale and Sovereignty](https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/) | Fri, 01 Ma |
 | Microsoft Research AI | [Red-teaming a network of agents: Understanding what breaks when AI agents intera](https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/) | Thu, 30 Ap |
 | DeepMind Blog | [Enabling a new model for healthcare with AI co-clinician](https://deepmind.google/blog/ai-co-clinician/) | Thu, 30 Ap |
