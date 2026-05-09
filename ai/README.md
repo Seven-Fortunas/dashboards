@@ -1,19 +1,21 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-08 19:25:17 UTC
+**Last Updated:** 2026-05-09 03:31:14 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tri](https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/) | Fri, 08 Ma |
+| Microsoft Research AI | [Building realistic electric transmission grid dataset at scale: a pipeline from ](https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/) | Fri, 08 Ma |
 | Google AI Blog | [See what happens when creative legends use AI to make ads for small businesses.](https://blog.google/company-news/inside-google/company-announcements/the-small-brief/) | Fri, 08 Ma |
+| OpenAI Blog | [Running Codex safely at OpenAI](https://openai.com/index/running-codex-safely) | Fri, 08 Ma |
 | Anthropic Blog | [Agents for financial services](https://www.anthropic.com/news/finance-agents) | 2026-05-07 |
 | Anthropic Blog | [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) | 2026-05-07 |
 | LangChain Releases | [Release langchain-core==0.3.86](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.86) | 2026-05-07 |
 | OpenAI Blog | [Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber](https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber) | Thu, 07 Ma |
 | OpenAI Blog | [Parloa builds service agents customers want to talk to](https://openai.com/index/parloa) | Thu, 07 Ma |
 | OpenAI Blog | [Advancing voice intelligence with new models in the API](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api) | Thu, 07 Ma |
-| OpenAI Blog | [Introducing Trusted Contact in ChatGPT](https://openai.com/index/introducing-trusted-contact-in-chatgpt) | Thu, 07 Ma |
 | OpenAI Blog | [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt) | Thu, 07 Ma |
 | Anthropic Blog | [Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex) | 2026-05-06 |
 | Google AI Blog | [5 gardening tips you can try right in Search](https://blog.google/products-and-platforms/products/search/gardening-tips/) | Wed, 06 Ma |
@@ -29,7 +31,6 @@
 | Google AI Blog | [Reduce friction and latency for long-running jobs with Webhooks in Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/) | Mon, 04 Ma |
 | MIT Technology Review AI | [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, ](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/) | Fri, 01 Ma |
 | MIT Technology Review AI | [Cyber-Insecurity in the AI Era](https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/) | Fri, 01 Ma |
-| MIT Technology Review AI | [Operationalizing AI for Scale and Sovereignty](https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/) | Fri, 01 Ma |
 | Microsoft Research AI | [Red-teaming a network of agents: Understanding what breaks when AI agents intera](https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/) | Thu, 30 Ap |
 | DeepMind Blog | [Enabling a new model for healthcare with AI co-clinician](https://deepmind.google/blog/ai-co-clinician/) | Thu, 30 Ap |
 | DeepMind Blog | [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/) | Mon, 27 Ap |
