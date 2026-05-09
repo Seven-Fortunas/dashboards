@@ -1,12 +1,36 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "published": "Fri, 08 May 2026 23:59:19 +0000",
+      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk\u2019s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
+      "link": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
+      "published": "Fri, 08 May 2026 19:53:56 +0000",
+      "summary": "<p>Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly available data. The ability to study transmission-level po"
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "See what happens when creative legends use AI to make ads for small businesses.",
       "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
       "published": "Fri, 08 May 2026 15:00:00 +0000",
       "summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Running Codex safely at OpenAI",
+      "link": "https://openai.com/index/running-codex-safely",
+      "published": "Fri, 08 May 2026 12:30:00 GMT",
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption."
     },
     {
       "source": "Anthropic Blog",
@@ -55,14 +79,6 @@
       "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
       "published": "Thu, 07 May 2026 10:00:00 GMT",
       "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "published": "Thu, 07 May 2026 00:00:00 GMT",
-      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected."
     },
     {
       "source": "OpenAI Blog",
@@ -185,14 +201,6 @@
       "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This s"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Operationalizing AI for Scale and Sovereignty",
-      "link": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-      "published": "Fri, 01 May 2026 15:31:09 +0000",
-      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high\u2011quality data needed to power reliable insight"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Red-teaming\u00a0a\u00a0network of agents: Understanding what breaks when AI agents interact at scale",
@@ -249,8 +257,8 @@
       "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology\u2019s role in increas"
     }
   ],
-  "timestamp": "2026-05-08T19:25:17.063192",
-  "last_updated": "2026-05-08T19:25:17.063192",
+  "timestamp": "2026-05-09T03:31:14.920123",
+  "last_updated": "2026-05-09T03:31:14.920123",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
