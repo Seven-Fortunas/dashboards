@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-09 13:26:34 UTC
+**Last Updated:** 2026-05-09 19:10:08 UTC
 
 ## Latest Updates
 
@@ -37,4 +37,3 @@
 | Microsoft Research AI | [AutoAdapt: Automated domain adaptation for large language models](https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/) | Wed, 22 Ap |
 | DeepMind Blog | [Decoupled DiLoCo: A new frontier for resilient, distributed AI training](https://deepmind.google/blog/decoupled-diloco/) | Wed, 22 Ap |
 | DeepMind Blog | [Partnering with industry leaders to accelerate AI transformation](https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/) | Tue, 21 Ap |
-| Microsoft Research AI | [New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) | Thu, 09 Ap |
