@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "published": "Mon, 11 May 2026 10:00:00 GMT",
+      "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How enterprises are scaling AI",
+      "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "published": "Mon, 11 May 2026 10:00:00 GMT",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "The new AI-powered Google Finance is expanding to Europe.",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+      "published": "Mon, 11 May 2026 06:00:00 +0000",
+      "summary": "A screenshot of the AI-powered experience on Google Finance."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
@@ -71,22 +95,6 @@
       "link": "https://openai.com/index/parloa",
       "published": "Thu, 07 May 2026 11:00:00 GMT",
       "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Advancing voice intelligence with new models in the API",
-      "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "published": "Thu, 07 May 2026 10:00:00 GMT",
-      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Testing ads in ChatGPT",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published": "Thu, 07 May 2026 00:00:00 GMT",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
     },
     {
       "source": "Anthropic Blog",
@@ -177,14 +185,6 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-      "published": "Mon, 04 May 2026 15:30:00 +0000",
-      "summary": "Gemini API"
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI\u2019s models",
@@ -249,8 +249,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-11T03:57:54.113053",
-  "last_updated": "2026-05-11T03:57:54.113053",
+  "timestamp": "2026-05-11T09:49:39.388129",
+  "last_updated": "2026-05-11T09:49:39.388129",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
