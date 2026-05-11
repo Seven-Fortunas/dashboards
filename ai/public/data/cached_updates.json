@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Fostering breakthrough AI innovation through customer-back engineering",
+      "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+      "published": "Mon, 11 May 2026 13:33:06 +0000",
+      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That\u2019s because most big companies begin with te"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Implementing advanced AI technologies in finance",
+      "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "published": "Mon, 11 May 2026 13:00:00 +0000",
+      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How enterprises are scaling AI",
+      "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "published": "Mon, 11 May 2026 10:00:00 GMT",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "OpenAI Campus Network: Student club interest form",
@@ -11,10 +35,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How enterprises are scaling AI",
-      "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "published": "Mon, 11 May 2026 10:00:00 GMT",
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
+      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "link": "https://openai.com/index/openai-launches-the-deployment-company",
+      "published": "Mon, 11 May 2026 06:00:00 GMT",
+      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact."
     },
     {
       "source": "Google AI Blog",
@@ -87,14 +111,6 @@
       "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
       "published": "Thu, 07 May 2026 13:00:00 GMT",
       "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Parloa builds service agents customers want to talk to",
-      "link": "https://openai.com/index/parloa",
-      "published": "Thu, 07 May 2026 11:00:00 GMT",
-      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions."
     },
     {
       "source": "Anthropic Blog",
@@ -185,22 +201,6 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI\u2019s models",
-      "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "published": "Fri, 01 May 2026 22:08:19 +0000",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived h"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Cyber-Insecurity in the AI Era",
-      "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "published": "Fri, 01 May 2026 15:54:01 +0000",
-      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This s"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Red-teaming\u00a0a\u00a0network of agents: Understanding what breaks when AI agents interact at scale",
@@ -249,8 +249,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-11T09:49:39.388129",
-  "last_updated": "2026-05-11T09:49:39.388129",
+  "timestamp": "2026-05-11T15:21:15.702415",
+  "last_updated": "2026-05-11T15:21:15.702415",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
