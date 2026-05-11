@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.4.0",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.0",
+      "published": "2026-05-11T18:42:53Z",
+      "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "published": "Mon, 11 May 2026 17:35:12 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. A few months before he was awarded the Nobel Prize in economic"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "SocialReasoning-Bench: Measuring whether AI agents act\u00a0in users\u2019 best interests",
+      "link": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+      "published": "Mon, 11 May 2026 17:19:28 +0000",
+      "summary": "<p>Using SocialReasoning Bench, we observed a stable pattern across models\u2014agents execute competently, but fail to consistently improve the user\u2019s position, even with explicit instructions to optimize"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Fostering breakthrough AI innovation through customer-back engineering",
@@ -97,14 +121,6 @@
       "summary": "The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim"
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==0.3.86",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.86",
-      "published": "2026-05-07T16:48:35Z",
-      "summary": "Changes since langchain-core==0.3.85\n\nrelease(core): 0.3.86 (#37242)\nfix(core): backport path-traversal fix to v0.3 (CVE-2026-34070, GHSA-qh6h-p6c9-ff54) (#37233)"
-    },
-    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
@@ -185,14 +201,6 @@
       "summary": "mp4 featuring an underwater video and a mobile AI video mockup."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-      "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-      "published": "Mon, 04 May 2026 15:51:27 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI\u2014Sam Altman and Elon"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Building a new enterprise AI services company with Blackstone, Hellman &amp; Friedman, and Goldman Sachs",
@@ -249,8 +257,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-11T15:21:15.702415",
-  "last_updated": "2026-05-11T15:21:15.702415",
+  "timestamp": "2026-05-11T19:54:22.057456",
+  "last_updated": "2026-05-11T19:54:22.057456",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
