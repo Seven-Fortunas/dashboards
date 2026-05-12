@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
+      "link": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
+      "published": "Tue, 12 May 2026 13:00:00 +0000",
+      "summary": "<p>MatterSim is expanding what AI can do for materials science\u2014from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces al"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.4.0",
@@ -51,18 +59,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How enterprises are scaling AI",
-      "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "published": "Mon, 11 May 2026 10:00:00 GMT",
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "OpenAI Campus Network: Student club interest form",
       "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
       "published": "Mon, 11 May 2026 10:00:00 GMT",
       "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How enterprises are scaling AI",
+      "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "published": "Mon, 11 May 2026 10:00:00 GMT",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
     },
     {
       "source": "OpenAI Blog",
@@ -233,14 +241,6 @@
       "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models"
     },
     {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "AutoAdapt: Automated domain adaptation for large language\u00a0models",
-      "link": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
-      "published": "Wed, 22 Apr 2026 16:25:30 +0000",
-      "summary": "<p>Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine, and cloud incident response, performance and reli"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
@@ -257,8 +257,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-12T08:46:33.528303",
-  "last_updated": "2026-05-12T08:46:33.528303",
+  "timestamp": "2026-05-12T14:35:42.500375",
+  "last_updated": "2026-05-12T14:35:42.500375",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
