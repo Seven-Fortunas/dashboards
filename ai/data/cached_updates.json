@@ -9,6 +9,14 @@
       "summary": "<p>MatterSim is expanding what AI can do for materials science\u2014from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces al"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "link": "https://openai.com/index/what-parameter-golf-taught-us",
+      "published": "Tue, 12 May 2026 00:00:00 GMT",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.4.0",
@@ -59,18 +67,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "published": "Mon, 11 May 2026 10:00:00 GMT",
-      "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "How enterprises are scaling AI",
       "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
       "published": "Mon, 11 May 2026 10:00:00 GMT",
       "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "published": "Mon, 11 May 2026 10:00:00 GMT",
+      "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community."
     },
     {
       "source": "OpenAI Blog",
@@ -111,14 +119,6 @@
       "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
       "published": "Fri, 08 May 2026 15:00:00 +0000",
       "summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Running Codex safely at OpenAI",
-      "link": "https://openai.com/index/running-codex-safely",
-      "published": "Fri, 08 May 2026 12:30:00 GMT",
-      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption."
     },
     {
       "source": "Anthropic Blog",
@@ -257,8 +257,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-12T14:35:42.500375",
-  "last_updated": "2026-05-12T14:35:42.500375",
+  "timestamp": "2026-05-12T19:59:32.642439",
+  "last_updated": "2026-05-12T19:59:32.642439",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
