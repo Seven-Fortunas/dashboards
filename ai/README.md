@@ -1,26 +1,26 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-12 14:35:42 UTC
+**Last Updated:** 2026-05-12 19:59:32 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
 | Microsoft Research AI | [Advancing AI for materials with MatterSim: experimental synthesis, faster simula](https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/) | Tue, 12 Ma |
+| OpenAI Blog | [What Parameter Golf taught us about AI-assisted research](https://openai.com/index/what-parameter-golf-taught-us) | Tue, 12 Ma |
 | LangChain Releases | [Release langchain-core==1.4.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.0) | 2026-05-11 |
 | MIT Technology Review AI | [Three things in AI to watch, according to a Nobel-winning economist](https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/) | Mon, 11 Ma |
 | Microsoft Research AI | [SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests](https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/) | Mon, 11 Ma |
 | OpenAI Blog | [How ChatGPT adoption broadened in early 2026](https://openai.com/signals/research/2026q1-update) | Mon, 11 Ma |
 | MIT Technology Review AI | [Fostering breakthrough AI innovation through customer-back engineering](https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/) | Mon, 11 Ma |
 | MIT Technology Review AI | [Implementing advanced AI technologies in finance](https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/) | Mon, 11 Ma |
-| OpenAI Blog | [OpenAI Campus Network: Student club interest form](https://openai.com/index/openai-campus-network-student-club-interest-form) | Mon, 11 Ma |
 | OpenAI Blog | [How enterprises are scaling AI](https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai) | Mon, 11 Ma |
+| OpenAI Blog | [OpenAI Campus Network: Student club interest form](https://openai.com/index/openai-campus-network-student-club-interest-form) | Mon, 11 Ma |
 | OpenAI Blog | [OpenAI launches DeployCo to help businesses build around intelligence](https://openai.com/index/openai-launches-the-deployment-company) | Mon, 11 Ma |
 | Google AI Blog | [The new AI-powered Google Finance is expanding to Europe.](https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/) | Mon, 11 Ma |
 | MIT Technology Review AI | [Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tri](https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/) | Fri, 08 Ma |
 | Microsoft Research AI | [Building realistic electric transmission grid dataset at scale: a pipeline from ](https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/) | Fri, 08 Ma |
 | Google AI Blog | [See what happens when creative legends use AI to make ads for small businesses.](https://blog.google/company-news/inside-google/company-announcements/the-small-brief/) | Fri, 08 Ma |
-| OpenAI Blog | [Running Codex safely at OpenAI](https://openai.com/index/running-codex-safely) | Fri, 08 Ma |
 | Anthropic Blog | [Agents for financial services](https://www.anthropic.com/news/finance-agents) | 2026-05-07 |
 | Anthropic Blog | [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) | 2026-05-07 |
 | Anthropic Blog | [Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex) | 2026-05-06 |
