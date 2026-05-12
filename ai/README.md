@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-11 19:54:22 UTC
+**Last Updated:** 2026-05-12 03:40:25 UTC
 
 ## Latest Updates
 
@@ -9,6 +9,7 @@
 | LangChain Releases | [Release langchain-core==1.4.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.0) | 2026-05-11 |
 | MIT Technology Review AI | [Three things in AI to watch, according to a Nobel-winning economist](https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/) | Mon, 11 Ma |
 | Microsoft Research AI | [SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests](https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/) | Mon, 11 Ma |
+| OpenAI Blog | [How ChatGPT adoption broadened in early 2026](https://openai.com/signals/research/2026q1-update) | Mon, 11 Ma |
 | MIT Technology Review AI | [Fostering breakthrough AI innovation through customer-back engineering](https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/) | Mon, 11 Ma |
 | MIT Technology Review AI | [Implementing advanced AI technologies in finance](https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/) | Mon, 11 Ma |
 | OpenAI Blog | [How enterprises are scaling AI](https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai) | Mon, 11 Ma |
@@ -21,7 +22,6 @@
 | OpenAI Blog | [Running Codex safely at OpenAI](https://openai.com/index/running-codex-safely) | Fri, 08 Ma |
 | Anthropic Blog | [Agents for financial services](https://www.anthropic.com/news/finance-agents) | 2026-05-07 |
 | Anthropic Blog | [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) | 2026-05-07 |
-| OpenAI Blog | [Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber](https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber) | Thu, 07 Ma |
 | Anthropic Blog | [Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex) | 2026-05-06 |
 | Google AI Blog | [5 gardening tips you can try right in Search](https://blog.google/products-and-platforms/products/search/gardening-tips/) | Wed, 06 Ma |
 | DeepMind Blog | [AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) | Wed, 06 Ma |

@@ -25,6 +25,14 @@
       "summary": "<p>Using SocialReasoning Bench, we observed a stable pattern across models\u2014agents execute competently, but fail to consistently improve the user\u2019s position, even with explicit instructions to optimize"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How ChatGPT adoption broadened in early 2026",
+      "link": "https://openai.com/signals/research/2026q1-update",
+      "published": "Mon, 11 May 2026 15:00:00 GMT",
+      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Fostering breakthrough AI innovation through customer-back engineering",
@@ -119,14 +127,6 @@
       "link": "https://www.anthropic.com/news/model-context-protocol",
       "published": "2026-05-07T20:07:05.000Z",
       "summary": "The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "published": "Thu, 07 May 2026 13:00:00 GMT",
-      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure."
     },
     {
       "source": "Anthropic Blog",
@@ -257,8 +257,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-11T19:54:22.057456",
-  "last_updated": "2026-05-11T19:54:22.057456",
+  "timestamp": "2026-05-12T03:40:25.272239",
+  "last_updated": "2026-05-12T03:40:25.272239",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
