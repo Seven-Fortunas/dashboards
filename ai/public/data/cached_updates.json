@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.8.1",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.8.1",
+      "published": "2026-05-13T03:21:23Z",
+      "summary": "# Patch release v5.8.1 \r\nThis release is mainly to fix the Deepseek V4 integration!!! \r\n\r\n<img width=\"714\" height=\"774\" alt=\"image\" src=\"https://github.com/user-attachments/assets/0d85e891-a0ff-436e-a"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How finance teams use Codex",
+      "link": "https://openai.com/academy/how-finance-teams-use-codex",
+      "published": "Tue, 12 May 2026 15:00:00 GMT",
+      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs."
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
@@ -11,10 +27,26 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "link": "https://openai.com/index/nvidia",
+      "published": "Tue, 12 May 2026 00:00:00 GMT",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "What Parameter Golf taught us about AI-assisted research",
       "link": "https://openai.com/index/what-parameter-golf-taught-us",
       "published": "Tue, 12 May 2026 00:00:00 GMT",
       "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "link": "https://openai.com/index/autoscout24",
+      "published": "Tue, 12 May 2026 00:00:00 GMT",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption."
     },
     {
       "source": "LangChain Releases",
@@ -63,30 +95,6 @@
       "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
       "published": "Mon, 11 May 2026 13:00:00 +0000",
       "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How enterprises are scaling AI",
-      "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "published": "Mon, 11 May 2026 10:00:00 GMT",
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "published": "Mon, 11 May 2026 10:00:00 GMT",
-      "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "link": "https://openai.com/index/openai-launches-the-deployment-company",
-      "published": "Mon, 11 May 2026 06:00:00 GMT",
-      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact."
     },
     {
       "source": "Google AI Blog",
@@ -159,14 +167,6 @@
       "link": "https://deepmind.google/blog/alphaevolve-impact/",
       "published": "Wed, 06 May 2026 10:43:49 +0000",
       "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science."
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.8.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.8.0",
-      "published": "2026-05-05T16:52:21Z",
-      "summary": "# Release v5.8.0\r\n\r\n\r\n## New Model additions\r\n\r\n### DeepSeek-V4\r\n\r\n<img width=\"6604\" height=\"3574\" alt=\"image\" src=\"https://github.com/user-attachments/assets/4c0fdb29-f770-463c-a97b-d24438896a4c\" />\r"
     },
     {
       "source": "Google AI Blog",
@@ -257,8 +257,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-12T19:59:32.642439",
-  "last_updated": "2026-05-12T19:59:32.642439",
+  "timestamp": "2026-05-13T03:50:22.686821",
+  "last_updated": "2026-05-13T03:50:22.686821",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
