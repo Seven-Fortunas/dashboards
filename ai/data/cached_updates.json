@@ -59,6 +59,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "Our response to the TanStack npm supply chain attack",
+      "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "published": "Wed, 13 May 2026 00:00:00 GMT",
+      "summary": "OpenAI details its response to the TanStack \u201cMini Shai-Hulud\u201d supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenA"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "How finance teams use Codex",
       "link": "https://openai.com/academy/how-finance-teams-use-codex",
       "published": "Tue, 12 May 2026 15:00:00 GMT",
@@ -87,14 +95,6 @@
       "link": "https://openai.com/index/what-parameter-golf-taught-us",
       "published": "Tue, 12 May 2026 00:00:00 GMT",
       "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "link": "https://openai.com/index/autoscout24",
-      "published": "Tue, 12 May 2026 00:00:00 GMT",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption."
     },
     {
       "source": "LangChain Releases",
@@ -265,8 +265,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-14T03:49:54.904064",
-  "last_updated": "2026-05-14T03:49:54.904064",
+  "timestamp": "2026-05-14T08:43:49.464032",
+  "last_updated": "2026-05-14T08:43:49.464032",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
