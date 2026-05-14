@@ -1,19 +1,11 @@
 {
   "updates": [
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "link": "https://openai.com/index/building-codex-windows-sandbox",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude for Small Business",
       "link": "https://www.anthropic.com/news/claude-for-small-business",
-      "published": "2026-05-13T19:06:46.000Z",
+      "published": "2026-05-13T20:25:06.000Z",
       "summary": "We&#x27;re launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day."
     },
     {
@@ -49,6 +41,14 @@
       "summary": "<p>Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct v"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "link": "https://openai.com/index/building-codex-windows-sandbox",
+      "published": "Wed, 13 May 2026 11:00:00 GMT",
+      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions."
+    },
+    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.8.1",
@@ -75,6 +75,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "link": "https://openai.com/index/nvidia",
+      "published": "Tue, 12 May 2026 00:00:00 GMT",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "What Parameter Golf taught us about AI-assisted research",
       "link": "https://openai.com/index/what-parameter-golf-taught-us",
       "published": "Tue, 12 May 2026 00:00:00 GMT",
@@ -87,14 +95,6 @@
       "link": "https://openai.com/index/autoscout24",
       "published": "Tue, 12 May 2026 00:00:00 GMT",
       "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "link": "https://openai.com/index/nvidia",
-      "published": "Tue, 12 May 2026 00:00:00 GMT",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments."
     },
     {
       "source": "LangChain Releases",
@@ -265,8 +265,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-13T20:01:49.349360",
-  "last_updated": "2026-05-13T20:01:49.349360",
+  "timestamp": "2026-05-14T03:49:54.904064",
+  "last_updated": "2026-05-14T03:49:54.904064",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

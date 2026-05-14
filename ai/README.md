@@ -1,23 +1,23 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-13 20:01:49 UTC
+**Last Updated:** 2026-05-14 03:49:54 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| OpenAI Blog | [Building a safe, effective sandbox to enable Codex on Windows](https://openai.com/index/building-codex-windows-sandbox) | Fri, 15 Ma |
 | Anthropic Blog | [Introducing Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) | 2026-05-13 |
 | MIT Technology Review AI | [AI chatbots are giving out people’s real phone numbers](https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/) | Wed, 13 Ma |
 | PyTorch Releases | [Release v2.12.0](https://github.com/pytorch/pytorch/releases/tag/v2.12.0) | 2026-05-13 |
 | Microsoft Research AI | [mimalloc: A new, high-performance, scalable memory allocator for the modern era](https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/) | Wed, 13 Ma |
 | Microsoft Research AI | [GridSFM: A new, small foundation model for the electric grid](https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/) | Wed, 13 Ma |
+| OpenAI Blog | [Building a safe, effective sandbox to enable Codex on Windows](https://openai.com/index/building-codex-windows-sandbox) | Wed, 13 Ma |
 | HuggingFace Transformers | [Release v5.8.1](https://github.com/huggingface/transformers/releases/tag/v5.8.1) | 2026-05-13 |
 | OpenAI Blog | [How finance teams use Codex](https://openai.com/academy/how-finance-teams-use-codex) | Tue, 12 Ma |
 | Microsoft Research AI | [Advancing AI for materials with MatterSim: experimental synthesis, faster simula](https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/) | Tue, 12 Ma |
+| OpenAI Blog | [How NVIDIA engineers and researchers build with Codex](https://openai.com/index/nvidia) | Tue, 12 Ma |
 | OpenAI Blog | [What Parameter Golf taught us about AI-assisted research](https://openai.com/index/what-parameter-golf-taught-us) | Tue, 12 Ma |
 | OpenAI Blog | [AutoScout24 scales engineering with AI-powered workflows](https://openai.com/index/autoscout24) | Tue, 12 Ma |
-| OpenAI Blog | [How NVIDIA engineers and researchers build with Codex](https://openai.com/index/nvidia) | Tue, 12 Ma |
 | LangChain Releases | [Release langchain-core==1.4.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.0) | 2026-05-11 |
 | MIT Technology Review AI | [Three things in AI to watch, according to a Nobel-winning economist](https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/) | Mon, 11 Ma |
 | Microsoft Research AI | [SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests](https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/) | Mon, 11 Ma |
