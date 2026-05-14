@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude for Small Business",
+      "link": "https://www.anthropic.com/news/claude-for-small-business",
+      "published": "2026-05-14T16:16:25.000Z",
+      "summary": "We&#x27;re launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "link": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "published": "2026-05-14T16:05:24.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Data readiness for agentic AI in financial services",
@@ -25,12 +41,12 @@
       "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos "
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude for Small Business",
-      "link": "https://www.anthropic.com/news/claude-for-small-business",
-      "published": "2026-05-13T20:25:06.000Z",
-      "summary": "We&#x27;re launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day."
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "published": "Thu, 14 May 2026 00:00:00 GMT",
+      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
     },
     {
       "source": "MIT Technology Review AI",
@@ -103,14 +119,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
       "published": "Tue, 12 May 2026 13:00:00 +0000",
       "summary": "<p>MatterSim is expanding what AI can do for materials science\u2014from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces al"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "link": "https://openai.com/index/nvidia",
-      "published": "Tue, 12 May 2026 00:00:00 GMT",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments."
     },
     {
       "source": "OpenAI Blog",
@@ -217,14 +225,6 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Google is partnering with XPRIZE and Range Media Partners on the $3."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Opus 4.7",
-      "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "published": "2026-05-04T23:23:49.000Z",
-      "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "The latest AI news we announced in April 2026",
@@ -265,8 +265,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-14T14:25:05.621955",
-  "last_updated": "2026-05-14T14:25:05.621955",
+  "timestamp": "2026-05-14T19:51:47.514485",
+  "last_updated": "2026-05-14T19:51:47.514485",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
