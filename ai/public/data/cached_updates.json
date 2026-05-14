@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Data readiness for agentic AI in financial services",
+      "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "published": "Thu, 14 May 2026 13:00:00 +0000",
+      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "published": "Thu, 14 May 2026 13:00:00 +0000",
+      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: \u201cCapability now, control later.\u201d Feed your proprietary data into third-party "
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "The shock of seeing your body used in deepfake porn",
+      "link": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+      "published": "Thu, 14 May 2026 09:00:00 +0000",
+      "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos "
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude for Small Business",
@@ -14,7 +38,7 @@
       "title": "AI chatbots are giving out people\u2019s real phone numbers",
       "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
       "published": "Wed, 13 May 2026 18:09:03 +0000",
-      "summary": "People report that their personal contact info was surfaced by Google AI\u2014and there\u2019s apparently no easy way to prevent it.&#160; A Redditor recently wrote that he was \u201cdesperate for help\u201d: for about a"
+      "summary": "A Redditor recently wrote that he was \u201cdesperate for help\u201d: for about a month, he said, his phone had been inundated by calls from \u201cstrangers\u201d who were \u201clooking for a lawyer, a product designer, a loc"
     },
     {
       "source": "PyTorch Releases",
@@ -91,10 +115,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "link": "https://openai.com/index/what-parameter-golf-taught-us",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "link": "https://openai.com/index/autoscout24",
       "published": "Tue, 12 May 2026 00:00:00 GMT",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint"
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption."
     },
     {
       "source": "LangChain Releases",
@@ -121,36 +145,12 @@
       "summary": "<p>Using SocialReasoning Bench, we observed a stable pattern across models\u2014agents execute competently, but fail to consistently improve the user\u2019s position, even with explicit instructions to optimize"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Fostering breakthrough AI innovation through customer-back engineering",
-      "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-      "published": "Mon, 11 May 2026 13:33:06 +0000",
-      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That\u2019s because most big companies begin with te"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Implementing advanced AI technologies in finance",
-      "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
-      "published": "Mon, 11 May 2026 13:00:00 +0000",
-      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "The new AI-powered Google Finance is expanding to Europe.",
       "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
       "published": "Mon, 11 May 2026 06:00:00 +0000",
       "summary": "A screenshot of the AI-powered experience on Google Finance."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-      "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-      "published": "Fri, 08 May 2026 23:59:19 +0000",
-      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk\u2019s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman"
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-14T08:43:49.464032",
-  "last_updated": "2026-05-14T08:43:49.464032",
+  "timestamp": "2026-05-14T14:25:05.621955",
+  "last_updated": "2026-05-14T14:25:05.621955",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
