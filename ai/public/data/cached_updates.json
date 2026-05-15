@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
+      "link": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+      "published": "Fri, 15 May 2026 18:06:57 +0000",
+      "summary": "<p>Our recent paper, \u201cLLMs Corrupt Your Documents When You Delegate\u201d, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and w"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "published": "2026-05-15T17:32:36.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "How Chinese short dramas became AI content machines",
@@ -9,12 +25,12 @@
       "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
-      "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
-      "published": "2026-05-15T01:01:22.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "A new personal finance experience in ChatGPT",
+      "link": "https://openai.com/index/personal-finance-chatgpt",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa"
     },
     {
       "source": "OpenAI Blog",
@@ -129,14 +145,6 @@
       "summary": "# Patch release v5.8.1 \r\nThis release is mainly to fix the Deepseek V4 integration!!! \r\n\r\n<img width=\"714\" height=\"774\" alt=\"image\" src=\"https://github.com/user-attachments/assets/0d85e891-a0ff-436e-a"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Our response to the TanStack npm supply chain attack",
-      "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "published": "Wed, 13 May 2026 00:00:00 GMT",
-      "summary": "OpenAI details its response to the TanStack \u201cMini Shai-Hulud\u201d supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenA"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
@@ -167,14 +175,6 @@
       "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
       "published": "Mon, 11 May 2026 06:00:00 +0000",
       "summary": "A screenshot of the AI-powered experience on Google Finance."
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
-      "link": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
-      "published": "Fri, 08 May 2026 19:53:56 +0000",
-      "summary": "<p>Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly available data. The ability to study transmission-level po"
     },
     {
       "source": "Google AI Blog",
@@ -265,8 +265,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-15T14:19:12.301563",
-  "last_updated": "2026-05-15T14:19:12.301563",
+  "timestamp": "2026-05-15T19:44:42.146601",
+  "last_updated": "2026-05-15T19:44:42.146601",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
