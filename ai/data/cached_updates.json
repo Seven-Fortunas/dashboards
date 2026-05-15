@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "How Chinese short dramas became AI content machines",
+      "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "published": "Fri, 15 May 2026 09:00:00 +0000",
+      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
@@ -145,14 +153,6 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Three things in AI to watch, according to a Nobel-winning economist",
-      "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-      "published": "Mon, 11 May 2026 17:35:12 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. A few months before he was awarded the Nobel Prize in economic"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "SocialReasoning-Bench: Measuring whether AI agents act\u00a0in users\u2019 best interests",
@@ -265,8 +265,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-15T08:54:12.953360",
-  "last_updated": "2026-05-15T08:54:12.953360",
+  "timestamp": "2026-05-15T14:19:12.301563",
+  "last_updated": "2026-05-15T14:19:12.301563",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
