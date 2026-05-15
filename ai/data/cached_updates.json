@@ -3,6 +3,22 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
+      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "published": "2026-05-15T01:01:22.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "link": "https://openai.com/index/sea-david-chen",
+      "published": "Thu, 14 May 2026 20:30:00 GMT",
+      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
       "title": "Introducing Claude for Small Business",
       "link": "https://www.anthropic.com/news/claude-for-small-business",
       "published": "2026-05-14T16:16:25.000Z",
@@ -15,6 +31,14 @@
       "link": "https://www.anthropic.com/news/gates-foundation-partnership",
       "published": "2026-05-14T16:05:24.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Work with Codex from anywhere",
+      "link": "https://openai.com/index/work-with-codex-from-anywhere",
+      "published": "Thu, 14 May 2026 13:00:00 GMT",
+      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments."
     },
     {
       "source": "MIT Technology Review AI",
@@ -105,28 +129,12 @@
       "summary": "OpenAI details its response to the TanStack \u201cMini Shai-Hulud\u201d supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenA"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How finance teams use Codex",
-      "link": "https://openai.com/academy/how-finance-teams-use-codex",
-      "published": "Tue, 12 May 2026 15:00:00 GMT",
-      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
       "link": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
       "published": "Tue, 12 May 2026 13:00:00 +0000",
       "summary": "<p>MatterSim is expanding what AI can do for materials science\u2014from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces al"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "link": "https://openai.com/index/autoscout24",
-      "published": "Tue, 12 May 2026 00:00:00 GMT",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption."
     },
     {
       "source": "LangChain Releases",
@@ -193,14 +201,6 @@
       "summary": "The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-      "link": "https://www.anthropic.com/news/higher-limits-spacex",
-      "published": "2026-05-06T16:35:37.000Z",
-      "summary": "We\u2019ve raised Claude&#x27;s usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "5 gardening tips you can try right in Search",
@@ -265,8 +265,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-14T19:51:47.514485",
-  "last_updated": "2026-05-14T19:51:47.514485",
+  "timestamp": "2026-05-15T03:53:33.118352",
+  "last_updated": "2026-05-15T03:53:33.118352",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
