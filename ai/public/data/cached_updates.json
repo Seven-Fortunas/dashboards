@@ -35,10 +35,26 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "A new personal finance experience in ChatGPT",
-      "link": "https://openai.com/index/personal-finance-chatgpt",
+      "title": "How sales teams use Codex",
+      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa"
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How business operations teams use Codex",
+      "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How data science teams use Codex",
+      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
     },
     {
       "source": "OpenAI Blog",
@@ -51,10 +67,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "link": "https://openai.com/index/sea-david-chen",
-      "published": "Thu, 14 May 2026 20:30:00 GMT",
-      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia."
+      "title": "A new personal finance experience in ChatGPT",
+      "link": "https://openai.com/index/personal-finance-chatgpt",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa"
     },
     {
       "source": "Anthropic Blog",
@@ -71,14 +87,6 @@
       "link": "https://www.anthropic.com/news/gates-foundation-partnership",
       "published": "2026-05-14T16:05:24.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Work with Codex from anywhere",
-      "link": "https://openai.com/index/work-with-codex-from-anywhere",
-      "published": "Thu, 14 May 2026 13:00:00 GMT",
-      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments."
     },
     {
       "source": "MIT Technology Review AI",
@@ -103,14 +111,6 @@
       "link": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
       "published": "Thu, 14 May 2026 09:00:00 +0000",
       "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos "
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "published": "Thu, 14 May 2026 00:00:00 GMT",
-      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
     },
     {
       "source": "PyTorch Releases",
@@ -265,8 +265,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-16T03:35:24.541747",
-  "last_updated": "2026-05-16T03:35:24.541747",
+  "timestamp": "2026-05-16T08:09:50.792513",
+  "last_updated": "2026-05-16T08:09:50.792513",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

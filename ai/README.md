@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-16 03:35:24 UTC
+**Last Updated:** 2026-05-16 08:09:50 UTC
 
 ## Latest Updates
 
@@ -10,16 +10,16 @@
 | Microsoft Research AI | [Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliabili](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/) | Fri, 15 Ma |
 | Anthropic Blog | [PwC is deploying Claude to build technology, execute deals, and reinvent enterpr](https://www.anthropic.com/news/pwc-expanded-partnership) | 2026-05-15 |
 | MIT Technology Review AI | [How Chinese short dramas became AI content machines](https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/) | Fri, 15 Ma |
-| OpenAI Blog | [A new personal finance experience in ChatGPT](https://openai.com/index/personal-finance-chatgpt) | Fri, 15 Ma |
+| OpenAI Blog | [How sales teams use Codex](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) | Fri, 15 Ma |
+| OpenAI Blog | [How business operations teams use Codex](https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex) | Fri, 15 Ma |
+| OpenAI Blog | [How data science teams use Codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) | Fri, 15 Ma |
 | OpenAI Blog | [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) | Fri, 15 Ma |
-| OpenAI Blog | [Sea's View on the Future of Agentic Software Development with Codex](https://openai.com/index/sea-david-chen) | Thu, 14 Ma |
+| OpenAI Blog | [A new personal finance experience in ChatGPT](https://openai.com/index/personal-finance-chatgpt) | Fri, 15 Ma |
 | Anthropic Blog | [Introducing Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) | 2026-05-14 |
 | Anthropic Blog | [Anthropic forms $200 million partnership with the Gates Foundation](https://www.anthropic.com/news/gates-foundation-partnership) | 2026-05-14 |
-| OpenAI Blog | [Work with Codex from anywhere](https://openai.com/index/work-with-codex-from-anywhere) | Thu, 14 Ma |
 | MIT Technology Review AI | [Data readiness for agentic AI in financial services](https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/) | Thu, 14 Ma |
 | MIT Technology Review AI | [Establishing AI and data sovereignty in the age of autonomous systems](https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/) | Thu, 14 Ma |
 | MIT Technology Review AI | [The shock of seeing your body used in deepfake porn](https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/) | Thu, 14 Ma |
-| OpenAI Blog | [Helping ChatGPT better recognize context in sensitive conversations](https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations) | Thu, 14 Ma |
 | PyTorch Releases | [Release v2.12.0](https://github.com/pytorch/pytorch/releases/tag/v2.12.0) | 2026-05-13 |
 | Microsoft Research AI | [mimalloc: A new, high-performance, scalable memory allocator for the modern era](https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/) | Wed, 13 Ma |
 | Microsoft Research AI | [GridSFM: A new, small foundation model for the electric grid](https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/) | Wed, 13 Ma |
