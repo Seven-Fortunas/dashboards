@@ -1,19 +1,19 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-16 08:09:50 UTC
+**Last Updated:** 2026-05-16 13:42:03 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership) | Sat, 16 Ma |
 | MIT Technology Review AI | [Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibilit](https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/) | Fri, 15 Ma |
 | Microsoft Research AI | [Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliabili](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/) | Fri, 15 Ma |
 | Anthropic Blog | [PwC is deploying Claude to build technology, execute deals, and reinvent enterpr](https://www.anthropic.com/news/pwc-expanded-partnership) | 2026-05-15 |
 | MIT Technology Review AI | [How Chinese short dramas became AI content machines](https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/) | Fri, 15 Ma |
-| OpenAI Blog | [How sales teams use Codex](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) | Fri, 15 Ma |
 | OpenAI Blog | [How business operations teams use Codex](https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex) | Fri, 15 Ma |
-| OpenAI Blog | [How data science teams use Codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) | Fri, 15 Ma |
 | OpenAI Blog | [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) | Fri, 15 Ma |
+| OpenAI Blog | [How data science teams use Codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) | Fri, 15 Ma |
 | OpenAI Blog | [A new personal finance experience in ChatGPT](https://openai.com/index/personal-finance-chatgpt) | Fri, 15 Ma |
 | Anthropic Blog | [Introducing Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) | 2026-05-14 |
 | Anthropic Blog | [Anthropic forms $200 million partnership with the Gates Foundation](https://www.anthropic.com/news/gates-foundation-partnership) | 2026-05-14 |
