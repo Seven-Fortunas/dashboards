@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
+      "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "published": "Fri, 15 May 2026 23:39:35 +0000",
+      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk\u2019s and OpenAI CEO Sam Altman\u2019s credibility. Altman was grilled on his alleged history of lying and self-dealing involv"
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
@@ -31,6 +39,14 @@
       "link": "https://openai.com/index/personal-finance-chatgpt",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
       "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "link": "https://openai.com/index/databricks",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
     },
     {
       "source": "OpenAI Blog",
@@ -97,14 +113,6 @@
       "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "AI chatbots are giving out people\u2019s real phone numbers",
-      "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-      "published": "Wed, 13 May 2026 18:09:03 +0000",
-      "summary": "A Redditor recently wrote that he was \u201cdesperate for help\u201d: for about a month, he said, his phone had been inundated by calls from \u201cstrangers\u201d who were \u201clooking for a lawyer, a product designer, a loc"
-    },
-    {
       "source": "PyTorch Releases",
       "type": "github",
       "title": "Release v2.12.0",
@@ -127,14 +135,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
       "published": "Wed, 13 May 2026 16:00:20 +0000",
       "summary": "<p>Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct v"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "link": "https://openai.com/index/building-codex-windows-sandbox",
-      "published": "Wed, 13 May 2026 11:00:00 GMT",
-      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions."
     },
     {
       "source": "HuggingFace Transformers",
@@ -265,8 +265,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-15T19:44:42.146601",
-  "last_updated": "2026-05-15T19:44:42.146601",
+  "timestamp": "2026-05-16T03:35:24.541747",
+  "last_updated": "2026-05-16T03:35:24.541747",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
