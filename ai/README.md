@@ -1,13 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-16 13:42:03 UTC
+**Last Updated:** 2026-05-16 19:11:36 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
 | OpenAI Blog | [OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership) | Sat, 16 Ma |
-| MIT Technology Review AI | [Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibilit](https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/) | Fri, 15 Ma |
+| MIT Technology Review AI | [Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s c](https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/) | Fri, 15 Ma |
 | Microsoft Research AI | [Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliabili](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/) | Fri, 15 Ma |
 | Anthropic Blog | [PwC is deploying Claude to build technology, execute deals, and reinvent enterpr](https://www.anthropic.com/news/pwc-expanded-partnership) | 2026-05-15 |
 | MIT Technology Review AI | [How Chinese short dramas became AI content machines](https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/) | Fri, 15 Ma |
