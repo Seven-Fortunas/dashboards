@@ -1,15 +1,17 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-15 19:44:42 UTC
+**Last Updated:** 2026-05-16 03:35:24 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibilit](https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/) | Fri, 15 Ma |
 | Microsoft Research AI | [Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliabili](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/) | Fri, 15 Ma |
 | Anthropic Blog | [PwC is deploying Claude to build technology, execute deals, and reinvent enterpr](https://www.anthropic.com/news/pwc-expanded-partnership) | 2026-05-15 |
 | MIT Technology Review AI | [How Chinese short dramas became AI content machines](https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/) | Fri, 15 Ma |
 | OpenAI Blog | [A new personal finance experience in ChatGPT](https://openai.com/index/personal-finance-chatgpt) | Fri, 15 Ma |
+| OpenAI Blog | [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) | Fri, 15 Ma |
 | OpenAI Blog | [Sea's View on the Future of Agentic Software Development with Codex](https://openai.com/index/sea-david-chen) | Thu, 14 Ma |
 | Anthropic Blog | [Introducing Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) | 2026-05-14 |
 | Anthropic Blog | [Anthropic forms $200 million partnership with the Gates Foundation](https://www.anthropic.com/news/gates-foundation-partnership) | 2026-05-14 |
@@ -18,11 +20,9 @@
 | MIT Technology Review AI | [Establishing AI and data sovereignty in the age of autonomous systems](https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/) | Thu, 14 Ma |
 | MIT Technology Review AI | [The shock of seeing your body used in deepfake porn](https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/) | Thu, 14 Ma |
 | OpenAI Blog | [Helping ChatGPT better recognize context in sensitive conversations](https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations) | Thu, 14 Ma |
-| MIT Technology Review AI | [AI chatbots are giving out people’s real phone numbers](https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/) | Wed, 13 Ma |
 | PyTorch Releases | [Release v2.12.0](https://github.com/pytorch/pytorch/releases/tag/v2.12.0) | 2026-05-13 |
 | Microsoft Research AI | [mimalloc: A new, high-performance, scalable memory allocator for the modern era](https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/) | Wed, 13 Ma |
 | Microsoft Research AI | [GridSFM: A new, small foundation model for the electric grid](https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/) | Wed, 13 Ma |
-| OpenAI Blog | [Building a safe, effective sandbox to enable Codex on Windows](https://openai.com/index/building-codex-windows-sandbox) | Wed, 13 Ma |
 | HuggingFace Transformers | [Release v5.8.1](https://github.com/huggingface/transformers/releases/tag/v5.8.1) | 2026-05-13 |
 | Microsoft Research AI | [Advancing AI for materials with MatterSim: experimental synthesis, faster simula](https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/) | Tue, 12 Ma |
 | LangChain Releases | [Release langchain-core==1.4.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.0) | 2026-05-11 |
