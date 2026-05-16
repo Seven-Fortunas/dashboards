@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "published": "Sat, 16 May 2026 00:00:00 GMT",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
@@ -35,14 +43,6 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How sales teams use Codex",
-      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "How business operations teams use Codex",
       "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
@@ -51,18 +51,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How data science teams use Codex",
-      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
       "link": "https://openai.com/index/databricks",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
       "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How data science teams use Codex",
+      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
     },
     {
       "source": "OpenAI Blog",
@@ -265,8 +265,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-16T08:09:50.792513",
-  "last_updated": "2026-05-16T08:09:50.792513",
+  "timestamp": "2026-05-16T13:42:03.979286",
+  "last_updated": "2026-05-16T13:42:03.979286",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
