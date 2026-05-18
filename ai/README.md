@@ -1,25 +1,26 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-18 15:42:16 UTC
+**Last Updated:** 2026-05-18 19:49:45 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless) | 2026-05-18 |
+| MIT Technology Review AI | [What to expect from Google this week](https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/) | Mon, 18 Ma |
+| MIT Technology Review AI | [Inside Anduril and Meta’s quest to make smart glasses for warfare](https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/) | Mon, 18 Ma |
+| OpenAI Blog | [OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise envir](https://openai.com/index/dell-codex-enterprise-partnership) | Mon, 18 Ma |
 | OpenAI Blog | [OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership) | Sat, 16 Ma |
 | MIT Technology Review AI | [Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s c](https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/) | Fri, 15 Ma |
 | Microsoft Research AI | [Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliabili](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/) | Fri, 15 Ma |
 | Anthropic Blog | [PwC is deploying Claude to build technology, execute deals, and reinvent enterpr](https://www.anthropic.com/news/pwc-expanded-partnership) | 2026-05-15 |
 | MIT Technology Review AI | [How Chinese short dramas became AI content machines](https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/) | Fri, 15 Ma |
-| OpenAI Blog | [How business operations teams use Codex](https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex) | Fri, 15 Ma |
-| OpenAI Blog | [How data science teams use Codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) | Fri, 15 Ma |
+| OpenAI Blog | [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) | Fri, 15 Ma |
 | OpenAI Blog | [A new personal finance experience in ChatGPT](https://openai.com/index/personal-finance-chatgpt) | Fri, 15 Ma |
-| OpenAI Blog | [How sales teams use Codex](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) | Fri, 15 Ma |
+| OpenAI Blog | [How data science teams use Codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) | Fri, 15 Ma |
 | Anthropic Blog | [Introducing Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) | 2026-05-14 |
 | Anthropic Blog | [Anthropic forms $200 million partnership with the Gates Foundation](https://www.anthropic.com/news/gates-foundation-partnership) | 2026-05-14 |
 | MIT Technology Review AI | [Data readiness for agentic AI in financial services](https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/) | Thu, 14 Ma |
-| MIT Technology Review AI | [Establishing AI and data sovereignty in the age of autonomous systems](https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/) | Thu, 14 Ma |
-| MIT Technology Review AI | [The shock of seeing your body used in deepfake porn](https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/) | Thu, 14 Ma |
 | PyTorch Releases | [Release v2.12.0](https://github.com/pytorch/pytorch/releases/tag/v2.12.0) | 2026-05-13 |
 | Microsoft Research AI | [mimalloc: A new, high-performance, scalable memory allocator for the modern era](https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/) | Wed, 13 Ma |
 | Microsoft Research AI | [GridSFM: A new, small foundation model for the electric grid](https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/) | Wed, 13 Ma |
@@ -30,7 +31,6 @@
 | Google AI Blog | [The new AI-powered Google Finance is expanding to Europe.](https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/) | Mon, 11 Ma |
 | Google AI Blog | [See what happens when creative legends use AI to make ads for small businesses.](https://blog.google/company-news/inside-google/company-announcements/the-small-brief/) | Fri, 08 Ma |
 | Anthropic Blog | [Agents for financial services](https://www.anthropic.com/news/finance-agents) | 2026-05-07 |
-| Anthropic Blog | [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) | 2026-05-07 |
 | Google AI Blog | [5 gardening tips you can try right in Search](https://blog.google/products-and-platforms/products/search/gardening-tips/) | Wed, 06 Ma |
 | DeepMind Blog | [AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) | Wed, 06 Ma |
 | Google AI Blog | [Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Fu](https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/) | Tue, 05 Ma |
