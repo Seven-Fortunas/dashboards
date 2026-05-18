@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic acquires Stainless",
+      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "published": "2026-05-18T18:12:57.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "What to expect from Google this week",
+      "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "published": "Mon, 18 May 2026 17:35:43 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. When Google opens its doors tomorrow for its annual developer "
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Inside Anduril and Meta\u2019s quest to make smart glasses for warfare",
+      "link": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "published": "Mon, 18 May 2026 16:01:39 +0000",
+      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it\u2019s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking "
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "link": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "published": "Mon, 18 May 2026 10:00:00 GMT",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -14,7 +46,7 @@
       "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
       "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
       "published": "Fri, 15 May 2026 23:39:35 +0000",
-      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk\u2019s and OpenAI CEO Sam Altman\u2019s credibility. Altman was grilled on his alleged history of lying and self-dealing involv"
+      "summary": "Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk&#8217;s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers"
     },
     {
       "source": "Microsoft Research AI",
@@ -43,18 +75,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How business operations teams use Codex",
-      "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "link": "https://openai.com/index/databricks",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How data science teams use Codex",
-      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
     },
     {
       "source": "OpenAI Blog",
@@ -67,10 +91,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How sales teams use Codex",
-      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "title": "How data science teams use Codex",
+      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
     },
     {
       "source": "Anthropic Blog",
@@ -95,22 +119,6 @@
       "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
       "published": "Thu, 14 May 2026 13:00:00 +0000",
       "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-      "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-      "published": "Thu, 14 May 2026 13:00:00 +0000",
-      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: \u201cCapability now, control later.\u201d Feed your proprietary data into third-party "
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The shock of seeing your body used in deepfake porn",
-      "link": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
-      "published": "Thu, 14 May 2026 09:00:00 +0000",
-      "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos "
     },
     {
       "source": "PyTorch Releases",
@@ -193,14 +201,6 @@
       "summary": "We&#x27;re releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing the Model Context Protocol",
-      "link": "https://www.anthropic.com/news/model-context-protocol",
-      "published": "2026-05-07T20:07:05.000Z",
-      "summary": "The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "5 gardening tips you can try right in Search",
@@ -265,8 +265,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-18T15:42:16.630313",
-  "last_updated": "2026-05-18T15:42:16.630313",
+  "timestamp": "2026-05-18T19:49:45.023843",
+  "last_updated": "2026-05-18T19:49:45.023843",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
