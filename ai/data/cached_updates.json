@@ -3,10 +3,66 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
+      "title": "Anthropic acquires Stainless",
+      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "published": "2026-05-19T18:06:44.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "I/O 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "published": "Tue, 19 May 2026 17:45:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif\" />At Google I/O 2026, we shared how we\u2019re making AI more helpful for everyone. See everything we"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "How AI Mode is changing the way people search in the U.S.",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+      "published": "Tue, 19 May 2026 17:45:00 +0000",
+      "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light bl"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "New ways to create and get things done in Google Workspace",
+      "link": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+      "published": "Tue, 19 May 2026 17:45:00 +0000",
+      "summary": "Google Workspace"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "link": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "published": "Tue, 19 May 2026 17:45:00 +0000",
+      "summary": "a series of colorful icons representing Google I/O against a black background"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "published": "Tue, 19 May 2026 17:45:00 +0000",
+      "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
       "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
       "link": "https://www.anthropic.com/news/anthropic-kpmg",
       "published": "2026-05-19T13:30:59.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "link": "https://openai.com/index/advancing-content-provenance",
+      "published": "Tue, 19 May 2026 10:45:00 GMT",
+      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media."
     },
     {
       "source": "MIT Technology Review AI",
@@ -17,12 +73,12 @@
       "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow\u2014reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic acquires Stainless",
-      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "published": "2026-05-18T18:12:57.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "published": "Mon, 18 May 2026 18:21:39 +0000",
+      "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
     },
     {
       "source": "MIT Technology Review AI",
@@ -47,6 +103,38 @@
       "link": "https://openai.com/index/dell-codex-enterprise-partnership",
       "published": "Mon, 18 May 2026 10:00:00 GMT",
       "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "published": "Sun, 17 May 2026 19:53:18 +0000",
+      "summary": "We\u2019re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View."
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Introducing Gemini Omni",
+      "link": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "published": "Sun, 17 May 2026 19:50:57 +0000",
+      "summary": ""
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Introducing Google Antigravity 2.0",
+      "link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "published": "Sun, 17 May 2026 19:43:45 +0000",
+      "summary": ""
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "published": "Sun, 17 May 2026 13:50:34 +0000",
+      "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration."
     },
     {
       "source": "OpenAI Blog",
@@ -91,14 +179,6 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "A new personal finance experience in ChatGPT",
-      "link": "https://openai.com/index/personal-finance-chatgpt",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "How sales teams use Codex",
       "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
@@ -107,10 +187,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How business operations teams use Codex",
-      "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "title": "How data science teams use Codex",
+      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs."
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
     },
     {
       "source": "Anthropic Blog",
@@ -183,90 +263,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
       "published": "Mon, 11 May 2026 17:19:28 +0000",
       "summary": "<p>Using SocialReasoning Bench, we observed a stable pattern across models\u2014agents execute competently, but fail to consistently improve the user\u2019s position, even with explicit instructions to optimize"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "The new AI-powered Google Finance is expanding to Europe.",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-      "published": "Mon, 11 May 2026 06:00:00 +0000",
-      "summary": "A screenshot of the AI-powered experience on Google Finance."
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "See what happens when creative legends use AI to make ads for small businesses.",
-      "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-      "published": "Fri, 08 May 2026 15:00:00 +0000",
-      "summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "5 gardening tips you can try right in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "published": "Wed, 06 May 2026 16:00:00 +0000",
-      "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifyi"
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-      "link": "https://deepmind.google/blog/alphaevolve-impact/",
-      "published": "Wed, 06 May 2026 10:43:49 +0000",
-      "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science."
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "published": "Tue, 05 May 2026 16:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Google is partnering with XPRIZE and Range Media Partners on the $3."
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "The latest AI news we announced in April 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "published": "Mon, 04 May 2026 17:00:00 +0000",
-      "summary": "mp4 featuring an underwater video and a mobile AI video mockup."
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Enabling a new model for healthcare with AI co-clinician",
-      "link": "https://deepmind.google/blog/ai-co-clinician/",
-      "published": "Thu, 30 Apr 2026 12:14:15 +0000",
-      "summary": "Researching the path to AI-augmented care and development of an AI co-clinician."
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Announcing our partnership with the Republic of Korea",
-      "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-      "published": "Mon, 27 Apr 2026 07:00:06 +0000",
-      "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models"
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
-      "link": "https://deepmind.google/blog/decoupled-diloco/",
-      "published": "Wed, 22 Apr 2026 10:20:03 +0000",
-      "summary": ""
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Partnering with industry leaders to accelerate AI transformation",
-      "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-      "published": "Tue, 21 Apr 2026 14:54:15 +0000",
-      "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-19T15:34:31.031857",
-  "last_updated": "2026-05-19T15:34:31.031857",
+  "timestamp": "2026-05-19T19:57:06.117454",
+  "last_updated": "2026-05-19T19:57:06.117454",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
