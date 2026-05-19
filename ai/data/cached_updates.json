@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "link": "https://www.anthropic.com/news/anthropic-kpmg",
+      "published": "2026-05-19T13:30:59.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Here\u2019s why Elon Musk lost his suit against OpenAI",
@@ -83,18 +91,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "link": "https://openai.com/index/databricks",
+      "title": "A new personal finance experience in ChatGPT",
+      "link": "https://openai.com/index/personal-finance-chatgpt",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How business operations teams use Codex",
-      "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs."
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa"
     },
     {
       "source": "OpenAI Blog",
@@ -103,6 +103,14 @@
       "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
       "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How business operations teams use Codex",
+      "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs."
     },
     {
       "source": "Anthropic Blog",
@@ -193,14 +201,6 @@
       "summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Agents for financial services",
-      "link": "https://www.anthropic.com/news/finance-agents",
-      "published": "2026-05-07T20:29:52.000Z",
-      "summary": "We&#x27;re releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "5 gardening tips you can try right in Search",
@@ -265,8 +265,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-19T09:55:00.584146",
-  "last_updated": "2026-05-19T09:55:00.584146",
+  "timestamp": "2026-05-19T15:34:31.031857",
+  "last_updated": "2026-05-19T15:34:31.031857",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
