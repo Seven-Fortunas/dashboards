@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-18 19:49:45 UTC
+**Last Updated:** 2026-05-19 03:59:37 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Here’s why Elon Musk lost his suit against OpenAI](https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/) | Tue, 19 Ma |
 | Anthropic Blog | [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless) | 2026-05-18 |
 | MIT Technology Review AI | [What to expect from Google this week](https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/) | Mon, 18 Ma |
 | MIT Technology Review AI | [Inside Anduril and Meta’s quest to make smart glasses for warfare](https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/) | Mon, 18 Ma |
@@ -16,11 +17,10 @@
 | Anthropic Blog | [PwC is deploying Claude to build technology, execute deals, and reinvent enterpr](https://www.anthropic.com/news/pwc-expanded-partnership) | 2026-05-15 |
 | MIT Technology Review AI | [How Chinese short dramas became AI content machines](https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/) | Fri, 15 Ma |
 | OpenAI Blog | [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) | Fri, 15 Ma |
-| OpenAI Blog | [A new personal finance experience in ChatGPT](https://openai.com/index/personal-finance-chatgpt) | Fri, 15 Ma |
-| OpenAI Blog | [How data science teams use Codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) | Fri, 15 Ma |
+| OpenAI Blog | [How business operations teams use Codex](https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex) | Fri, 15 Ma |
+| OpenAI Blog | [How sales teams use Codex](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) | Fri, 15 Ma |
 | Anthropic Blog | [Introducing Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) | 2026-05-14 |
 | Anthropic Blog | [Anthropic forms $200 million partnership with the Gates Foundation](https://www.anthropic.com/news/gates-foundation-partnership) | 2026-05-14 |
-| MIT Technology Review AI | [Data readiness for agentic AI in financial services](https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/) | Thu, 14 Ma |
 | PyTorch Releases | [Release v2.12.0](https://github.com/pytorch/pytorch/releases/tag/v2.12.0) | 2026-05-13 |
 | Microsoft Research AI | [mimalloc: A new, high-performance, scalable memory allocator for the modern era](https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/) | Wed, 13 Ma |
 | Microsoft Research AI | [GridSFM: A new, small foundation model for the electric grid](https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/) | Wed, 13 Ma |

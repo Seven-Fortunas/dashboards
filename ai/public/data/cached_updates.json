@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Here\u2019s why Elon Musk lost his suit against OpenAI",
+      "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "published": "Tue, 19 May 2026 00:53:10 +0000",
+      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow\u2014reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Anthropic acquires Stainless",
@@ -83,18 +91,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "A new personal finance experience in ChatGPT",
-      "link": "https://openai.com/index/personal-finance-chatgpt",
+      "title": "How business operations teams use Codex",
+      "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa"
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs."
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How data science teams use Codex",
-      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "title": "How sales teams use Codex",
+      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
     },
     {
       "source": "Anthropic Blog",
@@ -111,14 +119,6 @@
       "link": "https://www.anthropic.com/news/gates-foundation-partnership",
       "published": "2026-05-14T16:05:24.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Data readiness for agentic AI in financial services",
-      "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-      "published": "Thu, 14 May 2026 13:00:00 +0000",
-      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second"
     },
     {
       "source": "PyTorch Releases",
@@ -265,8 +265,8 @@
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ],
-  "timestamp": "2026-05-18T19:49:45.023843",
-  "last_updated": "2026-05-18T19:49:45.023843",
+  "timestamp": "2026-05-19T03:59:37.583215",
+  "last_updated": "2026-05-19T03:59:37.583215",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
