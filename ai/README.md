@@ -1,13 +1,16 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-20 15:33:36 UTC
+**Last Updated:** 2026-05-20 20:23:21 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Google AI Blog | [100 things we announced at I/O 2026](https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/) | Wed, 20 Ma |
+| Google AI Blog | [A new experiment brings better group meetings to Google Beam](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/) | Wed, 20 Ma |
 | HuggingFace Transformers | [Release v5.9.0](https://github.com/huggingface/transformers/releases/tag/v5.9.0) | 2026-05-20 |
 | Anthropic Blog | [Widening the conversation on frontier AI](https://www.anthropic.com/news/widening-conversation-ai) | 2026-05-20 |
+| OpenAI Blog | [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture) | Wed, 20 Ma |
 | OpenAI Blog | [The next phase of OpenAI’s Education for Countries](https://openai.com/index/the-next-phase-of-education-for-countries) | Wed, 20 Ma |
 | OpenAI Blog | [Introducing OpenAI for Singapore](https://openai.com/index/introducing-openai-for-singapore) | Tue, 19 Ma |
 | MIT Technology Review AI | [Roundtables: Inside the Musk v. Altman Trial](https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/) | Tue, 19 Ma |
@@ -15,8 +18,6 @@
 | Google AI Blog | [I/O 2026](https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/) | Tue, 19 Ma |
 | Google AI Blog | [How AI Mode is changing the way people search in the U.S.](https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/) | Tue, 19 Ma |
 | Google AI Blog | [New ways to create and get things done in Google Workspace](https://blog.google/products-and-platforms/products/workspace/workspace-updates/) | Tue, 19 Ma |
-| Google AI Blog | [I/O 2026: Welcome to the agentic Gemini era](https://blog.google/innovation-and-ai/sundar-pichai-io-2026/) | Tue, 19 Ma |
-| Google AI Blog | [Gemini 3.5: frontier intelligence with action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) | Tue, 19 Ma |
 | Anthropic Blog | [KPMG integrates Claude across its core business and workforce of more than 276,0](https://www.anthropic.com/news/anthropic-kpmg) | 2026-05-19 |
 | OpenAI Blog | [Advancing content provenance for a safer, more transparent AI ecosystem](https://openai.com/index/advancing-content-provenance) | Tue, 19 Ma |
 | MIT Technology Review AI | [Here’s why Elon Musk lost his suit against OpenAI](https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/) | Tue, 19 Ma |
@@ -28,7 +29,6 @@
 | DeepMind Blog | [Introducing Gemini Omni](https://deepmind.google/blog/introducing-gemini-omni/) | Sun, 17 Ma |
 | DeepMind Blog | [Introducing Google Antigravity 2.0](https://deepmind.google/blog/introducing-google-antigravity-2-0/) | Sun, 17 Ma |
 | DeepMind Blog | [Gemini for Science: AI experiments and tools for a new era of discovery](https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/) | Sun, 17 Ma |
-| OpenAI Blog | [OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership) | Sat, 16 Ma |
 | MIT Technology Review AI | [Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s c](https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/) | Fri, 15 Ma |
 | Microsoft Research AI | [Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliabili](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/) | Fri, 15 Ma |
 | Anthropic Blog | [PwC is deploying Claude to build technology, execute deals, and reinvent enterpr](https://www.anthropic.com/news/pwc-expanded-partnership) | 2026-05-15 |
