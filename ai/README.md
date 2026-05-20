@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-19 19:57:06 UTC
+**Last Updated:** 2026-05-20 04:00:47 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Widening the conversation on frontier AI](https://www.anthropic.com/news/widening-conversation-ai) | 2026-05-20 |
+| OpenAI Blog | [Introducing OpenAI for Singapore](https://openai.com/index/introducing-openai-for-singapore) | Tue, 19 Ma |
 | Anthropic Blog | [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless) | 2026-05-19 |
 | Google AI Blog | [I/O 2026](https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/) | Tue, 19 Ma |
 | Google AI Blog | [How AI Mode is changing the way people search in the U.S.](https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/) | Tue, 19 Ma |
@@ -28,10 +30,8 @@
 | Microsoft Research AI | [Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliabili](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/) | Fri, 15 Ma |
 | Anthropic Blog | [PwC is deploying Claude to build technology, execute deals, and reinvent enterpr](https://www.anthropic.com/news/pwc-expanded-partnership) | 2026-05-15 |
 | MIT Technology Review AI | [How Chinese short dramas became AI content machines](https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/) | Fri, 15 Ma |
-| OpenAI Blog | [How sales teams use Codex](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) | Fri, 15 Ma |
-| OpenAI Blog | [How data science teams use Codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) | Fri, 15 Ma |
+| OpenAI Blog | [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) | Fri, 15 Ma |
 | Anthropic Blog | [Introducing Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) | 2026-05-14 |
-| Anthropic Blog | [Anthropic forms $200 million partnership with the Gates Foundation](https://www.anthropic.com/news/gates-foundation-partnership) | 2026-05-14 |
 | PyTorch Releases | [Release v2.12.0](https://github.com/pytorch/pytorch/releases/tag/v2.12.0) | 2026-05-13 |
 | Microsoft Research AI | [mimalloc: A new, high-performance, scalable memory allocator for the modern era](https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/) | Wed, 13 Ma |
 | Microsoft Research AI | [GridSFM: A new, small foundation model for the electric grid](https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/) | Wed, 13 Ma |
