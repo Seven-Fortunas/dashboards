@@ -3,6 +3,22 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
+      "title": "Widening the conversation on frontier AI",
+      "link": "https://www.anthropic.com/news/widening-conversation-ai",
+      "published": "2026-05-20T00:29:29.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing OpenAI for Singapore",
+      "link": "https://openai.com/index/introducing-openai-for-singapore",
+      "published": "Tue, 19 May 2026 20:30:00 GMT",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
       "title": "Anthropic acquires Stainless",
       "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "published": "2026-05-19T18:06:44.000Z",
@@ -179,18 +195,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How sales teams use Codex",
-      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "link": "https://openai.com/index/databricks",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How data science teams use Codex",
-      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
     },
     {
       "source": "Anthropic Blog",
@@ -199,14 +207,6 @@
       "link": "https://www.anthropic.com/news/claude-for-small-business",
       "published": "2026-05-14T16:16:25.000Z",
       "summary": "We&#x27;re launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
-      "link": "https://www.anthropic.com/news/gates-foundation-partnership",
-      "published": "2026-05-14T16:05:24.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "PyTorch Releases",
@@ -265,8 +265,8 @@
       "summary": "<p>Using SocialReasoning Bench, we observed a stable pattern across models\u2014agents execute competently, but fail to consistently improve the user\u2019s position, even with explicit instructions to optimize"
     }
   ],
-  "timestamp": "2026-05-19T19:57:06.117454",
-  "last_updated": "2026-05-19T19:57:06.117454",
+  "timestamp": "2026-05-20T04:00:47.512375",
+  "last_updated": "2026-05-20T04:00:47.512375",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
