@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.9.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.9.0",
+      "published": "2026-05-20T14:12:54Z",
+      "summary": "# Release v5.9.0\r\n\r\n\r\n## New Model additions\r\n\r\n### Cohere2Moe\r\n\r\nCommand A+ is a Mixture-of-Experts (MoE) language model from Cohere that features a hybrid attention pattern combining sliding window "
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Widening the conversation on frontier AI",
@@ -23,6 +31,14 @@
       "link": "https://openai.com/index/introducing-openai-for-singapore",
       "published": "Tue, 19 May 2026 20:30:00 GMT",
       "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Roundtables: Inside the Musk v. Altman Trial",
+      "link": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+      "published": "Tue, 19 May 2026 20:15:18 +0000",
+      "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company\u2019s non-profit status. Watch"
     },
     {
       "source": "Anthropic Blog",
@@ -193,14 +209,6 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "How Chinese short dramas became AI content machines",
-      "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
-      "published": "Fri, 15 May 2026 09:00:00 +0000",
-      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude for Small Business",
@@ -233,14 +241,6 @@
       "summary": "<p>Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct v"
     },
     {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.8.1",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.8.1",
-      "published": "2026-05-13T03:21:23Z",
-      "summary": "# Patch release v5.8.1 \r\nThis release is mainly to fix the Deepseek V4 integration!!! \r\n\r\n<img width=\"714\" height=\"774\" alt=\"image\" src=\"https://github.com/user-attachments/assets/0d85e891-a0ff-436e-a"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
@@ -265,8 +265,8 @@
       "summary": "<p>Using SocialReasoning Bench, we observed a stable pattern across models\u2014agents execute competently, but fail to consistently improve the user\u2019s position, even with explicit instructions to optimize"
     }
   ],
-  "timestamp": "2026-05-20T09:41:55.674791",
-  "last_updated": "2026-05-20T09:41:55.674791",
+  "timestamp": "2026-05-20T15:33:36.062634",
+  "last_updated": "2026-05-20T15:33:36.062634",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
