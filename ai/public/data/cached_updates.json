@@ -3,6 +3,14 @@
     {
       "source": "Google AI Blog",
       "type": "rss",
+      "title": "We\u2019re announcing new community investments in Missouri.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "published": "Wed, 20 May 2026 20:40:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp\" />We\u2019re helping build the state\u2019s next-generation workforce and investing in ener"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
       "title": "100 things we announced at I/O 2026",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
       "published": "Wed, 20 May 2026 19:30:00 +0000",
@@ -51,6 +59,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "link": "https://openai.com/index/ramp",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Introducing OpenAI for Singapore",
       "link": "https://openai.com/index/introducing-openai-for-singapore",
       "published": "Tue, 19 May 2026 20:30:00 GMT",
@@ -87,14 +103,6 @@
       "link": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
       "published": "Tue, 19 May 2026 17:45:00 +0000",
       "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light bl"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "New ways to create and get things done in Google Workspace",
-      "link": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-      "published": "Tue, 19 May 2026 17:45:00 +0000",
-      "summary": "Google Workspace"
     },
     {
       "source": "Anthropic Blog",
@@ -143,14 +151,6 @@
       "link": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
       "published": "Mon, 18 May 2026 16:01:39 +0000",
       "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it\u2019s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking "
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "link": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "published": "Mon, 18 May 2026 10:00:00 GMT",
-      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
     },
     {
       "source": "DeepMind Blog",
@@ -265,8 +265,8 @@
       "summary": "<p>Using SocialReasoning Bench, we observed a stable pattern across models\u2014agents execute competently, but fail to consistently improve the user\u2019s position, even with explicit instructions to optimize"
     }
   ],
-  "timestamp": "2026-05-20T20:23:21.691952",
-  "last_updated": "2026-05-20T20:23:21.691952",
+  "timestamp": "2026-05-21T04:09:56.758139",
+  "last_updated": "2026-05-21T04:09:56.758139",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
