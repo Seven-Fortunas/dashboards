@@ -43,18 +43,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "The next phase of OpenAI\u2019s Education for Countries",
       "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
     },
     {
       "source": "OpenAI Blog",
@@ -265,8 +265,8 @@
       "summary": "<p>Using SocialReasoning Bench, we observed a stable pattern across models\u2014agents execute competently, but fail to consistently improve the user\u2019s position, even with explicit instructions to optimize"
     }
   ],
-  "timestamp": "2026-05-21T04:09:56.758139",
-  "last_updated": "2026-05-21T04:09:56.758139",
+  "timestamp": "2026-05-21T09:50:52.890378",
+  "last_updated": "2026-05-21T09:50:52.890378",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

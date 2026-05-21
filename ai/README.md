@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-21 04:09:56 UTC
+**Last Updated:** 2026-05-21 09:50:52 UTC
 
 ## Latest Updates
 
@@ -11,8 +11,8 @@
 | Google AI Blog | [A new experiment brings better group meetings to Google Beam](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/) | Wed, 20 Ma |
 | HuggingFace Transformers | [Release v5.9.0](https://github.com/huggingface/transformers/releases/tag/v5.9.0) | 2026-05-20 |
 | Anthropic Blog | [Widening the conversation on frontier AI](https://www.anthropic.com/news/widening-conversation-ai) | 2026-05-20 |
-| OpenAI Blog | [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture) | Wed, 20 Ma |
 | OpenAI Blog | [The next phase of OpenAI’s Education for Countries](https://openai.com/index/the-next-phase-of-education-for-countries) | Wed, 20 Ma |
+| OpenAI Blog | [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture) | Wed, 20 Ma |
 | OpenAI Blog | [How Ramp engineers accelerate code review with Codex](https://openai.com/index/ramp) | Wed, 20 Ma |
 | OpenAI Blog | [Introducing OpenAI for Singapore](https://openai.com/index/introducing-openai-for-singapore) | Tue, 19 Ma |
 | MIT Technology Review AI | [Roundtables: Inside the Musk v. Altman Trial](https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/) | Tue, 19 Ma |
