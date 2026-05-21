@@ -3,6 +3,22 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Scaling creativity in the age of AI",
+      "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+      "published": "Thu, 21 May 2026 19:16:43 +0000",
+      "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: f"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
+      "link": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+      "published": "Thu, 21 May 2026 17:00:00 +0000",
+      "summary": "<p>MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient ag"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "Anthropic\u2019s Code with Claude showed off coding\u2019s future\u2014whether you like it or not",
       "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
       "published": "Thu, 21 May 2026 14:30:45 +0000",
@@ -15,6 +31,14 @@
       "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
       "published": "Thu, 21 May 2026 13:48:40 +0000",
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "link": "https://openai.com/index/adventhealth",
+      "published": "Thu, 21 May 2026 12:00:00 GMT",
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
     },
     {
       "source": "Google AI Blog",
@@ -67,18 +91,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "link": "https://openai.com/index/ramp",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "The next phase of OpenAI\u2019s Education for Countries",
       "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "link": "https://openai.com/index/ramp",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
     },
     {
       "source": "OpenAI Blog",
@@ -129,14 +153,6 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "link": "https://openai.com/index/advancing-content-provenance",
-      "published": "Tue, 19 May 2026 10:45:00 GMT",
-      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Here\u2019s why Elon Musk lost his suit against OpenAI",
@@ -159,14 +175,6 @@
       "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
       "published": "Mon, 18 May 2026 17:35:43 +0000",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When Google opens its doors tomorrow for its annual devel"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Inside Anduril and Meta\u2019s quest to make smart glasses for warfare",
-      "link": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-      "published": "Mon, 18 May 2026 16:01:39 +0000",
-      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it\u2019s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking "
     },
     {
       "source": "DeepMind Blog",
@@ -249,14 +257,6 @@
       "summary": "<p>Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct v"
     },
     {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
-      "link": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
-      "published": "Tue, 12 May 2026 13:00:00 +0000",
-      "summary": "<p>MatterSim is expanding what AI can do for materials science\u2014from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces al"
-    },
-    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.4.0",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-05-21T15:38:04.016029",
-  "last_updated": "2026-05-21T15:38:04.016029",
+  "timestamp": "2026-05-21T19:59:22.760682",
+  "last_updated": "2026-05-21T19:59:22.760682",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
