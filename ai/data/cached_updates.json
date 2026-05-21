@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Anthropic\u2019s Code with Claude showed off coding\u2019s future\u2014whether you like it or not",
+      "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "published": "Thu, 21 May 2026 14:30:45 +0000",
+      "summary": "The vibes were strong at Code with Claude, Anthropic\u2019s two-day event for software developers in London that kicked off on May 19, the same day as Google\u2019s I/O in Palo Alto. (A coincidence, not a flex,"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Vega: Zero-knowledge\u00a0proofs for\u00a0digital identity in the\u00a0age of AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+      "published": "Thu, 21 May 2026 13:48:40 +0000",
+      "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "We\u2019re announcing new community investments in Missouri.",
@@ -43,14 +59,6 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "The next phase of OpenAI\u2019s Education for Countries",
-      "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
@@ -63,6 +71,14 @@
       "link": "https://openai.com/index/ramp",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
       "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "The next phase of OpenAI\u2019s Education for Countries",
+      "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
     },
     {
       "source": "OpenAI Blog",
@@ -142,7 +158,7 @@
       "title": "What to expect from Google this week",
       "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
       "published": "Mon, 18 May 2026 17:35:43 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. When Google opens its doors tomorrow for its annual developer "
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When Google opens its doors tomorrow for its annual devel"
     },
     {
       "source": "MIT Technology Review AI",
@@ -183,14 +199,6 @@
       "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
       "published": "Sun, 17 May 2026 13:50:34 +0000",
       "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
-      "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "published": "Fri, 15 May 2026 23:39:35 +0000",
-      "summary": "Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk&#8217;s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers"
     },
     {
       "source": "Microsoft Research AI",
@@ -255,18 +263,10 @@
       "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.0",
       "published": "2026-05-11T18:42:53Z",
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "SocialReasoning-Bench: Measuring whether AI agents act\u00a0in users\u2019 best interests",
-      "link": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
-      "published": "Mon, 11 May 2026 17:19:28 +0000",
-      "summary": "<p>Using SocialReasoning Bench, we observed a stable pattern across models\u2014agents execute competently, but fail to consistently improve the user\u2019s position, even with explicit instructions to optimize"
     }
   ],
-  "timestamp": "2026-05-21T09:50:52.890378",
-  "last_updated": "2026-05-21T09:50:52.890378",
+  "timestamp": "2026-05-21T15:38:04.016029",
+  "last_updated": "2026-05-21T15:38:04.016029",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
