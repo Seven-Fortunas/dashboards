@@ -3,6 +3,22 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "published": "Thu, 21 May 2026 20:41:05 +0000",
+      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the fo"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "We\u2019re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "published": "Thu, 21 May 2026 19:46:42 +0000",
+      "summary": ""
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "Scaling creativity in the age of AI",
       "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
       "published": "Thu, 21 May 2026 19:16:43 +0000",
@@ -83,10 +99,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "link": "https://openai.com/index/ramp",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
     },
     {
       "source": "OpenAI Blog",
@@ -99,10 +115,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "link": "https://openai.com/index/ramp",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
     },
     {
       "source": "OpenAI Blog",
@@ -169,14 +185,6 @@
       "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "What to expect from Google this week",
-      "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-      "published": "Mon, 18 May 2026 17:35:43 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When Google opens its doors tomorrow for its annual devel"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Simulate real-world places with Project Genie and Street View",
@@ -199,14 +207,6 @@
       "link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
       "published": "Sun, 17 May 2026 19:43:45 +0000",
       "summary": ""
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
-      "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
-      "published": "Sun, 17 May 2026 13:50:34 +0000",
-      "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration."
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-05-21T19:59:22.760682",
-  "last_updated": "2026-05-21T19:59:22.760682",
+  "timestamp": "2026-05-22T04:03:55.228751",
+  "last_updated": "2026-05-22T04:03:55.228751",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
