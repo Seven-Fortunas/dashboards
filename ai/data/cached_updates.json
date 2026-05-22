@@ -1,12 +1,28 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "published": "Fri, 22 May 2026 18:00:00 +0000",
+      "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Google I/O showed how the path for AI-driven science is shifting",
       "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
       "published": "Fri, 22 May 2026 10:00:00 +0000",
       "summary": "During Tuesday\u2019s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently \u201cstanding in the foothills of the singularity.\u201d It was a striking statement\u2014the singul"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "published": "Fri, 22 May 2026 00:00:00 GMT",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
     },
     {
       "source": "MIT Technology Review AI",
@@ -107,6 +123,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "link": "https://openai.com/index/ramp",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
@@ -119,22 +143,6 @@
       "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "link": "https://openai.com/index/ramp",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing OpenAI for Singapore",
-      "link": "https://openai.com/index/introducing-openai-for-singapore",
-      "published": "Tue, 19 May 2026 20:30:00 GMT",
-      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
     },
     {
       "source": "MIT Technology Review AI",
@@ -159,14 +167,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
       "published": "Tue, 19 May 2026 17:45:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif\" />At Google I/O 2026, we shared how we\u2019re making AI more helpful for everyone. See everything we"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "How AI Mode is changing the way people search in the U.S.",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-      "published": "Tue, 19 May 2026 17:45:00 +0000",
-      "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light bl"
     },
     {
       "source": "Anthropic Blog",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-05-22T14:47:50.651545",
-  "last_updated": "2026-05-22T14:47:50.651545",
+  "timestamp": "2026-05-22T19:54:08.132521",
+  "last_updated": "2026-05-22T19:54:08.132521",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
