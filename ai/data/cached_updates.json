@@ -3,6 +3,14 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "published": "Fri, 22 May 2026 10:00:00 +0000",
+      "summary": "During Tuesday\u2019s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently \u201cstanding in the foothills of the singularity.\u201d It was a striking statement\u2014the singul"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "Roundtables: Can AI Learn to Understand the World?",
       "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
       "published": "Thu, 21 May 2026 20:41:05 +0000",
@@ -99,10 +107,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "link": "https://openai.com/index/ramp",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
     },
     {
       "source": "OpenAI Blog",
@@ -115,10 +123,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "link": "https://openai.com/index/ramp",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
     },
     {
       "source": "OpenAI Blog",
@@ -167,14 +175,6 @@
       "link": "https://www.anthropic.com/news/anthropic-kpmg",
       "published": "2026-05-19T13:30:59.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Here\u2019s why Elon Musk lost his suit against OpenAI",
-      "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-      "published": "Tue, 19 May 2026 00:53:10 +0000",
-      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow\u2014reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat"
     },
     {
       "source": "DeepMind Blog",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-05-22T09:36:26.790319",
-  "last_updated": "2026-05-22T09:36:26.790319",
+  "timestamp": "2026-05-22T14:47:50.651545",
+  "last_updated": "2026-05-22T14:47:50.651545",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
