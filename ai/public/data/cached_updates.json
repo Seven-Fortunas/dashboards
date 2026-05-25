@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical &quot;Magnifica humanitas&quot;",
+      "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "published": "2026-05-25T18:41:28.000Z",
+      "summary": "The full text of Chris Olah&#x27;s remarks on the Pope&#x27;s encyclical on AI"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "published": "Mon, 25 May 2026 00:00:00 GMT",
+      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
@@ -19,18 +35,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "published": "Fri, 22 May 2026 00:00:00 GMT",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "How Virgin Atlantic ships faster with Codex",
       "link": "https://openai.com/index/virgin-atlantic",
       "published": "Fri, 22 May 2026 00:00:00 GMT",
       "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "published": "Fri, 22 May 2026 00:00:00 GMT",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
     },
     {
       "source": "MIT Technology Review AI",
@@ -137,14 +153,6 @@
       "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "The next phase of OpenAI\u2019s Education for Countries",
-      "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Roundtables: Inside the Musk v. Altman Trial",
@@ -225,14 +233,6 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude for Small Business",
-      "link": "https://www.anthropic.com/news/claude-for-small-business",
-      "published": "2026-05-14T16:16:25.000Z",
-      "summary": "We&#x27;re launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day."
-    },
-    {
       "source": "PyTorch Releases",
       "type": "github",
       "title": "Release v2.12.0",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-05-25T15:17:37.103269",
-  "last_updated": "2026-05-25T15:17:37.103269",
+  "timestamp": "2026-05-25T19:47:52.834758",
+  "last_updated": "2026-05-25T19:47:52.834758",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

@@ -1,15 +1,17 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-25 15:17:37 UTC
+**Last Updated:** 2026-05-25 19:47:52 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical) | 2026-05-25 |
+| OpenAI Blog | [OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership](https://openai.com/index/grupo-folha-grupo-uol-partnership) | Mon, 25 Ma |
 | Google AI Blog | [Catch up on the Dialogues stage at Google I/O 2026.](https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/) | Fri, 22 Ma |
 | MIT Technology Review AI | [Google I/O showed how the path for AI-driven science is shifting](https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/) | Fri, 22 Ma |
-| OpenAI Blog | [OpenAI named a Leader in enterprise coding agents by Gartner](https://openai.com/index/gartner-2026-agentic-coding-leader) | Fri, 22 Ma |
 | OpenAI Blog | [How Virgin Atlantic ships faster with Codex](https://openai.com/index/virgin-atlantic) | Fri, 22 Ma |
+| OpenAI Blog | [OpenAI named a Leader in enterprise coding agents by Gartner](https://openai.com/index/gartner-2026-agentic-coding-leader) | Fri, 22 Ma |
 | MIT Technology Review AI | [Roundtables: Can AI Learn to Understand the World?](https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/) | Thu, 21 Ma |
 | DeepMind Blog | [We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackl](https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/) | Thu, 21 Ma |
 | MIT Technology Review AI | [Scaling creativity in the age of AI](https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/) | Thu, 21 Ma |
@@ -23,7 +25,6 @@
 | HuggingFace Transformers | [Release v5.9.0](https://github.com/huggingface/transformers/releases/tag/v5.9.0) | 2026-05-20 |
 | Anthropic Blog | [Widening the conversation on frontier AI](https://www.anthropic.com/news/widening-conversation-ai) | 2026-05-20 |
 | OpenAI Blog | [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture) | Wed, 20 Ma |
-| OpenAI Blog | [The next phase of OpenAI’s Education for Countries](https://openai.com/index/the-next-phase-of-education-for-countries) | Wed, 20 Ma |
 | MIT Technology Review AI | [Roundtables: Inside the Musk v. Altman Trial](https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/) | Tue, 19 Ma |
 | Anthropic Blog | [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless) | 2026-05-19 |
 | Google AI Blog | [I/O 2026](https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/) | Tue, 19 Ma |
@@ -34,7 +35,6 @@
 | DeepMind Blog | [Introducing Google Antigravity 2.0](https://deepmind.google/blog/introducing-google-antigravity-2-0/) | Sun, 17 Ma |
 | Microsoft Research AI | [Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliabili](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/) | Fri, 15 Ma |
 | Anthropic Blog | [PwC is deploying Claude to build technology, execute deals, and reinvent enterpr](https://www.anthropic.com/news/pwc-expanded-partnership) | 2026-05-15 |
-| Anthropic Blog | [Introducing Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) | 2026-05-14 |
 | PyTorch Releases | [Release v2.12.0](https://github.com/pytorch/pytorch/releases/tag/v2.12.0) | 2026-05-13 |
 | Microsoft Research AI | [mimalloc: A new, high-performance, scalable memory allocator for the modern era](https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/) | Wed, 13 Ma |
 | Microsoft Research AI | [GridSFM: A new, small foundation model for the electric grid](https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/) | Wed, 13 Ma |
