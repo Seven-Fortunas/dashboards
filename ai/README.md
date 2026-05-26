@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-26 10:04:03 UTC
+**Last Updated:** 2026-05-26 15:50:31 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Rethinking organizational design in the age of agentic AI](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/) | Tue, 26 Ma |
 | MIT Technology Review AI | [A reality check on the AI jobs hysteria](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/) | Tue, 26 Ma |
 | MIT Technology Review AI | [It’s time to address the looming crisis in entry-level work.](https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/) | Tue, 26 Ma |
 | Anthropic Blog | [Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical) | 2026-05-25 |
@@ -16,7 +17,6 @@
 | OpenAI Blog | [OpenAI named a Leader in enterprise coding agents by Gartner](https://openai.com/index/gartner-2026-agentic-coding-leader) | Fri, 22 Ma |
 | MIT Technology Review AI | [Roundtables: Can AI Learn to Understand the World?](https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/) | Thu, 21 Ma |
 | DeepMind Blog | [We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackl](https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/) | Thu, 21 Ma |
-| MIT Technology Review AI | [Scaling creativity in the age of AI](https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/) | Thu, 21 Ma |
 | Microsoft Research AI | [MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small ](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/) | Thu, 21 Ma |
 | Microsoft Research AI | [Vega: Zero-knowledge proofs for digital identity in the age of AI](https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/) | Thu, 21 Ma |
 | OpenAI Blog | [AdventHealth advances whole-person care with OpenAI](https://openai.com/index/adventhealth) | Thu, 21 Ma |

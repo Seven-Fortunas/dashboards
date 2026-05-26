@@ -3,6 +3,14 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "published": "Tue, 26 May 2026 14:54:10 +0000",
+      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the ne"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "A reality check on the AI jobs hysteria",
       "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
       "published": "Tue, 26 May 2026 09:00:00 +0000",
@@ -79,14 +87,6 @@
       "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
       "published": "Thu, 21 May 2026 19:46:42 +0000",
       "summary": ""
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Scaling creativity in the age of AI",
-      "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-      "published": "Thu, 21 May 2026 19:16:43 +0000",
-      "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: f"
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-05-26T10:04:03.776624",
-  "last_updated": "2026-05-26T10:04:03.776624",
+  "timestamp": "2026-05-26T15:50:31.946710",
+  "last_updated": "2026-05-26T15:50:31.946710",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
