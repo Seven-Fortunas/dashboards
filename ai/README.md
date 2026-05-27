@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-27 10:02:35 UTC
+**Last Updated:** 2026-05-27 15:56:46 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Building self-improving tax agents with Codex](https://openai.com/index/building-self-improving-tax-agents-with-codex) | Wed, 27 Ma |
 | Anthropic Blog | [Anthropic appoints KiYoung Choi as Representative Director of Korea](https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea) | 2026-05-26 |
 | MIT Technology Review AI | [Rethinking organizational design in the age of agentic AI](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/) | Tue, 26 Ma |
 | MIT Technology Review AI | [A reality check on the AI jobs hysteria](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/) | Tue, 26 Ma |
@@ -26,7 +27,6 @@
 | Google AI Blog | [A new experiment brings better group meetings to Google Beam](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/) | Wed, 20 Ma |
 | HuggingFace Transformers | [Release v5.9.0](https://github.com/huggingface/transformers/releases/tag/v5.9.0) | 2026-05-20 |
 | Anthropic Blog | [Widening the conversation on frontier AI](https://www.anthropic.com/news/widening-conversation-ai) | 2026-05-20 |
-| OpenAI Blog | [How Ramp engineers accelerate code review with Codex](https://openai.com/index/ramp) | Wed, 20 Ma |
 | Anthropic Blog | [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless) | 2026-05-19 |
 | Google AI Blog | [I/O 2026](https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/) | Tue, 19 Ma |
 | Anthropic Blog | [KPMG integrates Claude across its core business and workforce of more than 276,0](https://www.anthropic.com/news/anthropic-kpmg) | 2026-05-19 |
