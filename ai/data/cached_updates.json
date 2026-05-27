@@ -67,18 +67,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "link": "https://openai.com/index/virgin-atlantic",
-      "published": "Fri, 22 May 2026 00:00:00 GMT",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "published": "Fri, 22 May 2026 00:00:00 GMT",
       "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "link": "https://openai.com/index/virgin-atlantic",
+      "published": "Fri, 22 May 2026 00:00:00 GMT",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects."
     },
     {
       "source": "MIT Technology Review AI",
@@ -163,10 +163,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "The next phase of OpenAI\u2019s Education for Countries",
-      "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "link": "https://openai.com/index/ramp",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
     },
     {
       "source": "Anthropic Blog",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-05-27T04:14:27.222396",
-  "last_updated": "2026-05-27T04:14:27.222396",
+  "timestamp": "2026-05-27T10:02:35.339498",
+  "last_updated": "2026-05-27T10:02:35.339498",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
