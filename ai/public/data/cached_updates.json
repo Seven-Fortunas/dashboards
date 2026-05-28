@@ -1,20 +1,36 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "published": "2026-05-28T19:33:59.000Z",
+      "summary": "Today, we\u2019re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "link": "https://www.anthropic.com/news/series-h",
+      "published": "2026-05-28T18:07:20.000Z",
+      "summary": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Opus 4.8",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "published": "2026-05-28T16:53:42.000Z",
+      "summary": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running "
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
       "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
       "published": "Thu, 28 May 2026 16:00:00 +0000",
       "summary": "<p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Design by Anthropic Labs",
-      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "published": "2026-05-28T15:58:12.000Z",
-      "summary": "Today, we\u2019re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
     },
     {
       "source": "Google AI Blog",
@@ -39,6 +55,14 @@
       "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
       "published": "Thu, 28 May 2026 09:51:11 +0000",
       "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their t"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI\u2019s Frontier Governance Framework",
+      "link": "https://openai.com/index/openai-frontier-governance-framework",
+      "published": "Thu, 28 May 2026 00:00:00 GMT",
+      "summary": "Explore OpenAI\u2019s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
     },
     {
       "source": "Microsoft Research AI",
@@ -113,22 +137,6 @@
       "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited eviden"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical &quot;Magnifica humanitas&quot;",
-      "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
-      "published": "2026-05-25T18:41:28.000Z",
-      "summary": "The full text of Chris Olah&#x27;s remarks on the Pope&#x27;s encyclical on AI"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "published": "Mon, 25 May 2026 00:00:00 GMT",
-      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
@@ -201,14 +209,6 @@
       "summary": "# Release v5.9.0\r\n\r\n\r\n## New Model additions\r\n\r\n### Cohere2Moe\r\n\r\nCommand A+ is a Mixture-of-Experts (MoE) language model from Cohere that features a hybrid attention pattern combining sliding window "
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Widening the conversation on frontier AI",
-      "link": "https://www.anthropic.com/news/widening-conversation-ai",
-      "published": "2026-05-20T00:29:29.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Fast-tracking genetic leads to reverse cellular aging",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-05-28T16:09:48.712000",
-  "last_updated": "2026-05-28T16:09:48.712000",
+  "timestamp": "2026-05-28T20:29:31.330633",
+  "last_updated": "2026-05-28T20:29:31.330633",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

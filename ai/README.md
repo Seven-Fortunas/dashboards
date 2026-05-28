@@ -1,16 +1,19 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-28 16:09:48 UTC
+**Last Updated:** 2026-05-28 20:29:31 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| Microsoft Research AI | [Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/) | Thu, 28 Ma |
 | Anthropic Blog | [Introducing Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs) | 2026-05-28 |
+| Anthropic Blog | [Anthropic raises $65B in Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h) | 2026-05-28 |
+| Anthropic Blog | [Introducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) | 2026-05-28 |
+| Microsoft Research AI | [Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/) | Thu, 28 Ma |
 | Google AI Blog | [Catch up on 12 major I/O 2026 moments](https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/) | Thu, 28 Ma |
 | Anthropic Blog | [Anthropic opens Milan office to support Italian enterprise, research, and develo](https://www.anthropic.com/news/milan-office-opening) | 2026-05-28 |
 | MIT Technology Review AI | [The AI Hype Index: AI gets booed in graduation season](https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/) | Thu, 28 Ma |
+| OpenAI Blog | [OpenAI’s Frontier Governance Framework](https://openai.com/index/openai-frontier-governance-framework) | Thu, 28 Ma |
 | Microsoft Research AI | [Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/) | Wed, 27 Ma |
 | OpenAI Blog | [Cisco and OpenAI redefine enterprise engineering with Codex](https://openai.com/index/cisco) | Wed, 27 Ma |
 | OpenAI Blog | [Building self-improving tax agents with Codex](https://openai.com/index/building-self-improving-tax-agents-with-codex) | Wed, 27 Ma |
@@ -20,8 +23,6 @@
 | MIT Technology Review AI | [Rethinking organizational design in the age of agentic AI](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/) | Tue, 26 Ma |
 | MIT Technology Review AI | [A reality check on the AI jobs hysteria](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/) | Tue, 26 Ma |
 | MIT Technology Review AI | [It’s time to address the looming crisis in entry-level work.](https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/) | Tue, 26 Ma |
-| Anthropic Blog | [Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical) | 2026-05-25 |
-| OpenAI Blog | [OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership](https://openai.com/index/grupo-folha-grupo-uol-partnership) | Mon, 25 Ma |
 | Google AI Blog | [Catch up on the Dialogues stage at Google I/O 2026.](https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/) | Fri, 22 Ma |
 | MIT Technology Review AI | [Google I/O showed how the path for AI-driven science is shifting](https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/) | Fri, 22 Ma |
 | DeepMind Blog | [We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackl](https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/) | Thu, 21 Ma |
@@ -31,7 +32,6 @@
 | Google AI Blog | [100 things we announced at I/O 2026](https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/) | Wed, 20 Ma |
 | Google AI Blog | [A new experiment brings better group meetings to Google Beam](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/) | Wed, 20 Ma |
 | HuggingFace Transformers | [Release v5.9.0](https://github.com/huggingface/transformers/releases/tag/v5.9.0) | 2026-05-20 |
-| Anthropic Blog | [Widening the conversation on frontier AI](https://www.anthropic.com/news/widening-conversation-ai) | 2026-05-20 |
 | DeepMind Blog | [Fast-tracking genetic leads to reverse cellular aging](https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/) | Mon, 18 Ma |
 | DeepMind Blog | [Simulate real-world places with Project Genie and Street View](https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/) | Sun, 17 Ma |
 | DeepMind Blog | [Introducing Gemini Omni](https://deepmind.google/blog/introducing-gemini-omni/) | Sun, 17 Ma |
