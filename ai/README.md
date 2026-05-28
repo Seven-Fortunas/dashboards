@@ -1,15 +1,16 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-27 20:24:13 UTC
+**Last Updated:** 2026-05-28 04:02:18 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
 | Microsoft Research AI | [Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/) | Wed, 27 Ma |
+| OpenAI Blog | [Cisco and OpenAI redefine enterprise engineering with Codex](https://openai.com/index/cisco) | Wed, 27 Ma |
 | OpenAI Blog | [Building self-improving tax agents with Codex](https://openai.com/index/building-self-improving-tax-agents-with-codex) | Wed, 27 Ma |
-| OpenAI Blog | [Warp’s big bet on building open source with GPT-5.5](https://openai.com/index/warp) | Wed, 27 Ma |
 | OpenAI Blog | [Election information and safeguards in 2026](https://openai.com/index/election-safeguards-2026) | Wed, 27 Ma |
+| OpenAI Blog | [Warp’s big bet on building open source with GPT-5.5](https://openai.com/index/warp) | Wed, 27 Ma |
 | Anthropic Blog | [Anthropic appoints KiYoung Choi as Representative Director of Korea](https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea) | 2026-05-26 |
 | MIT Technology Review AI | [Rethinking organizational design in the age of agentic AI](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/) | Tue, 26 Ma |
 | MIT Technology Review AI | [A reality check on the AI jobs hysteria](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/) | Tue, 26 Ma |
@@ -18,7 +19,6 @@
 | OpenAI Blog | [OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership](https://openai.com/index/grupo-folha-grupo-uol-partnership) | Mon, 25 Ma |
 | Google AI Blog | [Catch up on the Dialogues stage at Google I/O 2026.](https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/) | Fri, 22 Ma |
 | MIT Technology Review AI | [Google I/O showed how the path for AI-driven science is shifting](https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/) | Fri, 22 Ma |
-| OpenAI Blog | [OpenAI named a Leader in enterprise coding agents by Gartner](https://openai.com/index/gartner-2026-agentic-coding-leader) | Fri, 22 Ma |
 | MIT Technology Review AI | [Roundtables: Can AI Learn to Understand the World?](https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/) | Thu, 21 Ma |
 | DeepMind Blog | [We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackl](https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/) | Thu, 21 Ma |
 | Microsoft Research AI | [MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small ](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/) | Thu, 21 Ma |
