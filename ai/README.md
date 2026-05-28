@@ -1,16 +1,21 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-28 10:11:53 UTC
+**Last Updated:** 2026-05-28 16:09:48 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Microsoft Research AI | [Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/) | Thu, 28 Ma |
+| Anthropic Blog | [Introducing Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs) | 2026-05-28 |
+| Google AI Blog | [Catch up on 12 major I/O 2026 moments](https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/) | Thu, 28 Ma |
+| Anthropic Blog | [Anthropic opens Milan office to support Italian enterprise, research, and develo](https://www.anthropic.com/news/milan-office-opening) | 2026-05-28 |
+| MIT Technology Review AI | [The AI Hype Index: AI gets booed in graduation season](https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/) | Thu, 28 Ma |
 | Microsoft Research AI | [Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/) | Wed, 27 Ma |
 | OpenAI Blog | [Cisco and OpenAI redefine enterprise engineering with Codex](https://openai.com/index/cisco) | Wed, 27 Ma |
 | OpenAI Blog | [Building self-improving tax agents with Codex](https://openai.com/index/building-self-improving-tax-agents-with-codex) | Wed, 27 Ma |
-| OpenAI Blog | [Election information and safeguards in 2026](https://openai.com/index/election-safeguards-2026) | Wed, 27 Ma |
 | OpenAI Blog | [Warp’s big bet on building open source with GPT-5.5](https://openai.com/index/warp) | Wed, 27 Ma |
+| OpenAI Blog | [Election information and safeguards in 2026](https://openai.com/index/election-safeguards-2026) | Wed, 27 Ma |
 | Anthropic Blog | [Anthropic appoints KiYoung Choi as Representative Director of Korea](https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea) | 2026-05-26 |
 | MIT Technology Review AI | [Rethinking organizational design in the age of agentic AI](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/) | Tue, 26 Ma |
 | MIT Technology Review AI | [A reality check on the AI jobs hysteria](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/) | Tue, 26 Ma |
@@ -19,7 +24,6 @@
 | OpenAI Blog | [OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership](https://openai.com/index/grupo-folha-grupo-uol-partnership) | Mon, 25 Ma |
 | Google AI Blog | [Catch up on the Dialogues stage at Google I/O 2026.](https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/) | Fri, 22 Ma |
 | MIT Technology Review AI | [Google I/O showed how the path for AI-driven science is shifting](https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/) | Fri, 22 Ma |
-| MIT Technology Review AI | [Roundtables: Can AI Learn to Understand the World?](https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/) | Thu, 21 Ma |
 | DeepMind Blog | [We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackl](https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/) | Thu, 21 Ma |
 | Microsoft Research AI | [MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small ](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/) | Thu, 21 Ma |
 | Microsoft Research AI | [Vega: Zero-knowledge proofs for digital identity in the age of AI](https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/) | Thu, 21 Ma |
@@ -28,14 +32,10 @@
 | Google AI Blog | [A new experiment brings better group meetings to Google Beam](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/) | Wed, 20 Ma |
 | HuggingFace Transformers | [Release v5.9.0](https://github.com/huggingface/transformers/releases/tag/v5.9.0) | 2026-05-20 |
 | Anthropic Blog | [Widening the conversation on frontier AI](https://www.anthropic.com/news/widening-conversation-ai) | 2026-05-20 |
-| Anthropic Blog | [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless) | 2026-05-19 |
-| Google AI Blog | [I/O 2026](https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/) | Tue, 19 Ma |
-| Anthropic Blog | [KPMG integrates Claude across its core business and workforce of more than 276,0](https://www.anthropic.com/news/anthropic-kpmg) | 2026-05-19 |
 | DeepMind Blog | [Fast-tracking genetic leads to reverse cellular aging](https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/) | Mon, 18 Ma |
 | DeepMind Blog | [Simulate real-world places with Project Genie and Street View](https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/) | Sun, 17 Ma |
 | DeepMind Blog | [Introducing Gemini Omni](https://deepmind.google/blog/introducing-gemini-omni/) | Sun, 17 Ma |
 | DeepMind Blog | [Introducing Google Antigravity 2.0](https://deepmind.google/blog/introducing-google-antigravity-2-0/) | Sun, 17 Ma |
 | Microsoft Research AI | [Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliabili](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/) | Fri, 15 Ma |
 | PyTorch Releases | [Release v2.12.0](https://github.com/pytorch/pytorch/releases/tag/v2.12.0) | 2026-05-13 |
-| Microsoft Research AI | [mimalloc: A new, high-performance, scalable memory allocator for the modern era](https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/) | Wed, 13 Ma |
 | LangChain Releases | [Release langchain-core==1.4.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.0) | 2026-05-11 |
