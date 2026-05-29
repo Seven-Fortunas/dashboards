@@ -3,6 +3,38 @@
     {
       "source": "Google AI Blog",
       "type": "rss",
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "published": "Fri, 29 May 2026 19:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\" />We used Google AI Studio to vibe code a quiz about our top I/O 2026 announce"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "published": "Fri, 29 May 2026 17:30:00 +0000",
+      "summary": "Gemini Omni & Gemini 3.5 hero"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+      "link": "https://openai.com/index/boston-childrens-hospital",
+      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "summary": "Boston Children\u2019s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "link": "https://openai.com/index/braintrust",
+      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
       "title": "Check out real-life AI prototypes from the Futures Lab.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
       "published": "Fri, 29 May 2026 12:00:00 +0000",
@@ -23,6 +55,14 @@
       "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
       "published": "Fri, 29 May 2026 03:00:00 GMT",
       "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through "
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "published": "Fri, 29 May 2026 00:00:00 GMT",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems."
     },
     {
       "source": "Anthropic Blog",
@@ -89,36 +129,12 @@
       "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their t"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI\u2019s Frontier Governance Framework",
-      "link": "https://openai.com/index/openai-frontier-governance-framework",
-      "published": "Thu, 28 May 2026 00:00:00 GMT",
-      "summary": "Explore OpenAI\u2019s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "link": "https://openai.com/index/mufg",
-      "published": "Thu, 28 May 2026 00:00:00 GMT",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Extending Human Intelligence Through AI",
       "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
       "published": "Wed, 27 May 2026 16:00:00 +0000",
       "summary": "<p>Understanding AI as an extension of human intelligence\u2014not a replacement for it\u2014offers a more grounded path for building trustworthy AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/e"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "link": "https://openai.com/index/cisco",
-      "published": "Wed, 27 May 2026 11:00:00 GMT",
-      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation."
     },
     {
       "source": "Anthropic Blog",
@@ -185,22 +201,6 @@
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "We\u2019re announcing new community investments in Missouri.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-      "published": "Wed, 20 May 2026 20:40:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp\" />We\u2019re helping build the state\u2019s next-generation workforce and investing in ener"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "100 things we announced at I/O 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "published": "Wed, 20 May 2026 19:30:00 +0000",
-      "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo"
-    },
-    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.9.0",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-05-29T15:51:31.206614",
-  "last_updated": "2026-05-29T15:51:31.206614",
+  "timestamp": "2026-05-29T20:32:12.930660",
+  "last_updated": "2026-05-29T20:32:12.930660",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
