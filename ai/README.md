@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-28 20:29:31 UTC
+**Last Updated:** 2026-05-29 04:04:58 UTC
 
 ## Latest Updates
 
@@ -12,12 +12,12 @@
 | Microsoft Research AI | [Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/) | Thu, 28 Ma |
 | Google AI Blog | [Catch up on 12 major I/O 2026 moments](https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/) | Thu, 28 Ma |
 | Anthropic Blog | [Anthropic opens Milan office to support Italian enterprise, research, and develo](https://www.anthropic.com/news/milan-office-opening) | 2026-05-28 |
+| OpenAI Blog | [How Endava builds an agentic organization with Codex](https://openai.com/index/endava) | Thu, 28 Ma |
 | MIT Technology Review AI | [The AI Hype Index: AI gets booed in graduation season](https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/) | Thu, 28 Ma |
 | OpenAI Blog | [OpenAI’s Frontier Governance Framework](https://openai.com/index/openai-frontier-governance-framework) | Thu, 28 Ma |
 | Microsoft Research AI | [Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/) | Wed, 27 Ma |
 | OpenAI Blog | [Cisco and OpenAI redefine enterprise engineering with Codex](https://openai.com/index/cisco) | Wed, 27 Ma |
 | OpenAI Blog | [Building self-improving tax agents with Codex](https://openai.com/index/building-self-improving-tax-agents-with-codex) | Wed, 27 Ma |
-| OpenAI Blog | [Warp’s big bet on building open source with GPT-5.5](https://openai.com/index/warp) | Wed, 27 Ma |
 | OpenAI Blog | [Election information and safeguards in 2026](https://openai.com/index/election-safeguards-2026) | Wed, 27 Ma |
 | Anthropic Blog | [Anthropic appoints KiYoung Choi as Representative Director of Korea](https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea) | 2026-05-26 |
 | MIT Technology Review AI | [Rethinking organizational design in the age of agentic AI](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/) | Tue, 26 Ma |
