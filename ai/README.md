@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-05-29 04:04:58 UTC
+**Last Updated:** 2026-05-29 10:01:55 UTC
 
 ## Latest Updates
 
@@ -14,11 +14,11 @@
 | Anthropic Blog | [Anthropic opens Milan office to support Italian enterprise, research, and develo](https://www.anthropic.com/news/milan-office-opening) | 2026-05-28 |
 | OpenAI Blog | [How Endava builds an agentic organization with Codex](https://openai.com/index/endava) | Thu, 28 Ma |
 | MIT Technology Review AI | [The AI Hype Index: AI gets booed in graduation season](https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/) | Thu, 28 Ma |
+| OpenAI Blog | [MUFG aims to become AI-native with OpenAI](https://openai.com/index/mufg) | Thu, 28 Ma |
 | OpenAI Blog | [OpenAI’s Frontier Governance Framework](https://openai.com/index/openai-frontier-governance-framework) | Thu, 28 Ma |
 | Microsoft Research AI | [Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/) | Wed, 27 Ma |
 | OpenAI Blog | [Cisco and OpenAI redefine enterprise engineering with Codex](https://openai.com/index/cisco) | Wed, 27 Ma |
 | OpenAI Blog | [Building self-improving tax agents with Codex](https://openai.com/index/building-self-improving-tax-agents-with-codex) | Wed, 27 Ma |
-| OpenAI Blog | [Election information and safeguards in 2026](https://openai.com/index/election-safeguards-2026) | Wed, 27 Ma |
 | Anthropic Blog | [Anthropic appoints KiYoung Choi as Representative Director of Korea](https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea) | 2026-05-26 |
 | MIT Technology Review AI | [Rethinking organizational design in the age of agentic AI](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/) | Tue, 26 Ma |
 | MIT Technology Review AI | [A reality check on the AI jobs hysteria](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/) | Tue, 26 Ma |

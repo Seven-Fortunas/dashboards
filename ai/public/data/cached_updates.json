@@ -67,6 +67,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "link": "https://openai.com/index/mufg",
+      "published": "Thu, 28 May 2026 00:00:00 GMT",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "OpenAI\u2019s Frontier Governance Framework",
       "link": "https://openai.com/index/openai-frontier-governance-framework",
       "published": "Thu, 28 May 2026 00:00:00 GMT",
@@ -95,14 +103,6 @@
       "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "published": "Wed, 27 May 2026 07:00:00 GMT",
       "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Election information and safeguards in 2026",
-      "link": "https://openai.com/index/election-safeguards-2026",
-      "published": "Wed, 27 May 2026 00:00:00 GMT",
-      "summary": "Ahead of global elections, we\u2019re helping people access information, supporting cyber defenders, and increasing AI transparency"
     },
     {
       "source": "Anthropic Blog",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-05-29T04:04:58.566349",
-  "last_updated": "2026-05-29T04:04:58.566349",
+  "timestamp": "2026-05-29T10:01:55.462609",
+  "last_updated": "2026-05-29T10:01:55.462609",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
