@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-05-31T04:16:20.028288",
-  "last_updated": "2026-05-31T04:16:20.028288",
+  "timestamp": "2026-05-31T08:52:44.738327",
+  "last_updated": "2026-05-31T08:52:44.738327",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
