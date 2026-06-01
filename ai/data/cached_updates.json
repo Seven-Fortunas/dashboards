@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Opus 4.8",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "published": "2026-06-01T10:18:23.000Z",
+      "summary": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running "
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
@@ -79,14 +87,6 @@
       "link": "https://www.anthropic.com/news/series-h",
       "published": "2026-05-28T18:07:20.000Z",
       "summary": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Opus 4.8",
-      "link": "https://www.anthropic.com/news/claude-opus-4-8",
-      "published": "2026-05-28T16:53:42.000Z",
-      "summary": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running "
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-06-01T04:44:33.823316",
-  "last_updated": "2026-06-01T04:44:33.823316",
+  "timestamp": "2026-06-01T11:44:52.816741",
+  "last_updated": "2026-06-01T11:44:52.816741",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
