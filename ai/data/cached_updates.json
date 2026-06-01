@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "How we used Gemini to build Google I/O 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "published": "Mon, 01 Jun 2026 16:00:00 +0000",
+      "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and t"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "published": "2026-06-01T15:59:13.000Z",
+      "summary": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "link": "https://www.anthropic.com/news/series-h",
+      "published": "2026-06-01T15:29:46.000Z",
+      "summary": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Opus 4.8",
@@ -81,14 +105,6 @@
       "summary": "Today, we\u2019re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "link": "https://www.anthropic.com/news/series-h",
-      "published": "2026-05-28T18:07:20.000Z",
-      "summary": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
@@ -137,14 +153,6 @@
       "summary": "<p>Understanding AI as an extension of human intelligence\u2014not a replacement for it\u2014offers a more grounded path for building trustworthy AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/e"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea",
-      "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-      "published": "2026-05-26T23:11:06.000Z",
-      "summary": "KiYoung Choi is joining Anthropic as Representative Director of Korea, ahead of the opening of our Seoul office."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Rethinking organizational design in the age of agentic AI",
@@ -167,14 +175,6 @@
       "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
       "published": "Tue, 26 May 2026 09:00:00 +0000",
       "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited eviden"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-      "published": "Fri, 22 May 2026 18:00:00 +0000",
-      "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage"
     },
     {
       "source": "DeepMind Blog",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-06-01T11:44:52.816741",
-  "last_updated": "2026-06-01T11:44:52.816741",
+  "timestamp": "2026-06-01T17:51:03.331460",
+  "last_updated": "2026-06-01T17:51:03.331460",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
