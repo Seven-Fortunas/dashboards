@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-01 17:51:03 UTC
+**Last Updated:** 2026-06-01 21:37:50 UTC
 
 ## Latest Updates
 
@@ -9,6 +9,7 @@
 | Google AI Blog | [How we used Gemini to build Google I/O 2026](https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/) | Mon, 01 Ju |
 | Anthropic Blog | [Anthropic confidentially submits draft S-1 to the SEC](https://www.anthropic.com/news/confidential-draft-s1-sec) | 2026-06-01 |
 | Anthropic Blog | [Anthropic raises $65B in Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h) | 2026-06-01 |
+| OpenAI Blog | [Building the infrastructure for the Intelligence Age in Michigan](https://openai.com/index/stargate-michigan-data-center) | Mon, 01 Ju |
 | Anthropic Blog | [Introducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) | 2026-06-01 |
 | Google AI Blog | [Take our I/O 2026 quiz, vibe coded in Google AI Studio.](https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/) | Fri, 29 Ma |
 | Google AI Blog | [9 demos of Gemini Omni and Gemini 3.5 in action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/) | Fri, 29 Ma |
@@ -22,7 +23,6 @@
 | Microsoft Research AI | [Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/) | Thu, 28 Ma |
 | Google AI Blog | [Catch up on 12 major I/O 2026 moments](https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/) | Thu, 28 Ma |
 | Anthropic Blog | [Anthropic opens Milan office to support Italian enterprise, research, and develo](https://www.anthropic.com/news/milan-office-opening) | 2026-05-28 |
-| OpenAI Blog | [How Endava builds an agentic organization with Codex](https://openai.com/index/endava) | Thu, 28 Ma |
 | MIT Technology Review AI | [The AI Hype Index: AI gets booed in graduation season](https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/) | Thu, 28 Ma |
 | Microsoft Research AI | [Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/) | Wed, 27 Ma |
 | MIT Technology Review AI | [Rethinking organizational design in the age of agentic AI](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/) | Tue, 26 Ma |

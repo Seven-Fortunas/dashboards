@@ -25,6 +25,14 @@
       "summary": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital."
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "link": "https://openai.com/index/stargate-michigan-data-center",
+      "published": "Mon, 01 Jun 2026 12:00:00 GMT",
+      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Opus 4.8",
@@ -127,14 +135,6 @@
       "link": "https://www.anthropic.com/news/milan-office-opening",
       "published": "2026-05-28T13:00:32.000Z",
       "summary": "We&#x27;re opening a new office in Milan, our sixth in Europe."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How Endava builds an agentic organization with Codex",
-      "link": "https://openai.com/index/endava",
-      "published": "Thu, 28 May 2026 12:00:00 GMT",
-      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours."
     },
     {
       "source": "MIT Technology Review AI",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-06-01T17:51:03.331460",
-  "last_updated": "2026-06-01T17:51:03.331460",
+  "timestamp": "2026-06-01T21:37:50.122214",
+  "last_updated": "2026-06-01T21:37:50.122214",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
