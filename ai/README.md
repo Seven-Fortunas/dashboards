@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-01 04:44:33 UTC
+**Last Updated:** 2026-06-01 11:44:52 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Introducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) | 2026-06-01 |
 | Google AI Blog | [Take our I/O 2026 quiz, vibe coded in Google AI Studio.](https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/) | Fri, 29 Ma |
 | Google AI Blog | [9 demos of Gemini Omni and Gemini 3.5 in action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/) | Fri, 29 Ma |
 | OpenAI Blog | [Boston Children’s uses AI to unlock new diagnoses](https://openai.com/index/boston-childrens-hospital) | Fri, 29 Ma |
@@ -16,7 +17,6 @@
 | OpenAI Blog | [A shared playbook for trustworthy third party evaluations](https://openai.com/index/trustworthy-third-party-evaluations-foundations) | Fri, 29 Ma |
 | Anthropic Blog | [Introducing Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs) | 2026-05-28 |
 | Anthropic Blog | [Anthropic raises $65B in Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h) | 2026-05-28 |
-| Anthropic Blog | [Introducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) | 2026-05-28 |
 | Microsoft Research AI | [Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/) | Thu, 28 Ma |
 | Google AI Blog | [Catch up on 12 major I/O 2026 moments](https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/) | Thu, 28 Ma |
 | Anthropic Blog | [Anthropic opens Milan office to support Italian enterprise, research, and develo](https://www.anthropic.com/news/milan-office-opening) | 2026-05-28 |
