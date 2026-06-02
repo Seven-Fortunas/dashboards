@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Our views on AI policy and political advocacy",
+      "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "published": "Mon, 01 Jun 2026 17:00:00 GMT",
+      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company\u2019s behalf."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "How we used Gemini to build Google I/O 2026",
@@ -39,6 +47,14 @@
       "link": "https://www.anthropic.com/news/claude-opus-4-8",
       "published": "2026-06-01T10:18:23.000Z",
       "summary": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running "
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "published": "Mon, 01 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already u"
     },
     {
       "source": "Google AI Blog",
@@ -87,22 +103,6 @@
       "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
       "published": "Fri, 29 May 2026 10:00:00 +0000",
       "summary": "Pope Leo XIV\u2019s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: \u201cTechnology is never neutral.\u201d Magnifica Humanitas (\u201c"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "published": "Fri, 29 May 2026 03:00:00 GMT",
-      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through "
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "published": "Fri, 29 May 2026 00:00:00 GMT",
-      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems."
     },
     {
       "source": "Anthropic Blog",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-06-01T21:37:50.122214",
-  "last_updated": "2026-06-01T21:37:50.122214",
+  "timestamp": "2026-06-02T04:23:35.527026",
+  "last_updated": "2026-06-02T04:23:35.527026",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
