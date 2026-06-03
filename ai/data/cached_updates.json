@@ -5,8 +5,32 @@
       "type": "sitemap",
       "title": "What we learned mapping a year\u2019s worth of AI-enabled cyber threats",
       "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "published": "2026-06-03T09:46:09.000Z",
+      "published": "2026-06-03T16:18:23.000Z",
       "summary": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question."
+    },
+    {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.10.1",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.10.1",
+      "published": "2026-06-03T15:37:41Z",
+      "summary": "# Release v5.10.1\r\nv5.10.0 was yanked as we publish on a corrupted branch. Sorry everyone, this happens when we rush a release!!! \r\n\r\n## New Model additions\r\n\r\n### Gemma4 unified+ Gemma4 MTP\r\n<img wid"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "link": "https://www.anthropic.com/news/services-track-partner-hub",
+      "published": "2026-06-03T15:30:11.000Z",
+      "summary": "In March, we launched the Claude Partner Network, a program for the firms that help enterprises put Claude into production.. Today, we\u2019re announcing two new components that make this ecosystem easier "
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "published": "Wed, 03 Jun 2026 13:00:00 +0000",
+      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglas"
     },
     {
       "source": "Anthropic Blog",
@@ -97,14 +121,6 @@
       "summary": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Opus 4.8",
-      "link": "https://www.anthropic.com/news/claude-opus-4-8",
-      "published": "2026-06-01T10:18:23.000Z",
-      "summary": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running "
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
@@ -143,14 +159,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
       "published": "Thu, 28 May 2026 16:00:00 +0000",
       "summary": "<p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Catch up on 12 major I/O 2026 moments",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "published": "Thu, 28 May 2026 15:00:00 +0000",
-      "summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote"
     },
     {
       "source": "MIT Technology Review AI",
@@ -199,14 +207,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
       "published": "Thu, 21 May 2026 13:48:40 +0000",
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.9.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.9.0",
-      "published": "2026-05-20T14:12:54Z",
-      "summary": "# Release v5.9.0\r\n\r\n\r\n## New Model additions\r\n\r\n### Cohere2Moe\r\n\r\nCommand A+ is a Mixture-of-Experts (MoE) language model from Cohere that features a hybrid attention pattern combining sliding window "
     },
     {
       "source": "DeepMind Blog",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-06-03T11:08:27.661706",
-  "last_updated": "2026-06-03T11:08:27.661706",
+  "timestamp": "2026-06-03T16:58:13.223639",
+  "last_updated": "2026-06-03T16:58:13.223639",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
