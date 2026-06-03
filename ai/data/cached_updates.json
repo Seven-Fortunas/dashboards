@@ -25,12 +25,36 @@
       "summary": "In March, we launched the Claude Partner Network, a program for the firms that help enterprises put Claude into production.. Today, we\u2019re announcing two new components that make this ecosystem easier "
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "published": "Wed, 03 Jun 2026 13:15:00 GMT",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
       "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
       "published": "Wed, 03 Jun 2026 13:00:00 +0000",
       "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglas"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "link": "https://openai.com/index/frontier-safety-blueprint",
+      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI public policy agenda",
+      "link": "https://openai.com/index/public-policy-agenda",
+      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
     },
     {
       "source": "Anthropic Blog",
@@ -71,30 +95,6 @@
       "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
       "published": "Tue, 02 Jun 2026 09:00:00 +0000",
       "summary": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design t"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Codex is becoming a productivity tool for everyone",
-      "link": "https://openai.com/index/codex-for-knowledge-work",
-      "published": "Tue, 02 Jun 2026 02:00:00 GMT",
-      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Our views on AI policy and political advocacy",
-      "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "published": "Mon, 01 Jun 2026 17:00:00 GMT",
-      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company\u2019s behalf."
     },
     {
       "source": "Google AI Blog",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-06-03T16:58:13.223639",
-  "last_updated": "2026-06-03T16:58:13.223639",
+  "timestamp": "2026-06-03T21:20:07.817124",
+  "last_updated": "2026-06-03T21:20:07.817124",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
