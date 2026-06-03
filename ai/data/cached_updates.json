@@ -3,6 +3,14 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
+      "title": "What we learned mapping a year\u2019s worth of AI-enabled cyber threats",
+      "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "published": "2026-06-03T09:46:09.000Z",
+      "summary": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
       "title": "Expanding Project Glasswing",
       "link": "https://www.anthropic.com/news/expanding-project-glasswing",
       "published": "2026-06-02T14:03:15.000Z",
@@ -127,14 +135,6 @@
       "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
       "published": "Fri, 29 May 2026 10:00:00 +0000",
       "summary": "Pope Leo XIV\u2019s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: \u201cTechnology is never neutral.\u201d Magnifica Humanitas (\u201c"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Design by Anthropic Labs",
-      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "published": "2026-05-28T19:33:59.000Z",
-      "summary": "Today, we\u2019re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-06-03T04:43:13.334362",
-  "last_updated": "2026-06-03T04:43:13.334362",
+  "timestamp": "2026-06-03T11:08:27.661706",
+  "last_updated": "2026-06-03T11:08:27.661706",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
