@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-03 16:58:13 UTC
+**Last Updated:** 2026-06-03 21:20:07 UTC
 
 ## Latest Updates
 
@@ -9,15 +9,15 @@
 | Anthropic Blog | [What we learned mapping a year’s worth of AI-enabled cyber threats](https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack) | 2026-06-03 |
 | HuggingFace Transformers | [Release v5.10.1](https://github.com/huggingface/transformers/releases/tag/v5.10.1) | 2026-06-03 |
 | Anthropic Blog | [Introducing the Services Track and Partner Hub of the Claude Partner Network](https://www.anthropic.com/news/services-track-partner-hub) | 2026-06-03 |
+| OpenAI Blog | [Introducing new capabilities to GPT-Rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind) | Wed, 03 Ju |
 | Google AI Blog | [5 ways Google Search can level up your thrift and vintage shopping](https://blog.google/products-and-platforms/products/search/thrifting-tips/) | Wed, 03 Ju |
+| OpenAI Blog | [A blueprint for democratic governance of frontier AI](https://openai.com/index/frontier-safety-blueprint) | Wed, 03 Ju |
+| OpenAI Blog | [OpenAI public policy agenda](https://openai.com/index/public-policy-agenda) | Wed, 03 Ju |
 | Anthropic Blog | [Expanding Project Glasswing](https://www.anthropic.com/news/expanding-project-glasswing) | 2026-06-02 |
 | OpenAI Blog | [Travelers deploys AI-powered claims countrywide with OpenAI](https://openai.com/index/travelers) | Tue, 02 Ju |
 | MIT Technology Review AI | [Rehumanizing global health care with agentic AI](https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/) | Tue, 02 Ju |
 | OpenAI Blog | [Codex for every role, tool, and workflow](https://openai.com/index/codex-for-every-role-tool-workflow) | Tue, 02 Ju |
 | MIT Technology Review AI | [How small businesses can leverage AI](https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/) | Tue, 02 Ju |
-| OpenAI Blog | [Advancing youth safety and opportunity through global leadership](https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership) | Tue, 02 Ju |
-| OpenAI Blog | [Codex is becoming a productivity tool for everyone](https://openai.com/index/codex-for-knowledge-work) | Tue, 02 Ju |
-| OpenAI Blog | [Our views on AI policy and political advocacy](https://openai.com/index/our-views-on-ai-policy-and-political-advocacy) | Mon, 01 Ju |
 | Google AI Blog | [How we used Gemini to build Google I/O 2026](https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/) | Mon, 01 Ju |
 | Anthropic Blog | [Anthropic confidentially submits draft S-1 to the SEC](https://www.anthropic.com/news/confidential-draft-s1-sec) | 2026-06-01 |
 | Anthropic Blog | [Anthropic raises $65B in Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h) | 2026-06-01 |
