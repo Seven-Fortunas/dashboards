@@ -43,6 +43,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "link": "https://openai.com/index/wasmer",
+      "published": "Wed, 03 Jun 2026 12:00:00 GMT",
+      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "A blueprint for democratic governance of frontier AI",
       "link": "https://openai.com/index/frontier-safety-blueprint",
       "published": "Wed, 03 Jun 2026 10:00:00 GMT",
@@ -79,14 +87,6 @@
       "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
       "published": "Tue, 02 Jun 2026 11:23:34 +0000",
       "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populatio"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Codex for every role, tool, and workflow",
-      "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
-      "published": "Tue, 02 Jun 2026 09:00:00 GMT",
-      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI."
     },
     {
       "source": "MIT Technology Review AI",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-06-03T21:20:07.817124",
-  "last_updated": "2026-06-03T21:20:07.817124",
+  "timestamp": "2026-06-04T04:38:02.817563",
+  "last_updated": "2026-06-04T04:38:02.817563",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
