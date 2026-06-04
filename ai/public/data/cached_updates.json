@@ -9,6 +9,14 @@
       "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise."
     },
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "published": "Thu, 04 Jun 2026 10:50:18 +0000",
+      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a law"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "What we learned mapping a year\u2019s worth of AI-enabled cyber threats",
@@ -59,18 +67,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "OpenAI public policy agenda",
-      "link": "https://openai.com/index/public-policy-agenda",
-      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "A blueprint for democratic governance of frontier AI",
       "link": "https://openai.com/index/frontier-safety-blueprint",
       "published": "Wed, 03 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI public policy agenda",
+      "link": "https://openai.com/index/public-policy-agenda",
+      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
     },
     {
       "source": "Anthropic Blog",
@@ -177,14 +185,6 @@
       "summary": "<p>Understanding AI as an extension of human intelligence\u2014not a replacement for it\u2014offers a more grounded path for building trustworthy AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/e"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-      "published": "Tue, 26 May 2026 14:54:10 +0000",
-      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the ne"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "We\u2019re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-06-04T10:02:21.164485",
-  "last_updated": "2026-06-04T10:02:21.164485",
+  "timestamp": "2026-06-04T15:24:46.346509",
+  "last_updated": "2026-06-04T15:24:46.346509",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
