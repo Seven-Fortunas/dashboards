@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.10.2",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.10.2",
+      "published": "2026-06-04T18:43:06Z",
+      "summary": "# Patch release v5.10.2\r\nThere was a big bug in the model conversion of models related to clip, this affected models like sam3 and others. Please make sure to update :pray: \r\n\r\n* Fix conversion for cl"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "How Endava is redesigning software delivery around AI agents",
@@ -17,20 +25,20 @@
       "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a law"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "link": "https://openai.com/index/chatgpt-memory-dreaming",
+      "published": "Thu, 04 Jun 2026 09:00:00 GMT",
+      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "What we learned mapping a year\u2019s worth of AI-enabled cyber threats",
       "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
       "published": "2026-06-03T16:18:23.000Z",
       "summary": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question."
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.10.1",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.10.1",
-      "published": "2026-06-03T15:37:41Z",
-      "summary": "# Release v5.10.1\r\nv5.10.0 was yanked as we publish on a corrupted branch. Sorry everyone, this happens when we rush a release!!! \r\n\r\n## New Model additions\r\n\r\n### Gemma4 unified+ Gemma4 MTP\r\n<img wid"
     },
     {
       "source": "Anthropic Blog",
@@ -63,14 +71,6 @@
       "link": "https://openai.com/index/wasmer",
       "published": "Wed, 03 Jun 2026 12:00:00 GMT",
       "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "link": "https://openai.com/index/frontier-safety-blueprint",
-      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
     },
     {
       "source": "OpenAI Blog",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-06-04T15:24:46.346509",
-  "last_updated": "2026-06-04T15:24:46.346509",
+  "timestamp": "2026-06-04T20:10:38.247589",
+  "last_updated": "2026-06-04T20:10:38.247589",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
