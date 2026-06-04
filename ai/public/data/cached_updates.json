@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "link": "https://openai.com/index/endava-frontiers",
+      "published": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "What we learned mapping a year\u2019s worth of AI-enabled cyber threats",
@@ -51,18 +59,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "link": "https://openai.com/index/frontier-safety-blueprint",
-      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "OpenAI public policy agenda",
       "link": "https://openai.com/index/public-policy-agenda",
       "published": "Wed, 03 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "link": "https://openai.com/index/frontier-safety-blueprint",
+      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
     },
     {
       "source": "Anthropic Blog",
@@ -71,14 +79,6 @@
       "link": "https://www.anthropic.com/news/expanding-project-glasswing",
       "published": "2026-06-02T14:03:15.000Z",
       "summary": "We\u2019re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "link": "https://openai.com/index/travelers",
-      "published": "Tue, 02 Jun 2026 12:00:00 GMT",
-      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand."
     },
     {
       "source": "MIT Technology Review AI",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-06-04T04:38:02.817563",
-  "last_updated": "2026-06-04T04:38:02.817563",
+  "timestamp": "2026-06-04T10:02:21.164485",
+  "last_updated": "2026-06-04T10:02:21.164485",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
