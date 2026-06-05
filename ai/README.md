@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-04 20:10:38 UTC
+**Last Updated:** 2026-06-05 04:11:29 UTC
 
 ## Latest Updates
 
@@ -10,12 +10,12 @@
 | OpenAI Blog | [How Endava is redesigning software delivery around AI agents](https://openai.com/index/endava-frontiers) | Thu, 04 Ju |
 | MIT Technology Review AI | [How courts are coping with a flood of AI-generated lawsuits](https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/) | Thu, 04 Ju |
 | OpenAI Blog | [Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming) | Thu, 04 Ju |
+| OpenAI Blog | [Biodefense in the Intelligence Age](https://openai.com/index/biodefense-in-the-intelligence-age) | Thu, 04 Ju |
 | Anthropic Blog | [What we learned mapping a year’s worth of AI-enabled cyber threats](https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack) | 2026-06-03 |
 | Anthropic Blog | [Introducing the Services Track and Partner Hub of the Claude Partner Network](https://www.anthropic.com/news/services-track-partner-hub) | 2026-06-03 |
 | OpenAI Blog | [Introducing new capabilities to GPT-Rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind) | Wed, 03 Ju |
 | Google AI Blog | [5 ways Google Search can level up your thrift and vintage shopping](https://blog.google/products-and-platforms/products/search/thrifting-tips/) | Wed, 03 Ju |
 | OpenAI Blog | [How Wasmer used Codex to build a Node.js runtime for the edge](https://openai.com/index/wasmer) | Wed, 03 Ju |
-| OpenAI Blog | [OpenAI public policy agenda](https://openai.com/index/public-policy-agenda) | Wed, 03 Ju |
 | Anthropic Blog | [Expanding Project Glasswing](https://www.anthropic.com/news/expanding-project-glasswing) | 2026-06-02 |
 | MIT Technology Review AI | [Rehumanizing global health care with agentic AI](https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/) | Tue, 02 Ju |
 | MIT Technology Review AI | [How small businesses can leverage AI](https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/) | Tue, 02 Ju |
