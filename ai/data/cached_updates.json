@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
+      "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "published": "Fri, 05 Jun 2026 09:00:00 +0000",
+      "summary": "On June 5, 404 Media reported that attackers had been using Meta\u2019s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email "
+    },
+    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.10.2",
@@ -169,14 +177,6 @@
       "summary": "<p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The AI Hype Index: AI gets booed in graduation season",
-      "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-      "published": "Thu, 28 May 2026 09:51:11 +0000",
-      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their t"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Extending Human Intelligence Through AI",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-06-05T04:11:29.417279",
-  "last_updated": "2026-06-05T04:11:29.417279",
+  "timestamp": "2026-06-05T10:00:13.576629",
+  "last_updated": "2026-06-05T10:00:13.576629",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
