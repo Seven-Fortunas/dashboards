@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-05 04:11:29 UTC
+**Last Updated:** 2026-06-05 10:00:13 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [The Meta hack shows there’s more to AI security than Mythos](https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/) | Fri, 05 Ju |
 | HuggingFace Transformers | [Release v5.10.2](https://github.com/huggingface/transformers/releases/tag/v5.10.2) | 2026-06-04 |
 | OpenAI Blog | [How Endava is redesigning software delivery around AI agents](https://openai.com/index/endava-frontiers) | Thu, 04 Ju |
 | MIT Technology Review AI | [How courts are coping with a flood of AI-generated lawsuits](https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/) | Thu, 04 Ju |
@@ -27,7 +28,6 @@
 | Google AI Blog | [Check out real-life AI prototypes from the Futures Lab.](https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/) | Fri, 29 Ma |
 | MIT Technology Review AI | [How the Pope’s Magnifica Humanitas offers a template for individuals to meet the](https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/) | Fri, 29 Ma |
 | Microsoft Research AI | [Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/) | Thu, 28 Ma |
-| MIT Technology Review AI | [The AI Hype Index: AI gets booed in graduation season](https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/) | Thu, 28 Ma |
 | Microsoft Research AI | [Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/) | Wed, 27 Ma |
 | DeepMind Blog | [We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackl](https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/) | Thu, 21 Ma |
 | Microsoft Research AI | [MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small ](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/) | Thu, 21 Ma |
