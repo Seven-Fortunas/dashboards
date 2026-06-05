@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical &quot;Magnifica humanitas&quot;",
+      "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "published": "2026-06-05T14:58:47.000Z",
+      "summary": "The full text of Chris Olah&#x27;s remarks on the Pope&#x27;s encyclical on AI."
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.4.1",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.1",
+      "published": "2026-06-05T14:51:58Z",
+      "summary": "Changes since langchain-core==1.4.0\n\nrelease(core): 1.4.1 (#37922)\nfix(core): remove Bedrock prevalidation from `load` (#37909)\ndocs(core): expand and link `ModelProfile` docstrings (#37904)\nrelease(a"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "The latest AI news we announced in May 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "published": "Fri, 05 Jun 2026 14:45:00 +0000",
+      "summary": "May AI recap"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Widening the conversation on frontier AI",
+      "link": "https://www.anthropic.com/news/widening-conversation-ai",
+      "published": "2026-06-05T14:40:24.000Z",
+      "summary": "Over the past several months, we\u2019ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
@@ -121,22 +153,6 @@
       "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and t"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "published": "2026-06-01T15:59:13.000Z",
-      "summary": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "link": "https://www.anthropic.com/news/series-h",
-      "published": "2026-06-01T15:29:46.000Z",
-      "summary": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
@@ -151,14 +167,6 @@
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
       "published": "Fri, 29 May 2026 17:30:00 +0000",
       "summary": "Gemini Omni & Gemini 3.5 hero"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Check out real-life AI prototypes from the Futures Lab.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-      "published": "Fri, 29 May 2026 12:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp\" />University of Waterloo students develop AI prototypes like sign language tut"
     },
     {
       "source": "MIT Technology Review AI",
@@ -255,18 +263,10 @@
       "link": "https://github.com/pytorch/pytorch/releases/tag/v2.12.0",
       "published": "2026-05-13T17:38:06Z",
       "summary": "# PyTorch 2.12.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.4.0",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.0",
-      "published": "2026-05-11T18:42:53Z",
-      "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-06-05T10:00:13.576629",
-  "last_updated": "2026-06-05T10:00:13.576629",
+  "timestamp": "2026-06-05T15:13:53.526818",
+  "last_updated": "2026-06-05T15:13:53.526818",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

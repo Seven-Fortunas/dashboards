@@ -1,11 +1,15 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-05 10:00:13 UTC
+**Last Updated:** 2026-06-05 15:13:53 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical) | 2026-06-05 |
+| LangChain Releases | [Release langchain-core==1.4.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.1) | 2026-06-05 |
+| Google AI Blog | [The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/) | Fri, 05 Ju |
+| Anthropic Blog | [Widening the conversation on frontier AI](https://www.anthropic.com/news/widening-conversation-ai) | 2026-06-05 |
 | MIT Technology Review AI | [The Meta hack shows there’s more to AI security than Mythos](https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/) | Fri, 05 Ju |
 | HuggingFace Transformers | [Release v5.10.2](https://github.com/huggingface/transformers/releases/tag/v5.10.2) | 2026-06-04 |
 | OpenAI Blog | [How Endava is redesigning software delivery around AI agents](https://openai.com/index/endava-frontiers) | Thu, 04 Ju |
@@ -21,11 +25,8 @@
 | MIT Technology Review AI | [Rehumanizing global health care with agentic AI](https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/) | Tue, 02 Ju |
 | MIT Technology Review AI | [How small businesses can leverage AI](https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/) | Tue, 02 Ju |
 | Google AI Blog | [How we used Gemini to build Google I/O 2026](https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/) | Mon, 01 Ju |
-| Anthropic Blog | [Anthropic confidentially submits draft S-1 to the SEC](https://www.anthropic.com/news/confidential-draft-s1-sec) | 2026-06-01 |
-| Anthropic Blog | [Anthropic raises $65B in Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h) | 2026-06-01 |
 | Google AI Blog | [Take our I/O 2026 quiz, vibe coded in Google AI Studio.](https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/) | Fri, 29 Ma |
 | Google AI Blog | [9 demos of Gemini Omni and Gemini 3.5 in action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/) | Fri, 29 Ma |
-| Google AI Blog | [Check out real-life AI prototypes from the Futures Lab.](https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/) | Fri, 29 Ma |
 | MIT Technology Review AI | [How the Pope’s Magnifica Humanitas offers a template for individuals to meet the](https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/) | Fri, 29 Ma |
 | Microsoft Research AI | [Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/) | Thu, 28 Ma |
 | Microsoft Research AI | [Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/) | Wed, 27 Ma |
@@ -38,4 +39,3 @@
 | DeepMind Blog | [Introducing Google Antigravity 2.0](https://deepmind.google/blog/introducing-google-antigravity-2-0/) | Sun, 17 Ma |
 | Microsoft Research AI | [Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliabili](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/) | Fri, 15 Ma |
 | PyTorch Releases | [Release v2.12.0](https://github.com/pytorch/pytorch/releases/tag/v2.12.0) | 2026-05-13 |
-| LangChain Releases | [Release langchain-core==1.4.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.0) | 2026-05-11 |
