@@ -33,6 +33,14 @@
       "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Biodefense in the Intelligence Age",
+      "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "published": "Thu, 04 Jun 2026 00:00:00 GMT",
+      "summary": "An action plan for AI-powered biological resilience"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "What we learned mapping a year\u2019s worth of AI-enabled cyber threats",
@@ -71,14 +79,6 @@
       "link": "https://openai.com/index/wasmer",
       "published": "Wed, 03 Jun 2026 12:00:00 GMT",
       "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI public policy agenda",
-      "link": "https://openai.com/index/public-policy-agenda",
-      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
     },
     {
       "source": "Anthropic Blog",
@@ -265,8 +265,8 @@
       "summary": "Changes since langchain-core==0.3.86\n\nchore(infra): merge v1.4 into master (#37350)\nchore: bump urllib3 from 2.6.3 to 2.7.0 in /libs/core (#37329)\nfix(core): avoid eager `pydantic.v1` import in `@depr"
     }
   ],
-  "timestamp": "2026-06-04T20:10:38.247589",
-  "last_updated": "2026-06-04T20:10:38.247589",
+  "timestamp": "2026-06-05T04:11:29.417279",
+  "last_updated": "2026-06-05T04:11:29.417279",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
