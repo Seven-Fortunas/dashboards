@@ -3,10 +3,10 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
-      "title": "Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical &quot;Magnifica humanitas&quot;",
+      "title": "Chris Olah Pope Leo Encyclical",
       "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
       "published": "2026-06-05T14:58:47.000Z",
-      "summary": "The full text of Chris Olah&#x27;s remarks on the Pope&#x27;s encyclical on AI."
+      "summary": ""
     },
     {
       "source": "LangChain Releases",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.12.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-06-08T04:25:37.880505",
-  "last_updated": "2026-06-08T04:25:37.880505",
+  "timestamp": "2026-06-08T11:05:55.811526",
+  "last_updated": "2026-06-08T11:05:55.811526",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
