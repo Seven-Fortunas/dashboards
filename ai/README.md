@@ -1,13 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-08 16:02:12 UTC
+**Last Updated:** 2026-06-08 20:24:01 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.4.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.2) | 2026-06-08 |
+| OpenAI Blog | [Introducing the OpenAI Economic Research Exchange](https://openai.com/index/economic-research-exchange) | Mon, 08 Ju |
 | Anthropic Blog | [Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical) | 2026-06-05 |
-| LangChain Releases | [Release langchain-core==1.4.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.1) | 2026-06-05 |
 | Google AI Blog | [The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/) | Fri, 05 Ju |
 | Anthropic Blog | [Widening the conversation on frontier AI](https://www.anthropic.com/news/widening-conversation-ai) | 2026-06-05 |
 | MIT Technology Review AI | [The Meta hack shows there’s more to AI security than Mythos](https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/) | Fri, 05 Ju |
@@ -20,7 +21,6 @@
 | Anthropic Blog | [Introducing the Services Track and Partner Hub of the Claude Partner Network](https://www.anthropic.com/news/services-track-partner-hub) | 2026-06-03 |
 | OpenAI Blog | [Introducing new capabilities to GPT-Rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind) | Wed, 03 Ju |
 | Google AI Blog | [5 ways Google Search can level up your thrift and vintage shopping](https://blog.google/products-and-platforms/products/search/thrifting-tips/) | Wed, 03 Ju |
-| OpenAI Blog | [How Wasmer used Codex to build a Node.js runtime for the edge](https://openai.com/index/wasmer) | Wed, 03 Ju |
 | Anthropic Blog | [Expanding Project Glasswing](https://www.anthropic.com/news/expanding-project-glasswing) | 2026-06-02 |
 | MIT Technology Review AI | [Rehumanizing global health care with agentic AI](https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/) | Tue, 02 Ju |
 | MIT Technology Review AI | [How small businesses can leverage AI](https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/) | Tue, 02 Ju |
