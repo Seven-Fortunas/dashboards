@@ -1,12 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-08 11:05:55 UTC
+**Last Updated:** 2026-06-08 16:02:12 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| Anthropic Blog | [Chris Olah Pope Leo Encyclical](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical) | 2026-06-05 |
+| Anthropic Blog | [Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical) | 2026-06-05 |
 | LangChain Releases | [Release langchain-core==1.4.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.1) | 2026-06-05 |
 | Google AI Blog | [The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/) | Fri, 05 Ju |
 | Anthropic Blog | [Widening the conversation on frontier AI](https://www.anthropic.com/news/widening-conversation-ai) | 2026-06-05 |
