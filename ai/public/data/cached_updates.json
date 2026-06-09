@@ -11,6 +11,22 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "link": "https://openai.com/index/openai-submits-confidential-s-1",
+      "published": "Mon, 08 Jun 2026 14:00:00 GMT",
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Built to benefit everyone: our plan",
+      "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "published": "Mon, 08 Jun 2026 01:30:00 GMT",
+      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Introducing the OpenAI Economic Research Exchange",
       "link": "https://openai.com/index/economic-research-exchange",
       "published": "Mon, 08 Jun 2026 00:00:00 GMT",
@@ -81,14 +97,6 @@
       "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Biodefense in the Intelligence Age",
-      "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "published": "Thu, 04 Jun 2026 00:00:00 GMT",
-      "summary": "An action plan for AI-powered biological resilience"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "What we learned mapping a year\u2019s worth of AI-enabled cyber threats",
@@ -103,14 +111,6 @@
       "link": "https://www.anthropic.com/news/services-track-partner-hub",
       "published": "2026-06-03T15:30:11.000Z",
       "summary": "In March, we launched the Claude Partner Network, a program for the firms that help enterprises put Claude into production.. Today, we\u2019re announcing two new components that make this ecosystem easier "
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "published": "Wed, 03 Jun 2026 13:15:00 GMT",
-      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
     },
     {
       "source": "Google AI Blog",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.12.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-06-08T20:24:01.708745",
-  "last_updated": "2026-06-08T20:24:01.708745",
+  "timestamp": "2026-06-09T03:57:33.956414",
+  "last_updated": "2026-06-09T03:57:33.956414",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

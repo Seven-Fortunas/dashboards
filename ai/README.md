@@ -1,12 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-08 20:24:01 UTC
+**Last Updated:** 2026-06-09 03:57:33 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
 | LangChain Releases | [Release langchain-core==1.4.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.2) | 2026-06-08 |
+| OpenAI Blog | [Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1) | Mon, 08 Ju |
+| OpenAI Blog | [Built to benefit everyone: our plan](https://openai.com/index/built-to-benefit-everyone-our-plan) | Mon, 08 Ju |
 | OpenAI Blog | [Introducing the OpenAI Economic Research Exchange](https://openai.com/index/economic-research-exchange) | Mon, 08 Ju |
 | Anthropic Blog | [Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical) | 2026-06-05 |
 | Google AI Blog | [The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/) | Fri, 05 Ju |
@@ -16,10 +18,8 @@
 | OpenAI Blog | [How Endava is redesigning software delivery around AI agents](https://openai.com/index/endava-frontiers) | Thu, 04 Ju |
 | MIT Technology Review AI | [How courts are coping with a flood of AI-generated lawsuits](https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/) | Thu, 04 Ju |
 | OpenAI Blog | [Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming) | Thu, 04 Ju |
-| OpenAI Blog | [Biodefense in the Intelligence Age](https://openai.com/index/biodefense-in-the-intelligence-age) | Thu, 04 Ju |
 | Anthropic Blog | [What we learned mapping a year’s worth of AI-enabled cyber threats](https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack) | 2026-06-03 |
 | Anthropic Blog | [Introducing the Services Track and Partner Hub of the Claude Partner Network](https://www.anthropic.com/news/services-track-partner-hub) | 2026-06-03 |
-| OpenAI Blog | [Introducing new capabilities to GPT-Rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind) | Wed, 03 Ju |
 | Google AI Blog | [5 ways Google Search can level up your thrift and vintage shopping](https://blog.google/products-and-platforms/products/search/thrifting-tips/) | Wed, 03 Ju |
 | Anthropic Blog | [Expanding Project Glasswing](https://www.anthropic.com/news/expanding-project-glasswing) | 2026-06-02 |
 | MIT Technology Review AI | [Rehumanizing global health care with agentic AI](https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/) | Tue, 02 Ju |
