@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Five things you need to know about AI",
+      "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "published": "Tue, 09 Jun 2026 09:16:45 +0000",
+      "summary": "At SXSW London last week I gave a talk called \u201cFive things you need to know about AI,\u201d in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 "
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.4.2",
@@ -169,14 +177,6 @@
       "summary": "Gemini Omni & Gemini 3.5 hero"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "How the Pope\u2019s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-      "published": "Fri, 29 May 2026 10:00:00 +0000",
-      "summary": "Pope Leo XIV\u2019s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: \u201cTechnology is never neutral.\u201d Magnifica Humanitas (\u201c"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.12.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-06-09T03:57:33.956414",
-  "last_updated": "2026-06-09T03:57:33.956414",
+  "timestamp": "2026-06-09T09:54:13.653047",
+  "last_updated": "2026-06-09T09:54:13.653047",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
