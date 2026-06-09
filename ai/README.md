@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-09 03:57:33 UTC
+**Last Updated:** 2026-06-09 09:54:13 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Five things you need to know about AI](https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/) | Tue, 09 Ju |
 | LangChain Releases | [Release langchain-core==1.4.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.2) | 2026-06-08 |
 | OpenAI Blog | [Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1) | Mon, 08 Ju |
 | OpenAI Blog | [Built to benefit everyone: our plan](https://openai.com/index/built-to-benefit-everyone-our-plan) | Mon, 08 Ju |
@@ -27,7 +28,6 @@
 | Google AI Blog | [How we used Gemini to build Google I/O 2026](https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/) | Mon, 01 Ju |
 | Google AI Blog | [Take our I/O 2026 quiz, vibe coded in Google AI Studio.](https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/) | Fri, 29 Ma |
 | Google AI Blog | [9 demos of Gemini Omni and Gemini 3.5 in action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/) | Fri, 29 Ma |
-| MIT Technology Review AI | [How the Pope’s Magnifica Humanitas offers a template for individuals to meet the](https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/) | Fri, 29 Ma |
 | Microsoft Research AI | [Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/) | Thu, 28 Ma |
 | Microsoft Research AI | [Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/) | Wed, 27 Ma |
 | DeepMind Blog | [We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackl](https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/) | Thu, 21 Ma |
