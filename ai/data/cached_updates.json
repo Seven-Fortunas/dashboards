@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "published": "Tue, 09 Jun 2026 14:10:19 +0000",
+      "summary": ""
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Powering the future of robotics in Europe",
+      "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "published": "Tue, 09 Jun 2026 14:02:33 +0000",
+      "summary": ""
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "published": "Tue, 09 Jun 2026 10:20:06 +0000",
+      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years,\u00a0leadership teams are carefully considering the implications of a hybrid human-AI workforce.\u00a0 Unlike existing enter"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Five things you need to know about AI",
@@ -23,6 +47,14 @@
       "link": "https://openai.com/index/openai-submits-confidential-s-1",
       "published": "Mon, 08 Jun 2026 14:00:00 GMT",
       "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action."
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "link": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "published": "Mon, 08 Jun 2026 13:04:59 +0000",
+      "summary": "Results from a randomized controlled trial show the potential of Gemini\u2019s Guided Learning feature to boost engagement and accelerate learning."
     },
     {
       "source": "OpenAI Blog",
@@ -145,14 +177,6 @@
       "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populatio"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "How small businesses can leverage AI",
-      "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "published": "Tue, 02 Jun 2026 09:00:00 +0000",
-      "summary": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design t"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "How we used Gemini to build Google I/O 2026",
@@ -225,30 +249,6 @@
       "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Simulate real-world places with Project Genie and Street View",
-      "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
-      "published": "Sun, 17 May 2026 19:53:18 +0000",
-      "summary": "We\u2019re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View."
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Introducing Gemini Omni",
-      "link": "https://deepmind.google/blog/introducing-gemini-omni/",
-      "published": "Sun, 17 May 2026 19:50:57 +0000",
-      "summary": ""
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Introducing Google Antigravity 2.0",
-      "link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
-      "published": "Sun, 17 May 2026 19:43:45 +0000",
-      "summary": ""
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.12.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-06-09T09:54:13.653047",
-  "last_updated": "2026-06-09T09:54:13.653047",
+  "timestamp": "2026-06-09T15:14:22.735349",
+  "last_updated": "2026-06-09T15:14:22.735349",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
