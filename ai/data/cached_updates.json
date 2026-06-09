@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "published": "2026-06-09T20:06:14.000Z",
+      "summary": "Today we\u2019re launching Claude Fable 5: a Mythos-class model that we\u2019ve made safe for general use."
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "published": "Tue, 09 Jun 2026 15:16:25 +0000",
+      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet."
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
@@ -161,14 +177,6 @@
       "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglas"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Expanding Project Glasswing",
-      "link": "https://www.anthropic.com/news/expanding-project-glasswing",
-      "published": "2026-06-02T14:03:15.000Z",
-      "summary": "We\u2019re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries"
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Rehumanizing global health care with agentic AI",
@@ -241,14 +249,6 @@
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Fast-tracking genetic leads to reverse cellular aging",
-      "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-      "published": "Mon, 18 May 2026 18:21:39 +0000",
-      "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.12.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-06-09T15:14:22.735349",
-  "last_updated": "2026-06-09T15:14:22.735349",
+  "timestamp": "2026-06-09T20:11:40.107828",
+  "last_updated": "2026-06-09T20:11:40.107828",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
