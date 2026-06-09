@@ -1,14 +1,18 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-09 09:54:13 UTC
+**Last Updated:** 2026-06-09 15:14:22 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| DeepMind Blog | [Introducing Gemma 4 12B: a unified, encoder-free multimodal model](https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/) | Tue, 09 Ju |
+| DeepMind Blog | [Powering the future of robotics in Europe](https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/) | Tue, 09 Ju |
+| MIT Technology Review AI | [Learning to lead in a hybrid human-AI enterprise](https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/) | Tue, 09 Ju |
 | MIT Technology Review AI | [Five things you need to know about AI](https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/) | Tue, 09 Ju |
 | LangChain Releases | [Release langchain-core==1.4.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.2) | 2026-06-08 |
 | OpenAI Blog | [Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1) | Mon, 08 Ju |
+| DeepMind Blog | [Measuring the impact of learning with AI in Sierra Leone and beyond](https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/) | Mon, 08 Ju |
 | OpenAI Blog | [Built to benefit everyone: our plan](https://openai.com/index/built-to-benefit-everyone-our-plan) | Mon, 08 Ju |
 | OpenAI Blog | [Introducing the OpenAI Economic Research Exchange](https://openai.com/index/economic-research-exchange) | Mon, 08 Ju |
 | Anthropic Blog | [Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical) | 2026-06-05 |
@@ -24,7 +28,6 @@
 | Google AI Blog | [5 ways Google Search can level up your thrift and vintage shopping](https://blog.google/products-and-platforms/products/search/thrifting-tips/) | Wed, 03 Ju |
 | Anthropic Blog | [Expanding Project Glasswing](https://www.anthropic.com/news/expanding-project-glasswing) | 2026-06-02 |
 | MIT Technology Review AI | [Rehumanizing global health care with agentic AI](https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/) | Tue, 02 Ju |
-| MIT Technology Review AI | [How small businesses can leverage AI](https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/) | Tue, 02 Ju |
 | Google AI Blog | [How we used Gemini to build Google I/O 2026](https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/) | Mon, 01 Ju |
 | Google AI Blog | [Take our I/O 2026 quiz, vibe coded in Google AI Studio.](https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/) | Fri, 29 Ma |
 | Google AI Blog | [9 demos of Gemini Omni and Gemini 3.5 in action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/) | Fri, 29 Ma |
@@ -34,8 +37,5 @@
 | Microsoft Research AI | [MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small ](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/) | Thu, 21 Ma |
 | Microsoft Research AI | [Vega: Zero-knowledge proofs for digital identity in the age of AI](https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/) | Thu, 21 Ma |
 | DeepMind Blog | [Fast-tracking genetic leads to reverse cellular aging](https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/) | Mon, 18 Ma |
-| DeepMind Blog | [Simulate real-world places with Project Genie and Street View](https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/) | Sun, 17 Ma |
-| DeepMind Blog | [Introducing Gemini Omni](https://deepmind.google/blog/introducing-gemini-omni/) | Sun, 17 Ma |
-| DeepMind Blog | [Introducing Google Antigravity 2.0](https://deepmind.google/blog/introducing-google-antigravity-2-0/) | Sun, 17 Ma |
 | Microsoft Research AI | [Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliabili](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/) | Fri, 15 Ma |
 | PyTorch Releases | [Release v2.12.0](https://github.com/pytorch/pytorch/releases/tag/v2.12.0) | 2026-05-13 |
