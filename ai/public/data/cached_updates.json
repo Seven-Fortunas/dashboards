@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.12.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-06-10T10:10:21.424860",
-  "last_updated": "2026-06-10T10:10:21.424860",
+  "timestamp": "2026-06-10T15:48:33.898876",
+  "last_updated": "2026-06-10T15:48:33.898876",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
