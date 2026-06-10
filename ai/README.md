@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-10 04:08:36 UTC
+**Last Updated:** 2026-06-10 10:10:21 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [From data to decisions: how LSEG is scaling trusted AI](https://openai.com/index/lseg) | Wed, 10 Ju |
 | LangChain Releases | [Release langchain-core==1.4.3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.3) | 2026-06-09 |
 | Anthropic Blog | [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) | 2026-06-09 |
 | DeepMind Blog | [Fluid, natural voice translation with Gemini 3.5 Live Translate](https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/) | Tue, 09 Ju |
@@ -18,7 +19,6 @@
 | OpenAI Blog | [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age) | Tue, 09 Ju |
 | OpenAI Blog | [Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1) | Mon, 08 Ju |
 | DeepMind Blog | [Measuring the impact of learning with AI in Sierra Leone and beyond](https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/) | Mon, 08 Ju |
-| OpenAI Blog | [Built to benefit everyone: our plan](https://openai.com/index/built-to-benefit-everyone-our-plan) | Mon, 08 Ju |
 | Anthropic Blog | [Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical) | 2026-06-05 |
 | Google AI Blog | [The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/) | Fri, 05 Ju |
 | Anthropic Blog | [Widening the conversation on frontier AI](https://www.anthropic.com/news/widening-conversation-ai) | 2026-06-05 |
