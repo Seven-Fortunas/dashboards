@@ -3,10 +3,10 @@
     {
       "source": "LangChain Releases",
       "type": "github",
-      "title": "Release langchain-core==1.4.5",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.5",
-      "published": "2026-06-11T02:58:10Z",
-      "summary": "Changes since langchain-core==1.4.4\n\nrelease(core): 1.4.5 (#38056)\nfeat(standard-tests): validate tool call chunks during streaming (#34707)\nfix(core): async tracer `on_chat_model_start` fallback in s"
+      "title": "Release langchain-core==1.4.6",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.6",
+      "published": "2026-06-11T07:10:07Z",
+      "summary": "Changes since langchain-core==1.4.5\n\nrelease(core): 1.4.6 (#38061)\nfeat(core,partners): add package version tracking to tracing metadata (#35295)\nfix(core,openai): normalize v1 streamed tool calls (#3"
     },
     {
       "source": "OpenAI Blog",
@@ -15,6 +15,14 @@
       "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
     },
     {
       "source": "OpenAI Blog",
@@ -87,14 +95,6 @@
       "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
       "published": "Tue, 09 Jun 2026 14:02:33 +0000",
       "summary": ""
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "link": "https://openai.com/index/nextdoor",
-      "published": "Tue, 09 Jun 2026 12:00:00 GMT",
-      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
     },
     {
       "source": "MIT Technology Review AI",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.12.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-06-11T04:22:19.541547",
-  "last_updated": "2026-06-11T04:22:19.541547",
+  "timestamp": "2026-06-11T10:44:38.794385",
+  "last_updated": "2026-06-11T10:44:38.794385",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
