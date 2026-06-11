@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "published": "Thu, 11 Jun 2026 20:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp\" />We\u2019re helping build the state\u2019s next-generation workforce and investing in ener"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "link": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "published": "2026-06-11T18:00:23.000Z",
+      "summary": "We\u2019re announcing a multi-year global alliance with DXC Technology, one of the world\u2019s largest IT services companies."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Corps",
@@ -27,6 +43,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "OpenAI to acquire Ona",
+      "link": "https://openai.com/index/openai-to-acquire-ona",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
       "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
@@ -39,6 +63,14 @@
       "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "link": "https://openai.com/index/bbva",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
     },
     {
       "source": "OpenAI Blog",
@@ -65,28 +97,12 @@
       "summary": ""
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
-      "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "published": "Wed, 10 Jun 2026 12:00:00 GMT",
-      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Investing in multi-agent AI safety research",
       "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
       "published": "Wed, 10 Jun 2026 10:21:19 +0000",
       "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "link": "https://openai.com/index/lseg",
-      "published": "Wed, 10 Jun 2026 00:00:00 GMT",
-      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees."
     },
     {
       "source": "Anthropic Blog",
@@ -177,14 +193,6 @@
       "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a law"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "What we learned mapping a year\u2019s worth of AI-enabled cyber threats",
-      "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "published": "2026-06-03T16:18:23.000Z",
-      "summary": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
@@ -207,14 +215,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
       "published": "Fri, 29 May 2026 19:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\" />We used Google AI Studio to vibe code a quiz about our top I/O 2026 announce"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "published": "Fri, 29 May 2026 17:30:00 +0000",
-      "summary": "Gemini Omni & Gemini 3.5 hero"
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.12.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-06-11T16:10:52.204996",
-  "last_updated": "2026-06-11T16:10:52.204996",
+  "timestamp": "2026-06-11T20:30:26.053640",
+  "last_updated": "2026-06-11T20:30:26.053640",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
