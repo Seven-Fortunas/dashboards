@@ -1,25 +1,25 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-10 20:36:07 UTC
+**Last Updated:** 2026-06-11 04:22:19 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.4.5](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.5) | 2026-06-11 |
+| OpenAI Blog | [How an astrophysicist uses Codex to help simulate black holes](https://openai.com/index/using-codex-to-simulate-black-holes) | Thu, 11 Ju |
+| OpenAI Blog | [Access OpenAI models and Codex through your Oracle cloud commitment](https://openai.com/index/openai-on-oracle-cloud) | Wed, 10 Ju |
 | HuggingFace Transformers | [Release v5.11.0](https://github.com/huggingface/transformers/releases/tag/v5.11.0) | 2026-06-10 |
 | DeepMind Blog | [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/) | Wed, 10 Ju |
 | OpenAI Blog | [PRC-linked influence operations are targeting AI debates in the US](https://openai.com/index/prc-linked-influence-operations-ai-debates) | Wed, 10 Ju |
 | OpenAI Blog | [From data to decisions: how LSEG is scaling trusted AI](https://openai.com/index/lseg) | Wed, 10 Ju |
-| LangChain Releases | [Release langchain-core==1.4.3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.3) | 2026-06-09 |
 | Anthropic Blog | [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) | 2026-06-09 |
 | DeepMind Blog | [Fluid, natural voice translation with Gemini 3.5 Live Translate](https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/) | Tue, 09 Ju |
 | DeepMind Blog | [Introducing Gemma 4 12B: a unified, encoder-free multimodal model](https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/) | Tue, 09 Ju |
 | DeepMind Blog | [Powering the future of robotics in Europe](https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/) | Tue, 09 Ju |
 | OpenAI Blog | [How engineers at Nextdoor use Codex to build without limits](https://openai.com/index/nextdoor) | Tue, 09 Ju |
 | MIT Technology Review AI | [Learning to lead in a hybrid human-AI enterprise](https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/) | Tue, 09 Ju |
-| OpenAI Blog | [What Codex unlocks for Notion](https://openai.com/index/notion) | Tue, 09 Ju |
 | MIT Technology Review AI | [Five things you need to know about AI](https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/) | Tue, 09 Ju |
-| OpenAI Blog | [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age) | Tue, 09 Ju |
 | DeepMind Blog | [Measuring the impact of learning with AI in Sierra Leone and beyond](https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/) | Mon, 08 Ju |
 | Anthropic Blog | [Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical) | 2026-06-05 |
 | Google AI Blog | [The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/) | Fri, 05 Ju |

@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.4.5",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.5",
+      "published": "2026-06-11T02:58:10Z",
+      "summary": "Changes since langchain-core==1.4.4\n\nrelease(core): 1.4.5 (#38056)\nfeat(standard-tests): validate tool call chunks during streaming (#34707)\nfix(core): async tracer `on_chat_model_start` fallback in s"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "link": "https://openai.com/index/openai-on-oracle-cloud",
+      "published": "Wed, 10 Jun 2026 20:00:00 GMT",
+      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance."
+    },
+    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.11.0",
@@ -31,14 +55,6 @@
       "link": "https://openai.com/index/lseg",
       "published": "Wed, 10 Jun 2026 00:00:00 GMT",
       "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees."
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.4.3",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.3",
-      "published": "2026-06-09T20:32:10Z",
-      "summary": "Changes since langchain-core==1.4.2\n\nrelease(core): 1.4.3 (#37991)\nfeat(openai): support `apply_patch` built-in tool (#37157)"
     },
     {
       "source": "Anthropic Blog",
@@ -89,28 +105,12 @@
       "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years,\u00a0leadership teams are carefully considering the implications of a hybrid human-AI workforce.\u00a0 Unlike existing enter"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "What Codex unlocks for Notion",
-      "link": "https://openai.com/index/notion",
-      "published": "Tue, 09 Jun 2026 10:00:00 GMT",
-      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Five things you need to know about AI",
       "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
       "published": "Tue, 09 Jun 2026 09:16:45 +0000",
       "summary": "At SXSW London last week I gave a talk called \u201cFive things you need to know about AI,\u201d in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 "
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Industrial policy for the Intelligence Age",
-      "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "published": "Tue, 09 Jun 2026 00:00:00 GMT",
-      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves."
     },
     {
       "source": "DeepMind Blog",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.12.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-06-10T20:36:07.485119",
-  "last_updated": "2026-06-10T20:36:07.485119",
+  "timestamp": "2026-06-11T04:22:19.541547",
+  "last_updated": "2026-06-11T04:22:19.541547",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
