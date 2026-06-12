@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.12.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.12.0",
+      "published": "2026-06-12T14:39:40Z",
+      "summary": "# Release v5.12.0\r\n\r\n\r\n## New Model additions\r\n\r\n### MiniMax-M3-VL\r\n\r\n<img width=\"886\" height=\"583\" alt=\"image\" src=\"https://github.com/user-attachments/assets/ae9dd96f-6877-4531-a06b-a756686f24e5\" />"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "How Preply combines AI and human tutors to personalize learning",
@@ -51,26 +59,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "OpenAI to acquire Ona",
       "link": "https://openai.com/index/openai-to-acquire-ona",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
     },
     {
       "source": "OpenAI Blog",
@@ -81,12 +81,12 @@
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
     },
     {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.11.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.11.0",
-      "published": "2026-06-10T16:32:44Z",
-      "summary": "# Release v5.11.0\r\n\r\n\r\n## New Model additions\r\n\r\n### DiffusionGemma\r\n\r\n<img width=\"1240\" height=\"700\" alt=\"image\" src=\"https://github.com/user-attachments/assets/5081e449-6374-4076-bd96-d295c8334ca4\" "
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity."
     },
     {
       "source": "DeepMind Blog",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.12.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-06-12T10:20:48.800443",
-  "last_updated": "2026-06-12T10:20:48.800443",
+  "timestamp": "2026-06-12T15:25:45.385674",
+  "last_updated": "2026-06-12T15:25:45.385674",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
