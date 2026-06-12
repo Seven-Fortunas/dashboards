@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-11 20:30:26 UTC
+**Last Updated:** 2026-06-12 04:24:24 UTC
 
 ## Latest Updates
 
@@ -11,10 +11,10 @@
 | Anthropic Blog | [Introducing Claude Corps](https://www.anthropic.com/news/claude-corps) | 2026-06-11 |
 | MIT Technology Review AI | [Google DeepMind is worried about what happens when millions of agents start to i](https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/) | Thu, 11 Ju |
 | LangChain Releases | [Release langchain-core==1.4.6](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.6) | 2026-06-11 |
-| OpenAI Blog | [OpenAI to acquire Ona](https://openai.com/index/openai-to-acquire-ona) | Thu, 11 Ju |
-| OpenAI Blog | [Supporting Europe’s work in ensuring a trustworthy AI ecosystem](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem) | Thu, 11 Ju |
 | OpenAI Blog | [How an astrophysicist uses Codex to help simulate black holes](https://openai.com/index/using-codex-to-simulate-black-holes) | Thu, 11 Ju |
 | OpenAI Blog | [BBVA puts AI at the core of banking with OpenAI](https://openai.com/index/bbva) | Thu, 11 Ju |
+| OpenAI Blog | [Supporting Europe’s work in ensuring a trustworthy AI ecosystem](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem) | Thu, 11 Ju |
+| OpenAI Blog | [OpenAI to acquire Ona](https://openai.com/index/openai-to-acquire-ona) | Thu, 11 Ju |
 | OpenAI Blog | [Access OpenAI models and Codex through your Oracle cloud commitment](https://openai.com/index/openai-on-oracle-cloud) | Wed, 10 Ju |
 | HuggingFace Transformers | [Release v5.11.0](https://github.com/huggingface/transformers/releases/tag/v5.11.0) | 2026-06-10 |
 | DeepMind Blog | [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/) | Wed, 10 Ju |
