@@ -1,12 +1,44 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.4.7",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.7",
+      "published": "2026-06-12T19:24:11Z",
+      "summary": "Changes since langchain-core==1.4.6\n\nchore: bump tornado from 6.5.5 to 6.5.6 in /libs/core (#38115)\nrelease(core): 1.4.7 (#38111)\nfix(core,partners): rename package version trace metadata (#38110)\nfix"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "link": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "published": "2026-06-12T17:59:27.000Z",
+      "summary": "We\u2019re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial "
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Results from first Anthropic Public Record",
+      "link": "https://www.anthropic.com/news/anthropic-public-record",
+      "published": "2026-06-12T16:24:44.000Z",
+      "summary": "Anthropic Public Record is a national survey of attitudes and opinions towards AI."
+    },
+    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.12.0",
       "link": "https://github.com/huggingface/transformers/releases/tag/v5.12.0",
       "published": "2026-06-12T14:39:40Z",
       "summary": "# Release v5.12.0\r\n\r\n\r\n## New Model additions\r\n\r\n### MiniMax-M3-VL\r\n\r\n<img width=\"886\" height=\"583\" alt=\"image\" src=\"https://github.com/user-attachments/assets/ae9dd96f-6877-4531-a06b-a756686f24e5\" />"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "published": "Fri, 12 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
     },
     {
       "source": "OpenAI Blog",
@@ -49,14 +81,6 @@
       "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents\u00a0interact with each other online. According to Rohin Shah, who directs the company\u2019s A"
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.4.6",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.6",
-      "published": "2026-06-11T07:10:07Z",
-      "summary": "Changes since langchain-core==1.4.5\n\nrelease(core): 1.4.6 (#38061)\nfeat(core,partners): add package version tracking to tracing metadata (#35295)\nfix(core,openai): normalize v1 streamed tool calls (#3"
-    },
-    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "OpenAI to acquire Ona",
@@ -67,10 +91,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity."
     },
     {
       "source": "OpenAI Blog",
@@ -79,14 +103,6 @@
       "link": "https://openai.com/index/bbva",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity."
     },
     {
       "source": "DeepMind Blog",
@@ -153,28 +169,12 @@
       "summary": "At SXSW London last week I gave a talk called \u201cFive things you need to know about AI,\u201d in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 "
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical &quot;Magnifica humanitas&quot;",
-      "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
-      "published": "2026-06-05T14:58:47.000Z",
-      "summary": "The full text of Chris Olah&#x27;s remarks on the Pope&#x27;s encyclical on AI."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "The latest AI news we announced in May 2026",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
       "published": "Fri, 05 Jun 2026 14:45:00 +0000",
       "summary": "May AI recap"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Widening the conversation on frontier AI",
-      "link": "https://www.anthropic.com/news/widening-conversation-ai",
-      "published": "2026-06-05T14:40:24.000Z",
-      "summary": "Over the past several months, we\u2019ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI."
     },
     {
       "source": "MIT Technology Review AI",
@@ -255,18 +255,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
       "published": "Fri, 15 May 2026 18:06:57 +0000",
       "summary": "<p>Our recent paper, \u201cLLMs Corrupt Your Documents When You Delegate\u201d, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and w"
-    },
-    {
-      "source": "PyTorch Releases",
-      "type": "github",
-      "title": "Release v2.12.0",
-      "link": "https://github.com/pytorch/pytorch/releases/tag/v2.12.0",
-      "published": "2026-05-13T17:38:06Z",
-      "summary": "# PyTorch 2.12.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-06-12T15:25:45.385674",
-  "last_updated": "2026-06-12T15:25:45.385674",
+  "timestamp": "2026-06-12T20:16:32.545096",
+  "last_updated": "2026-06-12T20:16:32.545096",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
