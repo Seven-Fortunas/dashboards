@@ -1,11 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-12 20:16:32 UTC
+**Last Updated:** 2026-06-13 04:12:55 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) | 2026-06-13 |
+| Anthropic Blog | [Statement on the US government directive to suspend access to Fable 5 and Mythos](https://www.anthropic.com/news/fable-mythos-access) | 2026-06-13 |
+| Microsoft Research AI | [Ire identifies another LOTUSLITE specimen](https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/) | Fri, 12 Ju |
 | LangChain Releases | [Release langchain-core==1.4.7](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.7) | 2026-06-12 |
 | Anthropic Blog | [TCS and Anthropic partner to bring Claude to regulated industries](https://www.anthropic.com/news/tcs-anthropic-partnership) | 2026-06-12 |
 | Anthropic Blog | [Results from first Anthropic Public Record](https://www.anthropic.com/news/anthropic-public-record) | 2026-06-12 |
@@ -14,14 +17,12 @@
 | OpenAI Blog | [How Preply combines AI and human tutors to personalize learning](https://openai.com/index/preply) | Fri, 12 Ju |
 | Google AI Blog | [Our new community investments in Virginia support local jobs and expand energy a](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/) | Thu, 11 Ju |
 | Anthropic Blog | [DXC will integrate Claude into the systems banks, airlines, and other regulated ](https://www.anthropic.com/news/dxc-anthropic-alliance) | 2026-06-11 |
-| Anthropic Blog | [Introducing Claude Corps](https://www.anthropic.com/news/claude-corps) | 2026-06-11 |
 | MIT Technology Review AI | [Google DeepMind is worried about what happens when millions of agents start to i](https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/) | Thu, 11 Ju |
-| OpenAI Blog | [OpenAI to acquire Ona](https://openai.com/index/openai-to-acquire-ona) | Thu, 11 Ju |
-| OpenAI Blog | [How an astrophysicist uses Codex to help simulate black holes](https://openai.com/index/using-codex-to-simulate-black-holes) | Thu, 11 Ju |
+| OpenAI Blog | [Supporting Europe’s work in ensuring a trustworthy AI ecosystem](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem) | Thu, 11 Ju |
 | OpenAI Blog | [BBVA puts AI at the core of banking with OpenAI](https://openai.com/index/bbva) | Thu, 11 Ju |
+| OpenAI Blog | [OpenAI to acquire Ona](https://openai.com/index/openai-to-acquire-ona) | Thu, 11 Ju |
 | DeepMind Blog | [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/) | Wed, 10 Ju |
 | DeepMind Blog | [Investing in multi-agent AI safety research](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/) | Wed, 10 Ju |
-| Anthropic Blog | [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) | 2026-06-09 |
 | DeepMind Blog | [Fluid, natural voice translation with Gemini 3.5 Live Translate](https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/) | Tue, 09 Ju |
 | DeepMind Blog | [Introducing Gemma 4 12B: a unified, encoder-free multimodal model](https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/) | Tue, 09 Ju |
 | DeepMind Blog | [Powering the future of robotics in Europe](https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/) | Tue, 09 Ju |
@@ -37,4 +38,3 @@
 | Microsoft Research AI | [Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/) | Wed, 27 Ma |
 | Microsoft Research AI | [MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small ](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/) | Thu, 21 Ma |
 | Microsoft Research AI | [Vega: Zero-knowledge proofs for digital identity in the age of AI](https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/) | Thu, 21 Ma |
-| Microsoft Research AI | [Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliabili](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/) | Fri, 15 Ma |
