@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "published": "2026-06-13T02:30:15.000Z",
+      "summary": "Today we\u2019re launching Claude Fable 5: a Mythos-class model that we\u2019ve made safe for general use."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "link": "https://www.anthropic.com/news/fable-mythos-access",
+      "published": "2026-06-13T01:13:41.000Z",
+      "summary": "The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States."
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Ire identifies another LOTUSLITE specimen",
+      "link": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+      "published": "Fri, 12 Jun 2026 20:30:48 +0000",
+      "summary": "<p>Project Ire examined a timely malware sample and determined its intent through reverse engineering\u2014identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.</p>\n<p>The p"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.4.7",
@@ -65,14 +89,6 @@
       "summary": "We\u2019re announcing a multi-year global alliance with DXC Technology, one of the world\u2019s largest IT services companies."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Corps",
-      "link": "https://www.anthropic.com/news/claude-corps",
-      "published": "2026-06-11T13:36:07.000Z",
-      "summary": "We\u2019re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
@@ -83,18 +99,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "OpenAI to acquire Ona",
-      "link": "https://openai.com/index/openai-to-acquire-ona",
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity."
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
     },
     {
       "source": "OpenAI Blog",
@@ -103,6 +111,14 @@
       "link": "https://openai.com/index/bbva",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI to acquire Ona",
+      "link": "https://openai.com/index/openai-to-acquire-ona",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
     },
     {
       "source": "DeepMind Blog",
@@ -119,14 +135,6 @@
       "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
       "published": "Wed, 10 Jun 2026 10:21:19 +0000",
       "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Claude Fable 5 and Claude Mythos 5",
-      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "published": "2026-06-09T20:27:50.000Z",
-      "summary": "Today we\u2019re launching Claude Fable 5: a Mythos-class model that we\u2019ve made safe for general use."
     },
     {
       "source": "DeepMind Blog",
@@ -247,18 +255,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
       "published": "Thu, 21 May 2026 13:48:40 +0000",
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
-      "link": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
-      "published": "Fri, 15 May 2026 18:06:57 +0000",
-      "summary": "<p>Our recent paper, \u201cLLMs Corrupt Your Documents When You Delegate\u201d, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and w"
     }
   ],
-  "timestamp": "2026-06-12T20:16:32.545096",
-  "last_updated": "2026-06-12T20:16:32.545096",
+  "timestamp": "2026-06-13T04:12:55.167900",
+  "last_updated": "2026-06-13T04:12:55.167900",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
