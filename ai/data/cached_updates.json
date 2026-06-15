@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Why do South Koreans love AI so much?",
+      "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "published": "Mon, 15 Jun 2026 18:46:08 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. When I landed in Seoul after a grueling 12-hour flight from Sa"
+    },
+    {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.12.1",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.12.1",
+      "published": "2026-06-15T17:29:59Z",
+      "summary": "# Patch release v5.12.1\r\nUpdated the lower bound for PEFT and a fix for auto tokenizer to properly resolve the mistral tokenizer (when `mistral-common` is installed). This is similar to v.5.10.3 minus"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "We\u2019re strengthening our presence in Alabama through new investments and community support.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "published": "Mon, 15 Jun 2026 15:00:00 +0000",
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former\u2026"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Introducing the OpenAI Partner Network",
@@ -57,14 +81,6 @@
       "summary": "Anthropic Public Record is a national survey of attitudes and opinions towards AI."
     },
     {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.12.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.12.0",
-      "published": "2026-06-12T14:39:40Z",
-      "summary": "# Release v5.12.0\r\n\r\n\r\n## New Model additions\r\n\r\n### MiniMax-M3-VL\r\n\r\n<img width=\"886\" height=\"583\" alt=\"image\" src=\"https://github.com/user-attachments/assets/ae9dd96f-6877-4531-a06b-a756686f24e5\" />"
-    },
-    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "New OpenAI Academy courses for the next era of work",
@@ -107,18 +123,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "link": "https://openai.com/index/bbva",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity."
     },
     {
       "source": "DeepMind Blog",
@@ -193,14 +209,6 @@
       "summary": "On June 5, 404 Media reported that attackers had been using Meta\u2019s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email "
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "published": "Thu, 04 Jun 2026 10:50:18 +0000",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a law"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
@@ -215,14 +223,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
       "published": "Mon, 01 Jun 2026 16:00:00 +0000",
       "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and t"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "published": "Fri, 29 May 2026 19:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\" />We used Google AI Studio to vibe code a quiz about our top I/O 2026 announce"
     },
     {
       "source": "Microsoft Research AI",
@@ -257,8 +257,8 @@
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
     }
   ],
-  "timestamp": "2026-06-15T12:25:38.143180",
-  "last_updated": "2026-06-15T12:25:38.143180",
+  "timestamp": "2026-06-15T21:09:07.540303",
+  "last_updated": "2026-06-15T21:09:07.540303",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
