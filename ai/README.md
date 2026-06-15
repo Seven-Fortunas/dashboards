@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-14 19:42:47 UTC
+**Last Updated:** 2026-06-15 04:53:44 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Introducing the OpenAI Partner Network](https://openai.com/index/introducing-openai-partner-network) | Sun, 14 Ju |
 | Anthropic Blog | [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) | 2026-06-13 |
 | Anthropic Blog | [Statement on the US government directive to suspend access to Fable 5 and Mythos](https://www.anthropic.com/news/fable-mythos-access) | 2026-06-13 |
 | Microsoft Research AI | [Ire identifies another LOTUSLITE specimen](https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/) | Fri, 12 Ju |
@@ -19,7 +20,6 @@
 | Anthropic Blog | [DXC will integrate Claude into the systems banks, airlines, and other regulated ](https://www.anthropic.com/news/dxc-anthropic-alliance) | 2026-06-11 |
 | MIT Technology Review AI | [Google DeepMind is worried about what happens when millions of agents start to i](https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/) | Thu, 11 Ju |
 | OpenAI Blog | [Supporting Europe’s work in ensuring a trustworthy AI ecosystem](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem) | Thu, 11 Ju |
-| OpenAI Blog | [How an astrophysicist uses Codex to help simulate black holes](https://openai.com/index/using-codex-to-simulate-black-holes) | Thu, 11 Ju |
 | OpenAI Blog | [BBVA puts AI at the core of banking with OpenAI](https://openai.com/index/bbva) | Thu, 11 Ju |
 | DeepMind Blog | [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/) | Wed, 10 Ju |
 | DeepMind Blog | [Investing in multi-agent AI safety research](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/) | Wed, 10 Ju |
