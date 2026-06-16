@@ -1,12 +1,28 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Core views on AI safety: When, why, what, and how",
+      "link": "https://www.anthropic.com/news/core-views-on-ai-safety",
+      "published": "2026-06-16T09:51:16.000Z",
+      "summary": "AI progress may lead to transformative AI systems in the next decade, but we do not yet understand how to make such systems safe and aligned with human values. In response, we are pursuing a variety o"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Want to get a data center online quickly? Give it some flex.",
+      "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "published": "Tue, 16 Jun 2026 09:00:00 +0000",
+      "summary": "At the end of a tense and scoreless first half of a soccer match between the English men\u2019s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments "
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Why do South Koreans love AI so much?",
       "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
       "published": "Mon, 15 Jun 2026 18:46:08 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. When I landed in Seoul after a grueling 12-hour flight from Sa"
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight fr"
     },
     {
       "source": "HuggingFace Transformers",
@@ -105,14 +121,6 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp\" />We\u2019re helping build the state\u2019s next-generation workforce and investing in ener"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-      "link": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-      "published": "2026-06-11T18:00:23.000Z",
-      "summary": "We\u2019re announcing a multi-year global alliance with DXC Technology, one of the world\u2019s largest IT services companies."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
@@ -123,10 +131,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "title": "OpenAI to acquire Ona",
+      "link": "https://openai.com/index/openai-to-acquire-ona",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity."
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
     },
     {
       "source": "OpenAI Blog",
@@ -201,14 +209,6 @@
       "summary": "May AI recap"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
-      "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "published": "Fri, 05 Jun 2026 09:00:00 +0000",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta\u2019s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email "
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
@@ -257,8 +257,8 @@
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
     }
   ],
-  "timestamp": "2026-06-16T04:51:18.391305",
-  "last_updated": "2026-06-16T04:51:18.391305",
+  "timestamp": "2026-06-16T11:20:10.718868",
+  "last_updated": "2026-06-16T11:20:10.718868",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
