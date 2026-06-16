@@ -3,6 +3,14 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "link": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "published": "2026-06-16T14:35:47.000Z",
+      "summary": "We\u2019re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial "
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
       "title": "Core views on AI safety: When, why, what, and how",
       "link": "https://www.anthropic.com/news/core-views-on-ai-safety",
       "published": "2026-06-16T09:51:16.000Z",
@@ -83,14 +91,6 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
-      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
-      "link": "https://www.anthropic.com/news/tcs-anthropic-partnership",
-      "published": "2026-06-12T17:59:27.000Z",
-      "summary": "We\u2019re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial "
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
       "title": "Results from first Anthropic Public Record",
       "link": "https://www.anthropic.com/news/anthropic-public-record",
       "published": "2026-06-12T16:24:44.000Z",
@@ -139,10 +139,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "link": "https://openai.com/index/bbva",
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
     },
     {
       "source": "DeepMind Blog",
@@ -257,8 +257,8 @@
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
     }
   ],
-  "timestamp": "2026-06-16T11:20:10.718868",
-  "last_updated": "2026-06-16T11:20:10.718868",
+  "timestamp": "2026-06-16T17:03:06.589154",
+  "last_updated": "2026-06-16T17:03:06.589154",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

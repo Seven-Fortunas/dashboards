@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-16 11:20:10 UTC
+**Last Updated:** 2026-06-16 17:03:06 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [TCS and Anthropic partner to bring Claude to regulated industries](https://www.anthropic.com/news/tcs-anthropic-partnership) | 2026-06-16 |
 | Anthropic Blog | [Core views on AI safety: When, why, what, and how](https://www.anthropic.com/news/core-views-on-ai-safety) | 2026-06-16 |
 | MIT Technology Review AI | [Want to get a data center online quickly? Give it some flex.](https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/) | Tue, 16 Ju |
 | MIT Technology Review AI | [Why do South Koreans love AI so much?](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/) | Mon, 15 Ju |
@@ -16,14 +17,13 @@
 | Anthropic Blog | [Statement on the US government directive to suspend access to Fable 5 and Mythos](https://www.anthropic.com/news/fable-mythos-access) | 2026-06-13 |
 | Microsoft Research AI | [Ire identifies another LOTUSLITE specimen](https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/) | Fri, 12 Ju |
 | LangChain Releases | [Release langchain-core==1.4.7](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.7) | 2026-06-12 |
-| Anthropic Blog | [TCS and Anthropic partner to bring Claude to regulated industries](https://www.anthropic.com/news/tcs-anthropic-partnership) | 2026-06-12 |
 | Anthropic Blog | [Results from first Anthropic Public Record](https://www.anthropic.com/news/anthropic-public-record) | 2026-06-12 |
 | OpenAI Blog | [New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work) | Fri, 12 Ju |
 | OpenAI Blog | [How Preply combines AI and human tutors to personalize learning](https://openai.com/index/preply) | Fri, 12 Ju |
 | Google AI Blog | [Our new community investments in Virginia support local jobs and expand energy a](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/) | Thu, 11 Ju |
 | MIT Technology Review AI | [Google DeepMind is worried about what happens when millions of agents start to i](https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/) | Thu, 11 Ju |
 | OpenAI Blog | [OpenAI to acquire Ona](https://openai.com/index/openai-to-acquire-ona) | Thu, 11 Ju |
-| OpenAI Blog | [BBVA puts AI at the core of banking with OpenAI](https://openai.com/index/bbva) | Thu, 11 Ju |
+| OpenAI Blog | [Supporting Europe’s work in ensuring a trustworthy AI ecosystem](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem) | Thu, 11 Ju |
 | DeepMind Blog | [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/) | Wed, 10 Ju |
 | DeepMind Blog | [Investing in multi-agent AI safety research](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/) | Wed, 10 Ju |
 | DeepMind Blog | [Fluid, natural voice translation with Gemini 3.5 Live Translate](https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/) | Tue, 09 Ju |
