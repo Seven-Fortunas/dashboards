@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-16 04:51:18 UTC
+**Last Updated:** 2026-06-16 11:20:10 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Core views on AI safety: When, why, what, and how](https://www.anthropic.com/news/core-views-on-ai-safety) | 2026-06-16 |
+| MIT Technology Review AI | [Want to get a data center online quickly? Give it some flex.](https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/) | Tue, 16 Ju |
 | MIT Technology Review AI | [Why do South Koreans love AI so much?](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/) | Mon, 15 Ju |
 | HuggingFace Transformers | [Release v5.12.1](https://github.com/huggingface/transformers/releases/tag/v5.12.1) | 2026-06-15 |
 | Google AI Blog | [We’re strengthening our presence in Alabama through new investments and communit](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/) | Mon, 15 Ju |
@@ -19,9 +21,8 @@
 | OpenAI Blog | [New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work) | Fri, 12 Ju |
 | OpenAI Blog | [How Preply combines AI and human tutors to personalize learning](https://openai.com/index/preply) | Fri, 12 Ju |
 | Google AI Blog | [Our new community investments in Virginia support local jobs and expand energy a](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/) | Thu, 11 Ju |
-| Anthropic Blog | [DXC will integrate Claude into the systems banks, airlines, and other regulated ](https://www.anthropic.com/news/dxc-anthropic-alliance) | 2026-06-11 |
 | MIT Technology Review AI | [Google DeepMind is worried about what happens when millions of agents start to i](https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/) | Thu, 11 Ju |
-| OpenAI Blog | [How an astrophysicist uses Codex to help simulate black holes](https://openai.com/index/using-codex-to-simulate-black-holes) | Thu, 11 Ju |
+| OpenAI Blog | [OpenAI to acquire Ona](https://openai.com/index/openai-to-acquire-ona) | Thu, 11 Ju |
 | OpenAI Blog | [BBVA puts AI at the core of banking with OpenAI](https://openai.com/index/bbva) | Thu, 11 Ju |
 | DeepMind Blog | [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/) | Wed, 10 Ju |
 | DeepMind Blog | [Investing in multi-agent AI safety research](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/) | Wed, 10 Ju |
@@ -31,7 +32,6 @@
 | MIT Technology Review AI | [Learning to lead in a hybrid human-AI enterprise](https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/) | Tue, 09 Ju |
 | MIT Technology Review AI | [Five things you need to know about AI](https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/) | Tue, 09 Ju |
 | Google AI Blog | [The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/) | Fri, 05 Ju |
-| MIT Technology Review AI | [The Meta hack shows there’s more to AI security than Mythos](https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/) | Fri, 05 Ju |
 | Google AI Blog | [5 ways Google Search can level up your thrift and vintage shopping](https://blog.google/products-and-platforms/products/search/thrifting-tips/) | Wed, 03 Ju |
 | Google AI Blog | [How we used Gemini to build Google I/O 2026](https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/) | Mon, 01 Ju |
 | Microsoft Research AI | [Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/) | Thu, 28 Ma |
