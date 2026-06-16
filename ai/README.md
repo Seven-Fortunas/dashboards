@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-16 17:03:06 UTC
+**Last Updated:** 2026-06-16 20:57:16 UTC
 
 ## Latest Updates
 
@@ -9,6 +9,7 @@
 | Anthropic Blog | [TCS and Anthropic partner to bring Claude to regulated industries](https://www.anthropic.com/news/tcs-anthropic-partnership) | 2026-06-16 |
 | Anthropic Blog | [Core views on AI safety: When, why, what, and how](https://www.anthropic.com/news/core-views-on-ai-safety) | 2026-06-16 |
 | MIT Technology Review AI | [Want to get a data center online quickly? Give it some flex.](https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/) | Tue, 16 Ju |
+| OpenAI Blog | [Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation) | Tue, 16 Ju |
 | MIT Technology Review AI | [Why do South Koreans love AI so much?](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/) | Mon, 15 Ju |
 | HuggingFace Transformers | [Release v5.12.1](https://github.com/huggingface/transformers/releases/tag/v5.12.1) | 2026-06-15 |
 | Google AI Blog | [We’re strengthening our presence in Alabama through new investments and communit](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/) | Mon, 15 Ju |
@@ -22,8 +23,7 @@
 | OpenAI Blog | [How Preply combines AI and human tutors to personalize learning](https://openai.com/index/preply) | Fri, 12 Ju |
 | Google AI Blog | [Our new community investments in Virginia support local jobs and expand energy a](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/) | Thu, 11 Ju |
 | MIT Technology Review AI | [Google DeepMind is worried about what happens when millions of agents start to i](https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/) | Thu, 11 Ju |
-| OpenAI Blog | [OpenAI to acquire Ona](https://openai.com/index/openai-to-acquire-ona) | Thu, 11 Ju |
-| OpenAI Blog | [Supporting Europe’s work in ensuring a trustworthy AI ecosystem](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem) | Thu, 11 Ju |
+| OpenAI Blog | [How an astrophysicist uses Codex to help simulate black holes](https://openai.com/index/using-codex-to-simulate-black-holes) | Thu, 11 Ju |
 | DeepMind Blog | [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/) | Wed, 10 Ju |
 | DeepMind Blog | [Investing in multi-agent AI safety research](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/) | Wed, 10 Ju |
 | DeepMind Blog | [Fluid, natural voice translation with Gemini 3.5 Live Translate](https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/) | Tue, 09 Ju |
