@@ -123,18 +123,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "link": "https://openai.com/index/bbva",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "link": "https://openai.com/index/bbva",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
     },
     {
       "source": "DeepMind Blog",
@@ -257,8 +257,8 @@
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
     }
   ],
-  "timestamp": "2026-06-15T21:09:07.540303",
-  "last_updated": "2026-06-15T21:09:07.540303",
+  "timestamp": "2026-06-16T04:51:18.391305",
+  "last_updated": "2026-06-16T04:51:18.391305",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
