@@ -25,6 +25,14 @@
       "summary": "At the end of a tense and scoreless first half of a soccer match between the English men\u2019s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments "
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "link": "https://openai.com/index/deployment-simulation",
+      "published": "Tue, 16 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Why do South Koreans love AI so much?",
@@ -131,18 +139,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "OpenAI to acquire Ona",
-      "link": "https://openai.com/index/openai-to-acquire-ona",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity."
     },
     {
       "source": "DeepMind Blog",
@@ -257,8 +257,8 @@
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
     }
   ],
-  "timestamp": "2026-06-16T17:03:06.589154",
-  "last_updated": "2026-06-16T17:03:06.589154",
+  "timestamp": "2026-06-16T20:57:16.415582",
+  "last_updated": "2026-06-16T20:57:16.415582",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
