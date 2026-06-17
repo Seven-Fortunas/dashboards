@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "published": "Tue, 16 Jun 2026 21:29:50 +0000",
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "TCS and Anthropic partner to bring Claude to regulated industries",
@@ -177,14 +185,6 @@
       "summary": ""
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Powering the future of robotics in Europe",
-      "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-      "published": "Tue, 09 Jun 2026 14:02:33 +0000",
-      "summary": ""
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Learning to lead in a hybrid human-AI enterprise",
@@ -257,8 +257,8 @@
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
     }
   ],
-  "timestamp": "2026-06-16T20:57:16.415582",
-  "last_updated": "2026-06-16T20:57:16.415582",
+  "timestamp": "2026-06-17T04:41:42.259629",
+  "last_updated": "2026-06-17T04:41:42.259629",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

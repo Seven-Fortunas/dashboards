@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-16 20:57:16 UTC
+**Last Updated:** 2026-06-17 04:41:42 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| DeepMind Blog | [Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/) | Tue, 16 Ju |
 | Anthropic Blog | [TCS and Anthropic partner to bring Claude to regulated industries](https://www.anthropic.com/news/tcs-anthropic-partnership) | 2026-06-16 |
 | Anthropic Blog | [Core views on AI safety: When, why, what, and how](https://www.anthropic.com/news/core-views-on-ai-safety) | 2026-06-16 |
 | MIT Technology Review AI | [Want to get a data center online quickly? Give it some flex.](https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/) | Tue, 16 Ju |
@@ -28,7 +29,6 @@
 | DeepMind Blog | [Investing in multi-agent AI safety research](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/) | Wed, 10 Ju |
 | DeepMind Blog | [Fluid, natural voice translation with Gemini 3.5 Live Translate](https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/) | Tue, 09 Ju |
 | DeepMind Blog | [Introducing Gemma 4 12B: a unified, encoder-free multimodal model](https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/) | Tue, 09 Ju |
-| DeepMind Blog | [Powering the future of robotics in Europe](https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/) | Tue, 09 Ju |
 | MIT Technology Review AI | [Learning to lead in a hybrid human-AI enterprise](https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/) | Tue, 09 Ju |
 | MIT Technology Review AI | [Five things you need to know about AI](https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/) | Tue, 09 Ju |
 | Google AI Blog | [The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/) | Fri, 05 Ju |
