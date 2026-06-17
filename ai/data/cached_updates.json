@@ -5,8 +5,16 @@
       "type": "sitemap",
       "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
       "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-      "published": "2026-06-17T15:02:03.000Z",
+      "published": "2026-06-17T17:20:14.000Z",
       "summary": "Anthropic opens Seoul and announces new partnerships across the Korean AI ecosystem\u2014with the enterprises, startups, and researchers behind some of the most ambitious deployments of Claude."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Developing nuclear safeguards for AI through public-private partnership",
+      "link": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
+      "published": "2026-06-17T16:48:41.000Z",
+      "summary": "Together with the NNSA and DOE national laboratories, we have co-developed a classifier\u2014an AI system that automatically categorizes content\u2014that distinguishes between concerning and benign nuclear-rel"
     },
     {
       "source": "Google AI Blog",
@@ -15,6 +23,14 @@
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
       "published": "Wed, 17 Jun 2026 15:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp\" />Research in \u201cNature\u201d shows our conversational AI system matche"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "link": "https://openai.com/index/ai-chemist-improves-reaction",
+      "published": "Wed, 17 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
     },
     {
       "source": "DeepMind Blog",
@@ -97,14 +113,6 @@
       "summary": "Today we\u2019re launching Claude Fable 5: a Mythos-class model that we\u2019ve made safe for general use."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-      "link": "https://www.anthropic.com/news/fable-mythos-access",
-      "published": "2026-06-13T01:13:41.000Z",
-      "summary": "The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Ire identifies another LOTUSLITE specimen",
@@ -151,14 +159,6 @@
       "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "published": "Thu, 11 Jun 2026 11:00:45 +0000",
       "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents\u00a0interact with each other online. According to Rohin Shah, who directs the company\u2019s A"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity."
     },
     {
       "source": "DeepMind Blog",
@@ -257,8 +257,8 @@
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
     }
   ],
-  "timestamp": "2026-06-17T15:45:40.556663",
-  "last_updated": "2026-06-17T15:45:40.556663",
+  "timestamp": "2026-06-17T20:19:56.220576",
+  "last_updated": "2026-06-17T20:19:56.220576",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
