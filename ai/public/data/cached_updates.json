@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "published": "2026-06-17T15:02:03.000Z",
+      "summary": "Anthropic opens Seoul and announces new partnerships across the Korean AI ecosystem\u2014with the enterprises, startups, and researchers behind some of the most ambitious deployments of Claude."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "published": "Wed, 17 Jun 2026 15:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp\" />Research in \u201cNature\u201d shows our conversational AI system matche"
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Unlocking UK house-building with AI-accelerated planning",
@@ -103,14 +119,6 @@
       "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.7",
       "published": "2026-06-12T19:24:11Z",
       "summary": "Changes since langchain-core==1.4.6\n\nchore: bump tornado from 6.5.5 to 6.5.6 in /libs/core (#38115)\nrelease(core): 1.4.7 (#38111)\nfix(core,partners): rename package version trace metadata (#38110)\nfix"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Results from first Anthropic Public Record",
-      "link": "https://www.anthropic.com/news/anthropic-public-record",
-      "published": "2026-06-12T16:24:44.000Z",
-      "summary": "Anthropic Public Record is a national survey of attitudes and opinions towards AI."
     },
     {
       "source": "OpenAI Blog",
@@ -217,14 +225,6 @@
       "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglas"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "How we used Gemini to build Google I/O 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "published": "Mon, 01 Jun 2026 16:00:00 +0000",
-      "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and t"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
@@ -257,8 +257,8 @@
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
     }
   ],
-  "timestamp": "2026-06-17T11:05:00.716441",
-  "last_updated": "2026-06-17T11:05:00.716441",
+  "timestamp": "2026-06-17T15:45:40.556663",
+  "last_updated": "2026-06-17T15:45:40.556663",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
