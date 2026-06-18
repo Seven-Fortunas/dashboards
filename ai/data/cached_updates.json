@@ -5,8 +5,16 @@
       "type": "sitemap",
       "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
       "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-      "published": "2026-06-17T17:20:14.000Z",
+      "published": "2026-06-18T03:57:50.000Z",
       "summary": "Anthropic opens Seoul and announces new partnerships across the Korean AI ecosystem\u2014with the enterprises, startups, and researchers behind some of the most ambitious deployments of Claude."
+    },
+    {
+      "source": "PyTorch Releases",
+      "type": "github",
+      "title": "Release v2.12.1",
+      "link": "https://github.com/pytorch/pytorch/releases/tag/v2.12.1",
+      "published": "2026-06-18T00:41:17Z",
+      "summary": "This release is meant to fix the following regressions and silent correctness issues:\r\n## Regression fixes\r\n- Fix nondeterministic outputs in test_batch_invariance with FLASH_ATTN on NVIDIA B200 GPUs "
     },
     {
       "source": "Anthropic Blog",
@@ -31,6 +39,14 @@
       "link": "https://openai.com/index/ai-chemist-improves-reaction",
       "published": "Wed, 17 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing LifeSciBench",
+      "link": "https://openai.com/index/introducing-life-sci-bench",
+      "published": "Wed, 17 Jun 2026 00:00:00 GMT",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
     },
     {
       "source": "DeepMind Blog",
@@ -135,14 +151,6 @@
       "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
       "published": "Fri, 12 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "link": "https://openai.com/index/preply",
-      "published": "Fri, 12 Jun 2026 00:00:00 GMT",
-      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
     },
     {
       "source": "Google AI Blog",
@@ -257,8 +265,8 @@
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
     }
   ],
-  "timestamp": "2026-06-17T20:19:56.220576",
-  "last_updated": "2026-06-17T20:19:56.220576",
+  "timestamp": "2026-06-18T04:23:57.839595",
+  "last_updated": "2026-06-18T04:23:57.839595",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
