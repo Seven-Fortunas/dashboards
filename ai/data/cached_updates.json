@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "A startup claims it broke through a bottleneck that\u2019s holding back LLMs",
+      "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "published": "Fri, 19 Jun 2026 10:40:24 +0000",
+      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models fo"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.4.8",
@@ -209,14 +217,6 @@
       "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years,\u00a0leadership teams are carefully considering the implications of a hybrid human-AI workforce.\u00a0 Unlike existing enter"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Five things you need to know about AI",
-      "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "published": "Tue, 09 Jun 2026 09:16:45 +0000",
-      "summary": "At SXSW London last week I gave a talk called \u201cFive things you need to know about AI,\u201d in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 "
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "The latest AI news we announced in May 2026",
@@ -265,8 +265,8 @@
       "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
     }
   ],
-  "timestamp": "2026-06-19T04:51:43.307432",
-  "last_updated": "2026-06-19T04:51:43.307432",
+  "timestamp": "2026-06-19T10:44:50.168008",
+  "last_updated": "2026-06-19T10:44:50.168008",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
