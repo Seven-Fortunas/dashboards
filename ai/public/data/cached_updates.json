@@ -255,18 +255,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
       "published": "Thu, 21 May 2026 17:00:00 +0000",
       "summary": "<p>MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient ag"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Vega: Zero-knowledge\u00a0proofs for\u00a0digital identity in the\u00a0age of AI",
-      "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
-      "published": "Thu, 21 May 2026 13:48:40 +0000",
-      "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/r"
     }
   ],
-  "timestamp": "2026-06-20T09:24:36.936582",
-  "last_updated": "2026-06-20T09:24:36.936582",
+  "timestamp": "2026-06-20T14:13:03.293000",
+  "last_updated": "2026-06-20T14:13:03.293000",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
