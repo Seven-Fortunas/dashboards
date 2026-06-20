@@ -161,14 +161,6 @@
       "summary": "Today we\u2019re launching Claude Fable 5: a Mythos-class model that we\u2019ve made safe for general use."
     },
     {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Ire identifies another LOTUSLITE specimen",
-      "link": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
-      "published": "Fri, 12 Jun 2026 20:30:48 +0000",
-      "summary": "<p>Project Ire examined a timely malware sample and determined its intent through reverse engineering\u2014identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.</p>\n<p>The p"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
@@ -231,36 +223,19 @@
       "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
       "published": "Wed, 03 Jun 2026 13:00:00 +0000",
       "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglas"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
-      "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
-      "published": "Thu, 28 May 2026 16:00:00 +0000",
-      "summary": "<p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Extending Human Intelligence Through AI",
-      "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
-      "published": "Wed, 27 May 2026 16:00:00 +0000",
-      "summary": "<p>Understanding AI as an extension of human intelligence\u2014not a replacement for it\u2014offers a more grounded path for building trustworthy AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/e"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
-      "link": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
-      "published": "Thu, 21 May 2026 17:00:00 +0000",
-      "summary": "<p>MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient ag"
     }
   ],
-  "timestamp": "2026-06-20T14:13:03.293000",
-  "last_updated": "2026-06-20T14:13:03.293000",
-  "failures": [],
-  "failed_sources": [],
-  "failure_count": 0,
+  "timestamp": "2026-06-20T19:43:13.012425",
+  "last_updated": "2026-06-20T19:43:13.012425",
+  "failures": [
+    {
+      "source": "Microsoft Research AI",
+      "error": "Feed parse error: text/html is not an XML media type"
+    }
+  ],
+  "failed_sources": [
+    "Microsoft Research AI"
+  ],
+  "failure_count": 1,
   "source_count": 10
 }
