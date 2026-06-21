@@ -1,8 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-20 19:43:13 UTC
-
-ℹ️ **INFO:** 1/10 data sources failed.
+**Last Updated:** 2026-06-21 04:47:54 UTC
 
 ## Latest Updates
 
@@ -28,6 +26,7 @@
 | HuggingFace Transformers | [Release v5.12.1](https://github.com/huggingface/transformers/releases/tag/v5.12.1) | 2026-06-15 |
 | Google AI Blog | [We’re strengthening our presence in Alabama through new investments and communit](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/) | Mon, 15 Ju |
 | Anthropic Blog | [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) | 2026-06-13 |
+| Microsoft Research AI | [Ire identifies another LOTUSLITE specimen](https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/) | Fri, 12 Ju |
 | Google AI Blog | [Our new community investments in Virginia support local jobs and expand energy a](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/) | Thu, 11 Ju |
 | MIT Technology Review AI | [Google DeepMind is worried about what happens when millions of agents start to i](https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/) | Thu, 11 Ju |
 | DeepMind Blog | [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/) | Wed, 10 Ju |
@@ -36,7 +35,5 @@
 | MIT Technology Review AI | [Learning to lead in a hybrid human-AI enterprise](https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/) | Tue, 09 Ju |
 | Google AI Blog | [The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/) | Fri, 05 Ju |
 | Google AI Blog | [5 ways Google Search can level up your thrift and vintage shopping](https://blog.google/products-and-platforms/products/search/thrifting-tips/) | Wed, 03 Ju |
-
-## Failed Sources
-
-- **Microsoft Research AI:** Feed parse error: text/html is not an XML media type
+| Microsoft Research AI | [Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/) | Thu, 28 Ma |
+| Microsoft Research AI | [Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/) | Wed, 27 Ma |
