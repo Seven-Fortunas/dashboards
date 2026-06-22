@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "published": "Sun, 21 Jun 2026 23:00:00 GMT",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI\u2019s largest enterprise AI rollouts."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "A startup claims it broke through a bottleneck that\u2019s holding back LLMs",
@@ -79,14 +87,6 @@
       "link": "https://openai.com/index/ai-chemist-improves-reaction",
       "published": "Wed, 17 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing LifeSciBench",
-      "link": "https://openai.com/index/introducing-life-sci-bench",
-      "published": "Wed, 17 Jun 2026 00:00:00 GMT",
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
     },
     {
       "source": "DeepMind Blog",
@@ -249,8 +249,8 @@
       "summary": "<p>Understanding AI as an extension of human intelligence\u2014not a replacement for it\u2014offers a more grounded path for building trustworthy AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/e"
     }
   ],
-  "timestamp": "2026-06-21T19:49:42.605290",
-  "last_updated": "2026-06-21T19:49:42.605290",
+  "timestamp": "2026-06-22T04:55:24.163065",
+  "last_updated": "2026-06-22T04:55:24.163065",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
