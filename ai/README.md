@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-21 19:49:42 UTC
+**Last Updated:** 2026-06-22 04:55:24 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Samsung Electronics brings ChatGPT and Codex to employees](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment) | Sun, 21 Ju |
 | MIT Technology Review AI | [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/) | Fri, 19 Ju |
 | LangChain Releases | [Release langchain-core==1.4.8](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.8) | 2026-06-18 |
 | OpenAI Blog | [New usage analytics and updated spend controls for enterprises](https://openai.com/index/chatgpt-enterprise-spend-controls) | Thu, 18 Ju |
@@ -16,7 +17,6 @@
 | Anthropic Blog | [Developing nuclear safeguards for AI through public-private partnership](https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership) | 2026-06-17 |
 | Google AI Blog | [New research shows how AMIE, our medical AI, could help manage health conditions](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/) | Wed, 17 Ju |
 | OpenAI Blog | [A near-autonomous AI chemist improves a challenging reaction in medicinal chemis](https://openai.com/index/ai-chemist-improves-reaction) | Wed, 17 Ju |
-| OpenAI Blog | [Introducing LifeSciBench](https://openai.com/index/introducing-life-sci-bench) | Wed, 17 Ju |
 | DeepMind Blog | [Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/) | Tue, 16 Ju |
 | DeepMind Blog | [Securing the future of AI agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/) | Tue, 16 Ju |
 | Anthropic Blog | [TCS and Anthropic partner to bring Claude to regulated industries](https://www.anthropic.com/news/tcs-anthropic-partnership) | 2026-06-16 |
