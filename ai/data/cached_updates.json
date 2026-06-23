@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Tag",
+      "link": "https://www.anthropic.com/news/introducing-claude-tag",
+      "published": "2026-06-23T19:22:44.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "link": "https://openai.com/index/gpt-5-immunology-mystery",
+      "published": "Tue, 23 Jun 2026 17:00:00 GMT",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Helping build shared standards for advanced AI",
+      "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "published": "Tue, 23 Jun 2026 13:00:00 GMT",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "The $400 million machine powering the future of chipmaking",
@@ -35,14 +59,6 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "link": "https://openai.com/index/daybreak-securing-the-world",
-      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "link": "https://openai.com/index/patch-the-planet",
       "published": "Mon, 22 Jun 2026 10:00:00 GMT",
@@ -51,18 +67,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Codex-maxxing for long-running work",
-      "link": "https://openai.com/index/codex-maxxing-long-running-work",
-      "published": "Mon, 22 Jun 2026 00:00:00 GMT",
-      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "published": "Sun, 21 Jun 2026 23:00:00 GMT",
-      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI\u2019s largest enterprise AI rollouts."
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
     },
     {
       "source": "MIT Technology Review AI",
@@ -135,14 +143,6 @@
       "link": "https://www.anthropic.com/news/tcs-anthropic-partnership",
       "published": "2026-06-16T14:35:47.000Z",
       "summary": "We\u2019re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial "
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Core views on AI safety: When, why, what, and how",
-      "link": "https://www.anthropic.com/news/core-views-on-ai-safety",
-      "published": "2026-06-16T09:51:16.000Z",
-      "summary": "AI progress may lead to transformative AI systems in the next decade, but we do not yet understand how to make such systems safe and aligned with human values. In response, we are pursuing a variety o"
     },
     {
       "source": "MIT Technology Review AI",
@@ -249,8 +249,8 @@
       "summary": "<p>Understanding AI as an extension of human intelligence\u2014not a replacement for it\u2014offers a more grounded path for building trustworthy AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/e"
     }
   ],
-  "timestamp": "2026-06-23T15:11:03.281959",
-  "last_updated": "2026-06-23T15:11:03.281959",
+  "timestamp": "2026-06-23T20:11:15.766237",
+  "last_updated": "2026-06-23T20:11:15.766237",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
