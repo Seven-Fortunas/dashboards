@@ -3,6 +3,22 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "The $400 million machine powering the future of chipmaking",
+      "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "published": "Tue, 23 Jun 2026 09:00:00 +0000",
+      "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It\u2019s a bit of a schlep. The contraption is the size of a double-decker bus\u2014more than 150 tons of gleaming precision-mil"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Omio is building the future of conversational travel",
+      "link": "https://openai.com/index/omio",
+      "published": "Tue, 23 Jun 2026 00:00:00 GMT",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "Three things to watch amid Anthropic\u2019s latest feud with the government",
       "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
       "published": "Mon, 22 Jun 2026 18:00:00 +0000",
@@ -19,18 +35,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "link": "https://openai.com/index/patch-the-planet",
-      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Daybreak: Tools for securing every organization in the world",
       "link": "https://openai.com/index/daybreak-securing-the-world",
       "published": "Mon, 22 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "link": "https://openai.com/index/patch-the-planet",
+      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
     },
     {
       "source": "OpenAI Blog",
@@ -63,14 +79,6 @@
       "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.8",
       "published": "2026-06-18T19:39:42Z",
       "summary": "Changes since langchain-core==1.4.7\n\nchore: bump jupyter-server from 2.18.0 to 2.20.0 in /libs/core (#38252)\nchore: bump tornado from 6.5.6 to 6.5.7 in /libs/core (#38184)\nchore: bump bleach from 6.3."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "published": "Thu, 18 Jun 2026 17:00:00 GMT",
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence."
     },
     {
       "source": "Anthropic Blog",
@@ -185,14 +193,6 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp\" />We\u2019re helping build the state\u2019s next-generation workforce and investing in ener"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "published": "Thu, 11 Jun 2026 11:00:45 +0000",
-      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents\u00a0interact with each other online. According to Rohin Shah, who directs the company\u2019s A"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "DiffusionGemma: 4x faster text generation",
@@ -249,8 +249,8 @@
       "summary": "<p>Understanding AI as an extension of human intelligence\u2014not a replacement for it\u2014offers a more grounded path for building trustworthy AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/e"
     }
   ],
-  "timestamp": "2026-06-23T03:57:32.132928",
-  "last_updated": "2026-06-23T03:57:32.132928",
+  "timestamp": "2026-06-23T09:50:55.645917",
+  "last_updated": "2026-06-23T09:50:55.645917",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
