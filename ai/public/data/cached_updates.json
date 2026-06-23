@@ -19,18 +19,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "link": "https://openai.com/index/daybreak-securing-the-world",
-      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "link": "https://openai.com/index/patch-the-planet",
       "published": "Mon, 22 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
     },
     {
       "source": "OpenAI Blog",
@@ -249,8 +249,8 @@
       "summary": "<p>Understanding AI as an extension of human intelligence\u2014not a replacement for it\u2014offers a more grounded path for building trustworthy AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/e"
     }
   ],
-  "timestamp": "2026-06-22T20:53:38.943894",
-  "last_updated": "2026-06-22T20:53:38.943894",
+  "timestamp": "2026-06-23T03:57:32.132928",
+  "last_updated": "2026-06-23T03:57:32.132928",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

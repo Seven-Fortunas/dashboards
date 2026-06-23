@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-22 20:53:38 UTC
+**Last Updated:** 2026-06-23 03:57:32 UTC
 
 ## Latest Updates
 
@@ -8,8 +8,8 @@
 |--------|-------|----------|
 | MIT Technology Review AI | [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/) | Mon, 22 Ju |
 | Anthropic Blog | [Anthropic forms $200 million partnership with the Gates Foundation](https://www.anthropic.com/news/gates-foundation-partnership) | 2026-06-22 |
-| OpenAI Blog | [Daybreak: Tools for securing every organization in the world](https://openai.com/index/daybreak-securing-the-world) | Mon, 22 Ju |
 | OpenAI Blog | [Patch the Planet: a Daybreak initiative to support open source maintainers](https://openai.com/index/patch-the-planet) | Mon, 22 Ju |
+| OpenAI Blog | [Daybreak: Tools for securing every organization in the world](https://openai.com/index/daybreak-securing-the-world) | Mon, 22 Ju |
 | OpenAI Blog | [Codex-maxxing for long-running work](https://openai.com/index/codex-maxxing-long-running-work) | Mon, 22 Ju |
 | OpenAI Blog | [Samsung Electronics brings ChatGPT and Codex to employees](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment) | Sun, 21 Ju |
 | MIT Technology Review AI | [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/) | Fri, 19 Ju |
