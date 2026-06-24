@@ -1,11 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-24 09:38:27 UTC
+**Last Updated:** 2026-06-24 14:40:07 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Microsoft Research AI | [Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalys](https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/) | Wed, 24 Ju |
+| MIT Technology Review AI | [The emergence of the web data infrastructure layer for AI](https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/) | Wed, 24 Ju |
+| OpenAI Blog | [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip) | Wed, 24 Ju |
 | Anthropic Blog | [Introducing Claude Tag](https://www.anthropic.com/news/introducing-claude-tag) | 2026-06-23 |
 | OpenAI Blog | [How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery](https://openai.com/index/gpt-5-immunology-mystery) | Tue, 23 Ju |
 | OpenAI Blog | [Helping build shared standards for advanced AI](https://openai.com/index/helping-build-shared-standards-for-advanced-ai) | Tue, 23 Ju |
@@ -13,7 +16,6 @@
 | OpenAI Blog | [How Omio is building the future of conversational travel](https://openai.com/index/omio) | Tue, 23 Ju |
 | MIT Technology Review AI | [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/) | Mon, 22 Ju |
 | Anthropic Blog | [Anthropic forms $200 million partnership with the Gates Foundation](https://www.anthropic.com/news/gates-foundation-partnership) | 2026-06-22 |
-| OpenAI Blog | [Daybreak: Tools for securing every organization in the world](https://openai.com/index/daybreak-securing-the-world) | Mon, 22 Ju |
 | OpenAI Blog | [Patch the Planet: a Daybreak initiative to support open source maintainers](https://openai.com/index/patch-the-planet) | Mon, 22 Ju |
 | MIT Technology Review AI | [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/) | Fri, 19 Ju |
 | LangChain Releases | [Release langchain-core==1.4.8](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.8) | 2026-06-18 |
@@ -25,7 +27,6 @@
 | DeepMind Blog | [Securing the future of AI agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/) | Tue, 16 Ju |
 | Anthropic Blog | [TCS and Anthropic partner to bring Claude to regulated industries](https://www.anthropic.com/news/tcs-anthropic-partnership) | 2026-06-16 |
 | MIT Technology Review AI | [Want to get a data center online quickly? Give it some flex.](https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/) | Tue, 16 Ju |
-| MIT Technology Review AI | [Why do South Koreans love AI so much?](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/) | Mon, 15 Ju |
 | HuggingFace Transformers | [Release v5.12.1](https://github.com/huggingface/transformers/releases/tag/v5.12.1) | 2026-06-15 |
 | Google AI Blog | [We’re strengthening our presence in Alabama through new investments and communit](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/) | Mon, 15 Ju |
 | Microsoft Research AI | [Ire identifies another LOTUSLITE specimen](https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/) | Fri, 12 Ju |
