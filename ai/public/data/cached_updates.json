@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "published": "Wed, 24 Jun 2026 16:30:01 +0000",
+      "summary": ""
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
@@ -217,14 +225,6 @@
       "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-      "published": "Tue, 09 Jun 2026 15:16:25 +0000",
-      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "The latest AI news we announced in May 2026",
@@ -257,8 +257,8 @@
       "summary": "<p>Understanding AI as an extension of human intelligence\u2014not a replacement for it\u2014offers a more grounded path for building trustworthy AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/e"
     }
   ],
-  "timestamp": "2026-06-24T14:40:07.086649",
-  "last_updated": "2026-06-24T14:40:07.086649",
+  "timestamp": "2026-06-24T19:52:04.877260",
+  "last_updated": "2026-06-24T19:52:04.877260",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
