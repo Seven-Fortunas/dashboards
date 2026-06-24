@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-23 20:11:15 UTC
+**Last Updated:** 2026-06-24 03:59:04 UTC
 
 ## Latest Updates
 
@@ -13,8 +13,8 @@
 | OpenAI Blog | [How Omio is building the future of conversational travel](https://openai.com/index/omio) | Tue, 23 Ju |
 | MIT Technology Review AI | [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/) | Mon, 22 Ju |
 | Anthropic Blog | [Anthropic forms $200 million partnership with the Gates Foundation](https://www.anthropic.com/news/gates-foundation-partnership) | 2026-06-22 |
-| OpenAI Blog | [Patch the Planet: a Daybreak initiative to support open source maintainers](https://openai.com/index/patch-the-planet) | Mon, 22 Ju |
 | OpenAI Blog | [Daybreak: Tools for securing every organization in the world](https://openai.com/index/daybreak-securing-the-world) | Mon, 22 Ju |
+| OpenAI Blog | [Patch the Planet: a Daybreak initiative to support open source maintainers](https://openai.com/index/patch-the-planet) | Mon, 22 Ju |
 | MIT Technology Review AI | [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/) | Fri, 19 Ju |
 | LangChain Releases | [Release langchain-core==1.4.8](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.8) | 2026-06-18 |
 | Anthropic Blog | [Anthropic opens Seoul office and announces new partnerships across the Korean AI](https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem) | 2026-06-18 |
