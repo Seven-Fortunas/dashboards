@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "published": "Thu, 25 Jun 2026 16:00:00 +0000",
+      "summary": "The Google Finance logo, surrounded by elements of the user interface"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Understanding the brain with AI-driven explanations and experiments",
+      "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+      "published": "Thu, 25 Jun 2026 16:00:00 +0000",
+      "summary": "<p>Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in langua"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Repositioning retail for the AI era",
+      "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "published": "Thu, 25 Jun 2026 14:22:59 +0000",
+      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "How agents are transforming work",
@@ -169,14 +193,6 @@
       "summary": "We\u2019re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial "
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Want to get a data center online quickly? Give it some flex.",
-      "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-      "published": "Tue, 16 Jun 2026 09:00:00 +0000",
-      "summary": "At the end of a tense and scoreless first half of a soccer match between the English men\u2019s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments "
-    },
-    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.12.1",
@@ -233,14 +249,6 @@
       "summary": "May AI recap"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "published": "Wed, 03 Jun 2026 13:00:00 +0000",
-      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglas"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
@@ -257,8 +265,8 @@
       "summary": "<p>Understanding AI as an extension of human intelligence\u2014not a replacement for it\u2014offers a more grounded path for building trustworthy AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/e"
     }
   ],
-  "timestamp": "2026-06-25T14:40:35.336772",
-  "last_updated": "2026-06-25T14:40:35.336772",
+  "timestamp": "2026-06-25T20:06:42.329378",
+  "last_updated": "2026-06-25T20:06:42.329378",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
