@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-26 14:34:03 UTC
+**Last Updated:** 2026-06-26 19:56:32 UTC
 
 ## Latest Updates
 
@@ -11,6 +11,7 @@
 | Anthropic Blog | [DXC integrates Claude into systems regulated industries rely on](https://www.anthropic.com/news/dxc-anthropic-alliance) | 2026-06-26 |
 | Anthropic Blog | [TCS and Anthropic bring Claude to regulated industries](https://www.anthropic.com/news/tcs-anthropic-partnership) | 2026-06-26 |
 | Anthropic Blog | [Anthropic partners with the Gates Foundation](https://www.anthropic.com/news/gates-foundation-partnership) | 2026-06-26 |
+| OpenAI Blog | [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol) | Fri, 26 Ju |
 | Google AI Blog | [Our latest Google Finance upgrades, including a new app](https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/) | Thu, 25 Ju |
 | Microsoft Research AI | [Understanding the brain with AI-driven explanations and experiments](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/) | Thu, 25 Ju |
 | MIT Technology Review AI | [Repositioning retail for the AI era](https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/) | Thu, 25 Ju |
@@ -22,7 +23,6 @@
 | OpenAI Blog | [How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery](https://openai.com/index/gpt-5-immunology-mystery) | Tue, 23 Ju |
 | OpenAI Blog | [Helping build shared standards for advanced AI](https://openai.com/index/helping-build-shared-standards-for-advanced-ai) | Tue, 23 Ju |
 | MIT Technology Review AI | [The $400 million machine powering the future of chipmaking](https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/) | Tue, 23 Ju |
-| OpenAI Blog | [How Omio is building the future of conversational travel](https://openai.com/index/omio) | Tue, 23 Ju |
 | MIT Technology Review AI | [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/) | Mon, 22 Ju |
 | MIT Technology Review AI | [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/) | Fri, 19 Ju |
 | LangChain Releases | [Release langchain-core==1.4.8](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.8) | 2026-06-18 |
@@ -38,4 +38,3 @@
 | DeepMind Blog | [Investing in multi-agent AI safety research](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/) | Wed, 10 Ju |
 | Google AI Blog | [The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/) | Fri, 05 Ju |
 | Microsoft Research AI | [Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/) | Thu, 28 Ma |
-| Microsoft Research AI | [Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/) | Wed, 27 Ma |
