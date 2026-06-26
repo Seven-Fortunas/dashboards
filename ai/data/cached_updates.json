@@ -41,6 +41,14 @@
       "summary": "Anthropic is partnering with the Gates Foundation to commit $200 million in grant funding, Claude usage credits, and technical support for programs in global health, life sciences, education, and econ"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "published": "Fri, 26 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Our latest Google Finance upgrades, including a new app",
@@ -127,14 +135,6 @@
       "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
       "published": "Tue, 23 Jun 2026 09:00:00 +0000",
       "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It\u2019s a bit of a schlep. The contraption is the size of a double-decker bus\u2014more than 150 tons of gleaming precision-mil"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How Omio is building the future of conversational travel",
-      "link": "https://openai.com/index/omio",
-      "published": "Tue, 23 Jun 2026 00:00:00 GMT",
-      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company."
     },
     {
       "source": "MIT Technology Review AI",
@@ -255,18 +255,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
       "published": "Thu, 28 May 2026 16:00:00 +0000",
       "summary": "<p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Extending Human Intelligence Through AI",
-      "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
-      "published": "Wed, 27 May 2026 16:00:00 +0000",
-      "summary": "<p>Understanding AI as an extension of human intelligence\u2014not a replacement for it\u2014offers a more grounded path for building trustworthy AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/e"
     }
   ],
-  "timestamp": "2026-06-26T14:34:03.782062",
-  "last_updated": "2026-06-26T14:34:03.782062",
+  "timestamp": "2026-06-26T19:56:32.033691",
+  "last_updated": "2026-06-26T19:56:32.033691",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
