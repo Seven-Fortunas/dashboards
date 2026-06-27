@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-27 13:52:21 UTC
+**Last Updated:** 2026-06-27 19:27:18 UTC
 
 ## Latest Updates
 
@@ -37,4 +37,3 @@
 | DeepMind Blog | [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/) | Wed, 10 Ju |
 | DeepMind Blog | [Investing in multi-agent AI safety research](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/) | Wed, 10 Ju |
 | Google AI Blog | [The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/) | Fri, 05 Ju |
-| Microsoft Research AI | [Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/) | Thu, 28 Ma |

@@ -247,18 +247,10 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
       "published": "Fri, 05 Jun 2026 14:45:00 +0000",
       "summary": "May AI recap"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
-      "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
-      "published": "Thu, 28 May 2026 16:00:00 +0000",
-      "summary": "<p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize"
     }
   ],
-  "timestamp": "2026-06-27T13:52:21.649830",
-  "last_updated": "2026-06-27T13:52:21.649830",
+  "timestamp": "2026-06-27T19:27:18.158328",
+  "last_updated": "2026-06-27T19:27:18.158328",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
