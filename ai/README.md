@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-29 15:54:41 UTC
+**Last Updated:** 2026-06-29 20:04:33 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [AI agents are not your “coworkers”](https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/) | Mon, 29 Ju |
 | Google AI Blog | [Ask an AI expert: What exactly is the full stack?](https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/) | Mon, 29 Ju |
 | MIT Technology Review AI | [Agent confidence on the technical frontier](https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/) | Mon, 29 Ju |
 | OpenAI Blog | [Mapping Europe’s AI Workforce Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu) | Mon, 29 Ju |
@@ -25,7 +26,6 @@
 | MIT Technology Review AI | [The emergence of the web data infrastructure layer for AI](https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/) | Wed, 24 Ju |
 | OpenAI Blog | [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip) | Wed, 24 Ju |
 | MIT Technology Review AI | [The $400 million machine powering the future of chipmaking](https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/) | Tue, 23 Ju |
-| MIT Technology Review AI | [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/) | Mon, 22 Ju |
 | LangChain Releases | [Release langchain-core==1.4.8](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.8) | 2026-06-18 |
 | PyTorch Releases | [Release v2.12.1](https://github.com/pytorch/pytorch/releases/tag/v2.12.1) | 2026-06-18 |
 | Google AI Blog | [New research shows how AMIE, our medical AI, could help manage health conditions](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/) | Wed, 17 Ju |
