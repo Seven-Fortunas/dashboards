@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "link": "https://openai.com/index/hp-frontier-partnership",
+      "published": "Sun, 28 Jun 2026 17:00:00 GMT",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Anthropic&#x27;s core views on AI safety",
@@ -111,14 +119,6 @@
       "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "published": "Wed, 24 Jun 2026 06:00:00 GMT",
       "summary": "OpenAI and Broadcom introduce Jalape\u00f1o, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "link": "https://openai.com/index/gpt-5-immunology-mystery",
-      "published": "Tue, 23 Jun 2026 17:00:00 GMT",
-      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
     },
     {
       "source": "OpenAI Blog",
@@ -249,8 +249,8 @@
       "summary": "May AI recap"
     }
   ],
-  "timestamp": "2026-06-28T19:27:54.303254",
-  "last_updated": "2026-06-28T19:27:54.303254",
+  "timestamp": "2026-06-29T04:21:47.826807",
+  "last_updated": "2026-06-29T04:21:47.826807",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
