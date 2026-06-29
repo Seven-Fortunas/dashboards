@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-29 04:21:47 UTC
+**Last Updated:** 2026-06-29 11:08:32 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Mapping Europe’s AI Workforce Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu) | Mon, 29 Ju |
 | OpenAI Blog | [HP Inc. launches Frontier strategic partnership with OpenAI](https://openai.com/index/hp-frontier-partnership) | Sun, 28 Ju |
 | Anthropic Blog | [Anthropic&#x27;s core views on AI safety](https://www.anthropic.com/news/core-views-on-ai-safety) | 2026-06-26 |
 | Anthropic Blog | [Introducing Claude Corps](https://www.anthropic.com/news/claude-corps) | 2026-06-26 |
@@ -21,7 +22,6 @@
 | Microsoft Research AI | [Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalys](https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/) | Wed, 24 Ju |
 | MIT Technology Review AI | [The emergence of the web data infrastructure layer for AI](https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/) | Wed, 24 Ju |
 | OpenAI Blog | [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip) | Wed, 24 Ju |
-| OpenAI Blog | [Helping build shared standards for advanced AI](https://openai.com/index/helping-build-shared-standards-for-advanced-ai) | Tue, 23 Ju |
 | MIT Technology Review AI | [The $400 million machine powering the future of chipmaking](https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/) | Tue, 23 Ju |
 | MIT Technology Review AI | [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/) | Mon, 22 Ju |
 | MIT Technology Review AI | [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/) | Fri, 19 Ju |

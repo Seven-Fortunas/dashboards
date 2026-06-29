@@ -3,6 +3,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "Mapping Europe\u2019s AI Workforce Opportunity",
+      "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "link": "https://openai.com/index/hp-frontier-partnership",
       "published": "Sun, 28 Jun 2026 17:00:00 GMT",
@@ -119,14 +127,6 @@
       "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "published": "Wed, 24 Jun 2026 06:00:00 GMT",
       "summary": "OpenAI and Broadcom introduce Jalape\u00f1o, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Helping build shared standards for advanced AI",
-      "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "published": "Tue, 23 Jun 2026 13:00:00 GMT",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
     },
     {
       "source": "MIT Technology Review AI",
@@ -249,8 +249,8 @@
       "summary": "May AI recap"
     }
   ],
-  "timestamp": "2026-06-29T04:21:47.826807",
-  "last_updated": "2026-06-29T04:21:47.826807",
+  "timestamp": "2026-06-29T11:08:32.732641",
+  "last_updated": "2026-06-29T11:08:32.732641",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
