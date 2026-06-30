@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Unlocking Britain\u2019s next era of productivity: Building a nation of AI trailblazers",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "published": "Tue, 30 Jun 2026 06:00:00 +0000",
+      "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer."
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Memora:\u00a0A Harmonic Memory Representation Balancing Abstraction and Specificity",
@@ -233,14 +241,6 @@
       "summary": "<p>Project Ire examined a timely malware sample and determined its intent through reverse engineering\u2014identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.</p>\n<p>The p"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-      "published": "Thu, 11 Jun 2026 20:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp\" />We\u2019re helping build the state\u2019s next-generation workforce and investing in ener"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "DiffusionGemma: 4x faster text generation",
@@ -257,8 +257,8 @@
       "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
     }
   ],
-  "timestamp": "2026-06-30T04:02:09.903623",
-  "last_updated": "2026-06-30T04:02:09.903623",
+  "timestamp": "2026-06-30T09:47:21.444948",
+  "last_updated": "2026-06-30T09:47:21.444948",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

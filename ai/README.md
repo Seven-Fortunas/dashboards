@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-30 04:02:09 UTC
+**Last Updated:** 2026-06-30 09:47:21 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Google AI Blog | [Unlocking Britain’s next era of productivity: Building a nation of AI trailblaze](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/) | Tue, 30 Ju |
 | Microsoft Research AI | [Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/) | Mon, 29 Ju |
 | MIT Technology Review AI | [AI agents are not your “coworkers”](https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/) | Mon, 29 Ju |
 | Google AI Blog | [Ask an AI expert: What exactly is the full stack?](https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/) | Mon, 29 Ju |
@@ -35,6 +36,5 @@
 | HuggingFace Transformers | [Release v5.12.1](https://github.com/huggingface/transformers/releases/tag/v5.12.1) | 2026-06-15 |
 | Google AI Blog | [We’re strengthening our presence in Alabama through new investments and communit](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/) | Mon, 15 Ju |
 | Microsoft Research AI | [Ire identifies another LOTUSLITE specimen](https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/) | Fri, 12 Ju |
-| Google AI Blog | [Our new community investments in Virginia support local jobs and expand energy a](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/) | Thu, 11 Ju |
 | DeepMind Blog | [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/) | Wed, 10 Ju |
 | DeepMind Blog | [Investing in multi-agent AI safety research](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/) | Wed, 10 Ju |
