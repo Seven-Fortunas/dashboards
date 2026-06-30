@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Memora:\u00a0A Harmonic Memory Representation Balancing Abstraction and Specificity",
+      "link": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+      "published": "Mon, 29 Jun 2026 21:14:22 +0000",
+      "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "AI agents are not your \u201ccoworkers\u201d",
@@ -249,8 +257,8 @@
       "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
     }
   ],
-  "timestamp": "2026-06-29T20:04:33.165106",
-  "last_updated": "2026-06-29T20:04:33.165106",
+  "timestamp": "2026-06-30T04:02:09.903623",
+  "last_updated": "2026-06-30T04:02:09.903623",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
