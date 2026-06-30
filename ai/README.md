@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-30 09:47:21 UTC
+**Last Updated:** 2026-06-30 14:28:12 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Agriculture is ready for AI, but its data isn’t](https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/) | Tue, 30 Ju |
 | Google AI Blog | [Unlocking Britain’s next era of productivity: Building a nation of AI trailblaze](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/) | Tue, 30 Ju |
 | Microsoft Research AI | [Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/) | Mon, 29 Ju |
 | MIT Technology Review AI | [AI agents are not your “coworkers”](https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/) | Mon, 29 Ju |
@@ -27,7 +28,6 @@
 | Microsoft Research AI | [Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalys](https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/) | Wed, 24 Ju |
 | MIT Technology Review AI | [The emergence of the web data infrastructure layer for AI](https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/) | Wed, 24 Ju |
 | OpenAI Blog | [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip) | Wed, 24 Ju |
-| MIT Technology Review AI | [The $400 million machine powering the future of chipmaking](https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/) | Tue, 23 Ju |
 | LangChain Releases | [Release langchain-core==1.4.8](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.8) | 2026-06-18 |
 | PyTorch Releases | [Release v2.12.1](https://github.com/pytorch/pytorch/releases/tag/v2.12.1) | 2026-06-18 |
 | Google AI Blog | [New research shows how AMIE, our medical AI, could help manage health conditions](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/) | Wed, 17 Ju |
