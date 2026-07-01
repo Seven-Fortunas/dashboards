@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "LLMs are stuck in a groupthink rut. This startup is trying to get them out.",
+      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "published": "Wed, 01 Jul 2026 14:35:16 +0000",
+      "summary": "Let\u2019s start with a game. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1 and 10.\u201d You\u2019re going to get 7. Almost always. Now type \u201cAnother\u201d and you\u2019ll"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Redeploying Claude Fable 5",
@@ -169,14 +177,6 @@
       "summary": "<p>Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in langua"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Repositioning retail for the AI era",
-      "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "published": "Thu, 25 Jun 2026 14:22:59 +0000",
-      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Introducing computer use in Gemini 3.5 Flash",
@@ -265,8 +265,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-07-01T09:57:25.442614",
-  "last_updated": "2026-07-01T09:57:25.442614",
+  "timestamp": "2026-07-01T14:46:20.752144",
+  "last_updated": "2026-07-01T14:46:20.752144",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
