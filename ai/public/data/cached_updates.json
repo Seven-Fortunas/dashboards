@@ -1,20 +1,52 @@
 {
   "updates": [
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "LLMs are stuck in a groupthink rut. This startup is trying to get them out.",
-      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "published": "Wed, 01 Jul 2026 14:35:16 +0000",
-      "summary": "Let\u2019s start with a game. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1 and 10.\u201d You\u2019re going to get 7. Almost always. Now type \u201cAnother\u201d and you\u2019ll"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Redeploying Claude Fable 5",
       "link": "https://www.anthropic.com/news/redeploying-fable-5",
-      "published": "2026-07-01T08:59:07.000Z",
+      "published": "2026-07-01T19:40:52.000Z",
       "summary": "Anthropic is redeploying Claude Fable 5 starting July 1 following the lifting of export controls, with updated cybersecurity safeguards and a new industry jailbreak framework."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "published": "2026-07-01T19:34:43.000Z",
+      "summary": "Today we\u2019re launching Claude Fable 5: a Mythos-class model that we\u2019ve made safe for general use."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "The latest AI news we announced in June 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "published": "Wed, 01 Jul 2026 18:15:00 +0000",
+      "summary": "June Pixel Drop hero"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude Science, an AI workbench for scientists",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "published": "2026-07-01T17:37:46.000Z",
+      "summary": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "New York City educators and industry leaders gathered at Google\u2019s offices to shape the future of AI in classrooms.",
+      "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "published": "Wed, 01 Jul 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp\" />Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit fo"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "published": "Wed, 01 Jul 2026 14:35:16 +0000",
+      "summary": "Let\u2019s start with a game. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1 and 10.\u201d You\u2019re going to get 7. Almost always. Now type \u201cAnother\u201d and you\u2019ll"
     },
     {
       "source": "MIT Technology Review AI",
@@ -31,14 +63,6 @@
       "link": "https://www.anthropic.com/news/claude-sonnet-5",
       "published": "2026-06-30T21:20:30.000Z",
       "summary": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Claude Science, an AI workbench for scientists",
-      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "published": "2026-06-30T18:43:57.000Z",
-      "summary": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources."
     },
     {
       "source": "Microsoft Research AI",
@@ -83,6 +107,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "Inside Genebench-Pro",
+      "link": "https://openai.com/index/genebench-pro/case-studies",
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Introducing GeneBench-Pro",
       "link": "https://openai.com/index/introducing-genebench-pro",
       "published": "Tue, 30 Jun 2026 00:00:00 GMT",
@@ -95,14 +127,6 @@
       "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "published": "Tue, 30 Jun 2026 00:00:00 GMT",
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Inside Genebench-Pro",
-      "link": "https://openai.com/index/genebench-pro/case-studies",
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": ""
     },
     {
       "source": "Microsoft Research AI",
@@ -153,14 +177,6 @@
       "summary": "AI progress may lead to transformative AI systems in the next decade, but we do not yet understand how to make such systems safe and aligned with human values. In response, we are pursuing a variety o"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Corps",
-      "link": "https://www.anthropic.com/news/claude-corps",
-      "published": "2026-06-26T12:32:44.000Z",
-      "summary": "Anthropic is launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Our latest Google Finance upgrades, including a new app",
@@ -209,14 +225,6 @@
       "summary": "This release is meant to fix the following regressions and silent correctness issues:\r\n## Regression fixes\r\n- Fix nondeterministic outputs in test_batch_invariance with FLASH_ATTN on NVIDIA B200 GPUs "
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "published": "Wed, 17 Jun 2026 15:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp\" />Research in \u201cNature\u201d shows our conversational AI system matche"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Unlocking UK house-building with AI-accelerated planning",
@@ -241,14 +249,6 @@
       "summary": "# Patch release v5.12.1\r\nUpdated the lower bound for PEFT and a fix for auto tokenizer to properly resolve the mistral tokenizer (when `mistral-common` is installed). This is similar to v.5.10.3 minus"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "We\u2019re strengthening our presence in Alabama through new investments and community support.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "published": "Mon, 15 Jun 2026 15:00:00 +0000",
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former\u2026"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Ire identifies another LOTUSLITE specimen",
@@ -265,8 +265,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-07-01T14:46:20.752144",
-  "last_updated": "2026-07-01T14:46:20.752144",
+  "timestamp": "2026-07-01T20:02:06.443743",
+  "last_updated": "2026-07-01T20:02:06.443743",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
