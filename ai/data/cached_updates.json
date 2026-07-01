@@ -5,7 +5,7 @@
       "type": "sitemap",
       "title": "Redeploying Claude Fable 5",
       "link": "https://www.anthropic.com/news/redeploying-fable-5",
-      "published": "2026-07-01T03:16:50.000Z",
+      "published": "2026-07-01T08:59:07.000Z",
       "summary": "Anthropic is redeploying Claude Fable 5 starting July 1 following the lifting of export controls, with updated cybersecurity safeguards and a new industry jailbreak framework."
     },
     {
@@ -265,8 +265,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-07-01T04:17:34.632692",
-  "last_updated": "2026-07-01T04:17:34.632692",
+  "timestamp": "2026-07-01T09:57:25.442614",
+  "last_updated": "2026-07-01T09:57:25.442614",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
