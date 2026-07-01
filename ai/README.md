@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-06-30 20:04:22 UTC
+**Last Updated:** 2026-07-01 04:17:34 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Redeploying Claude Fable 5](https://www.anthropic.com/news/redeploying-fable-5) | 2026-07-01 |
+| MIT Technology Review AI | [Claude Science is Anthropic’s newest flagship product](https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/) | Tue, 30 Ju |
 | Anthropic Blog | [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 2026-06-30 |
 | Anthropic Blog | [Claude Science, an AI workbench for scientists](https://www.anthropic.com/news/claude-science-ai-workbench) | 2026-06-30 |
 | Microsoft Research AI | [SkillOpt: Agent skills as trainable parameters](https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/) | Tue, 30 Ju |
@@ -23,13 +25,11 @@
 | OpenAI Blog | [Mapping Europe’s AI Workforce Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu) | Mon, 29 Ju |
 | Anthropic Blog | [Anthropic&#x27;s core views on AI safety](https://www.anthropic.com/news/core-views-on-ai-safety) | 2026-06-26 |
 | Anthropic Blog | [Introducing Claude Corps](https://www.anthropic.com/news/claude-corps) | 2026-06-26 |
-| Anthropic Blog | [DXC integrates Claude into systems regulated industries rely on](https://www.anthropic.com/news/dxc-anthropic-alliance) | 2026-06-26 |
 | Google AI Blog | [Our latest Google Finance upgrades, including a new app](https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/) | Thu, 25 Ju |
 | Microsoft Research AI | [Understanding the brain with AI-driven explanations and experiments](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/) | Thu, 25 Ju |
 | MIT Technology Review AI | [Repositioning retail for the AI era](https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/) | Thu, 25 Ju |
 | DeepMind Blog | [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/) | Wed, 24 Ju |
 | Microsoft Research AI | [Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalys](https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/) | Wed, 24 Ju |
-| MIT Technology Review AI | [The emergence of the web data infrastructure layer for AI](https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/) | Wed, 24 Ju |
 | LangChain Releases | [Release langchain-core==1.4.8](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.8) | 2026-06-18 |
 | PyTorch Releases | [Release v2.12.1](https://github.com/pytorch/pytorch/releases/tag/v2.12.1) | 2026-06-18 |
 | Google AI Blog | [New research shows how AMIE, our medical AI, could help manage health conditions](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/) | Wed, 17 Ju |
