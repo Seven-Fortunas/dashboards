@@ -3,6 +3,14 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Achieving operational excellence with AI",
+      "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "published": "Thu, 02 Jul 2026 15:37:08 +0000",
+      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos\u2014a structured way to bring order to messy, sprawling operations. Le"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "Teaching AI to run with the turbines",
       "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
       "published": "Thu, 02 Jul 2026 12:51:44 +0000",
@@ -145,14 +153,6 @@
       "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "AI agents are not your \u201ccoworkers\u201d",
-      "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "published": "Mon, 29 Jun 2026 18:00:00 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Imagine coming in to work to learn that a new underling will r"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Ask an AI expert: What exactly is the full stack?",
@@ -265,8 +265,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-07-02T14:11:38.756620",
-  "last_updated": "2026-07-02T14:11:38.756620",
+  "timestamp": "2026-07-02T19:37:52.390129",
+  "last_updated": "2026-07-02T19:37:52.390129",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
