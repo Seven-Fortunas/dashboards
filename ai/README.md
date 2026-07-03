@@ -1,19 +1,19 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-03 09:25:30 UTC
+**Last Updated:** 2026-07-03 14:19:06 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| Anthropic Blog | [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 2026-07-03 |
+| Anthropic Blog | [Claude&#x27;s extended thinking](https://www.anthropic.com/news/visible-extended-thinking) | 2026-07-03 |
+| Anthropic Blog | [Announcing Anthropic&#x27;s Responsible Scaling Policy](https://www.anthropic.com/news/anthropics-responsible-scaling-policy) | 2026-07-03 |
 | Anthropic Blog | [More details on Fable 5’s cyber safeguards and our jailbreak framework](https://www.anthropic.com/news/fable-safeguards-jailbreak-framework) | 2026-07-03 |
+| Anthropic Blog | [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 2026-07-03 |
 | MIT Technology Review AI | [Achieving operational excellence with AI](https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/) | Thu, 02 Ju |
 | MIT Technology Review AI | [Teaching AI to run with the turbines](https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/) | Thu, 02 Ju |
 | Anthropic Blog | [Redeploying Claude Fable 5](https://www.anthropic.com/news/redeploying-fable-5) | 2026-07-01 |
-| Anthropic Blog | [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) | 2026-07-01 |
 | Google AI Blog | [The latest AI news we announced in June 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/) | Wed, 01 Ju |
-| Anthropic Blog | [Claude Science, an AI workbench for scientists](https://www.anthropic.com/news/claude-science-ai-workbench) | 2026-07-01 |
 | Google AI Blog | [New York City educators and industry leaders gathered at Google’s offices to sha](https://blog.google/products-and-platforms/products/education/nyc-ai-summit/) | Wed, 01 Ju |
 | MIT Technology Review AI | [LLMs are stuck in a groupthink groove. This startup is trying to get them out.](https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/) | Wed, 01 Ju |
 | MIT Technology Review AI | [Claude Science is Anthropic’s newest flagship product](https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/) | Tue, 30 Ju |
