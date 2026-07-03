@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-03 14:19:06 UTC
+**Last Updated:** 2026-07-03 19:35:34 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| HuggingFace Transformers | [Release v5.13.0](https://github.com/huggingface/transformers/releases/tag/v5.13.0) | 2026-07-03 |
+| DeepMind Blog | [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) | Fri, 03 Ju |
 | Anthropic Blog | [Claude&#x27;s extended thinking](https://www.anthropic.com/news/visible-extended-thinking) | 2026-07-03 |
 | Anthropic Blog | [Announcing Anthropic&#x27;s Responsible Scaling Policy](https://www.anthropic.com/news/anthropics-responsible-scaling-policy) | 2026-07-03 |
 | Anthropic Blog | [More details on Fable 5’s cyber safeguards and our jailbreak framework](https://www.anthropic.com/news/fable-safeguards-jailbreak-framework) | 2026-07-03 |
@@ -36,6 +38,4 @@
 | PyTorch Releases | [Release v2.12.1](https://github.com/pytorch/pytorch/releases/tag/v2.12.1) | 2026-06-18 |
 | DeepMind Blog | [Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/) | Tue, 16 Ju |
 | DeepMind Blog | [Securing the future of AI agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/) | Tue, 16 Ju |
-| HuggingFace Transformers | [Release v5.12.1](https://github.com/huggingface/transformers/releases/tag/v5.12.1) | 2026-06-15 |
 | Microsoft Research AI | [Ire identifies another LOTUSLITE specimen](https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/) | Fri, 12 Ju |
-| DeepMind Blog | [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/) | Wed, 10 Ju |
