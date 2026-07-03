@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-02 19:37:52 UTC
+**Last Updated:** 2026-07-03 03:40:56 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 2026-07-03 |
+| Anthropic Blog | [More details on Fable 5’s cyber safeguards and our jailbreak framework](https://www.anthropic.com/news/fable-safeguards-jailbreak-framework) | 2026-07-03 |
 | MIT Technology Review AI | [Achieving operational excellence with AI](https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/) | Thu, 02 Ju |
 | MIT Technology Review AI | [Teaching AI to run with the turbines](https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/) | Thu, 02 Ju |
 | Anthropic Blog | [Redeploying Claude Fable 5](https://www.anthropic.com/news/redeploying-fable-5) | 2026-07-01 |
@@ -15,7 +17,6 @@
 | Google AI Blog | [New York City educators and industry leaders gathered at Google’s offices to sha](https://blog.google/products-and-platforms/products/education/nyc-ai-summit/) | Wed, 01 Ju |
 | MIT Technology Review AI | [LLMs are stuck in a groupthink groove. This startup is trying to get them out.](https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/) | Wed, 01 Ju |
 | MIT Technology Review AI | [Claude Science is Anthropic’s newest flagship product](https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/) | Tue, 30 Ju |
-| Anthropic Blog | [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 2026-06-30 |
 | Microsoft Research AI | [SkillOpt: Agent skills as trainable parameters](https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/) | Tue, 30 Ju |
 | DeepMind Blog | [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) | Tue, 30 Ju |
 | MIT Technology Review AI | [Agriculture is ready for AI, but its data isn’t](https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/) | Tue, 30 Ju |
@@ -27,7 +28,6 @@
 | Microsoft Research AI | [Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/) | Mon, 29 Ju |
 | Google AI Blog | [Ask an AI expert: What exactly is the full stack?](https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/) | Mon, 29 Ju |
 | OpenAI Blog | [Mapping Europe’s AI Workforce Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu) | Mon, 29 Ju |
-| Anthropic Blog | [Anthropic&#x27;s core views on AI safety](https://www.anthropic.com/news/core-views-on-ai-safety) | 2026-06-26 |
 | Google AI Blog | [Our latest Google Finance upgrades, including a new app](https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/) | Thu, 25 Ju |
 | Microsoft Research AI | [Understanding the brain with AI-driven explanations and experiments](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/) | Thu, 25 Ju |
 | DeepMind Blog | [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/) | Wed, 24 Ju |

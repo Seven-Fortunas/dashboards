@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "published": "2026-07-03T01:20:09.000Z",
+      "summary": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
+      "link": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "published": "2026-07-03T00:07:08.000Z",
+      "summary": "What is and isn&#x27;t blocked by our cyber classifiers, and a first draft of our jailbreak severity framework"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Achieving operational excellence with AI",
@@ -71,14 +87,6 @@
       "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
       "published": "Tue, 30 Jun 2026 21:50:04 +0000",
       "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Sonnet 5",
-      "link": "https://www.anthropic.com/news/claude-sonnet-5",
-      "published": "2026-06-30T21:20:30.000Z",
-      "summary": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
     },
     {
       "source": "Microsoft Research AI",
@@ -169,14 +177,6 @@
       "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic&#x27;s core views on AI safety",
-      "link": "https://www.anthropic.com/news/core-views-on-ai-safety",
-      "published": "2026-06-26T12:34:51.000Z",
-      "summary": "AI progress may lead to transformative AI systems in the next decade, but we do not yet understand how to make such systems safe and aligned with human values. In response, we are pursuing a variety o"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Our latest Google Finance upgrades, including a new app",
@@ -265,8 +265,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-07-02T19:37:52.390129",
-  "last_updated": "2026-07-02T19:37:52.390129",
+  "timestamp": "2026-07-03T03:40:56.835141",
+  "last_updated": "2026-07-03T03:40:56.835141",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
