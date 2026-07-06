@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
+      "link": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "published": "2026-07-06T19:00:35.000Z",
+      "summary": "The Government of Alberta has been using Claude Code with both Opus and Sonnet models to review its systems, find vulnerabilities, and fix them."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Your family\u2019s $300 stake in OpenAI",
+      "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "published": "Mon, 06 Jul 2026 18:00:00 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. OpenAI CEO Sam Altman\u2019s oft-discussed promise that Americans w"
+    },
+    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.13.0",
@@ -65,14 +81,6 @@
       "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Redeploying Claude Fable 5",
-      "link": "https://www.anthropic.com/news/redeploying-fable-5",
-      "published": "2026-07-01T19:40:52.000Z",
-      "summary": "Anthropic is redeploying Claude Fable 5 starting July 1 following the lifting of export controls, with updated cybersecurity safeguards and a new industry jailbreak framework."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "The latest AI news we announced in June 2026",
@@ -119,14 +127,6 @@
       "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
       "published": "Tue, 30 Jun 2026 16:02:40 +0000",
       "summary": ""
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Agriculture is ready for AI, but its data isn\u2019t",
-      "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "published": "Tue, 30 Jun 2026 12:00:00 +0000",
-      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, "
     },
     {
       "source": "OpenAI Blog",
@@ -265,8 +265,8 @@
       "summary": "<p>Project Ire examined a timely malware sample and determined its intent through reverse engineering\u2014identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.</p>\n<p>The p"
     }
   ],
-  "timestamp": "2026-07-06T15:42:37.579691",
-  "last_updated": "2026-07-06T15:42:37.579691",
+  "timestamp": "2026-07-06T20:03:56.453038",
+  "last_updated": "2026-07-06T20:03:56.453038",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
