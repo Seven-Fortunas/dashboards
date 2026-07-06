@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-05 19:23:57 UTC
+**Last Updated:** 2026-07-06 03:59:23 UTC
 
 ## Latest Updates
 
@@ -34,7 +34,7 @@
 | Microsoft Research AI | [Understanding the brain with AI-driven explanations and experiments](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/) | Thu, 25 Ju |
 | DeepMind Blog | [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/) | Wed, 24 Ju |
 | Microsoft Research AI | [Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalys](https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/) | Wed, 24 Ju |
-| LangChain Releases | [Release langchain-core==1.4.8](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.8) | 2026-06-18 |
+| LangChain Releases | [Release langchain==1.3.11](https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.3.11) | 2026-06-22 |
 | PyTorch Releases | [Release v2.12.1](https://github.com/pytorch/pytorch/releases/tag/v2.12.1) | 2026-06-18 |
 | DeepMind Blog | [Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/) | Tue, 16 Ju |
 | DeepMind Blog | [Securing the future of AI agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/) | Tue, 16 Ju |
