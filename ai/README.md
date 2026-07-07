@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-06 20:03:56 UTC
+**Last Updated:** 2026-07-07 03:50:25 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Building safeguards for Claude](https://www.anthropic.com/news/building-safeguards-for-claude) | 2026-07-06 |
 | Anthropic Blog | [Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities](https://www.anthropic.com/news/alberta-government-claude-cybersecurity) | 2026-07-06 |
 | MIT Technology Review AI | [Your family’s $300 stake in OpenAI](https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/) | Mon, 06 Ju |
 | HuggingFace Transformers | [Release v5.13.0](https://github.com/huggingface/transformers/releases/tag/v5.13.0) | 2026-07-03 |
@@ -13,7 +14,6 @@
 | Anthropic Blog | [Claude&#x27;s extended thinking](https://www.anthropic.com/news/visible-extended-thinking) | 2026-07-03 |
 | Anthropic Blog | [Announcing Anthropic&#x27;s Responsible Scaling Policy](https://www.anthropic.com/news/anthropics-responsible-scaling-policy) | 2026-07-03 |
 | Anthropic Blog | [More details on Fable 5’s cyber safeguards and our jailbreak framework](https://www.anthropic.com/news/fable-safeguards-jailbreak-framework) | 2026-07-03 |
-| Anthropic Blog | [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 2026-07-03 |
 | MIT Technology Review AI | [Achieving operational excellence with AI](https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/) | Thu, 02 Ju |
 | MIT Technology Review AI | [Teaching AI to run with the turbines](https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/) | Thu, 02 Ju |
 | Google AI Blog | [The latest AI news we announced in June 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/) | Wed, 01 Ju |
@@ -24,9 +24,9 @@
 | DeepMind Blog | [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) | Tue, 30 Ju |
 | OpenAI Blog | [How ChatGPT adoption has expanded](https://openai.com/index/how-chatgpt-adoption-has-expanded) | Tue, 30 Ju |
 | Google AI Blog | [Unlocking Britain’s next era of productivity: Building a nation of AI trailblaze](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/) | Tue, 30 Ju |
-| OpenAI Blog | [Inside Genebench-Pro](https://openai.com/index/genebench-pro/case-studies) | Tue, 30 Ju |
-| OpenAI Blog | [Introducing GeneBench-Pro](https://openai.com/index/introducing-genebench-pro) | Tue, 30 Ju |
 | OpenAI Blog | [Core dump epidemiology: fixing an 18-year-old bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug) | Tue, 30 Ju |
+| OpenAI Blog | [Introducing GeneBench-Pro](https://openai.com/index/introducing-genebench-pro) | Tue, 30 Ju |
+| OpenAI Blog | [Inside Genebench-Pro](https://openai.com/index/genebench-pro/case-studies) | Tue, 30 Ju |
 | Microsoft Research AI | [Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/) | Mon, 29 Ju |
 | Google AI Blog | [Ask an AI expert: What exactly is the full stack?](https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/) | Mon, 29 Ju |
 | OpenAI Blog | [Mapping Europe’s AI Workforce Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu) | Mon, 29 Ju |
