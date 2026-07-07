@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-07 09:50:05 UTC
+**Last Updated:** 2026-07-07 14:46:35 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [The foundational elements of AI architecture that IT leaders need to scale](https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/) | Tue, 07 Ju |
 | Anthropic Blog | [Building safeguards for Claude](https://www.anthropic.com/news/building-safeguards-for-claude) | 2026-07-06 |
 | Anthropic Blog | [Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities](https://www.anthropic.com/news/alberta-government-claude-cybersecurity) | 2026-07-06 |
 | MIT Technology Review AI | [Your family’s $300 stake in OpenAI](https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/) | Mon, 06 Ju |
@@ -15,11 +16,10 @@
 | Anthropic Blog | [Announcing Anthropic&#x27;s Responsible Scaling Policy](https://www.anthropic.com/news/anthropics-responsible-scaling-policy) | 2026-07-03 |
 | Anthropic Blog | [More details on Fable 5’s cyber safeguards and our jailbreak framework](https://www.anthropic.com/news/fable-safeguards-jailbreak-framework) | 2026-07-03 |
 | MIT Technology Review AI | [Achieving operational excellence with AI](https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/) | Thu, 02 Ju |
-| MIT Technology Review AI | [Teaching AI to run with the turbines](https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/) | Thu, 02 Ju |
+| MIT Technology Review AI | [Building the foundation for an autonomous enterprise](https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/) | Thu, 02 Ju |
 | Google AI Blog | [The latest AI news we announced in June 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/) | Wed, 01 Ju |
 | Google AI Blog | [New York City educators and industry leaders gathered at Google’s offices to sha](https://blog.google/products-and-platforms/products/education/nyc-ai-summit/) | Wed, 01 Ju |
 | MIT Technology Review AI | [LLMs are stuck in a groupthink groove. This startup is trying to get them out.](https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/) | Wed, 01 Ju |
-| MIT Technology Review AI | [Claude Science is Anthropic’s newest flagship product](https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/) | Tue, 30 Ju |
 | Microsoft Research AI | [SkillOpt: Agent skills as trainable parameters](https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/) | Tue, 30 Ju |
 | DeepMind Blog | [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) | Tue, 30 Ju |
 | OpenAI Blog | [How ChatGPT adoption has expanded](https://openai.com/index/how-chatgpt-adoption-has-expanded) | Tue, 30 Ju |

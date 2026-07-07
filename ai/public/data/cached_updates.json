@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "published": "Tue, 07 Jul 2026 11:10:52 +0000",
+      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces ris"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Building safeguards for Claude",
@@ -75,8 +83,8 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
-      "title": "Teaching AI to run with the turbines",
-      "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "title": "Building the foundation for an autonomous enterprise",
+      "link": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
       "published": "Thu, 02 Jul 2026 12:51:44 +0000",
       "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in"
     },
@@ -103,14 +111,6 @@
       "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
       "published": "Wed, 01 Jul 2026 14:35:16 +0000",
       "summary": "Let\u2019s start with a game. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1 and 10.\u201d You\u2019re going to get 7. Almost always. Now type \u201cAnother\u201d and you\u2019ll"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Claude Science is Anthropic\u2019s newest flagship product",
-      "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "published": "Tue, 30 Jun 2026 21:50:04 +0000",
-      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way"
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "<p>Project Ire examined a timely malware sample and determined its intent through reverse engineering\u2014identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.</p>\n<p>The p"
     }
   ],
-  "timestamp": "2026-07-07T09:50:05.890421",
-  "last_updated": "2026-07-07T09:50:05.890421",
+  "timestamp": "2026-07-07T14:46:35.876985",
+  "last_updated": "2026-07-07T14:46:35.876985",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
