@@ -1,12 +1,36 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "published": "2026-07-07T17:07:52.000Z",
+      "summary": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
       "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
       "published": "Tue, 07 Jul 2026 11:10:52 +0000",
       "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces ris"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "published": "Tue, 07 Jul 2026 08:54:00 +0000",
+      "summary": "Managed agents feature bundle launch"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "link": "https://openai.com/index/australian-payments-plus",
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
     },
     {
       "source": "Anthropic Blog",
@@ -63,14 +87,6 @@
       "link": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
       "published": "2026-07-03T10:15:38.000Z",
       "summary": "We\u2019re publishing our Responsible Scaling Policy\u2014a series of technical and organizational protocols that we\u2019re adopting to help us manage the risks of developing increasingly capable AI systems."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework",
-      "link": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-      "published": "2026-07-03T10:14:45.000Z",
-      "summary": "What is and isn&#x27;t blocked by our cyber classifiers, and a first draft of our jailbreak severity framework"
     },
     {
       "source": "MIT Technology Review AI",
@@ -147,6 +163,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "Inside Genebench-Pro",
+      "link": "https://openai.com/index/genebench-pro/case-studies",
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "published": "Tue, 30 Jun 2026 00:00:00 GMT",
@@ -159,14 +183,6 @@
       "link": "https://openai.com/index/introducing-genebench-pro",
       "published": "Tue, 30 Jun 2026 00:00:00 GMT",
       "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Inside Genebench-Pro",
-      "link": "https://openai.com/index/genebench-pro/case-studies",
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": ""
     },
     {
       "source": "Microsoft Research AI",
@@ -183,22 +199,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
       "published": "Mon, 29 Jun 2026 16:00:00 +0000",
       "summary": "An illustration depicting a full-stack AI infrastructure against a dark background"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Mapping Europe\u2019s AI Workforce Opportunity",
-      "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "published": "Thu, 25 Jun 2026 16:00:00 +0000",
-      "summary": "The Google Finance logo, surrounded by elements of the user interface"
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "<p>Project Ire examined a timely malware sample and determined its intent through reverse engineering\u2014identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.</p>\n<p>The p"
     }
   ],
-  "timestamp": "2026-07-07T14:46:35.876985",
-  "last_updated": "2026-07-07T14:46:35.876985",
+  "timestamp": "2026-07-07T20:01:57.285063",
+  "last_updated": "2026-07-07T20:01:57.285063",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
