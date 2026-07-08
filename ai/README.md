@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-07 20:01:57 UTC
+**Last Updated:** 2026-07-08 03:17:13 UTC
 
 ## Latest Updates
 
@@ -10,6 +10,7 @@
 | MIT Technology Review AI | [The foundational elements of AI architecture that IT leaders need to scale](https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/) | Tue, 07 Ju |
 | Google AI Blog | [Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) | Tue, 07 Ju |
 | OpenAI Blog | [Australian Payments Plus moves faster with ChatGPT and Codex](https://openai.com/index/australian-payments-plus) | Tue, 07 Ju |
+| OpenAI Blog | [MUFG aims to become AI-native with OpenAI](https://openai.com/index/mufg) | Tue, 07 Ju |
 | Anthropic Blog | [Building safeguards for Claude](https://www.anthropic.com/news/building-safeguards-for-claude) | 2026-07-06 |
 | Anthropic Blog | [Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities](https://www.anthropic.com/news/alberta-government-claude-cybersecurity) | 2026-07-06 |
 | MIT Technology Review AI | [Your family’s $300 stake in OpenAI](https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/) | Mon, 06 Ju |
@@ -26,7 +27,6 @@
 | DeepMind Blog | [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) | Tue, 30 Ju |
 | OpenAI Blog | [How ChatGPT adoption has expanded](https://openai.com/index/how-chatgpt-adoption-has-expanded) | Tue, 30 Ju |
 | Google AI Blog | [Unlocking Britain’s next era of productivity: Building a nation of AI trailblaze](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/) | Tue, 30 Ju |
-| OpenAI Blog | [Inside Genebench-Pro](https://openai.com/index/genebench-pro/case-studies) | Tue, 30 Ju |
 | OpenAI Blog | [Core dump epidemiology: fixing an 18-year-old bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug) | Tue, 30 Ju |
 | OpenAI Blog | [Introducing GeneBench-Pro](https://openai.com/index/introducing-genebench-pro) | Tue, 30 Ju |
 | Microsoft Research AI | [Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/) | Mon, 29 Ju |
