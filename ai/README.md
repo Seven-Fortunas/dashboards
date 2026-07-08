@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-08 08:35:20 UTC
+**Last Updated:** 2026-07-08 14:24:36 UTC
 
 ## Latest Updates
 
@@ -27,8 +27,8 @@
 | DeepMind Blog | [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) | Tue, 30 Ju |
 | OpenAI Blog | [How ChatGPT adoption has expanded](https://openai.com/index/how-chatgpt-adoption-has-expanded) | Tue, 30 Ju |
 | Google AI Blog | [Unlocking Britain’s next era of productivity: Building a nation of AI trailblaze](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/) | Tue, 30 Ju |
+| OpenAI Blog | [Inside Genebench-Pro](https://openai.com/index/genebench-pro/case-studies) | Tue, 30 Ju |
 | OpenAI Blog | [Core dump epidemiology: fixing an 18-year-old bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug) | Tue, 30 Ju |
-| OpenAI Blog | [Introducing GeneBench-Pro](https://openai.com/index/introducing-genebench-pro) | Tue, 30 Ju |
 | Microsoft Research AI | [Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/) | Mon, 29 Ju |
 | Google AI Blog | [Ask an AI expert: What exactly is the full stack?](https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/) | Mon, 29 Ju |
 | Microsoft Research AI | [Understanding the brain with AI-driven explanations and experiments](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/) | Thu, 25 Ju |
