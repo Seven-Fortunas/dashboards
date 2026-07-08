@@ -265,8 +265,8 @@
       "summary": "<p>Project Ire examined a timely malware sample and determined its intent through reverse engineering\u2014identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.</p>\n<p>The p"
     }
   ],
-  "timestamp": "2026-07-08T03:17:13.840183",
-  "last_updated": "2026-07-08T03:17:13.840183",
+  "timestamp": "2026-07-08T08:35:20.807806",
+  "last_updated": "2026-07-08T08:35:20.807806",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
