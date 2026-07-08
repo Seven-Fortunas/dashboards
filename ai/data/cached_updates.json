@@ -33,6 +33,14 @@
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "link": "https://openai.com/index/mufg",
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Building safeguards for Claude",
@@ -163,14 +171,6 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Inside Genebench-Pro",
-      "link": "https://openai.com/index/genebench-pro/case-studies",
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": ""
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "published": "Tue, 30 Jun 2026 00:00:00 GMT",
@@ -265,8 +265,8 @@
       "summary": "<p>Project Ire examined a timely malware sample and determined its intent through reverse engineering\u2014identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.</p>\n<p>The p"
     }
   ],
-  "timestamp": "2026-07-07T20:01:57.285063",
-  "last_updated": "2026-07-07T20:01:57.285063",
+  "timestamp": "2026-07-08T03:17:13.840183",
+  "last_updated": "2026-07-08T03:17:13.840183",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
