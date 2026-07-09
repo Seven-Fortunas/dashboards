@@ -1,26 +1,27 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-09 15:18:39 UTC
+**Last Updated:** 2026-07-09 19:51:55 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [The Long-Term Benefit Trust](https://www.anthropic.com/news/the-long-term-benefit-trust) | 2026-07-09 |
+| Anthropic Blog | [Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust](https://www.anthropic.com/news/ben-bernanke) | 2026-07-09 |
+| Anthropic Blog | [Inviting hard questions](https://www.anthropic.com/news/hard-questions) | 2026-07-09 |
+| Microsoft Research AI | [Aurora 1.5: Extending open foundation models for weather and Earth-system applic](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/) | Thu, 09 Ju |
 | Anthropic Blog | [A new way to reflect on how you use Claude](https://www.anthropic.com/news/reflect-with-claude) | 2026-07-09 |
+| OpenAI Blog | [ChatGPT is now a partner for your most ambitious work](https://openai.com/index/chatgpt-for-your-most-ambitious-work) | Thu, 09 Ju |
+| OpenAI Blog | [GPT-5.5 Bio Bug Bounty](https://openai.com/index/bio-bug-bounty) | Thu, 09 Ju |
+| OpenAI Blog | [GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6) | Thu, 09 Ju |
 | Anthropic Blog | [Progress from our Frontier Red Team](https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team) | 2026-07-08 |
-| Anthropic Blog | [Frontier threats red teaming for AI safety](https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety) | 2026-07-08 |
-| Anthropic Blog | [Charting a path to AI accountability](https://www.anthropic.com/news/charting-a-path-to-ai-accountability) | 2026-07-08 |
-| Anthropic Blog | [Anthropic&#x27;s core views on AI safety](https://www.anthropic.com/news/core-views-on-ai-safety) | 2026-07-08 |
 | LangChain Releases | [Release langchain-core==1.4.9](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.9) | 2026-07-08 |
 | PyTorch Releases | [Release v2.13.0](https://github.com/pytorch/pytorch/releases/tag/v2.13.0) | 2026-07-08 |
 | Microsoft Research AI | [Flint: A visualization language for the AI era](https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/) | Wed, 08 Ju |
 | OpenAI Blog | [Our approach to government and national security partnerships](https://openai.com/index/government-national-security-partnerships) | Wed, 08 Ju |
 | OpenAI Blog | [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations) | Wed, 08 Ju |
-| OpenAI Blog | [Helping K–12 educators build practical AI skills](https://openai.com/index/k-12-educators-practical-skills) | Wed, 08 Ju |
-| OpenAI Blog | [Introducing GPT-Live](https://openai.com/index/introducing-gpt-live) | Wed, 08 Ju |
 | MIT Technology Review AI | [The foundational elements of AI architecture that IT leaders need to scale](https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/) | Tue, 07 Ju |
 | Google AI Blog | [Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) | Tue, 07 Ju |
-| OpenAI Blog | [Australian Payments Plus moves faster with ChatGPT and Codex](https://openai.com/index/australian-payments-plus) | Tue, 07 Ju |
 | MIT Technology Review AI | [Your family’s $300 stake in OpenAI](https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/) | Mon, 06 Ju |
 | HuggingFace Transformers | [Release v5.13.0](https://github.com/huggingface/transformers/releases/tag/v5.13.0) | 2026-07-03 |
 | DeepMind Blog | [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) | Fri, 03 Ju |
@@ -36,6 +37,5 @@
 | Google AI Blog | [Ask an AI expert: What exactly is the full stack?](https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/) | Mon, 29 Ju |
 | Microsoft Research AI | [Understanding the brain with AI-driven explanations and experiments](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/) | Thu, 25 Ju |
 | DeepMind Blog | [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/) | Wed, 24 Ju |
-| Microsoft Research AI | [Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalys](https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/) | Wed, 24 Ju |
 | DeepMind Blog | [Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/) | Tue, 16 Ju |
 | DeepMind Blog | [Securing the future of AI agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/) | Tue, 16 Ju |
