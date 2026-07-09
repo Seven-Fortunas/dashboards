@@ -1,6 +1,54 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Progress from our Frontier Red Team",
+      "link": "https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team",
+      "published": "2026-07-08T22:43:38.000Z",
+      "summary": "In this post, we are sharing what we have learned about the trajectory of potential national security risks from frontier AI models, along with some of our thoughts about challenges and best practices"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Frontier threats red teaming for AI safety",
+      "link": "https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety",
+      "published": "2026-07-08T22:42:17.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Charting a path to AI accountability",
+      "link": "https://www.anthropic.com/news/charting-a-path-to-ai-accountability",
+      "published": "2026-07-08T22:41:45.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic&#x27;s core views on AI safety",
+      "link": "https://www.anthropic.com/news/core-views-on-ai-safety",
+      "published": "2026-07-08T22:23:46.000Z",
+      "summary": "AI progress may lead to transformative AI systems in the next decade, but we do not yet understand how to make such systems safe and aligned with human values. In response, we are pursuing a variety o"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Golden Gate Claude",
+      "link": "https://www.anthropic.com/news/golden-gate-claude",
+      "published": "2026-07-08T20:08:28.000Z",
+      "summary": "When we turn up the strength of the \u201cGolden Gate Bridge\u201d feature, Claude\u2019s responses begin to focus on the Golden Gate Bridge. For a short time, we\u2019re making this model available for everyone to inter"
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.4.9",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.9",
+      "published": "2026-07-08T20:07:10Z",
+      "summary": "Changes since langchain-core==1.4.8\n\nrelease(core): 1.4.9 (#38728)\nfix(core): improve langsmith loader error messages (#35648)\nfix(core): output parser bugs in xml.py and pydantic.py (#35641)\nstyle(co"
+    },
+    {
       "source": "PyTorch Releases",
       "type": "github",
       "title": "Release v2.13.0",
@@ -19,6 +67,22 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "Our approach to government and national security partnerships",
+      "link": "https://openai.com/index/government-national-security-partnerships",
+      "published": "Wed, 08 Jul 2026 13:30:00 GMT",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Separating signal from noise in coding evaluations",
+      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "published": "Wed, 08 Jul 2026 13:00:00 GMT",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Helping K\u201312 educators build practical AI skills",
       "link": "https://openai.com/index/k-12-educators-practical-skills",
       "published": "Wed, 08 Jul 2026 10:00:00 GMT",
@@ -31,14 +95,6 @@
       "link": "https://openai.com/index/introducing-gpt-live",
       "published": "Wed, 08 Jul 2026 00:00:00 GMT",
       "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Sonnet 5",
-      "link": "https://www.anthropic.com/news/claude-sonnet-5",
-      "published": "2026-07-07T17:07:52.000Z",
-      "summary": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
     },
     {
       "source": "MIT Technology Review AI",
@@ -65,30 +121,6 @@
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "link": "https://openai.com/index/mufg",
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Building safeguards for Claude",
-      "link": "https://www.anthropic.com/news/building-safeguards-for-claude",
-      "published": "2026-07-06T23:32:01.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
-      "link": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-      "published": "2026-07-06T19:00:35.000Z",
-      "summary": "The Government of Alberta has been using Claude Code with both Opus and Sonnet models to review its systems, find vulnerabilities, and fix them."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Your family\u2019s $300 stake in OpenAI",
@@ -111,22 +143,6 @@
       "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
       "published": "Fri, 03 Jul 2026 14:25:43 +0000",
       "summary": ""
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Claude&#x27;s extended thinking",
-      "link": "https://www.anthropic.com/news/visible-extended-thinking",
-      "published": "2026-07-03T10:15:42.000Z",
-      "summary": "Discussing Claude&#x27;s new thought process"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Announcing Anthropic&#x27;s Responsible Scaling Policy",
-      "link": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
-      "published": "2026-07-03T10:15:38.000Z",
-      "summary": "We\u2019re publishing our Responsible Scaling Policy\u2014a series of technical and organizational protocols that we\u2019re adopting to help us manage the risks of developing increasingly capable AI systems."
     },
     {
       "source": "MIT Technology Review AI",
@@ -185,14 +201,6 @@
       "summary": ""
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How ChatGPT adoption has expanded",
-      "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "published": "Tue, 30 Jun 2026 09:00:00 GMT",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Unlocking Britain\u2019s next era of productivity: Building a nation of AI trailblazers",
@@ -241,14 +249,6 @@
       "summary": "<p>Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per"
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain==1.3.11",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.3.11",
-      "published": "2026-06-22T23:00:47Z",
-      "summary": "Changes since langchain==1.3.10\r\n\r\nrelease(langchain): 1.3.11 (#38377)\r\nfix(langchain,openai): only set `strict=True` on tools for OpenAI-compatible models in `ProviderStrategy` (#38370)\r\nchore: bump "
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Unlocking UK house-building with AI-accelerated planning",
@@ -265,8 +265,8 @@
       "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
     }
   ],
-  "timestamp": "2026-07-08T19:39:29.938182",
-  "last_updated": "2026-07-08T19:39:29.938182",
+  "timestamp": "2026-07-09T03:41:41.003170",
+  "last_updated": "2026-07-09T03:41:41.003170",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
