@@ -1,16 +1,16 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-09 09:47:46 UTC
+**Last Updated:** 2026-07-09 15:18:39 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [A new way to reflect on how you use Claude](https://www.anthropic.com/news/reflect-with-claude) | 2026-07-09 |
 | Anthropic Blog | [Progress from our Frontier Red Team](https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team) | 2026-07-08 |
 | Anthropic Blog | [Frontier threats red teaming for AI safety](https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety) | 2026-07-08 |
 | Anthropic Blog | [Charting a path to AI accountability](https://www.anthropic.com/news/charting-a-path-to-ai-accountability) | 2026-07-08 |
 | Anthropic Blog | [Anthropic&#x27;s core views on AI safety](https://www.anthropic.com/news/core-views-on-ai-safety) | 2026-07-08 |
-| Anthropic Blog | [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude) | 2026-07-08 |
 | LangChain Releases | [Release langchain-core==1.4.9](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.9) | 2026-07-08 |
 | PyTorch Releases | [Release v2.13.0](https://github.com/pytorch/pytorch/releases/tag/v2.13.0) | 2026-07-08 |
 | Microsoft Research AI | [Flint: A visualization language for the AI era](https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/) | Wed, 08 Ju |
