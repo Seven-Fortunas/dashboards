@@ -1,27 +1,29 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-08 19:39:29 UTC
+**Last Updated:** 2026-07-09 03:41:41 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Progress from our Frontier Red Team](https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team) | 2026-07-08 |
+| Anthropic Blog | [Frontier threats red teaming for AI safety](https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety) | 2026-07-08 |
+| Anthropic Blog | [Charting a path to AI accountability](https://www.anthropic.com/news/charting-a-path-to-ai-accountability) | 2026-07-08 |
+| Anthropic Blog | [Anthropic&#x27;s core views on AI safety](https://www.anthropic.com/news/core-views-on-ai-safety) | 2026-07-08 |
+| Anthropic Blog | [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude) | 2026-07-08 |
+| LangChain Releases | [Release langchain-core==1.4.9](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.9) | 2026-07-08 |
 | PyTorch Releases | [Release v2.13.0](https://github.com/pytorch/pytorch/releases/tag/v2.13.0) | 2026-07-08 |
 | Microsoft Research AI | [Flint: A visualization language for the AI era](https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/) | Wed, 08 Ju |
+| OpenAI Blog | [Our approach to government and national security partnerships](https://openai.com/index/government-national-security-partnerships) | Wed, 08 Ju |
+| OpenAI Blog | [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations) | Wed, 08 Ju |
 | OpenAI Blog | [Helping K–12 educators build practical AI skills](https://openai.com/index/k-12-educators-practical-skills) | Wed, 08 Ju |
 | OpenAI Blog | [Introducing GPT-Live](https://openai.com/index/introducing-gpt-live) | Wed, 08 Ju |
-| Anthropic Blog | [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 2026-07-07 |
 | MIT Technology Review AI | [The foundational elements of AI architecture that IT leaders need to scale](https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/) | Tue, 07 Ju |
 | Google AI Blog | [Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) | Tue, 07 Ju |
 | OpenAI Blog | [Australian Payments Plus moves faster with ChatGPT and Codex](https://openai.com/index/australian-payments-plus) | Tue, 07 Ju |
-| OpenAI Blog | [MUFG aims to become AI-native with OpenAI](https://openai.com/index/mufg) | Tue, 07 Ju |
-| Anthropic Blog | [Building safeguards for Claude](https://www.anthropic.com/news/building-safeguards-for-claude) | 2026-07-06 |
-| Anthropic Blog | [Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities](https://www.anthropic.com/news/alberta-government-claude-cybersecurity) | 2026-07-06 |
 | MIT Technology Review AI | [Your family’s $300 stake in OpenAI](https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/) | Mon, 06 Ju |
 | HuggingFace Transformers | [Release v5.13.0](https://github.com/huggingface/transformers/releases/tag/v5.13.0) | 2026-07-03 |
 | DeepMind Blog | [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) | Fri, 03 Ju |
-| Anthropic Blog | [Claude&#x27;s extended thinking](https://www.anthropic.com/news/visible-extended-thinking) | 2026-07-03 |
-| Anthropic Blog | [Announcing Anthropic&#x27;s Responsible Scaling Policy](https://www.anthropic.com/news/anthropics-responsible-scaling-policy) | 2026-07-03 |
 | MIT Technology Review AI | [Achieving operational excellence with AI](https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/) | Thu, 02 Ju |
 | MIT Technology Review AI | [Building the foundation for an autonomous enterprise](https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/) | Thu, 02 Ju |
 | Google AI Blog | [The latest AI news we announced in June 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/) | Wed, 01 Ju |
@@ -29,13 +31,11 @@
 | MIT Technology Review AI | [LLMs are stuck in a groupthink groove. This startup is trying to get them out.](https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/) | Wed, 01 Ju |
 | Microsoft Research AI | [SkillOpt: Agent skills as trainable parameters](https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/) | Tue, 30 Ju |
 | DeepMind Blog | [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) | Tue, 30 Ju |
-| OpenAI Blog | [How ChatGPT adoption has expanded](https://openai.com/index/how-chatgpt-adoption-has-expanded) | Tue, 30 Ju |
 | Google AI Blog | [Unlocking Britain’s next era of productivity: Building a nation of AI trailblaze](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/) | Tue, 30 Ju |
 | Microsoft Research AI | [Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/) | Mon, 29 Ju |
 | Google AI Blog | [Ask an AI expert: What exactly is the full stack?](https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/) | Mon, 29 Ju |
 | Microsoft Research AI | [Understanding the brain with AI-driven explanations and experiments](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/) | Thu, 25 Ju |
 | DeepMind Blog | [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/) | Wed, 24 Ju |
 | Microsoft Research AI | [Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalys](https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/) | Wed, 24 Ju |
-| LangChain Releases | [Release langchain==1.3.11](https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.3.11) | 2026-06-22 |
 | DeepMind Blog | [Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/) | Tue, 16 Ju |
 | DeepMind Blog | [Securing the future of AI agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/) | Tue, 16 Ju |
