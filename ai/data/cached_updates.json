@@ -3,6 +3,30 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
+      "title": "UST is bringing Claude to physical AI",
+      "link": "https://www.anthropic.com/news/ust-claude",
+      "published": "2026-07-10T00:37:25.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "published": "Thu, 09 Jul 2026 20:22:28 +0000",
+      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what\u2019s really going on inside large language models as they answer questions or carry out tasks. What they"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Golden Gate Claude",
+      "link": "https://www.anthropic.com/news/golden-gate-claude",
+      "published": "2026-07-09T20:02:16.000Z",
+      "summary": "When we turn up the strength of the \u201cGolden Gate Bridge\u201d feature, Claude\u2019s responses begin to focus on the Golden Gate Bridge. For a short time, we\u2019re making this model available for everyone to inter"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
       "title": "The Long-Term Benefit Trust",
       "link": "https://www.anthropic.com/news/the-long-term-benefit-trust",
       "published": "2026-07-09T19:21:35.000Z",
@@ -33,12 +57,12 @@
       "summary": "<p>Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and ener"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "A new way to reflect on how you use Claude",
-      "link": "https://www.anthropic.com/news/reflect-with-claude",
-      "published": "2026-07-09T14:22:03.000Z",
-      "summary": "Introducing a new way to reflect on and refine how you use Claude. It lets you easily track and visualize how you use Claude, and decide whether that time aligns with your goals."
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "published": "Thu, 09 Jul 2026 13:00:00 GMT",
+      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
     },
     {
       "source": "OpenAI Blog",
@@ -63,14 +87,6 @@
       "link": "https://openai.com/index/gpt-5-6",
       "published": "Thu, 09 Jul 2026 10:00:00 GMT",
       "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Progress from our Frontier Red Team",
-      "link": "https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team",
-      "published": "2026-07-08T22:43:38.000Z",
-      "summary": "In this post, we are sharing what we have learned about the trajectory of potential national security risks from frontier AI models, along with some of our thoughts about challenges and best practices"
     },
     {
       "source": "LangChain Releases",
@@ -103,14 +119,6 @@
       "link": "https://openai.com/index/government-national-security-partnerships",
       "published": "Wed, 08 Jul 2026 13:30:00 GMT",
       "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Separating signal from noise in coding evaluations",
-      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "published": "Wed, 08 Jul 2026 13:00:00 GMT",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
     },
     {
       "source": "MIT Technology Review AI",
@@ -185,14 +193,6 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp\" />Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit fo"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "published": "Wed, 01 Jul 2026 14:35:16 +0000",
-      "summary": "Let\u2019s start with a game. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1 and 10.\u201d You\u2019re going to get 7. Almost always. Now type \u201cAnother\u201d and you\u2019ll"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "SkillOpt: Agent skills as trainable parameters",
@@ -265,8 +265,8 @@
       "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
     }
   ],
-  "timestamp": "2026-07-09T19:51:55.494161",
-  "last_updated": "2026-07-09T19:51:55.494161",
+  "timestamp": "2026-07-10T03:43:38.165696",
+  "last_updated": "2026-07-10T03:43:38.165696",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
