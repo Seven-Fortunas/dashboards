@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "link": "https://openai.com/index/deutsche-telekom",
+      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "UST is bringing Claude to physical AI",
@@ -67,6 +75,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "link": "https://openai.com/index/gpt-5-6",
+      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "ChatGPT is now a partner for your most ambitious work",
       "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "published": "Thu, 09 Jul 2026 10:00:00 GMT",
@@ -79,14 +95,6 @@
       "link": "https://openai.com/index/bio-bug-bounty",
       "published": "Thu, 09 Jul 2026 10:00:00 GMT",
       "summary": "Details about the OpenAI Bio Bounty program"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "link": "https://openai.com/index/gpt-5-6",
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
     },
     {
       "source": "LangChain Releases",
@@ -111,14 +119,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
       "published": "Wed, 08 Jul 2026 16:00:00 +0000",
       "summary": "<p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive ch"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Our approach to government and national security partnerships",
-      "link": "https://openai.com/index/government-national-security-partnerships",
-      "published": "Wed, 08 Jul 2026 13:30:00 GMT",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety."
     },
     {
       "source": "MIT Technology Review AI",
@@ -265,8 +265,8 @@
       "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
     }
   ],
-  "timestamp": "2026-07-10T03:43:38.165696",
-  "last_updated": "2026-07-10T03:43:38.165696",
+  "timestamp": "2026-07-10T09:42:21.912530",
+  "last_updated": "2026-07-10T09:42:21.912530",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
