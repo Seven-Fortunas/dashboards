@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-11 08:02:25 UTC
+**Last Updated:** 2026-07-11 13:36:10 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| HuggingFace Transformers | [Release v5.13.1](https://github.com/huggingface/transformers/releases/tag/v5.13.1) | 2026-07-11 |
 | OpenAI Blog | [How Deutsche Telekom is rewiring telecommunications with AI](https://openai.com/index/deutsche-telekom) | Fri, 10 Ju |
 | Anthropic Blog | [UST is bringing Claude to physical AI](https://www.anthropic.com/news/ust-claude) | 2026-07-10 |
 | MIT Technology Review AI | [Anthropic found a hidden space where Claude puzzles over concepts](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/) | Thu, 09 Ju |
@@ -24,7 +25,6 @@
 | MIT Technology Review AI | [The foundational elements of AI architecture that IT leaders need to scale](https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/) | Tue, 07 Ju |
 | Google AI Blog | [Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) | Tue, 07 Ju |
 | MIT Technology Review AI | [Your family’s $300 stake in OpenAI](https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/) | Mon, 06 Ju |
-| HuggingFace Transformers | [Release v5.13.0](https://github.com/huggingface/transformers/releases/tag/v5.13.0) | 2026-07-03 |
 | DeepMind Blog | [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) | Fri, 03 Ju |
 | MIT Technology Review AI | [Achieving operational excellence with AI](https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/) | Thu, 02 Ju |
 | MIT Technology Review AI | [Building the foundation for an autonomous enterprise](https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/) | Thu, 02 Ju |
