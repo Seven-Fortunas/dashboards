@@ -25,6 +25,14 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Getting started with ChatGPT",
+      "link": "https://openai.com/academy/getting-started",
+      "published": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Anthropic found a hidden space where Claude puzzles over concepts",
@@ -83,26 +91,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "link": "https://openai.com/index/gpt-5-6",
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "GPT-5.5 Bio Bug Bounty",
       "link": "https://openai.com/index/bio-bug-bounty",
       "published": "Thu, 09 Jul 2026 10:00:00 GMT",
       "summary": "Details about the OpenAI Bio Bounty program"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "link": "https://openai.com/index/gpt-5-6",
+      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
     },
     {
       "source": "LangChain Releases",
@@ -265,8 +265,8 @@
       "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
     }
   ],
-  "timestamp": "2026-07-13T09:35:09.984994",
-  "last_updated": "2026-07-13T09:35:09.984994",
+  "timestamp": "2026-07-13T14:43:47.493342",
+  "last_updated": "2026-07-13T14:43:47.493342",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

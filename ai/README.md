@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-13 09:35:09 UTC
+**Last Updated:** 2026-07-13 14:43:47 UTC
 
 ## Latest Updates
 
@@ -9,6 +9,7 @@
 | HuggingFace Transformers | [Release v5.13.1](https://github.com/huggingface/transformers/releases/tag/v5.13.1) | 2026-07-11 |
 | OpenAI Blog | [How Deutsche Telekom is rewiring telecommunications with AI](https://openai.com/index/deutsche-telekom) | Fri, 10 Ju |
 | Anthropic Blog | [UST is bringing Claude to physical AI](https://www.anthropic.com/news/ust-claude) | 2026-07-10 |
+| OpenAI Blog | [Getting started with ChatGPT](https://openai.com/academy/getting-started) | Fri, 10 Ju |
 | MIT Technology Review AI | [Anthropic found a hidden space where Claude puzzles over concepts](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/) | Thu, 09 Ju |
 | Anthropic Blog | [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude) | 2026-07-09 |
 | Anthropic Blog | [The Long-Term Benefit Trust](https://www.anthropic.com/news/the-long-term-benefit-trust) | 2026-07-09 |
@@ -16,9 +17,8 @@
 | Anthropic Blog | [Inviting hard questions](https://www.anthropic.com/news/hard-questions) | 2026-07-09 |
 | Microsoft Research AI | [Aurora 1.5: Extending open foundation models for weather and Earth-system applic](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/) | Thu, 09 Ju |
 | OpenAI Blog | [GPT-5.6 is now the preferred model in Microsoft 365 Copilot](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot) | Thu, 09 Ju |
-| OpenAI Blog | [GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6) | Thu, 09 Ju |
-| OpenAI Blog | [ChatGPT is now a partner for your most ambitious work](https://openai.com/index/chatgpt-for-your-most-ambitious-work) | Thu, 09 Ju |
 | OpenAI Blog | [GPT-5.5 Bio Bug Bounty](https://openai.com/index/bio-bug-bounty) | Thu, 09 Ju |
+| OpenAI Blog | [GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6) | Thu, 09 Ju |
 | LangChain Releases | [Release langchain-core==1.4.9](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.9) | 2026-07-08 |
 | PyTorch Releases | [Release v2.13.0](https://github.com/pytorch/pytorch/releases/tag/v2.13.0) | 2026-07-08 |
 | Microsoft Research AI | [Flint: A visualization language for the AI era](https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/) | Wed, 08 Ju |
