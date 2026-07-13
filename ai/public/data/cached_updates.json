@@ -1,6 +1,46 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show",
+      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "published": "Mon, 13 Jul 2026 18:00:00 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Anthropic\u2014currently the world\u2019s most valuable AI company, with"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
+      "link": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+      "published": "Mon, 13 Jul 2026 16:00:00 +0000",
+      "summary": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets impleme"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude for Creative Work",
+      "link": "https://www.anthropic.com/news/claude-for-creative-work",
+      "published": "2026-07-13T15:46:07.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic Sydney office",
+      "link": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+      "published": "2026-07-13T15:41:50.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "published": "2026-07-13T15:41:00.000Z",
+      "summary": "Today, we\u2019re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
+    },
+    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.13.1",
@@ -47,30 +87,6 @@
       "link": "https://www.anthropic.com/news/golden-gate-claude",
       "published": "2026-07-09T20:02:16.000Z",
       "summary": "When we turn up the strength of the \u201cGolden Gate Bridge\u201d feature, Claude\u2019s responses begin to focus on the Golden Gate Bridge. For a short time, we\u2019re making this model available for everyone to inter"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "The Long-Term Benefit Trust",
-      "link": "https://www.anthropic.com/news/the-long-term-benefit-trust",
-      "published": "2026-07-09T19:21:35.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Ben Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust",
-      "link": "https://www.anthropic.com/news/ben-bernanke",
-      "published": "2026-07-09T18:07:20.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Inviting hard questions",
-      "link": "https://www.anthropic.com/news/hard-questions",
-      "published": "2026-07-09T17:28:23.000Z",
-      "summary": "We&#x27;re asking the public for their hardest questions about AI, and committing to show our work as we address them."
     },
     {
       "source": "Microsoft Research AI",
@@ -169,14 +185,6 @@
       "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos\u2014a structured way to bring order to messy, sprawling operations. Le"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Building the foundation for an autonomous enterprise",
-      "link": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
-      "published": "Thu, 02 Jul 2026 12:51:44 +0000",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "The latest AI news we announced in June 2026",
@@ -233,14 +241,6 @@
       "summary": "An illustration depicting a full-stack AI infrastructure against a dark background"
     },
     {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Understanding the brain with AI-driven explanations and experiments",
-      "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
-      "published": "Thu, 25 Jun 2026 16:00:00 +0000",
-      "summary": "<p>Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in langua"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Introducing computer use in Gemini 3.5 Flash",
@@ -265,8 +265,8 @@
       "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
     }
   ],
-  "timestamp": "2026-07-13T14:43:47.493342",
-  "last_updated": "2026-07-13T14:43:47.493342",
+  "timestamp": "2026-07-13T19:27:41.236146",
+  "last_updated": "2026-07-13T19:27:41.236146",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
