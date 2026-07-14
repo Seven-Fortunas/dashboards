@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-14 02:49:19 UTC
+**Last Updated:** 2026-07-14 08:14:49 UTC
 
 ## Latest Updates
 
@@ -11,6 +11,7 @@
 | Anthropic Blog | [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) | 2026-07-13 |
 | Anthropic Blog | [Anthropic Sydney office](https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand) | 2026-07-13 |
 | Anthropic Blog | [Introducing Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs) | 2026-07-13 |
+| DeepMind Blog | [Empowering India’s next generation of innovators with ATL Saathi](https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/) | Mon, 13 Ju |
 | HuggingFace Transformers | [Release v5.13.1](https://github.com/huggingface/transformers/releases/tag/v5.13.1) | 2026-07-11 |
 | OpenAI Blog | [How Deutsche Telekom is rewiring telecommunications with AI](https://openai.com/index/deutsche-telekom) | Fri, 10 Ju |
 | Anthropic Blog | [UST is bringing Claude to physical AI](https://www.anthropic.com/news/ust-claude) | 2026-07-10 |
@@ -38,4 +39,3 @@
 | Google AI Blog | [Ask an AI expert: What exactly is the full stack?](https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/) | Mon, 29 Ju |
 | DeepMind Blog | [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/) | Wed, 24 Ju |
 | DeepMind Blog | [Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/) | Tue, 16 Ju |
-| DeepMind Blog | [Securing the future of AI agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/) | Tue, 16 Ju |
