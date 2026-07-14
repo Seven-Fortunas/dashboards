@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "link": "https://www.anthropic.com/news/canadian-ai-research",
+      "published": "2026-07-14T13:00:38.000Z",
+      "summary": "Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How data science teams use ChatGPT Work",
+      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How sales teams use ChatGPT Work",
+      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show",
@@ -89,14 +113,6 @@
       "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what\u2019s really going on inside large language models as they answer questions or carry out tasks. What they"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Golden Gate Claude",
-      "link": "https://www.anthropic.com/news/golden-gate-claude",
-      "published": "2026-07-09T20:02:16.000Z",
-      "summary": "When we turn up the strength of the \u201cGolden Gate Bridge\u201d feature, Claude\u2019s responses begin to focus on the Golden Gate Bridge. For a short time, we\u2019re making this model available for everyone to inter"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
@@ -111,22 +127,6 @@
       "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "published": "Thu, 09 Jul 2026 13:00:00 GMT",
       "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "link": "https://openai.com/index/bio-bug-bounty",
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "Details about the OpenAI Bio Bounty program"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "link": "https://openai.com/index/gpt-5-6",
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
     },
     {
       "source": "LangChain Releases",
@@ -265,8 +265,8 @@
       "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
     }
   ],
-  "timestamp": "2026-07-14T08:14:49.130449",
-  "last_updated": "2026-07-14T08:14:49.130449",
+  "timestamp": "2026-07-14T13:53:55.718403",
+  "last_updated": "2026-07-14T13:53:55.718403",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
