@@ -1,11 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-14 08:14:49 UTC
+**Last Updated:** 2026-07-14 13:53:55 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Anthropic commits $10 million to Canadian AI research](https://www.anthropic.com/news/canadian-ai-research) | 2026-07-14 |
+| OpenAI Blog | [How data science teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) | Tue, 14 Ju |
+| OpenAI Blog | [How sales teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) | Tue, 14 Ju |
 | MIT Technology Review AI | [What Anthropic’s latest AI discovery does—and doesn’t—show](https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/) | Mon, 13 Ju |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
 | Anthropic Blog | [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) | 2026-07-13 |
@@ -17,11 +20,8 @@
 | Anthropic Blog | [UST is bringing Claude to physical AI](https://www.anthropic.com/news/ust-claude) | 2026-07-10 |
 | OpenAI Blog | [Getting started with ChatGPT](https://openai.com/academy/getting-started) | Fri, 10 Ju |
 | MIT Technology Review AI | [Anthropic found a hidden space where Claude puzzles over concepts](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/) | Thu, 09 Ju |
-| Anthropic Blog | [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude) | 2026-07-09 |
 | Microsoft Research AI | [Aurora 1.5: Extending open foundation models for weather and Earth-system applic](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/) | Thu, 09 Ju |
 | OpenAI Blog | [GPT-5.6 is now the preferred model in Microsoft 365 Copilot](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot) | Thu, 09 Ju |
-| OpenAI Blog | [GPT-5.5 Bio Bug Bounty](https://openai.com/index/bio-bug-bounty) | Thu, 09 Ju |
-| OpenAI Blog | [GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6) | Thu, 09 Ju |
 | LangChain Releases | [Release langchain-core==1.4.9](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.9) | 2026-07-08 |
 | PyTorch Releases | [Release v2.13.0](https://github.com/pytorch/pytorch/releases/tag/v2.13.0) | 2026-07-08 |
 | Microsoft Research AI | [Flint: A visualization language for the AI era](https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/) | Wed, 08 Ju |
