@@ -1,20 +1,52 @@
 {
   "updates": [
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic commits $10 million to Canadian AI research",
-      "link": "https://www.anthropic.com/news/canadian-ai-research",
-      "published": "2026-07-15T09:21:26.000Z",
-      "summary": "Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research."
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.14.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.14.0",
+      "published": "2026-07-15T19:02:19Z",
+      "summary": "# Release v5.14.0\r\n\r\n## New Model additions\r\n\r\n### Inkling (fresh from Thinking Machines): 975B total, 41B active\r\n\r\n* Add Inkling model #47347 by @molbap @Cyrilvallez @eustlb and @zucchini-nlp \r\n\r\n<i"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "published": "Wed, 15 Jul 2026 17:09:37 +0000",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver"
     },
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude for Teachers",
       "link": "https://www.anthropic.com/news/claude-for-teachers",
-      "published": "2026-07-14T17:50:04.000Z",
+      "published": "2026-07-15T16:22:29.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "The US is advancing AI safety through state and federal action",
+      "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "published": "Wed, 15 Jul 2026 12:00:00 GMT",
+      "summary": "OpenAI outlines a \u201creverse federalism\u201d approach to AI governance, where state laws help build a national framework for safe, democratic AI."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "published": "Wed, 15 Jul 2026 10:00:00 GMT",
+      "summary": "Explore GPT-Red, OpenAI\u2019s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "link": "https://www.anthropic.com/news/canadian-ai-research",
+      "published": "2026-07-15T09:21:26.000Z",
+      "summary": "Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research."
     },
     {
       "source": "Google AI Blog",
@@ -57,6 +89,14 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Anthropic\u2014currently the world\u2019s most valuable AI company, with"
     },
     {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
+      "link": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+      "published": "Mon, 13 Jul 2026 16:00:00 +0000",
+      "summary": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets impleme"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Claude for Creative Work",
@@ -89,36 +129,20 @@
       "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
     },
     {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.13.1",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.13.1",
-      "published": "2026-07-11T09:15:36Z",
-      "summary": "# Patch release v5.13.1 \r\n\r\nThis patch is focused on enabling `transformers` for the latest release of vllm! \r\n\r\n- Be more defensive with remap_legacy_layer_types for custom models (#47245) from @hmel"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "link": "https://openai.com/index/deutsche-telekom",
-      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Getting started with ChatGPT",
-      "link": "https://openai.com/academy/getting-started",
-      "published": "Fri, 10 Jul 2026 00:00:00 GMT",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Anthropic found a hidden space where Claude puzzles over concepts",
       "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
       "published": "Thu, 09 Jul 2026 20:22:28 +0000",
       "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what\u2019s really going on inside large language models as they answer questions or carry out tasks. What they"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
+      "link": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+      "published": "Thu, 09 Jul 2026 16:46:22 +0000",
+      "summary": "<p>Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and ener"
     },
     {
       "source": "LangChain Releases",
@@ -135,6 +159,14 @@
       "link": "https://github.com/pytorch/pytorch/releases/tag/v2.13.0",
       "published": "2026-07-08T17:39:58Z",
       "summary": "# PyTorch 2.13.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Flint: A visualization language for the AI era",
+      "link": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+      "published": "Wed, 08 Jul 2026 16:00:00 +0000",
+      "summary": "<p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive ch"
     },
     {
       "source": "MIT Technology Review AI",
@@ -169,14 +201,6 @@
       "summary": ""
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Achieving operational excellence with AI",
-      "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "published": "Thu, 02 Jul 2026 15:37:08 +0000",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos\u2014a structured way to bring order to messy, sprawling operations. Le"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "The latest AI news we announced in June 2026",
@@ -191,6 +215,14 @@
       "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
       "published": "Wed, 01 Jul 2026 16:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp\" />Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit fo"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "SkillOpt: Agent skills as trainable parameters",
+      "link": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+      "published": "Tue, 30 Jun 2026 16:50:02 +0000",
+      "summary": "<p>AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent beha"
     },
     {
       "source": "DeepMind Blog",
@@ -209,6 +241,14 @@
       "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer."
     },
     {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Memora:\u00a0A Harmonic Memory Representation Balancing Abstraction and Specificity",
+      "link": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+      "published": "Mon, 29 Jun 2026 21:14:22 +0000",
+      "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Introducing computer use in Gemini 3.5 Flash",
@@ -225,17 +265,10 @@
       "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
     }
   ],
-  "timestamp": "2026-07-15T13:51:47.618610",
-  "last_updated": "2026-07-15T13:51:47.618610",
-  "failures": [
-    {
-      "source": "Microsoft Research AI",
-      "error": "Feed parse error: <unknown>:7:2: mismatched tag"
-    }
-  ],
-  "failed_sources": [
-    "Microsoft Research AI"
-  ],
-  "failure_count": 1,
+  "timestamp": "2026-07-15T19:17:37.055459",
+  "last_updated": "2026-07-15T19:17:37.055459",
+  "failures": [],
+  "failed_sources": [],
+  "failure_count": 0,
   "source_count": 10
 }
