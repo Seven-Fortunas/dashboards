@@ -35,18 +35,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How sales teams use ChatGPT Work",
-      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "How data science teams use ChatGPT Work",
       "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "published": "Tue, 14 Jul 2026 00:00:00 GMT",
       "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How sales teams use ChatGPT Work",
+      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
     },
     {
       "source": "MIT Technology Review AI",
@@ -265,8 +265,8 @@
       "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
     }
   ],
-  "timestamp": "2026-07-14T19:25:23.326100",
-  "last_updated": "2026-07-14T19:25:23.326100",
+  "timestamp": "2026-07-15T02:47:44.974031",
+  "last_updated": "2026-07-15T02:47:44.974031",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

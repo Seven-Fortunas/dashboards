@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-14 19:25:23 UTC
+**Last Updated:** 2026-07-15 02:47:44 UTC
 
 ## Latest Updates
 
@@ -10,8 +10,8 @@
 | Anthropic Blog | [Anthropic commits $10 million to Canadian AI research](https://www.anthropic.com/news/canadian-ai-research) | 2026-07-14 |
 | Google AI Blog | [Celebrating 25 years of visual search innovation](https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/) | Tue, 14 Ju |
 | OpenAI Blog | [How to manage AI investments in the agentic era](https://openai.com/index/managing-ai-investments-in-agentic-era) | Tue, 14 Ju |
-| OpenAI Blog | [How sales teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) | Tue, 14 Ju |
 | OpenAI Blog | [How data science teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) | Tue, 14 Ju |
+| OpenAI Blog | [How sales teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) | Tue, 14 Ju |
 | MIT Technology Review AI | [What Anthropic’s latest AI discovery does—and doesn’t—show](https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/) | Mon, 13 Ju |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
 | Anthropic Blog | [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) | 2026-07-13 |
