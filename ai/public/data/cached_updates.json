@@ -3,18 +3,18 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
-      "title": "Introducing Claude for Teachers",
-      "link": "https://www.anthropic.com/news/claude-for-teachers",
-      "published": "2026-07-14T17:50:04.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "link": "https://www.anthropic.com/news/canadian-ai-research",
+      "published": "2026-07-15T09:21:26.000Z",
+      "summary": "Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research."
     },
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
-      "title": "Anthropic commits $10 million to Canadian AI research",
-      "link": "https://www.anthropic.com/news/canadian-ai-research",
-      "published": "2026-07-14T16:33:29.000Z",
-      "summary": "Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research."
+      "title": "Introducing Claude for Teachers",
+      "link": "https://www.anthropic.com/news/claude-for-teachers",
+      "published": "2026-07-14T17:50:04.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "Google AI Blog",
@@ -55,14 +55,6 @@
       "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
       "published": "Mon, 13 Jul 2026 18:00:00 +0000",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Anthropic\u2014currently the world\u2019s most valuable AI company, with"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
-      "link": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
-      "published": "Mon, 13 Jul 2026 16:00:00 +0000",
-      "summary": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets impleme"
     },
     {
       "source": "Anthropic Blog",
@@ -129,14 +121,6 @@
       "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what\u2019s really going on inside large language models as they answer questions or carry out tasks. What they"
     },
     {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
-      "link": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
-      "published": "Thu, 09 Jul 2026 16:46:22 +0000",
-      "summary": "<p>Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and ener"
-    },
-    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.4.9",
@@ -151,14 +135,6 @@
       "link": "https://github.com/pytorch/pytorch/releases/tag/v2.13.0",
       "published": "2026-07-08T17:39:58Z",
       "summary": "# PyTorch 2.13.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Flint: A visualization language for the AI era",
-      "link": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
-      "published": "Wed, 08 Jul 2026 16:00:00 +0000",
-      "summary": "<p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive ch"
     },
     {
       "source": "MIT Technology Review AI",
@@ -217,14 +193,6 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp\" />Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit fo"
     },
     {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "SkillOpt: Agent skills as trainable parameters",
-      "link": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
-      "published": "Tue, 30 Jun 2026 16:50:02 +0000",
-      "summary": "<p>AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent beha"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
@@ -239,14 +207,6 @@
       "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "published": "Tue, 30 Jun 2026 06:00:00 +0000",
       "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer."
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Memora:\u00a0A Harmonic Memory Representation Balancing Abstraction and Specificity",
-      "link": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
-      "published": "Mon, 29 Jun 2026 21:14:22 +0000",
-      "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     },
     {
       "source": "DeepMind Blog",
@@ -265,10 +225,17 @@
       "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
     }
   ],
-  "timestamp": "2026-07-15T08:21:26.376777",
-  "last_updated": "2026-07-15T08:21:26.376777",
-  "failures": [],
-  "failed_sources": [],
-  "failure_count": 0,
+  "timestamp": "2026-07-15T13:51:47.618610",
+  "last_updated": "2026-07-15T13:51:47.618610",
+  "failures": [
+    {
+      "source": "Microsoft Research AI",
+      "error": "Feed parse error: <unknown>:7:2: mismatched tag"
+    }
+  ],
+  "failed_sources": [
+    "Microsoft Research AI"
+  ],
+  "failure_count": 1,
   "source_count": 10
 }
