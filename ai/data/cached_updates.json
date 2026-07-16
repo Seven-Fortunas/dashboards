@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.14.1",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.14.1",
+      "published": "2026-07-16T09:41:36Z",
+      "summary": "# Patch release v5.14.1\r\n\r\nThis patch solves a few issues which appeared when integrating Inkling model, most notably an issue affecting models using EncoderDecoderCache during assisted generation. It"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Our approach to bioresilience",
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "published": "Thu, 16 Jul 2026 09:30:42 +0000",
+      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Tag",
@@ -15,14 +31,6 @@
       "link": "https://www.anthropic.com/news/finance-agents",
       "published": "2026-07-15T21:16:19.000Z",
       "summary": "We&#x27;re releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations."
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.14.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.14.0",
-      "published": "2026-07-15T19:02:19Z",
-      "summary": "# Release v5.14.0\r\n\r\n## New Model additions\r\n\r\n### Inkling (fresh from Thinking Machines): 975B total, 41B active\r\n\r\n* Add Inkling model #47347 by @molbap @Cyrilvallez @eustlb and @zucchini-nlp \r\n\r\n<i"
     },
     {
       "source": "MIT Technology Review AI",
@@ -255,18 +263,10 @@
       "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
       "published": "Wed, 24 Jun 2026 16:30:01 +0000",
       "summary": ""
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Unlocking UK house-building with AI-accelerated planning",
-      "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "published": "Tue, 16 Jun 2026 21:29:50 +0000",
-      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
     }
   ],
-  "timestamp": "2026-07-16T08:20:14.652498",
-  "last_updated": "2026-07-16T08:20:14.652498",
+  "timestamp": "2026-07-16T14:02:40.167711",
+  "last_updated": "2026-07-16T14:02:40.167711",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
