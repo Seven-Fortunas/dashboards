@@ -1,14 +1,15 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-16 08:20:14 UTC
+**Last Updated:** 2026-07-16 14:02:40 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| HuggingFace Transformers | [Release v5.14.1](https://github.com/huggingface/transformers/releases/tag/v5.14.1) | 2026-07-16 |
+| DeepMind Blog | [Our approach to bioresilience](https://deepmind.google/blog/our-approach-to-bioresilience/) | Thu, 16 Ju |
 | Anthropic Blog | [Introducing Claude Tag](https://www.anthropic.com/news/introducing-claude-tag) | 2026-07-15 |
 | Anthropic Blog | [Agents for financial services](https://www.anthropic.com/news/finance-agents) | 2026-07-15 |
-| HuggingFace Transformers | [Release v5.14.0](https://github.com/huggingface/transformers/releases/tag/v5.14.0) | 2026-07-15 |
 | MIT Technology Review AI | [Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer](https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/) | Wed, 15 Ju |
 | Anthropic Blog | [Introducing Claude for Teachers](https://www.anthropic.com/news/claude-for-teachers) | 2026-07-15 |
 | OpenAI Blog | [The US is advancing AI safety through state and federal action](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action) | Wed, 15 Ju |
@@ -38,4 +39,3 @@
 | Google AI Blog | [Unlocking Britain’s next era of productivity: Building a nation of AI trailblaze](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/) | Tue, 30 Ju |
 | Microsoft Research AI | [Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/) | Mon, 29 Ju |
 | DeepMind Blog | [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/) | Wed, 24 Ju |
-| DeepMind Blog | [Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/) | Tue, 16 Ju |
