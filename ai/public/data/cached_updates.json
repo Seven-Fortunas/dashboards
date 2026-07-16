@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Why teens deserve access to safe AI",
+      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "published": "Thu, 16 Jul 2026 16:00:00 GMT",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Connect more of your apps to Search",
+      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "published": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "summary": "Connected apps rendering"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "published": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images"
+    },
+    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.14.1",
@@ -15,6 +39,14 @@
       "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
       "published": "Thu, 16 Jul 2026 09:30:42 +0000",
       "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "link": "https://openai.com/index/cars24",
+      "published": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
     },
     {
       "source": "Anthropic Blog",
@@ -87,22 +119,6 @@
       "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
       "published": "Tue, 14 Jul 2026 10:00:00 GMT",
       "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How sales teams use ChatGPT Work",
-      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How data science teams use ChatGPT Work",
-      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
     },
     {
       "source": "MIT Technology Review AI",
@@ -217,14 +233,6 @@
       "summary": "June Pixel Drop hero"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "New York City educators and industry leaders gathered at Google\u2019s offices to shape the future of AI in classrooms.",
-      "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "published": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp\" />Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit fo"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "SkillOpt: Agent skills as trainable parameters",
@@ -239,14 +247,6 @@
       "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
       "published": "Tue, 30 Jun 2026 16:02:40 +0000",
       "summary": ""
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Unlocking Britain\u2019s next era of productivity: Building a nation of AI trailblazers",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "published": "Tue, 30 Jun 2026 06:00:00 +0000",
-      "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer."
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-07-16T14:02:40.167711",
-  "last_updated": "2026-07-16T14:02:40.167711",
+  "timestamp": "2026-07-16T19:18:36.292797",
+  "last_updated": "2026-07-16T19:18:36.292797",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

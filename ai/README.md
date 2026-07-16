@@ -1,13 +1,17 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-16 14:02:40 UTC
+**Last Updated:** 2026-07-16 19:18:36 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Why teens deserve access to safe AI](https://openai.com/index/why-teens-deserve-access-safe-ai) | Thu, 16 Ju |
+| Google AI Blog | [Connect more of your apps to Search](https://blog.google/products-and-platforms/products/search/connected-apps/) | Thu, 16 Ju |
+| Google AI Blog | [Create, edit and star in videos with two Google Vids updates](https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/) | Thu, 16 Ju |
 | HuggingFace Transformers | [Release v5.14.1](https://github.com/huggingface/transformers/releases/tag/v5.14.1) | 2026-07-16 |
 | DeepMind Blog | [Our approach to bioresilience](https://deepmind.google/blog/our-approach-to-bioresilience/) | Thu, 16 Ju |
+| OpenAI Blog | [How Cars24 scales conversations and builds faster with OpenAI](https://openai.com/index/cars24) | Thu, 16 Ju |
 | Anthropic Blog | [Introducing Claude Tag](https://www.anthropic.com/news/introducing-claude-tag) | 2026-07-15 |
 | Anthropic Blog | [Agents for financial services](https://www.anthropic.com/news/finance-agents) | 2026-07-15 |
 | MIT Technology Review AI | [Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer](https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/) | Wed, 15 Ju |
@@ -17,8 +21,6 @@
 | Anthropic Blog | [Anthropic commits $10 million to Canadian AI research](https://www.anthropic.com/news/canadian-ai-research) | 2026-07-15 |
 | Google AI Blog | [Celebrating 25 years of visual search innovation](https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/) | Tue, 14 Ju |
 | OpenAI Blog | [How to manage AI investments in the agentic era](https://openai.com/index/managing-ai-investments-in-agentic-era) | Tue, 14 Ju |
-| OpenAI Blog | [How sales teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) | Tue, 14 Ju |
-| OpenAI Blog | [How data science teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) | Tue, 14 Ju |
 | MIT Technology Review AI | [What Anthropic’s latest AI discovery does—and doesn’t—show](https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/) | Mon, 13 Ju |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
 | Anthropic Blog | [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) | 2026-07-13 |
@@ -33,9 +35,7 @@
 | MIT Technology Review AI | [Your family’s $300 stake in OpenAI](https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/) | Mon, 06 Ju |
 | DeepMind Blog | [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) | Fri, 03 Ju |
 | Google AI Blog | [The latest AI news we announced in June 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/) | Wed, 01 Ju |
-| Google AI Blog | [New York City educators and industry leaders gathered at Google’s offices to sha](https://blog.google/products-and-platforms/products/education/nyc-ai-summit/) | Wed, 01 Ju |
 | Microsoft Research AI | [SkillOpt: Agent skills as trainable parameters](https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/) | Tue, 30 Ju |
 | DeepMind Blog | [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) | Tue, 30 Ju |
-| Google AI Blog | [Unlocking Britain’s next era of productivity: Building a nation of AI trailblaze](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/) | Tue, 30 Ju |
 | Microsoft Research AI | [Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/) | Mon, 29 Ju |
 | DeepMind Blog | [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/) | Wed, 24 Ju |
