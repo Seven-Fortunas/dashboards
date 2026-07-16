@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-15 19:17:37 UTC
+**Last Updated:** 2026-07-16 02:54:05 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Introducing Claude Tag](https://www.anthropic.com/news/introducing-claude-tag) | 2026-07-15 |
+| Anthropic Blog | [Agents for financial services](https://www.anthropic.com/news/finance-agents) | 2026-07-15 |
 | HuggingFace Transformers | [Release v5.14.0](https://github.com/huggingface/transformers/releases/tag/v5.14.0) | 2026-07-15 |
 | MIT Technology Review AI | [Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer](https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/) | Wed, 15 Ju |
 | Anthropic Blog | [Introducing Claude for Teachers](https://www.anthropic.com/news/claude-for-teachers) | 2026-07-15 |
@@ -14,13 +16,11 @@
 | Anthropic Blog | [Anthropic commits $10 million to Canadian AI research](https://www.anthropic.com/news/canadian-ai-research) | 2026-07-15 |
 | Google AI Blog | [Celebrating 25 years of visual search innovation](https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/) | Tue, 14 Ju |
 | OpenAI Blog | [How to manage AI investments in the agentic era](https://openai.com/index/managing-ai-investments-in-agentic-era) | Tue, 14 Ju |
-| OpenAI Blog | [How data science teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) | Tue, 14 Ju |
 | OpenAI Blog | [How sales teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) | Tue, 14 Ju |
+| OpenAI Blog | [How data science teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) | Tue, 14 Ju |
 | MIT Technology Review AI | [What Anthropic’s latest AI discovery does—and doesn’t—show](https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/) | Mon, 13 Ju |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
 | Anthropic Blog | [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) | 2026-07-13 |
-| Anthropic Blog | [Anthropic Sydney office](https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand) | 2026-07-13 |
-| Anthropic Blog | [Introducing Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs) | 2026-07-13 |
 | DeepMind Blog | [Empowering India’s next generation of innovators with ATL Saathi](https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/) | Mon, 13 Ju |
 | MIT Technology Review AI | [Anthropic found a hidden space where Claude puzzles over concepts](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/) | Thu, 09 Ju |
 | Microsoft Research AI | [Aurora 1.5: Extending open foundation models for weather and Earth-system applic](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/) | Thu, 09 Ju |
