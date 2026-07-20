@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "published": "Mon, 20 Jul 2026 08:39:01 +0000",
+      "summary": "The next time you apply for a job, AI may screen your r\u00e9sum\u00e9 before any human sees it. But there\u2019s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up "
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "A scorecard for the AI age",
@@ -201,14 +209,6 @@
       "summary": "<p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive ch"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "published": "Tue, 07 Jul 2026 11:10:52 +0000",
-      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces ris"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
@@ -265,8 +265,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-07-20T03:33:13.965370",
-  "last_updated": "2026-07-20T03:33:13.965370",
+  "timestamp": "2026-07-20T09:22:47.109986",
+  "last_updated": "2026-07-20T09:22:47.109986",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
