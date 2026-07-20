@@ -3,6 +3,30 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "China\u2019s AI models have Trump\u2019s AI world at war with itself",
+      "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "published": "Mon, 20 Jul 2026 18:00:00 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to "
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Apply for Anthropic\u2019s AI for Science rare disease research grants",
+      "link": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "published": "2026-07-20T17:36:28.000Z",
+      "summary": "Anthropic is sharing a focused call for AI for Science applications centered specifically on rare genetic diseases. Accepted applicants will receive up to $50,000 in Claude credits over six months, wi"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "published": "Mon, 20 Jul 2026 10:00:00 GMT",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "AI is more likely than humans to form biases when hiring",
       "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
       "published": "Mon, 20 Jul 2026 08:39:01 +0000",
@@ -113,14 +137,6 @@
       "summary": "OpenAI outlines a \u201creverse federalism\u201d approach to AI governance, where state laws help build a national framework for safe, democratic AI."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "published": "Wed, 15 Jul 2026 10:00:00 GMT",
-      "summary": "Explore GPT-Red, OpenAI\u2019s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Anthropic commits $10 million to Canadian AI research",
@@ -153,28 +169,12 @@
       "summary": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets impleme"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Claude for Creative Work",
-      "link": "https://www.anthropic.com/news/claude-for-creative-work",
-      "published": "2026-07-13T15:46:07.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
       "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
       "published": "Mon, 13 Jul 2026 12:37:28 +0000",
       "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "published": "Thu, 09 Jul 2026 20:22:28 +0000",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what\u2019s really going on inside large language models as they answer questions or carry out tasks. What they"
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-07-20T14:15:38.345236",
-  "last_updated": "2026-07-20T14:15:38.345236",
+  "timestamp": "2026-07-20T19:47:57.974786",
+  "last_updated": "2026-07-20T19:47:57.974786",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
