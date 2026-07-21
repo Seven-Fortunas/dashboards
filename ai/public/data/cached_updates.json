@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.5.0",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.0",
+      "published": "2026-07-21T03:37:39Z",
+      "summary": "Changes since langchain-core==1.4.9\n\nrelease(core): 1.5.0 (#38978)\nfeat(core): add `reasoning_effort` as a standard chat model parameter (#38887)\nchore: bump soupsieve from 2.8 to 2.8.4 in /libs/core "
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "China\u2019s AI models have Trump\u2019s AI world at war with itself",
@@ -185,14 +193,6 @@
       "summary": "<p>Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and ener"
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.4.9",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.9",
-      "published": "2026-07-08T20:07:10Z",
-      "summary": "Changes since langchain-core==1.4.8\n\nrelease(core): 1.4.9 (#38728)\nfix(core): improve langsmith loader error messages (#35648)\nfix(core): output parser bugs in xml.py and pydantic.py (#35641)\nstyle(co"
-    },
-    {
       "source": "PyTorch Releases",
       "type": "github",
       "title": "Release v2.13.0",
@@ -265,8 +265,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-07-21T03:14:21.559373",
-  "last_updated": "2026-07-21T03:14:21.559373",
+  "timestamp": "2026-07-21T08:35:16.388079",
+  "last_updated": "2026-07-21T08:35:16.388079",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

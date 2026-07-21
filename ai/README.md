@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-21 03:14:21 UTC
+**Last Updated:** 2026-07-21 08:35:16 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.5.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.0) | 2026-07-21 |
 | MIT Technology Review AI | [China’s AI models have Trump’s AI world at war with itself](https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/) | Mon, 20 Ju |
 | Anthropic Blog | [Apply for Anthropic’s AI for Science rare disease research grants](https://www.anthropic.com/news/rare-disease-research-grants) | 2026-07-20 |
 | OpenAI Blog | [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models) | Mon, 20 Ju |
@@ -29,7 +30,6 @@
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
 | DeepMind Blog | [Empowering India’s next generation of innovators with ATL Saathi](https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/) | Mon, 13 Ju |
 | Microsoft Research AI | [Aurora 1.5: Extending open foundation models for weather and Earth-system applic](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/) | Thu, 09 Ju |
-| LangChain Releases | [Release langchain-core==1.4.9](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.4.9) | 2026-07-08 |
 | PyTorch Releases | [Release v2.13.0](https://github.com/pytorch/pytorch/releases/tag/v2.13.0) | 2026-07-08 |
 | Microsoft Research AI | [Flint: A visualization language for the AI era](https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/) | Wed, 08 Ju |
 | Google AI Blog | [Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) | Tue, 07 Ju |
