@@ -1,17 +1,20 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-21 14:02:20 UTC
+**Last Updated:** 2026-07-21 19:36:55 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Introducing the ChatGPT for small business program](https://openai.com/index/introducing-chatgpt-small-business-program) | Tue, 21 Ju |
+| DeepMind Blog | [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) | Tue, 21 Ju |
 | MIT Technology Review AI | [Advancing next-gen AI with materials science innovation](https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/) | Tue, 21 Ju |
 | LangChain Releases | [Release langchain-core==1.5.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.0) | 2026-07-21 |
 | MIT Technology Review AI | [China’s AI models have Trump’s AI world at war with itself](https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/) | Mon, 20 Ju |
 | Anthropic Blog | [Apply for Anthropic’s AI for Science rare disease research grants](https://www.anthropic.com/news/rare-disease-research-grants) | 2026-07-20 |
 | OpenAI Blog | [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models) | Mon, 20 Ju |
 | MIT Technology Review AI | [AI is more likely than humans to form biases when hiring](https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/) | Mon, 20 Ju |
+| DeepMind Blog | [Introducing Gemini 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/) | Fri, 17 Ju |
 | OpenAI Blog | [A scorecard for the AI age](https://openai.com/index/a-scorecard-for-the-ai-age) | Fri, 17 Ju |
 | MIT Technology Review AI | [The risk of weather data sabotage is rising](https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/) | Fri, 17 Ju |
 | OpenAI Blog | [Why teens deserve access to safe AI](https://openai.com/index/why-teens-deserve-access-safe-ai) | Thu, 16 Ju |
@@ -24,7 +27,6 @@
 | Anthropic Blog | [Agents for financial services](https://www.anthropic.com/news/finance-agents) | 2026-07-15 |
 | MIT Technology Review AI | [Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer](https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/) | Wed, 15 Ju |
 | Anthropic Blog | [Introducing Claude for Teachers](https://www.anthropic.com/news/claude-for-teachers) | 2026-07-15 |
-| OpenAI Blog | [The US is advancing AI safety through state and federal action](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action) | Wed, 15 Ju |
 | Anthropic Blog | [Anthropic commits $10 million to Canadian AI research](https://www.anthropic.com/news/canadian-ai-research) | 2026-07-15 |
 | Google AI Blog | [Celebrating 25 years of visual search innovation](https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/) | Tue, 14 Ju |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
@@ -36,6 +38,4 @@
 | DeepMind Blog | [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) | Fri, 03 Ju |
 | Google AI Blog | [The latest AI news we announced in June 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/) | Wed, 01 Ju |
 | Microsoft Research AI | [SkillOpt: Agent skills as trainable parameters](https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/) | Tue, 30 Ju |
-| DeepMind Blog | [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) | Tue, 30 Ju |
 | Microsoft Research AI | [Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/) | Mon, 29 Ju |
-| DeepMind Blog | [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/) | Wed, 24 Ju |
