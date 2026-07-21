@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-21 08:35:16 UTC
+**Last Updated:** 2026-07-21 14:02:20 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Advancing next-gen AI with materials science innovation](https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/) | Tue, 21 Ju |
 | LangChain Releases | [Release langchain-core==1.5.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.0) | 2026-07-21 |
 | MIT Technology Review AI | [China’s AI models have Trump’s AI world at war with itself](https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/) | Mon, 20 Ju |
 | Anthropic Blog | [Apply for Anthropic’s AI for Science rare disease research grants](https://www.anthropic.com/news/rare-disease-research-grants) | 2026-07-20 |
@@ -26,7 +27,6 @@
 | OpenAI Blog | [The US is advancing AI safety through state and federal action](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action) | Wed, 15 Ju |
 | Anthropic Blog | [Anthropic commits $10 million to Canadian AI research](https://www.anthropic.com/news/canadian-ai-research) | 2026-07-15 |
 | Google AI Blog | [Celebrating 25 years of visual search innovation](https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/) | Tue, 14 Ju |
-| MIT Technology Review AI | [What Anthropic’s latest AI discovery does—and doesn’t—show](https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/) | Mon, 13 Ju |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
 | DeepMind Blog | [Empowering India’s next generation of innovators with ATL Saathi](https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/) | Mon, 13 Ju |
 | Microsoft Research AI | [Aurora 1.5: Extending open foundation models for weather and Earth-system applic](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/) | Thu, 09 Ju |
