@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "published": "Tue, 21 Jul 2026 10:37:34 +0000",
+      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is a"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.5.0",
@@ -161,14 +169,6 @@
       "summary": "Google Images logo surrounded by illustrations of people searching for different images"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show",
-      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "published": "Mon, 13 Jul 2026 18:00:00 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Anthropic\u2014currently the world\u2019s most valuable AI company, with"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
@@ -265,8 +265,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-07-21T08:35:16.388079",
-  "last_updated": "2026-07-21T08:35:16.388079",
+  "timestamp": "2026-07-21T14:02:20.404052",
+  "last_updated": "2026-07-21T14:02:20.404052",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
