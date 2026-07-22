@@ -1,6 +1,46 @@
 {
   "updates": [
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Accelerating the frontiers of scientific discovery: Google\u2019s $40M commitment to the Genesis Mission",
+      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "published": "Wed, 22 Jul 2026 13:38:54 +0000",
+      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "published": "Wed, 22 Jul 2026 13:00:00 +0000",
+      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Donating another $20 million to Public First Action",
+      "link": "https://www.anthropic.com/news/donation-public-first-action",
+      "published": "2026-07-22T10:14:58.000Z",
+      "summary": "Anthropic is contributing an additional $20 million to Public First Action, bringing our total support to $40 million."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing OpenAI Presence",
+      "link": "https://openai.com/index/introducing-openai-presence",
+      "published": "Wed, 22 Jul 2026 05:30:00 GMT",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Opus 4.8",
@@ -31,14 +71,6 @@
       "link": "https://www.anthropic.com/news/claude-sonnet-5",
       "published": "2026-07-22T01:20:28.000Z",
       "summary": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Agent Skills | Claude by Anthropic",
-      "link": "https://www.anthropic.com/news/skills",
-      "published": "2026-07-22T01:16:15.000Z",
-      "summary": "Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a sk"
     },
     {
       "source": "OpenAI Blog",
@@ -97,14 +129,6 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to "
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "published": "Mon, 20 Jul 2026 10:00:00 GMT",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "AI is more likely than humans to form biases when hiring",
@@ -119,14 +143,6 @@
       "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
       "published": "Fri, 17 Jul 2026 15:00:11 +0000",
       "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "A scorecard for the AI age",
-      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "published": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
     },
     {
       "source": "MIT Technology Review AI",
@@ -233,22 +249,6 @@
       "summary": "Managed agents feature bundle launch"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "published": "Fri, 03 Jul 2026 14:25:43 +0000",
-      "summary": ""
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "The latest AI news we announced in June 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "published": "Wed, 01 Jul 2026 18:15:00 +0000",
-      "summary": "June Pixel Drop hero"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "SkillOpt: Agent skills as trainable parameters",
@@ -265,8 +265,8 @@
       "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     }
   ],
-  "timestamp": "2026-07-22T08:35:13.637593",
-  "last_updated": "2026-07-22T08:35:13.637593",
+  "timestamp": "2026-07-22T14:05:09.940021",
+  "last_updated": "2026-07-22T14:05:09.940021",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
