@@ -1,33 +1,33 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-21 19:36:55 UTC
+**Last Updated:** 2026-07-22 02:57:16 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Introducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) | 2026-07-22 |
+| Anthropic Blog | [Introducing Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) | 2026-07-22 |
+| Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-07-22 |
+| Anthropic Blog | [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 2026-07-22 |
+| Anthropic Blog | [Introducing Agent Skills \| Claude by Anthropic](https://www.anthropic.com/news/skills) | 2026-07-22 |
 | OpenAI Blog | [Introducing the ChatGPT for small business program](https://openai.com/index/introducing-chatgpt-small-business-program) | Tue, 21 Ju |
 | DeepMind Blog | [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) | Tue, 21 Ju |
 | MIT Technology Review AI | [Advancing next-gen AI with materials science innovation](https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/) | Tue, 21 Ju |
+| OpenAI Blog | [OpenAI and Hugging Face partner to address security incident during model evalua](https://openai.com/index/hugging-face-model-evaluation-security-incident) | Tue, 21 Ju |
 | LangChain Releases | [Release langchain-core==1.5.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.0) | 2026-07-21 |
+| OpenAI Blog | [David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI ](https://openai.com/index/david-velez-robin-vince-join-openai-boards) | Tue, 21 Ju |
 | MIT Technology Review AI | [China’s AI models have Trump’s AI world at war with itself](https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/) | Mon, 20 Ju |
-| Anthropic Blog | [Apply for Anthropic’s AI for Science rare disease research grants](https://www.anthropic.com/news/rare-disease-research-grants) | 2026-07-20 |
 | OpenAI Blog | [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models) | Mon, 20 Ju |
 | MIT Technology Review AI | [AI is more likely than humans to form biases when hiring](https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/) | Mon, 20 Ju |
 | DeepMind Blog | [Introducing Gemini 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/) | Fri, 17 Ju |
 | OpenAI Blog | [A scorecard for the AI age](https://openai.com/index/a-scorecard-for-the-ai-age) | Fri, 17 Ju |
 | MIT Technology Review AI | [The risk of weather data sabotage is rising](https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/) | Fri, 17 Ju |
-| OpenAI Blog | [Why teens deserve access to safe AI](https://openai.com/index/why-teens-deserve-access-safe-ai) | Thu, 16 Ju |
 | Google AI Blog | [Connect more of your apps to Search](https://blog.google/products-and-platforms/products/search/connected-apps/) | Thu, 16 Ju |
 | Google AI Blog | [Create, edit and star in videos with two Google Vids updates](https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/) | Thu, 16 Ju |
 | HuggingFace Transformers | [Release v5.14.1](https://github.com/huggingface/transformers/releases/tag/v5.14.1) | 2026-07-16 |
 | DeepMind Blog | [Our approach to bioresilience](https://deepmind.google/blog/our-approach-to-bioresilience/) | Thu, 16 Ju |
-| OpenAI Blog | [How Cars24 scales conversations and builds faster with OpenAI](https://openai.com/index/cars24) | Thu, 16 Ju |
-| Anthropic Blog | [Introducing Claude Tag](https://www.anthropic.com/news/introducing-claude-tag) | 2026-07-15 |
-| Anthropic Blog | [Agents for financial services](https://www.anthropic.com/news/finance-agents) | 2026-07-15 |
 | MIT Technology Review AI | [Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer](https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/) | Wed, 15 Ju |
-| Anthropic Blog | [Introducing Claude for Teachers](https://www.anthropic.com/news/claude-for-teachers) | 2026-07-15 |
-| Anthropic Blog | [Anthropic commits $10 million to Canadian AI research](https://www.anthropic.com/news/canadian-ai-research) | 2026-07-15 |
 | Google AI Blog | [Celebrating 25 years of visual search innovation](https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/) | Tue, 14 Ju |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
 | DeepMind Blog | [Empowering India’s next generation of innovators with ATL Saathi](https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/) | Mon, 13 Ju |
