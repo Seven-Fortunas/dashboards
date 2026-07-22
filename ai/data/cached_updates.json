@@ -1,6 +1,46 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Opus 4.8",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "published": "2026-07-22T01:28:45.000Z",
+      "summary": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running "
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Opus 4.5",
+      "link": "https://www.anthropic.com/news/claude-opus-4-5",
+      "published": "2026-07-22T01:28:08.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Opus 4.7",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "published": "2026-07-22T01:26:31.000Z",
+      "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "published": "2026-07-22T01:20:28.000Z",
+      "summary": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Agent Skills | Claude by Anthropic",
+      "link": "https://www.anthropic.com/news/skills",
+      "published": "2026-07-22T01:16:15.000Z",
+      "summary": "Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a sk"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Introducing the ChatGPT for small business program",
@@ -25,6 +65,14 @@
       "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is a"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.5.0",
@@ -33,20 +81,20 @@
       "summary": "Changes since langchain-core==1.4.9\n\nrelease(core): 1.5.0 (#38978)\nfeat(core): add `reasoning_effort` as a standard chat model parameter (#38887)\nchore: bump soupsieve from 2.8 to 2.8.4 in /libs/core "
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "published": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "summary": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "China\u2019s AI models have Trump\u2019s AI world at war with itself",
       "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
       "published": "Mon, 20 Jul 2026 18:00:00 +0000",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to "
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Apply for Anthropic\u2019s AI for Science rare disease research grants",
-      "link": "https://www.anthropic.com/news/rare-disease-research-grants",
-      "published": "2026-07-20T17:36:28.000Z",
-      "summary": "Anthropic is sharing a focused call for AI for Science applications centered specifically on rare genetic diseases. Accepted applicants will receive up to $50,000 in Claude credits over six months, wi"
     },
     {
       "source": "OpenAI Blog",
@@ -89,14 +137,6 @@
       "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Why teens deserve access to safe AI",
-      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "published": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Connect more of your apps to Search",
@@ -129,52 +169,12 @@
       "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "link": "https://openai.com/index/cars24",
-      "published": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Tag",
-      "link": "https://www.anthropic.com/news/introducing-claude-tag",
-      "published": "2026-07-15T22:12:10.000Z",
-      "summary": "Claude Tag is a new way for teams to work with Claude."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Agents for financial services",
-      "link": "https://www.anthropic.com/news/finance-agents",
-      "published": "2026-07-15T21:16:19.000Z",
-      "summary": "We&#x27;re releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
       "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
       "published": "Wed, 15 Jul 2026 17:09:37 +0000",
       "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude for Teachers",
-      "link": "https://www.anthropic.com/news/claude-for-teachers",
-      "published": "2026-07-15T16:22:29.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic commits $10 million to Canadian AI research",
-      "link": "https://www.anthropic.com/news/canadian-ai-research",
-      "published": "2026-07-15T09:21:26.000Z",
-      "summary": "Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research."
     },
     {
       "source": "Google AI Blog",
@@ -265,8 +265,8 @@
       "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     }
   ],
-  "timestamp": "2026-07-21T19:36:55.673841",
-  "last_updated": "2026-07-21T19:36:55.673841",
+  "timestamp": "2026-07-22T02:57:16.198896",
+  "last_updated": "2026-07-22T02:57:16.198896",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
