@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "[dev] Claude for Creative Work",
+      "link": "https://www.anthropic.com/news/claude-for-creative-work-dev",
+      "published": "2026-07-23T17:44:09.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "How AI helps scientists design the next generation of medicines",
@@ -23,6 +31,14 @@
       "link": "https://www.anthropic.com/news/claude-opus-4-5",
       "published": "2026-07-23T04:09:31.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Launching Health in ChatGPT",
+      "link": "https://openai.com/index/health-in-chatgpt",
+      "published": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
     },
     {
       "source": "Anthropic Blog",
@@ -81,28 +97,12 @@
       "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Donating another $20 million to Public First Action",
-      "link": "https://www.anthropic.com/news/donation-public-first-action",
-      "published": "2026-07-22T10:14:58.000Z",
-      "summary": "Anthropic is contributing an additional $20 million to Public First Action, bringing our total support to $40 million."
-    },
-    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Introducing OpenAI Presence",
       "link": "https://openai.com/index/introducing-openai-presence",
       "published": "Wed, 22 Jul 2026 05:30:00 GMT",
       "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "link": "https://openai.com/index/ntt-data",
-      "published": "Wed, 22 Jul 2026 00:00:00 GMT",
-      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
     },
     {
       "source": "DeepMind Blog",
@@ -265,8 +265,8 @@
       "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     }
   ],
-  "timestamp": "2026-07-23T14:10:49.337075",
-  "last_updated": "2026-07-23T14:10:49.337075",
+  "timestamp": "2026-07-23T19:24:11.325428",
+  "last_updated": "2026-07-23T19:24:11.325428",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
