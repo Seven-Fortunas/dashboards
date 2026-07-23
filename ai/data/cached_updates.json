@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "published": "Thu, 23 Jul 2026 12:00:00 +0000",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most pos"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Opus 4.7",
@@ -185,14 +193,6 @@
       "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "published": "Wed, 15 Jul 2026 17:09:37 +0000",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Celebrating 25 years of visual search innovation",
@@ -265,8 +265,8 @@
       "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     }
   ],
-  "timestamp": "2026-07-23T08:36:12.997477",
-  "last_updated": "2026-07-23T08:36:12.997477",
+  "timestamp": "2026-07-23T14:10:49.337075",
+  "last_updated": "2026-07-23T14:10:49.337075",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
