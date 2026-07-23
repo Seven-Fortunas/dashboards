@@ -33,6 +33,14 @@
       "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "3 Google updates from Galaxy Unpacked 2026",
@@ -83,10 +91,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Introducing the ChatGPT for small business program",
-      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "published": "Tue, 21 Jul 2026 17:00:00 GMT",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "link": "https://openai.com/index/ntt-data",
+      "published": "Wed, 22 Jul 2026 00:00:00 GMT",
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
     },
     {
       "source": "DeepMind Blog",
@@ -103,14 +111,6 @@
       "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
       "published": "Tue, 21 Jul 2026 10:37:34 +0000",
       "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is a"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
     },
     {
       "source": "LangChain Releases",
@@ -265,8 +265,8 @@
       "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     }
   ],
-  "timestamp": "2026-07-22T19:27:08.841050",
-  "last_updated": "2026-07-22T19:27:08.841050",
+  "timestamp": "2026-07-23T03:19:21.523927",
+  "last_updated": "2026-07-23T03:19:21.523927",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
