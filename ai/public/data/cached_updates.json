@@ -3,6 +3,22 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
+      "title": "Introducing Claude Opus 4.7",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "published": "2026-07-23T04:19:56.000Z",
+      "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Opus 4.5",
+      "link": "https://www.anthropic.com/news/claude-opus-4-5",
+      "published": "2026-07-23T04:09:31.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
       "title": "The Anthropic Economic Index connector",
       "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
       "published": "2026-07-22T17:35:48.000Z",
@@ -71,22 +87,6 @@
       "link": "https://openai.com/index/introducing-openai-presence",
       "published": "Wed, 22 Jul 2026 05:30:00 GMT",
       "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Opus 4.8",
-      "link": "https://www.anthropic.com/news/claude-opus-4-8",
-      "published": "2026-07-22T01:28:45.000Z",
-      "summary": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running "
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Opus 4.5",
-      "link": "https://www.anthropic.com/news/claude-opus-4-5",
-      "published": "2026-07-22T01:28:08.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "OpenAI Blog",
@@ -265,8 +265,8 @@
       "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     }
   ],
-  "timestamp": "2026-07-23T03:19:21.523927",
-  "last_updated": "2026-07-23T03:19:21.523927",
+  "timestamp": "2026-07-23T08:36:12.997477",
+  "last_updated": "2026-07-23T08:36:12.997477",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

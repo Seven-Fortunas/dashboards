@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-23 03:19:21 UTC
+**Last Updated:** 2026-07-23 08:36:12 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-07-23 |
+| Anthropic Blog | [Introducing Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) | 2026-07-23 |
 | Anthropic Blog | [The Anthropic Economic Index connector](https://www.anthropic.com/news/anthropic-economic-index-connector) | 2026-07-22 |
 | Anthropic Blog | [Supporting ambitious external research through the Anthropic Economic Futures Re](https://www.anthropic.com/news/economic-futures-research-fund-agenda) | 2026-07-22 |
 | DeepMind Blog | [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to ](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/) | Wed, 22 Ju |
@@ -15,8 +17,6 @@
 | OpenAI Blog | [Advancing the next era of national science](https://openai.com/index/advancing-the-next-era-of-national-science) | Wed, 22 Ju |
 | Anthropic Blog | [Donating another $20 million to Public First Action](https://www.anthropic.com/news/donation-public-first-action) | 2026-07-22 |
 | OpenAI Blog | [Introducing OpenAI Presence](https://openai.com/index/introducing-openai-presence) | Wed, 22 Ju |
-| Anthropic Blog | [Introducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) | 2026-07-22 |
-| Anthropic Blog | [Introducing Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) | 2026-07-22 |
 | OpenAI Blog | [NTT DATA Group cuts incident analysis to 30 minutes with Codex](https://openai.com/index/ntt-data) | Wed, 22 Ju |
 | DeepMind Blog | [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) | Tue, 21 Ju |
 | MIT Technology Review AI | [Advancing next-gen AI with materials science innovation](https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/) | Tue, 21 Ju |
