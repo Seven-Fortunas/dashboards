@@ -1,14 +1,16 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-23 14:10:49 UTC
+**Last Updated:** 2026-07-23 19:24:11 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [[dev] Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work-dev) | 2026-07-23 |
 | MIT Technology Review AI | [How AI helps scientists design the next generation of medicines](https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/) | Thu, 23 Ju |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-07-23 |
 | Anthropic Blog | [Introducing Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) | 2026-07-23 |
+| OpenAI Blog | [Launching Health in ChatGPT](https://openai.com/index/health-in-chatgpt) | Thu, 23 Ju |
 | Anthropic Blog | [The Anthropic Economic Index connector](https://www.anthropic.com/news/anthropic-economic-index-connector) | 2026-07-22 |
 | Anthropic Blog | [Supporting ambitious external research through the Anthropic Economic Futures Re](https://www.anthropic.com/news/economic-futures-research-fund-agenda) | 2026-07-22 |
 | DeepMind Blog | [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to ](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/) | Wed, 22 Ju |
@@ -16,9 +18,7 @@
 | OpenAI Blog | [How news organizations are using AI to advance their vital missions](https://openai.com/index/how-news-organizations-are-using-ai) | Wed, 22 Ju |
 | Google AI Blog | [3 Google updates from Galaxy Unpacked 2026](https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/) | Wed, 22 Ju |
 | OpenAI Blog | [Advancing the next era of national science](https://openai.com/index/advancing-the-next-era-of-national-science) | Wed, 22 Ju |
-| Anthropic Blog | [Donating another $20 million to Public First Action](https://www.anthropic.com/news/donation-public-first-action) | 2026-07-22 |
 | OpenAI Blog | [Introducing OpenAI Presence](https://openai.com/index/introducing-openai-presence) | Wed, 22 Ju |
-| OpenAI Blog | [NTT DATA Group cuts incident analysis to 30 minutes with Codex](https://openai.com/index/ntt-data) | Wed, 22 Ju |
 | DeepMind Blog | [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) | Tue, 21 Ju |
 | MIT Technology Review AI | [Advancing next-gen AI with materials science innovation](https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/) | Tue, 21 Ju |
 | LangChain Releases | [Release langchain-core==1.5.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.0) | 2026-07-21 |
