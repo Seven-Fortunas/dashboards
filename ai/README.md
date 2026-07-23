@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-23 08:36:12 UTC
+**Last Updated:** 2026-07-23 14:10:49 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [How AI helps scientists design the next generation of medicines](https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/) | Thu, 23 Ju |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-07-23 |
 | Anthropic Blog | [Introducing Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) | 2026-07-23 |
 | Anthropic Blog | [The Anthropic Economic Index connector](https://www.anthropic.com/news/anthropic-economic-index-connector) | 2026-07-22 |
@@ -29,7 +30,6 @@
 | Google AI Blog | [Create, edit and star in videos with two Google Vids updates](https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/) | Thu, 16 Ju |
 | HuggingFace Transformers | [Release v5.14.1](https://github.com/huggingface/transformers/releases/tag/v5.14.1) | 2026-07-16 |
 | DeepMind Blog | [Our approach to bioresilience](https://deepmind.google/blog/our-approach-to-bioresilience/) | Thu, 16 Ju |
-| MIT Technology Review AI | [Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer](https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/) | Wed, 15 Ju |
 | Google AI Blog | [Celebrating 25 years of visual search innovation](https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/) | Tue, 14 Ju |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
 | DeepMind Blog | [Empowering India’s next generation of innovators with ATL Saathi](https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/) | Mon, 13 Ju |
