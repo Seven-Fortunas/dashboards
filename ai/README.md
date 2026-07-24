@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-23 19:24:11 UTC
+**Last Updated:** 2026-07-24 03:13:08 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.5.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.1) | 2026-07-23 |
 | Anthropic Blog | [[dev] Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work-dev) | 2026-07-23 |
 | MIT Technology Review AI | [How AI helps scientists design the next generation of medicines](https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/) | Thu, 23 Ju |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-07-23 |
@@ -21,7 +22,6 @@
 | OpenAI Blog | [Introducing OpenAI Presence](https://openai.com/index/introducing-openai-presence) | Wed, 22 Ju |
 | DeepMind Blog | [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) | Tue, 21 Ju |
 | MIT Technology Review AI | [Advancing next-gen AI with materials science innovation](https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/) | Tue, 21 Ju |
-| LangChain Releases | [Release langchain-core==1.5.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.0) | 2026-07-21 |
 | MIT Technology Review AI | [China’s AI models have Trump’s AI world at war with itself](https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/) | Mon, 20 Ju |
 | MIT Technology Review AI | [AI is more likely than humans to form biases when hiring](https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/) | Mon, 20 Ju |
 | DeepMind Blog | [Introducing Gemini 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/) | Fri, 17 Ju |

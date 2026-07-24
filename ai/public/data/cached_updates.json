@@ -1,11 +1,19 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.5.1",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.1",
+      "published": "2026-07-23T20:13:35Z",
+      "summary": "Changes since langchain-core==1.5.0\n\nrelease(core): 1.5.1 (#39042)\nfeat(anthropic,fireworks,openai): support langsmith gateway through env var (#38742)\nfix(core): use `tool_call_schema` cache for `Bas"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "[dev] Claude for Creative Work",
       "link": "https://www.anthropic.com/news/claude-for-creative-work-dev",
-      "published": "2026-07-23T17:44:09.000Z",
+      "published": "2026-07-23T20:11:00.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
@@ -119,14 +127,6 @@
       "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
       "published": "Tue, 21 Jul 2026 10:37:34 +0000",
       "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is a"
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.5.0",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.0",
-      "published": "2026-07-21T03:37:39Z",
-      "summary": "Changes since langchain-core==1.4.9\n\nrelease(core): 1.5.0 (#38978)\nfeat(core): add `reasoning_effort` as a standard chat model parameter (#38887)\nchore: bump soupsieve from 2.8 to 2.8.4 in /libs/core "
     },
     {
       "source": "MIT Technology Review AI",
@@ -265,8 +265,8 @@
       "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     }
   ],
-  "timestamp": "2026-07-23T19:24:11.325428",
-  "last_updated": "2026-07-23T19:24:11.325428",
+  "timestamp": "2026-07-24T03:13:08.438597",
+  "last_updated": "2026-07-24T03:13:08.438597",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
