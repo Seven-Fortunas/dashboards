@@ -1,11 +1,15 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-27 09:58:29 UTC
+**Last Updated:** 2026-07-27 14:44:39 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [The path to artificial superintelligence](https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/) | Mon, 27 Ju |
+| MIT Technology Review AI | [Closing the data loop in AI-driven drug discovery](https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/) | Mon, 27 Ju |
+| MIT Technology Review AI | [Building the enterprise environment for agentic AI](https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/) | Mon, 27 Ju |
+| OpenAI Blog | [How AI is expanding what people do at work](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work) | Mon, 27 Ju |
 | Anthropic Blog | [Introducing Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) | 2026-07-25 |
 | Anthropic Blog | [Supporting ambitious external research through the Anthropic Economic Futures Re](https://www.anthropic.com/news/economic-futures-research-fund-agenda) | 2026-07-24 |
 | LangChain Releases | [Release langchain-core==1.5.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.1) | 2026-07-23 |
@@ -19,13 +23,9 @@
 | OpenAI Blog | [How news organizations are using AI to advance their vital missions](https://openai.com/index/how-news-organizations-are-using-ai) | Wed, 22 Ju |
 | Google AI Blog | [3 Google updates from Galaxy Unpacked 2026](https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/) | Wed, 22 Ju |
 | OpenAI Blog | [Advancing the next era of national science](https://openai.com/index/advancing-the-next-era-of-national-science) | Wed, 22 Ju |
-| OpenAI Blog | [Introducing OpenAI Presence](https://openai.com/index/introducing-openai-presence) | Wed, 22 Ju |
-| DeepMind Blog | [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) | Tue, 21 Ju |
+| DeepMind Blog | [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/) | Tue, 21 Ju |
 | MIT Technology Review AI | [Advancing next-gen AI with materials science innovation](https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/) | Tue, 21 Ju |
-| MIT Technology Review AI | [China’s AI models have Trump’s AI world at war with itself](https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/) | Mon, 20 Ju |
-| MIT Technology Review AI | [AI is more likely than humans to form biases when hiring](https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/) | Mon, 20 Ju |
 | DeepMind Blog | [Introducing Gemini 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/) | Fri, 17 Ju |
-| MIT Technology Review AI | [The risk of weather data sabotage is rising](https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/) | Fri, 17 Ju |
 | Google AI Blog | [Connect more of your apps to Search](https://blog.google/products-and-platforms/products/search/connected-apps/) | Thu, 16 Ju |
 | Google AI Blog | [Create, edit and star in videos with two Google Vids updates](https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/) | Thu, 16 Ju |
 | HuggingFace Transformers | [Release v5.14.1](https://github.com/huggingface/transformers/releases/tag/v5.14.1) | 2026-07-16 |
