@@ -1,13 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-26 19:17:12 UTC
+**Last Updated:** 2026-07-27 03:33:35 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
 | Anthropic Blog | [Introducing Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) | 2026-07-25 |
-| Anthropic Blog | [Economic Futures Research Fund Agenda](https://www.anthropic.com/news/economic-futures-research-fund-agenda) | 2026-07-24 |
+| Anthropic Blog | [Supporting ambitious external research through the Anthropic Economic Futures Re](https://www.anthropic.com/news/economic-futures-research-fund-agenda) | 2026-07-24 |
 | LangChain Releases | [Release langchain-core==1.5.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.1) | 2026-07-23 |
 | Anthropic Blog | [[dev] Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work-dev) | 2026-07-23 |
 | MIT Technology Review AI | [How AI helps scientists design the next generation of medicines](https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/) | Thu, 23 Ju |
