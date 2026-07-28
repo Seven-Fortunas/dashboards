@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-27 19:40:24 UTC
+**Last Updated:** 2026-07-28 02:49:52 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) | 2026-07-27 |
 | MIT Technology Review AI | [OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.](https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/) | Mon, 27 Ju |
 | Anthropic Blog | [Expanding our partnership with Cognizant \| Anthropic](https://www.anthropic.com/news/cognizant-anthropic) | 2026-07-27 |
 | MIT Technology Review AI | [The path to artificial superintelligence](https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/) | Mon, 27 Ju |
@@ -17,7 +18,6 @@
 | LangChain Releases | [Release langchain-core==1.5.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.1) | 2026-07-23 |
 | MIT Technology Review AI | [How AI helps scientists design the next generation of medicines](https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/) | Thu, 23 Ju |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-07-23 |
-| Anthropic Blog | [Introducing Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) | 2026-07-23 |
 | OpenAI Blog | [Launching Health in ChatGPT](https://openai.com/index/health-in-chatgpt) | Thu, 23 Ju |
 | DeepMind Blog | [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to ](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/) | Wed, 22 Ju |
 | OpenAI Blog | [Building AI infrastructure with the Effingham County community](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community) | Wed, 22 Ju |

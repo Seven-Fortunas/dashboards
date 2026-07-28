@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "published": "2026-07-27T21:55:20.000Z",
+      "summary": "Anthropic CEO Dario Amodei on open-weights models"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
@@ -87,14 +95,6 @@
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
       "published": "2026-07-23T04:19:56.000Z",
       "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Opus 4.5",
-      "link": "https://www.anthropic.com/news/claude-opus-4-5",
-      "published": "2026-07-23T04:09:31.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "OpenAI Blog",
@@ -265,8 +265,8 @@
       "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     }
   ],
-  "timestamp": "2026-07-27T19:40:24.237386",
-  "last_updated": "2026-07-27T19:40:24.237386",
+  "timestamp": "2026-07-28T02:49:52.724401",
+  "last_updated": "2026-07-28T02:49:52.724401",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
