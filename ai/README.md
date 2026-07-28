@@ -1,11 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-28 08:40:41 UTC
+**Last Updated:** 2026-07-28 14:19:17 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Google AI Blog | [5 ways AI Mode in Search helps you enjoy the real world](https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/) | Tue, 28 Ju |
+| Google AI Blog | [5 ways to host the ultimate dinner party with Google Search](https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/) | Tue, 28 Ju |
+| MIT Technology Review AI | [Samsung’s chip workers are jumping ship to rival SK Hynix](https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/) | Tue, 28 Ju |
 | Anthropic Blog | [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) | 2026-07-27 |
 | MIT Technology Review AI | [OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.](https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/) | Mon, 27 Ju |
 | Anthropic Blog | [Expanding our partnership with Cognizant \| Anthropic](https://www.anthropic.com/news/cognizant-anthropic) | 2026-07-27 |
@@ -16,7 +19,6 @@
 | Anthropic Blog | [Introducing Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) | 2026-07-25 |
 | Anthropic Blog | [Supporting ambitious external research through the Anthropic Economic Futures Re](https://www.anthropic.com/news/economic-futures-research-fund-agenda) | 2026-07-24 |
 | LangChain Releases | [Release langchain-core==1.5.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.1) | 2026-07-23 |
-| MIT Technology Review AI | [How AI helps scientists design the next generation of medicines](https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/) | Thu, 23 Ju |
 | Anthropic Blog | [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 2026-07-23 |
 | OpenAI Blog | [Launching Health in ChatGPT](https://openai.com/index/health-in-chatgpt) | Thu, 23 Ju |
 | DeepMind Blog | [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to ](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/) | Wed, 22 Ju |
@@ -30,12 +32,10 @@
 | Google AI Blog | [Create, edit and star in videos with two Google Vids updates](https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/) | Thu, 16 Ju |
 | HuggingFace Transformers | [Release v5.14.1](https://github.com/huggingface/transformers/releases/tag/v5.14.1) | 2026-07-16 |
 | DeepMind Blog | [Our approach to bioresilience](https://deepmind.google/blog/our-approach-to-bioresilience/) | Thu, 16 Ju |
-| Google AI Blog | [Celebrating 25 years of visual search innovation](https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/) | Tue, 14 Ju |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
 | DeepMind Blog | [Empowering India’s next generation of innovators with ATL Saathi](https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/) | Mon, 13 Ju |
 | Microsoft Research AI | [Aurora 1.5: Extending open foundation models for weather and Earth-system applic](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/) | Thu, 09 Ju |
 | PyTorch Releases | [Release v2.13.0](https://github.com/pytorch/pytorch/releases/tag/v2.13.0) | 2026-07-08 |
 | Microsoft Research AI | [Flint: A visualization language for the AI era](https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/) | Wed, 08 Ju |
-| Google AI Blog | [Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) | Tue, 07 Ju |
 | Microsoft Research AI | [SkillOpt: Agent skills as trainable parameters](https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/) | Tue, 30 Ju |
 | Microsoft Research AI | [Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/) | Mon, 29 Ju |
