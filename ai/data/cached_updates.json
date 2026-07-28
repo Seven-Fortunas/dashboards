@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Scientific computing in the age of agentic AI",
+      "link": "https://openai.com/index/scientific-computing-agentic-ai",
+      "published": "Tue, 28 Jul 2026 17:00:00 GMT",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.5.2",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.2",
+      "published": "2026-07-28T16:39:03Z",
+      "summary": "Changes since langchain-core==1.5.1\n\nrelease(core): 1.5.2 (#39108)\nfix(core): handle empty string in gateway env vars (#39107)\nchore: bump setuptools from 82.0.0 to 83.0.0 in /libs/core (#39032)\nchore"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "published": "Tue, 28 Jul 2026 16:00:00 +0000",
+      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "published": "2026-07-28T15:25:50.000Z",
+      "summary": "Anthropic CEO Dario Amodei on open-weights models"
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
@@ -23,14 +55,6 @@
       "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
       "published": "Tue, 28 Jul 2026 09:18:57 +0000",
       "summary": "Lee, an engineer at Samsung\u2019s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he\u2019s been coming straight"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Our position on open-weights models",
-      "link": "https://www.anthropic.com/news/position-open-weights-models",
-      "published": "2026-07-27T21:55:20.000Z",
-      "summary": "Anthropic CEO Dario Amodei on open-weights models"
     },
     {
       "source": "MIT Technology Review AI",
@@ -97,14 +121,6 @@
       "summary": "We\u2019re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research."
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.5.1",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.1",
-      "published": "2026-07-23T20:13:35Z",
-      "summary": "Changes since langchain-core==1.5.0\n\nrelease(core): 1.5.1 (#39042)\nfeat(anthropic,fireworks,openai): support langsmith gateway through env var (#38742)\nfix(core): use `tool_call_schema` cache for `Bas"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Opus 4.7",
@@ -153,14 +169,6 @@
       "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Advancing the next era of national science",
-      "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "published": "Wed, 22 Jul 2026 12:00:00 GMT",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
@@ -183,14 +191,6 @@
       "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
       "published": "Thu, 16 Jul 2026 16:00:00 +0000",
       "summary": "Connected apps rendering"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "published": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images"
     },
     {
       "source": "HuggingFace Transformers",
@@ -265,8 +265,8 @@
       "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     }
   ],
-  "timestamp": "2026-07-28T14:19:17.252545",
-  "last_updated": "2026-07-28T14:19:17.252545",
+  "timestamp": "2026-07-28T19:38:03.938250",
+  "last_updated": "2026-07-28T19:38:03.938250",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
