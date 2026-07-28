@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "published": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "published": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Samsung\u2019s chip workers are jumping ship to rival SK Hynix",
+      "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "published": "Tue, 28 Jul 2026 09:18:57 +0000",
+      "summary": "Lee, an engineer at Samsung\u2019s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he\u2019s been coming straight"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Our position on open-weights models",
@@ -79,14 +103,6 @@
       "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.1",
       "published": "2026-07-23T20:13:35Z",
       "summary": "Changes since langchain-core==1.5.0\n\nrelease(core): 1.5.1 (#39042)\nfeat(anthropic,fireworks,openai): support langsmith gateway through env var (#38742)\nfix(core): use `tool_call_schema` cache for `Bas"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "published": "Thu, 23 Jul 2026 12:00:00 +0000",
-      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most pos"
     },
     {
       "source": "Anthropic Blog",
@@ -193,14 +209,6 @@
       "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Celebrating 25 years of visual search innovation",
-      "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "published": "Tue, 14 Jul 2026 16:00:00 +0000",
-      "summary": "Google Images logo surrounded by illustrations of people searching for different images"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
@@ -241,14 +249,6 @@
       "summary": "<p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive ch"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "published": "Tue, 07 Jul 2026 08:54:00 +0000",
-      "summary": "Managed agents feature bundle launch"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "SkillOpt: Agent skills as trainable parameters",
@@ -265,8 +265,8 @@
       "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     }
   ],
-  "timestamp": "2026-07-28T08:40:41.632070",
-  "last_updated": "2026-07-28T08:40:41.632070",
+  "timestamp": "2026-07-28T14:19:17.252545",
+  "last_updated": "2026-07-28T14:19:17.252545",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
