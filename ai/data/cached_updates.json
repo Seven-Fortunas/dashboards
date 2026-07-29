@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "We\u2019re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "published": "Wed, 29 Jul 2026 16:02:10 +0000",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "published": "Wed, 29 Jul 2026 10:00:00 GMT",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "The AI Hype Index: Unsexy AI",
@@ -153,14 +169,6 @@
       "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How news organizations are using AI to advance their vital missions",
-      "link": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "3 Google updates from Galaxy Unpacked 2026",
@@ -217,14 +225,6 @@
       "summary": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets impleme"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
-      "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "published": "Mon, 13 Jul 2026 12:37:28 +0000",
-      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
@@ -265,8 +265,8 @@
       "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     }
   ],
-  "timestamp": "2026-07-29T14:19:46.699640",
-  "last_updated": "2026-07-29T14:19:46.699640",
+  "timestamp": "2026-07-29T19:22:35.130346",
+  "last_updated": "2026-07-29T19:22:35.130346",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
