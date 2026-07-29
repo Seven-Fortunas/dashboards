@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-29 14:19:46 UTC
+**Last Updated:** 2026-07-29 19:22:35 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| DeepMind Blog | [We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality,](https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/) | Wed, 29 Ju |
+| OpenAI Blog | [Accelerating scientific discovery with ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers) | Wed, 29 Ju |
 | MIT Technology Review AI | [The AI Hype Index: Unsexy AI](https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/) | Wed, 29 Ju |
 | OpenAI Blog | [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai) | Tue, 28 Ju |
 | LangChain Releases | [Release langchain-core==1.5.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.2) | 2026-07-28 |
@@ -25,7 +27,6 @@
 | OpenAI Blog | [Launching Health in ChatGPT](https://openai.com/index/health-in-chatgpt) | Thu, 23 Ju |
 | DeepMind Blog | [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to ](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/) | Wed, 22 Ju |
 | OpenAI Blog | [Building AI infrastructure with the Effingham County community](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community) | Wed, 22 Ju |
-| OpenAI Blog | [How news organizations are using AI to advance their vital missions](https://openai.com/index/how-news-organizations-are-using-ai) | Wed, 22 Ju |
 | Google AI Blog | [3 Google updates from Galaxy Unpacked 2026](https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/) | Wed, 22 Ju |
 | DeepMind Blog | [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/) | Tue, 21 Ju |
 | DeepMind Blog | [Introducing Gemini 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/) | Fri, 17 Ju |
@@ -33,7 +34,6 @@
 | HuggingFace Transformers | [Release v5.14.1](https://github.com/huggingface/transformers/releases/tag/v5.14.1) | 2026-07-16 |
 | DeepMind Blog | [Our approach to bioresilience](https://deepmind.google/blog/our-approach-to-bioresilience/) | Thu, 16 Ju |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
-| DeepMind Blog | [Empowering India’s next generation of innovators with ATL Saathi](https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/) | Mon, 13 Ju |
 | Microsoft Research AI | [Aurora 1.5: Extending open foundation models for weather and Earth-system applic](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/) | Thu, 09 Ju |
 | PyTorch Releases | [Release v2.13.0](https://github.com/pytorch/pytorch/releases/tag/v2.13.0) | 2026-07-08 |
 | Microsoft Research AI | [Flint: A visualization language for the AI era](https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/) | Wed, 08 Ju |
