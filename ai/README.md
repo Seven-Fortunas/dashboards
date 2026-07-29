@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-29 08:46:20 UTC
+**Last Updated:** 2026-07-29 14:19:46 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [The AI Hype Index: Unsexy AI](https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/) | Wed, 29 Ju |
 | OpenAI Blog | [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai) | Tue, 28 Ju |
 | LangChain Releases | [Release langchain-core==1.5.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.2) | 2026-07-28 |
 | Google AI Blog | [Gemini API Managed Agents: 3.6 Flash, hooks, and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/) | Tue, 28 Ju |
@@ -17,7 +18,6 @@
 | Anthropic Blog | [Expanding our partnership with Cognizant \| Anthropic](https://www.anthropic.com/news/cognizant-anthropic) | 2026-07-27 |
 | MIT Technology Review AI | [The path to artificial superintelligence](https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/) | Mon, 27 Ju |
 | MIT Technology Review AI | [Closing the data loop in AI-driven drug discovery](https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/) | Mon, 27 Ju |
-| MIT Technology Review AI | [Building the enterprise environment for agentic AI](https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/) | Mon, 27 Ju |
 | OpenAI Blog | [How AI is expanding what people do at work](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work) | Mon, 27 Ju |
 | Anthropic Blog | [Introducing Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) | 2026-07-25 |
 | Anthropic Blog | [Supporting ambitious external research through the Anthropic Economic Futures Re](https://www.anthropic.com/news/economic-futures-research-fund-agenda) | 2026-07-24 |
