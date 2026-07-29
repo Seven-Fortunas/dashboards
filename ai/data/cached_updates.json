@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "The AI Hype Index: Unsexy AI",
+      "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "published": "Wed, 29 Jul 2026 08:42:57 +0000",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that\u2019s exactly "
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Scientific computing in the age of agentic AI",
@@ -87,14 +95,6 @@
       "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
       "published": "Mon, 27 Jul 2026 11:40:16 +0000",
       "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceutical"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Building the enterprise environment for agentic AI",
-      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "published": "Mon, 27 Jul 2026 11:32:58 +0000",
-      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems"
     },
     {
       "source": "OpenAI Blog",
@@ -265,8 +265,8 @@
       "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     }
   ],
-  "timestamp": "2026-07-29T08:46:20.589152",
-  "last_updated": "2026-07-29T08:46:20.589152",
+  "timestamp": "2026-07-29T14:19:46.699640",
+  "last_updated": "2026-07-29T14:19:46.699640",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
