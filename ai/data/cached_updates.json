@@ -11,6 +11,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "published": "Wed, 29 Jul 2026 15:00:00 GMT",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
       "link": "https://openai.com/index/chatgpt-for-academic-researchers",
       "published": "Wed, 29 Jul 2026 10:00:00 GMT",
@@ -23,6 +31,14 @@
       "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
       "published": "Wed, 29 Jul 2026 08:42:57 +0000",
       "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that\u2019s exactly "
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "published": "Wed, 29 Jul 2026 00:00:00 GMT",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
     },
     {
       "source": "OpenAI Blog",
@@ -145,28 +161,12 @@
       "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Launching Health in ChatGPT",
-      "link": "https://openai.com/index/health-in-chatgpt",
-      "published": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Accelerating the frontiers of scientific discovery: Google\u2019s $40M commitment to the Genesis Mission",
       "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
       "published": "Wed, 22 Jul 2026 13:38:54 +0000",
       "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Building AI infrastructure with the Effingham County community",
-      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
     },
     {
       "source": "Google AI Blog",
@@ -255,18 +255,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
       "published": "Tue, 30 Jun 2026 16:50:02 +0000",
       "summary": "<p>AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent beha"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Memora:\u00a0A Harmonic Memory Representation Balancing Abstraction and Specificity",
-      "link": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
-      "published": "Mon, 29 Jun 2026 21:14:22 +0000",
-      "summary": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable mem"
     }
   ],
-  "timestamp": "2026-07-29T19:22:35.130346",
-  "last_updated": "2026-07-29T19:22:35.130346",
+  "timestamp": "2026-07-30T02:41:45.056390",
+  "last_updated": "2026-07-30T02:41:45.056390",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
