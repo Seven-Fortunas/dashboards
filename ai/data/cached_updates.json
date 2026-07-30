@@ -1,12 +1,52 @@
 {
   "updates": [
     {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Echoverse: Deep, evolving environments for computer-use agents",
+      "link": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+      "published": "Thu, 30 Jul 2026 17:00:00 +0000",
+      "summary": "<p>Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helpin"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "EvoLib: Turning experience into evolving knowledge",
+      "link": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+      "published": "Thu, 30 Jul 2026 16:00:00 +0000",
+      "summary": "<p>LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deplo"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "published": "Thu, 30 Jul 2026 15:00:59 +0000",
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app"
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.5.3",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.3",
+      "published": "2026-07-30T14:56:10Z",
+      "summary": "Changes since langchain-core==1.5.2\n\nrelease(core): 1.5.3 (#39145)\nfix(core): fall back to `LANGSMITH_API_KEY` for gateway (#39115)"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
       "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
       "published": "Thu, 30 Jul 2026 10:15:19 +0000",
       "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conferen"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "published": "Thu, 30 Jul 2026 10:00:00 GMT",
+      "summary": "Explore lower GPT\u20115.6 pricing for Luna and Terra\u2014and how OpenAI\u2019s more efficient models help enterprises deploy AI workflows at scale."
     },
     {
       "source": "DeepMind Blog",
@@ -57,14 +97,6 @@
       "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.5.2",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.2",
-      "published": "2026-07-28T16:39:03Z",
-      "summary": "Changes since langchain-core==1.5.1\n\nrelease(core): 1.5.2 (#39108)\nfix(core): handle empty string in gateway env vars (#39107)\nchore: bump setuptools from 82.0.0 to 83.0.0 in /libs/core (#39032)\nchore"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
@@ -79,6 +111,14 @@
       "link": "https://www.anthropic.com/news/position-open-weights-models",
       "published": "2026-07-28T15:25:50.000Z",
       "summary": "Anthropic CEO Dario Amodei on open-weights models"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "published": "Tue, 28 Jul 2026 13:21:37 +0000",
+      "summary": ""
     },
     {
       "source": "Google AI Blog",
@@ -129,14 +169,6 @@
       "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they "
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How AI is expanding what people do at work",
-      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "published": "Mon, 27 Jul 2026 03:30:00 GMT",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Opus 5",
@@ -185,14 +217,6 @@
       "summary": "We\u2019re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Introducing Gemini 3.5 Flash Cyber",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-      "published": "Fri, 17 Jul 2026 15:00:11 +0000",
-      "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Connect more of your apps to Search",
@@ -207,14 +231,6 @@
       "link": "https://github.com/huggingface/transformers/releases/tag/v5.14.1",
       "published": "2026-07-16T09:41:36Z",
       "summary": "# Patch release v5.14.1\r\n\r\nThis patch solves a few issues which appeared when integrating Inkling model, most notably an issue affecting models using EncoderDecoderCache during assisted generation. It"
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Our approach to bioresilience",
-      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "published": "Thu, 16 Jul 2026 09:30:42 +0000",
-      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
     },
     {
       "source": "Microsoft Research AI",
@@ -247,18 +263,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
       "published": "Wed, 08 Jul 2026 16:00:00 +0000",
       "summary": "<p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive ch"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "SkillOpt: Agent skills as trainable parameters",
-      "link": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
-      "published": "Tue, 30 Jun 2026 16:50:02 +0000",
-      "summary": "<p>AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent beha"
     }
   ],
-  "timestamp": "2026-07-30T14:10:49.158476",
-  "last_updated": "2026-07-30T14:10:49.158476",
+  "timestamp": "2026-07-30T19:38:58.949029",
+  "last_updated": "2026-07-30T19:38:58.949029",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
