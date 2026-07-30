@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-30 08:33:23 UTC
+**Last Updated:** 2026-07-30 14:10:49 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [A fundamental flaw leaves LLMs strikingly vulnerable to attack](https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/) | Thu, 30 Ju |
 | DeepMind Blog | [We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality,](https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/) | Wed, 29 Ju |
 | OpenAI Blog | [How enabling two settings tripled our scores on the ARC-AGI-3 benchmark](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores) | Wed, 29 Ju |
 | OpenAI Blog | [Accelerating scientific discovery with ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers) | Wed, 29 Ju |
@@ -21,7 +22,6 @@
 | MIT Technology Review AI | [OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.](https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/) | Mon, 27 Ju |
 | Anthropic Blog | [Expanding our partnership with Cognizant \| Anthropic](https://www.anthropic.com/news/cognizant-anthropic) | 2026-07-27 |
 | MIT Technology Review AI | [The path to artificial superintelligence](https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/) | Mon, 27 Ju |
-| MIT Technology Review AI | [Closing the data loop in AI-driven drug discovery](https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/) | Mon, 27 Ju |
 | OpenAI Blog | [How AI is expanding what people do at work](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work) | Mon, 27 Ju |
 | Anthropic Blog | [Introducing Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) | 2026-07-25 |
 | Anthropic Blog | [Supporting ambitious external research through the Anthropic Economic Futures Re](https://www.anthropic.com/news/economic-futures-research-fund-agenda) | 2026-07-24 |
