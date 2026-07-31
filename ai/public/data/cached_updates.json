@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "published": "2026-07-30T23:14:55.000Z",
+      "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environmen"
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Echoverse: Deep, evolving environments for computer-use agents",
@@ -49,6 +57,14 @@
       "summary": "Explore lower GPT\u20115.6 pricing for Luna and Terra\u2014and how OpenAI\u2019s more efficient models help enterprises deploy AI workflows at scale."
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "link": "https://openai.com/index/avatarin",
+      "published": "Thu, 30 Jul 2026 00:00:00 GMT",
+      "summary": "avatarin uses OpenAI\u2019s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "We\u2019re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
@@ -87,14 +103,6 @@
       "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
       "published": "Wed, 29 Jul 2026 00:00:00 GMT",
       "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Scientific computing in the age of agentic AI",
-      "link": "https://openai.com/index/scientific-computing-agentic-ai",
-      "published": "Tue, 28 Jul 2026 17:00:00 GMT",
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
     },
     {
       "source": "Google AI Blog",
@@ -185,14 +193,6 @@
       "summary": "We\u2019re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Opus 4.7",
-      "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "published": "2026-07-23T04:19:56.000Z",
-      "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Accelerating the frontiers of scientific discovery: Google\u2019s $40M commitment to the Genesis Mission",
@@ -265,8 +265,8 @@
       "summary": "<p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive ch"
     }
   ],
-  "timestamp": "2026-07-30T19:38:58.949029",
-  "last_updated": "2026-07-30T19:38:58.949029",
+  "timestamp": "2026-07-31T03:23:43.371002",
+  "last_updated": "2026-07-31T03:23:43.371002",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
