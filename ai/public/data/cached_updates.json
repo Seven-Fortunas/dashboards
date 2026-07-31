@@ -9,6 +9,14 @@
       "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Univ\u00e9 builds an AI-ready workforce",
+      "link": "https://openai.com/index/unive",
+      "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "summary": "See how Univ\u00e9 built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
@@ -87,14 +95,6 @@
       "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "published": "Wed, 29 Jul 2026 15:00:00 GMT",
       "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "published": "Wed, 29 Jul 2026 10:00:00 GMT",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
     },
     {
       "source": "MIT Technology Review AI",
@@ -265,8 +265,8 @@
       "summary": "<p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive ch"
     }
   ],
-  "timestamp": "2026-07-31T08:55:04.891946",
-  "last_updated": "2026-07-31T08:55:04.891946",
+  "timestamp": "2026-07-31T14:18:07.690011",
+  "last_updated": "2026-07-31T14:18:07.690011",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

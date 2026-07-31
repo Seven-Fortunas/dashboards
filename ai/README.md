@@ -1,12 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-31 08:55:04 UTC
+**Last Updated:** 2026-07-31 14:18:07 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
 | OpenAI Blog | [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe) | Fri, 31 Ju |
+| OpenAI Blog | [Univé builds an AI-ready workforce](https://openai.com/index/unive) | Fri, 31 Ju |
 | Anthropic Blog | [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) | 2026-07-30 |
 | Microsoft Research AI | [Echoverse: Deep, evolving environments for computer-use agents](https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/) | Thu, 30 Ju |
 | Microsoft Research AI | [EvoLib: Turning experience into evolving knowledge](https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/) | Thu, 30 Ju |
@@ -17,7 +18,6 @@
 | OpenAI Blog | [How avatarin built a 24/7 retail agent with GPT-Realtime](https://openai.com/index/avatarin) | Thu, 30 Ju |
 | DeepMind Blog | [We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality,](https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/) | Wed, 29 Ju |
 | OpenAI Blog | [How enabling two settings tripled our scores on the ARC-AGI-3 benchmark](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores) | Wed, 29 Ju |
-| OpenAI Blog | [Accelerating scientific discovery with ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers) | Wed, 29 Ju |
 | MIT Technology Review AI | [The AI Hype Index: Unsexy AI](https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/) | Wed, 29 Ju |
 | Google AI Blog | [Gemini API Managed Agents: 3.6 Flash, hooks, and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/) | Tue, 28 Ju |
 | Anthropic Blog | [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) | 2026-07-28 |
