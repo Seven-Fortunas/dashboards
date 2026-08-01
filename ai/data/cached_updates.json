@@ -3,14 +3,6 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Disrupting a Criminal Scam Operation",
-      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "published": "Tue, 04 Aug 2026 00:00:00 GMT",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Advancing responsible AI across Europe",
       "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "published": "Fri, 31 Jul 2026 15:00:00 GMT",
@@ -31,6 +23,14 @@
       "link": "https://openai.com/index/unive",
       "published": "Fri, 31 Jul 2026 07:00:00 GMT",
       "summary": "See how Univ\u00e9 built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Disrupting a Criminal Scam Operation",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "published": "Fri, 31 Jul 2026 00:00:00 GMT",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
     },
     {
       "source": "Anthropic Blog",
@@ -265,8 +265,8 @@
       "summary": "<p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive ch"
     }
   ],
-  "timestamp": "2026-07-31T19:40:01.795102",
-  "last_updated": "2026-07-31T19:40:01.795102",
+  "timestamp": "2026-08-01T03:22:14.365600",
+  "last_updated": "2026-08-01T03:22:14.365600",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
