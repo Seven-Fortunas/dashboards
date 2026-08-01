@@ -1,15 +1,15 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-07-31 19:40:01 UTC
+**Last Updated:** 2026-08-01 03:22:14 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| OpenAI Blog | [Disrupting a Criminal Scam Operation](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation) | Tue, 04 Au |
 | OpenAI Blog | [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe) | Fri, 31 Ju |
 | OpenAI Blog | [Building abundant intelligence](https://openai.com/index/building-abundant-intelligence) | Fri, 31 Ju |
 | OpenAI Blog | [Univé builds an AI-ready workforce](https://openai.com/index/unive) | Fri, 31 Ju |
+| OpenAI Blog | [Disrupting a Criminal Scam Operation](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation) | Fri, 31 Ju |
 | Anthropic Blog | [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) | 2026-07-30 |
 | Microsoft Research AI | [Echoverse: Deep, evolving environments for computer-use agents](https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/) | Thu, 30 Ju |
 | Microsoft Research AI | [EvoLib: Turning experience into evolving knowledge](https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/) | Thu, 30 Ju |
