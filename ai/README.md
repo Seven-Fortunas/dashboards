@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-01 03:22:14 UTC
+**Last Updated:** 2026-08-01 08:26:13 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics) | Sat, 01 Au |
 | OpenAI Blog | [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe) | Fri, 31 Ju |
 | OpenAI Blog | [Building abundant intelligence](https://openai.com/index/building-abundant-intelligence) | Fri, 31 Ju |
 | OpenAI Blog | [Univé builds an AI-ready workforce](https://openai.com/index/unive) | Fri, 31 Ju |
@@ -16,7 +17,6 @@
 | DeepMind Blog | [Gemini Robotics ER 2: powering robotics with video understanding, task orchestra](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/) | Thu, 30 Ju |
 | LangChain Releases | [Release langchain-core==1.5.3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.3) | 2026-07-30 |
 | MIT Technology Review AI | [A fundamental flaw leaves LLMs strikingly vulnerable to attack](https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/) | Thu, 30 Ju |
-| OpenAI Blog | [Advancing the price-performance frontier with GPT-5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) | Thu, 30 Ju |
 | DeepMind Blog | [We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality,](https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/) | Wed, 29 Ju |
 | MIT Technology Review AI | [The AI Hype Index: Unsexy AI](https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/) | Wed, 29 Ju |
 | Google AI Blog | [Gemini API Managed Agents: 3.6 Flash, hooks, and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/) | Tue, 28 Ju |
