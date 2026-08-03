@@ -1,18 +1,18 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-03 09:53:16 UTC
+**Last Updated:** 2026-08-03 14:47:48 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) | 2026-08-03 |
 | MIT Technology Review AI | [Here’s why AI agents lie and cheat to reach their goals](https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/) | Mon, 03 Au |
 | OpenAI Blog | [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics) | Sat, 01 Au |
 | OpenAI Blog | [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe) | Fri, 31 Ju |
 | OpenAI Blog | [Building abundant intelligence](https://openai.com/index/building-abundant-intelligence) | Fri, 31 Ju |
 | OpenAI Blog | [Univé builds an AI-ready workforce](https://openai.com/index/unive) | Fri, 31 Ju |
 | OpenAI Blog | [Disrupting a Criminal Scam Operation](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation) | Fri, 31 Ju |
-| Anthropic Blog | [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) | 2026-07-30 |
 | Microsoft Research AI | [Echoverse: Deep, evolving environments for computer-use agents](https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/) | Thu, 30 Ju |
 | Microsoft Research AI | [EvoLib: Turning experience into evolving knowledge](https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/) | Thu, 30 Ju |
 | DeepMind Blog | [Gemini Robotics ER 2: powering robotics with video understanding, task orchestra](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/) | Thu, 30 Ju |
