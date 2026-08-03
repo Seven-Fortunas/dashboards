@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "published": "2026-08-03T14:36:32.000Z",
+      "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environmen"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
@@ -47,14 +55,6 @@
       "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "published": "Fri, 31 Jul 2026 00:00:00 GMT",
       "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "published": "2026-07-30T23:14:55.000Z",
-      "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environmen"
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "<p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive ch"
     }
   ],
-  "timestamp": "2026-08-03T09:53:16.788218",
-  "last_updated": "2026-08-03T09:53:16.788218",
+  "timestamp": "2026-08-03T14:47:48.608332",
+  "last_updated": "2026-08-03T14:47:48.608332",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
