@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-03 03:23:40 UTC
+**Last Updated:** 2026-08-03 09:53:16 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Here’s why AI agents lie and cheat to reach their goals](https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/) | Mon, 03 Au |
 | OpenAI Blog | [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics) | Sat, 01 Au |
 | OpenAI Blog | [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe) | Fri, 31 Ju |
 | OpenAI Blog | [Building abundant intelligence](https://openai.com/index/building-abundant-intelligence) | Fri, 31 Ju |
@@ -27,7 +28,6 @@
 | MIT Technology Review AI | [Samsung’s chip workers are jumping ship to rival SK Hynix](https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/) | Tue, 28 Ju |
 | MIT Technology Review AI | [OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.](https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/) | Mon, 27 Ju |
 | Anthropic Blog | [Expanding our partnership with Cognizant \| Anthropic](https://www.anthropic.com/news/cognizant-anthropic) | 2026-07-27 |
-| MIT Technology Review AI | [The path to artificial superintelligence](https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/) | Mon, 27 Ju |
 | Anthropic Blog | [Introducing Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) | 2026-07-25 |
 | Anthropic Blog | [Supporting ambitious external research through the Anthropic Economic Futures Re](https://www.anthropic.com/news/economic-futures-research-fund-agenda) | 2026-07-24 |
 | DeepMind Blog | [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to ](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/) | Wed, 22 Ju |
