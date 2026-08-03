@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Trump\u2019s AI protectionism has come for robotics",
+      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "published": "Mon, 03 Aug 2026 18:43:30 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Humanoid robots usually elicit more cringe than awe: They stum"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude for Nonprofits",
+      "link": "https://www.anthropic.com/news/claude-for-nonprofits",
+      "published": "2026-08-03T16:00:43.000Z",
+      "summary": "Anthropic launches Claude for Nonprofits to help organizations maximize their impact, featuring free AI training and discounted rates for nonprofits."
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Orchard: An open framework for scalable agentic AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+      "published": "Mon, 03 Aug 2026 16:00:00 +0000",
+      "summary": "<p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by en"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
@@ -161,14 +185,6 @@
       "summary": "Lee, an engineer at Samsung\u2019s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he\u2019s been coming straight"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
-      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "published": "Mon, 27 Jul 2026 18:00:00 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI\u2019s account last week of how some of its mod"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Expanding our partnership with Cognizant | Anthropic",
@@ -183,14 +199,6 @@
       "link": "https://www.anthropic.com/news/claude-opus-5",
       "published": "2026-07-25T02:03:36.000Z",
       "summary": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Supporting ambitious external research through the Anthropic Economic Futures Research Fund",
-      "link": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-      "published": "2026-07-24T18:46:48.000Z",
-      "summary": "We\u2019re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research."
     },
     {
       "source": "DeepMind Blog",
@@ -255,18 +263,10 @@
       "link": "https://github.com/pytorch/pytorch/releases/tag/v2.13.0",
       "published": "2026-07-08T17:39:58Z",
       "summary": "# PyTorch 2.13.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Flint: A visualization language for the AI era",
-      "link": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
-      "published": "Wed, 08 Jul 2026 16:00:00 +0000",
-      "summary": "<p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive ch"
     }
   ],
-  "timestamp": "2026-08-03T14:47:48.608332",
-  "last_updated": "2026-08-03T14:47:48.608332",
+  "timestamp": "2026-08-03T19:42:45.498650",
+  "last_updated": "2026-08-03T19:42:45.498650",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
