@@ -43,6 +43,22 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "link": "https://openai.com/index/circles",
+      "published": "Mon, 03 Aug 2026 00:00:00 GMT",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Ten advances in mathematics and theoretical computer science",
       "link": "https://openai.com/index/ten-advances-in-mathematics",
       "published": "Sat, 01 Aug 2026 00:00:00 GMT",
@@ -63,22 +79,6 @@
       "link": "https://openai.com/index/building-abundant-intelligence",
       "published": "Fri, 31 Jul 2026 15:00:00 GMT",
       "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Univ\u00e9 builds an AI-ready workforce",
-      "link": "https://openai.com/index/unive",
-      "published": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "summary": "See how Univ\u00e9 built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Disrupting a Criminal Scam Operation",
-      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "published": "Fri, 31 Jul 2026 00:00:00 GMT",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.13.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-08-03T19:42:45.498650",
-  "last_updated": "2026-08-03T19:42:45.498650",
+  "timestamp": "2026-08-04T02:52:53.514462",
+  "last_updated": "2026-08-04T02:52:53.514462",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
