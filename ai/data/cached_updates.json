@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "The latest AI news we announced in July 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "published": "Tue, 04 Aug 2026 13:00:00 +0000",
+      "summary": "July AI recap header"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Apple is getting this wrong",
@@ -225,14 +233,6 @@
       "summary": "We\u2019re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Connect more of your apps to Search",
-      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "published": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "summary": "Connected apps rendering"
-    },
-    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.14.1",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.13.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-08-04T08:44:12.633392",
-  "last_updated": "2026-08-04T08:44:12.633392",
+  "timestamp": "2026-08-04T14:24:52.694906",
+  "last_updated": "2026-08-04T14:24:52.694906",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
