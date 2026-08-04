@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-04 08:44:12 UTC
+**Last Updated:** 2026-08-04 14:24:52 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Google AI Blog | [The latest AI news we announced in July 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/) | Tue, 04 Au |
 | OpenAI Blog | [Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong) | Mon, 03 Au |
 | MIT Technology Review AI | [Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/) | Mon, 03 Au |
 | Anthropic Blog | [Introducing Claude for Nonprofits](https://www.anthropic.com/news/claude-for-nonprofits) | 2026-08-03 |
@@ -34,7 +35,6 @@
 | DeepMind Blog | [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to ](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/) | Wed, 22 Ju |
 | Google AI Blog | [3 Google updates from Galaxy Unpacked 2026](https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/) | Wed, 22 Ju |
 | DeepMind Blog | [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/) | Tue, 21 Ju |
-| Google AI Blog | [Connect more of your apps to Search](https://blog.google/products-and-platforms/products/search/connected-apps/) | Thu, 16 Ju |
 | HuggingFace Transformers | [Release v5.14.1](https://github.com/huggingface/transformers/releases/tag/v5.14.1) | 2026-07-16 |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
 | Microsoft Research AI | [Aurora 1.5: Extending open foundation models for weather and Earth-system applic](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/) | Thu, 09 Ju |
