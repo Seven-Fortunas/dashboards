@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Apple is getting this wrong",
+      "link": "https://openai.com/index/apple-is-getting-this-wrong",
+      "published": "Mon, 03 Aug 2026 22:00:00 GMT",
+      "summary": "OpenAI addresses Apple\u2019s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Trump\u2019s AI protectionism has come for robotics",
@@ -71,14 +79,6 @@
       "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "published": "Fri, 31 Jul 2026 15:00:00 GMT",
       "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Building abundant intelligence",
-      "link": "https://openai.com/index/building-abundant-intelligence",
-      "published": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.13.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-08-04T02:52:53.514462",
-  "last_updated": "2026-08-04T02:52:53.514462",
+  "timestamp": "2026-08-04T08:44:12.633392",
+  "last_updated": "2026-08-04T08:44:12.633392",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

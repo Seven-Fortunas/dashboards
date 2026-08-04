@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-04 02:52:53 UTC
+**Last Updated:** 2026-08-04 08:44:12 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong) | Mon, 03 Au |
 | MIT Technology Review AI | [Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/) | Mon, 03 Au |
 | Anthropic Blog | [Introducing Claude for Nonprofits](https://www.anthropic.com/news/claude-for-nonprofits) | 2026-08-03 |
 | Microsoft Research AI | [Orchard: An open framework for scalable agentic AI](https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/) | Mon, 03 Au |
@@ -15,7 +16,6 @@
 | OpenAI Blog | [Circles powers telco personalization with OpenAI technology](https://openai.com/index/circles) | Mon, 03 Au |
 | OpenAI Blog | [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics) | Sat, 01 Au |
 | OpenAI Blog | [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe) | Fri, 31 Ju |
-| OpenAI Blog | [Building abundant intelligence](https://openai.com/index/building-abundant-intelligence) | Fri, 31 Ju |
 | Microsoft Research AI | [Echoverse: Deep, evolving environments for computer-use agents](https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/) | Thu, 30 Ju |
 | Microsoft Research AI | [EvoLib: Turning experience into evolving knowledge](https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/) | Thu, 30 Ju |
 | DeepMind Blog | [Gemini Robotics ER 2: powering robotics with video understanding, task orchestra](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/) | Thu, 30 Ju |
