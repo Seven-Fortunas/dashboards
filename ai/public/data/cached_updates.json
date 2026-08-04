@@ -1,12 +1,28 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+      "link": "https://www.anthropic.com/news/tino-cuellar",
+      "published": "2026-08-04T17:40:15.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "The latest AI news we announced in July 2026",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "published": "Tue, 04 Aug 2026 13:00:00 +0000",
       "summary": "July AI recap header"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "published": "Tue, 04 Aug 2026 00:00:00 GMT",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K\u201312 teachers, college educators, and students learn, teach, research, and build."
     },
     {
       "source": "OpenAI Blog",
@@ -22,7 +38,7 @@
       "title": "Trump\u2019s AI protectionism has come for robotics",
       "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
       "published": "Mon, 03 Aug 2026 18:43:30 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Humanoid robots usually elicit more cringe than awe: They stum"
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They"
     },
     {
       "source": "Anthropic Blog",
@@ -39,6 +55,14 @@
       "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
       "published": "Mon, 03 Aug 2026 16:00:00 +0000",
       "summary": "<p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by en"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Inside our 353,000-person vibe coding course",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "published": "Mon, 03 Aug 2026 15:00:00 +0000",
+      "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube"
     },
     {
       "source": "Anthropic Blog",
@@ -79,14 +103,6 @@
       "link": "https://openai.com/index/ten-advances-in-mathematics",
       "published": "Sat, 01 Aug 2026 00:00:00 GMT",
       "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Advancing responsible AI across Europe",
-      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "published": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
     },
     {
       "source": "Microsoft Research AI",
@@ -201,28 +217,12 @@
       "summary": "Cognizant embeds Claude across its platforms, with 30,000+ associates trained, and becomes a Global Premier Partner in the Claude Partner Network."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Opus 5",
-      "link": "https://www.anthropic.com/news/claude-opus-5",
-      "published": "2026-07-25T02:03:36.000Z",
-      "summary": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Accelerating the frontiers of scientific discovery: Google\u2019s $40M commitment to the Genesis Mission",
       "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
       "published": "Wed, 22 Jul 2026 13:38:54 +0000",
       "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "published": "Wed, 22 Jul 2026 13:00:00 +0000",
-      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant"
     },
     {
       "source": "DeepMind Blog",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.13.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-08-04T14:24:52.694906",
-  "last_updated": "2026-08-04T14:24:52.694906",
+  "timestamp": "2026-08-04T19:41:42.957821",
+  "last_updated": "2026-08-04T19:41:42.957821",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
