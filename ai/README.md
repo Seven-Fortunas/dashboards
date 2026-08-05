@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-04 19:41:42 UTC
+**Last Updated:** 2026-08-05 02:49:51 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models) | Tue, 04 Au |
 | Anthropic Blog | [Tino Cuellar joins Anthropic as Chief Global Affairs Officer](https://www.anthropic.com/news/tino-cuellar) | 2026-08-04 |
 | Google AI Blog | [The latest AI news we announced in July 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/) | Tue, 04 Au |
 | OpenAI Blog | [New ways to learn and teach with ChatGPT Work and Codex](https://openai.com/index/learn-teach-chatgpt-work-codex) | Tue, 04 Au |
@@ -18,7 +19,6 @@
 | MIT Technology Review AI | [Here’s why AI agents lie and cheat to reach their goals](https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/) | Mon, 03 Au |
 | OpenAI Blog | [How we built a realtime system for responsive voice AI in six months](https://openai.com/index/continuous-voice-interaction-with-gpt-live) | Mon, 03 Au |
 | OpenAI Blog | [Circles powers telco personalization with OpenAI technology](https://openai.com/index/circles) | Mon, 03 Au |
-| OpenAI Blog | [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics) | Sat, 01 Au |
 | Microsoft Research AI | [Echoverse: Deep, evolving environments for computer-use agents](https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/) | Thu, 30 Ju |
 | Microsoft Research AI | [EvoLib: Turning experience into evolving knowledge](https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/) | Thu, 30 Ju |
 | DeepMind Blog | [Gemini Robotics ER 2: powering robotics with video understanding, task orchestra](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/) | Thu, 30 Ju |
