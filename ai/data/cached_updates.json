@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "published": "Tue, 04 Aug 2026 19:00:00 GMT",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
@@ -95,14 +103,6 @@
       "link": "https://openai.com/index/circles",
       "published": "Mon, 03 Aug 2026 00:00:00 GMT",
       "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "link": "https://openai.com/index/ten-advances-in-mathematics",
-      "published": "Sat, 01 Aug 2026 00:00:00 GMT",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.13.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-08-04T19:41:42.957821",
-  "last_updated": "2026-08-04T19:41:42.957821",
+  "timestamp": "2026-08-05T02:49:51.090187",
+  "last_updated": "2026-08-05T02:49:51.090187",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
