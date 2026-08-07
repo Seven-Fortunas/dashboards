@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Improving Fable 5 Safeguards",
+      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "published": "2026-08-07T03:05:42.000Z",
+      "summary": "We\u2019re making updates to Claude Fable 5\u2019s biology safeguards in a way that substantially reduces fallbacks."
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
@@ -217,14 +225,6 @@
       "summary": "Lee, an engineer at Samsung\u2019s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he\u2019s been coming straight"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Expanding our partnership with Cognizant | Anthropic",
-      "link": "https://www.anthropic.com/news/cognizant-anthropic",
-      "published": "2026-07-27T15:34:00.000Z",
-      "summary": "Cognizant embeds Claude across its platforms, with 30,000+ associates trained, and becomes a Global Premier Partner in the Claude Partner Network."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Accelerating the frontiers of scientific discovery: Google\u2019s $40M commitment to the Genesis Mission",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.13.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-08-07T00:05:05.998206",
-  "last_updated": "2026-08-07T00:05:05.998206",
+  "timestamp": "2026-08-07T07:21:41.547217",
+  "last_updated": "2026-08-07T07:21:41.547217",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
