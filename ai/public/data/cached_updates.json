@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "published": "Thu, 06 Aug 2026 15:06:15 +0000",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "published": "Thu, 06 Aug 2026 10:00:00 GMT",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "published": "Thu, 06 Aug 2026 06:00:00 GMT",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "published": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Third-party cyber evaluations involving OpenAI models",
@@ -31,14 +63,6 @@
       "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
       "published": "Tue, 04 Aug 2026 00:00:00 GMT",
       "summary": "Explore new education plugins for ChatGPT Work and Codex that help K\u201312 teachers, college educators, and students learn, teach, research, and build."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Apple is getting this wrong",
-      "link": "https://openai.com/index/apple-is-getting-this-wrong",
-      "published": "Mon, 03 Aug 2026 22:00:00 GMT",
-      "summary": "OpenAI addresses Apple\u2019s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
     },
     {
       "source": "MIT Technology Review AI",
@@ -87,22 +111,6 @@
       "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
       "published": "Mon, 03 Aug 2026 08:30:05 +0000",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. When two OpenAI model"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "link": "https://openai.com/index/circles",
-      "published": "Mon, 03 Aug 2026 00:00:00 GMT",
-      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
     },
     {
       "source": "Microsoft Research AI",
@@ -225,14 +233,6 @@
       "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "published": "Tue, 21 Jul 2026 15:16:30 +0000",
-      "summary": "We\u2019re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
-    },
-    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.14.1",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.13.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-08-06T14:21:51.979511",
-  "last_updated": "2026-08-06T14:21:51.979511",
+  "timestamp": "2026-08-07T00:05:05.998206",
+  "last_updated": "2026-08-07T00:05:05.998206",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
