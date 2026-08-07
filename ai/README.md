@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-07 07:21:41 UTC
+**Last Updated:** 2026-08-07 13:12:30 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [How HSP GRUPPE builds AI capabilities for tax advisory](https://openai.com/index/hsp-gruppe) | Fri, 07 Au |
 | Anthropic Blog | [Improving Fable 5 Safeguards](https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards) | 2026-08-07 |
 | DeepMind Blog | [WeatherNext: AI model achieves breakthrough in forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) | Thu, 06 Au |
 | OpenAI Blog | [Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free u](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt) | Thu, 06 Au |
@@ -14,7 +15,6 @@
 | OpenAI Blog | [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models) | Tue, 04 Au |
 | Anthropic Blog | [Tino Cuellar joins Anthropic as Chief Global Affairs Officer](https://www.anthropic.com/news/tino-cuellar) | 2026-08-04 |
 | Google AI Blog | [The latest AI news we announced in July 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/) | Tue, 04 Au |
-| OpenAI Blog | [New ways to learn and teach with ChatGPT Work and Codex](https://openai.com/index/learn-teach-chatgpt-work-codex) | Tue, 04 Au |
 | MIT Technology Review AI | [Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/) | Mon, 03 Au |
 | Anthropic Blog | [Introducing Claude for Nonprofits](https://www.anthropic.com/news/claude-for-nonprofits) | 2026-08-03 |
 | Microsoft Research AI | [Orchard: An open framework for scalable agentic AI](https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/) | Mon, 03 Au |

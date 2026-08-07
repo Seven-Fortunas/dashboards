@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "link": "https://openai.com/index/hsp-gruppe",
+      "published": "Fri, 07 Aug 2026 09:00:00 GMT",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Improving Fable 5 Safeguards",
@@ -63,14 +71,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "published": "Tue, 04 Aug 2026 13:00:00 +0000",
       "summary": "July AI recap header"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "published": "Tue, 04 Aug 2026 00:00:00 GMT",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K\u201312 teachers, college educators, and students learn, teach, research, and build."
     },
     {
       "source": "MIT Technology Review AI",
@@ -265,8 +265,8 @@
       "summary": "# PyTorch 2.13.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-08-07T07:21:41.547217",
-  "last_updated": "2026-08-07T07:21:41.547217",
+  "timestamp": "2026-08-07T13:12:30.684299",
+  "last_updated": "2026-08-07T13:12:30.684299",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
