@@ -1,18 +1,18 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-07 13:12:30 UTC
+**Last Updated:** 2026-08-07 19:02:21 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities) | Fri, 07 Au |
 | OpenAI Blog | [How HSP GRUPPE builds AI capabilities for tax advisory](https://openai.com/index/hsp-gruppe) | Fri, 07 Au |
 | Anthropic Blog | [Improving Fable 5 Safeguards](https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards) | 2026-08-07 |
 | DeepMind Blog | [WeatherNext: AI model achieves breakthrough in forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) | Thu, 06 Au |
 | OpenAI Blog | [Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free u](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt) | Thu, 06 Au |
 | OpenAI Blog | [Working with the American Psychological Association on youth mental health and A](https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai) | Thu, 06 Au |
 | OpenAI Blog | [From asking to doing: How the world is putting ChatGPT to work](https://openai.com/index/how-the-world-is-putting-chatgpt-to-work) | Thu, 06 Au |
-| OpenAI Blog | [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models) | Tue, 04 Au |
 | Anthropic Blog | [Tino Cuellar joins Anthropic as Chief Global Affairs Officer](https://www.anthropic.com/news/tino-cuellar) | 2026-08-04 |
 | Google AI Blog | [The latest AI news we announced in July 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/) | Tue, 04 Au |
 | MIT Technology Review AI | [Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/) | Mon, 03 Au |
@@ -38,4 +38,3 @@
 | HuggingFace Transformers | [Release v5.14.1](https://github.com/huggingface/transformers/releases/tag/v5.14.1) | 2026-07-16 |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
 | Microsoft Research AI | [Aurora 1.5: Extending open foundation models for weather and Earth-system applic](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/) | Thu, 09 Ju |
-| PyTorch Releases | [Release v2.13.0](https://github.com/pytorch/pytorch/releases/tag/v2.13.0) | 2026-07-08 |

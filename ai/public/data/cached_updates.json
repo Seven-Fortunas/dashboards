@@ -3,6 +3,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "published": "Fri, 07 Aug 2026 15:20:00 GMT",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we\u2019re taking to strengthen safeguards and security controls."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "link": "https://openai.com/index/hsp-gruppe",
       "published": "Fri, 07 Aug 2026 09:00:00 GMT",
@@ -47,14 +55,6 @@
       "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
       "published": "Thu, 06 Aug 2026 00:00:00 GMT",
       "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "published": "Tue, 04 Aug 2026 19:00:00 GMT",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
     },
     {
       "source": "Anthropic Blog",
@@ -255,18 +255,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
       "published": "Thu, 09 Jul 2026 16:46:22 +0000",
       "summary": "<p>Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and ener"
-    },
-    {
-      "source": "PyTorch Releases",
-      "type": "github",
-      "title": "Release v2.13.0",
-      "link": "https://github.com/pytorch/pytorch/releases/tag/v2.13.0",
-      "published": "2026-07-08T17:39:58Z",
-      "summary": "# PyTorch 2.13.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     }
   ],
-  "timestamp": "2026-08-07T13:12:30.684299",
-  "last_updated": "2026-08-07T13:12:30.684299",
+  "timestamp": "2026-08-07T19:02:21.928484",
+  "last_updated": "2026-08-07T19:02:21.928484",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
