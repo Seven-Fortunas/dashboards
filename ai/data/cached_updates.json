@@ -247,18 +247,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
       "published": "Mon, 13 Jul 2026 16:00:00 +0000",
       "summary": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets impleme"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
-      "link": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
-      "published": "Thu, 09 Jul 2026 16:46:22 +0000",
-      "summary": "<p>Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and ener"
     }
   ],
-  "timestamp": "2026-08-08T12:55:47.478847",
-  "last_updated": "2026-08-08T12:55:47.478847",
+  "timestamp": "2026-08-08T18:42:32.729108",
+  "last_updated": "2026-08-08T18:42:32.729108",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
