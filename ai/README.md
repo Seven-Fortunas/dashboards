@@ -1,21 +1,22 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-10 13:17:03 UTC
+**Last Updated:** 2026-08-10 19:02:13 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [What building an AI-native finance function taught me](https://openai.com/index/building-an-ai-native-finance-function) | Mon, 10 Au |
+| Google AI Blog | [Evolve your marketing with new AI tools](https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/) | Mon, 10 Au |
+| OpenAI Blog | [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas) | Mon, 10 Au |
+| OpenAI Blog | [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml) | Mon, 10 Au |
 | HuggingFace Transformers | [Release v5.15.0](https://github.com/huggingface/transformers/releases/tag/v5.15.0) | 2026-08-10 |
+| OpenAI Blog | [Expanding Daybreak as the Cyber Defense Window Narrows](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows) | Mon, 10 Au |
+| OpenAI Blog | [Putting frontier cyber models in more trusted hands](https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands) | Mon, 10 Au |
 | MIT Technology Review AI | [AI for science needs reasoning, not just data](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/) | Mon, 10 Au |
 | MIT Technology Review AI | [These startups are chasing the next big thing in LLMs](https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/) | Mon, 10 Au |
-| OpenAI Blog | [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities) | Fri, 07 Au |
-| OpenAI Blog | [How HSP GRUPPE builds AI capabilities for tax advisory](https://openai.com/index/hsp-gruppe) | Fri, 07 Au |
 | Anthropic Blog | [Improving Fable 5 Safeguards](https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards) | 2026-08-07 |
 | DeepMind Blog | [WeatherNext: AI model achieves breakthrough in forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) | Thu, 06 Au |
-| OpenAI Blog | [Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free u](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt) | Thu, 06 Au |
-| OpenAI Blog | [Working with the American Psychological Association on youth mental health and A](https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai) | Thu, 06 Au |
-| OpenAI Blog | [From asking to doing: How the world is putting ChatGPT to work](https://openai.com/index/how-the-world-is-putting-chatgpt-to-work) | Thu, 06 Au |
 | Anthropic Blog | [Tino Cuellar joins Anthropic as Chief Global Affairs Officer](https://www.anthropic.com/news/tino-cuellar) | 2026-08-04 |
 | Google AI Blog | [The latest AI news we announced in July 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/) | Tue, 04 Au |
 | MIT Technology Review AI | [Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/) | Mon, 03 Au |
@@ -34,6 +35,5 @@
 | Anthropic Blog | [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) | 2026-07-28 |
 | DeepMind Blog | [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) | Tue, 28 Ju |
 | Google AI Blog | [5 ways AI Mode in Search helps you enjoy the real world](https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/) | Tue, 28 Ju |
-| Google AI Blog | [5 ways to host the ultimate dinner party with Google Search](https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/) | Tue, 28 Ju |
 | DeepMind Blog | [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to ](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/) | Wed, 22 Ju |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
