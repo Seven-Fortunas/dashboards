@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.15.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.15.0",
+      "published": "2026-08-10T10:28:13Z",
+      "summary": "# Release v5.15.0\r\n\r\n## New Model additions\r\n\r\n### Meta Muse Glimmer\r\n\r\nMuse Glimmer, released today, is Meta\u2019s new multimodal model, especially designed for agentic use cases. Distilled from Muse to "
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "AI for science needs reasoning, not just data",
+      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "published": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the \u201cfacts of physical science have all been discovered.\u201d In the 1980s"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "published": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of "
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Responding to the next frontier of critical cyber capabilities",
@@ -169,14 +193,6 @@
       "summary": ""
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The AI Hype Index: Unsexy AI",
-      "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "published": "Wed, 29 Jul 2026 08:42:57 +0000",
-      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that\u2019s exactly "
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
@@ -217,28 +233,12 @@
       "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Samsung\u2019s chip workers are jumping ship to rival SK Hynix",
-      "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "published": "Tue, 28 Jul 2026 09:18:57 +0000",
-      "summary": "Lee, an engineer at Samsung\u2019s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he\u2019s been coming straight"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Accelerating the frontiers of scientific discovery: Google\u2019s $40M commitment to the Genesis Mission",
       "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
       "published": "Wed, 22 Jul 2026 13:38:54 +0000",
       "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.14.1",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.14.1",
-      "published": "2026-07-16T09:41:36Z",
-      "summary": "# Patch release v5.14.1\r\n\r\nThis patch solves a few issues which appeared when integrating Inkling model, most notably an issue affecting models using EncoderDecoderCache during assisted generation. It"
     },
     {
       "source": "Microsoft Research AI",
@@ -249,8 +249,8 @@
       "summary": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets impleme"
     }
   ],
-  "timestamp": "2026-08-10T07:48:09.871497",
-  "last_updated": "2026-08-10T07:48:09.871497",
+  "timestamp": "2026-08-10T13:17:03.560698",
+  "last_updated": "2026-08-10T13:17:03.560698",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

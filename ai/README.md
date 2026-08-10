@@ -1,11 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-10 07:48:09 UTC
+**Last Updated:** 2026-08-10 13:17:03 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| HuggingFace Transformers | [Release v5.15.0](https://github.com/huggingface/transformers/releases/tag/v5.15.0) | 2026-08-10 |
+| MIT Technology Review AI | [AI for science needs reasoning, not just data](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/) | Mon, 10 Au |
+| MIT Technology Review AI | [These startups are chasing the next big thing in LLMs](https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/) | Mon, 10 Au |
 | OpenAI Blog | [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities) | Fri, 07 Au |
 | OpenAI Blog | [How HSP GRUPPE builds AI capabilities for tax advisory](https://openai.com/index/hsp-gruppe) | Fri, 07 Au |
 | Anthropic Blog | [Improving Fable 5 Safeguards](https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards) | 2026-08-07 |
@@ -27,13 +30,10 @@
 | LangChain Releases | [Release langchain-core==1.5.3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.3) | 2026-07-30 |
 | MIT Technology Review AI | [A fundamental flaw leaves LLMs strikingly vulnerable to attack](https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/) | Thu, 30 Ju |
 | DeepMind Blog | [We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality,](https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/) | Wed, 29 Ju |
-| MIT Technology Review AI | [The AI Hype Index: Unsexy AI](https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/) | Wed, 29 Ju |
 | Google AI Blog | [Gemini API Managed Agents: 3.6 Flash, hooks, and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/) | Tue, 28 Ju |
 | Anthropic Blog | [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) | 2026-07-28 |
 | DeepMind Blog | [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) | Tue, 28 Ju |
 | Google AI Blog | [5 ways AI Mode in Search helps you enjoy the real world](https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/) | Tue, 28 Ju |
 | Google AI Blog | [5 ways to host the ultimate dinner party with Google Search](https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/) | Tue, 28 Ju |
-| MIT Technology Review AI | [Samsung’s chip workers are jumping ship to rival SK Hynix](https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/) | Tue, 28 Ju |
 | DeepMind Blog | [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to ](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/) | Wed, 22 Ju |
-| HuggingFace Transformers | [Release v5.14.1](https://github.com/huggingface/transformers/releases/tag/v5.14.1) | 2026-07-16 |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
