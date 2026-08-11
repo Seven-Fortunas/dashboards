@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.5.4",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.4",
+      "published": "2026-08-11T18:03:10Z",
+      "summary": "Changes since langchain-core==1.5.3\n\nrelease(core): 1.5.4 (#39592)\nfix(core): compat with pydantic 2.14 (#39328)\nfix(core): stop StructuredPrompt from mutating caller kwargs (#39174)\nfix(core): preser"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "published": "Tue, 11 Aug 2026 17:00:00 +0000",
+      "summary": "AMIE promotional video"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Introducing\u202fCARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+      "link": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+      "published": "Tue, 11 Aug 2026 16:00:00 +0000",
+      "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Testing ads in ChatGPT",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "published": "Tue, 11 Aug 2026 10:00:00 GMT",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "AI professors are negotiating the new realities of academic research",
@@ -63,14 +95,6 @@
       "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
       "published": "Mon, 10 Aug 2026 10:00:00 GMT",
       "summary": "Meet GPT-5.6-Cyber, OpenAI\u2019s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "published": "Mon, 10 Aug 2026 10:00:00 GMT",
-      "summary": "Approved Daybreak partners can use OpenAI\u2019s frontier cyber models to deliver authorized, governed cybersecurity services to customers."
     },
     {
       "source": "MIT Technology Review AI",
@@ -193,14 +217,6 @@
       "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app"
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.5.3",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.3",
-      "published": "2026-07-30T14:56:10Z",
-      "summary": "Changes since langchain-core==1.5.2\n\nrelease(core): 1.5.3 (#39145)\nfix(core): fall back to `LANGSMITH_API_KEY` for gateway (#39115)"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "We\u2019re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
@@ -225,14 +241,6 @@
       "summary": ""
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "published": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Accelerating the frontiers of scientific discovery: Google\u2019s $40M commitment to the Genesis Mission",
@@ -249,8 +257,8 @@
       "summary": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets impleme"
     }
   ],
-  "timestamp": "2026-08-11T13:13:57.717902",
-  "last_updated": "2026-08-11T13:13:57.717902",
+  "timestamp": "2026-08-11T19:06:15.729396",
+  "last_updated": "2026-08-11T19:06:15.729396",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
