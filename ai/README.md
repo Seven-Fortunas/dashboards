@@ -1,11 +1,15 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-11 13:13:57 UTC
+**Last Updated:** 2026-08-11 19:06:15 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.5.4](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.4) | 2026-08-11 |
+| Google AI Blog | [AMIE, our research medical AI system, demonstrates real-time clinical video cons](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/) | Tue, 11 Au |
+| Microsoft Research AI | [Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supe](https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/) | Tue, 11 Au |
+| OpenAI Blog | [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt) | Tue, 11 Au |
 | MIT Technology Review AI | [AI professors are negotiating the new realities of academic research](https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/) | Mon, 10 Au |
 | Anthropic Blog | [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 2026-08-10 |
 | OpenAI Blog | [What building an AI-native finance function taught me](https://openai.com/index/building-an-ai-native-finance-function) | Mon, 10 Au |
@@ -14,7 +18,6 @@
 | OpenAI Blog | [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml) | Mon, 10 Au |
 | HuggingFace Transformers | [Release v5.15.0](https://github.com/huggingface/transformers/releases/tag/v5.15.0) | 2026-08-10 |
 | OpenAI Blog | [Expanding Daybreak as the Cyber Defense Window Narrows](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows) | Mon, 10 Au |
-| OpenAI Blog | [Putting frontier cyber models in more trusted hands](https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands) | Mon, 10 Au |
 | MIT Technology Review AI | [AI for science needs reasoning, not just data](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/) | Mon, 10 Au |
 | MIT Technology Review AI | [These startups are chasing the next big thing in LLMs](https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/) | Mon, 10 Au |
 | Anthropic Blog | [Improving Fable 5 Safeguards](https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards) | 2026-08-07 |
@@ -30,10 +33,8 @@
 | Microsoft Research AI | [Echoverse: Deep, evolving environments for computer-use agents](https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/) | Thu, 30 Ju |
 | Microsoft Research AI | [EvoLib: Turning experience into evolving knowledge](https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/) | Thu, 30 Ju |
 | DeepMind Blog | [Gemini Robotics ER 2: powering robotics with video understanding, task orchestra](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/) | Thu, 30 Ju |
-| LangChain Releases | [Release langchain-core==1.5.3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.3) | 2026-07-30 |
 | DeepMind Blog | [We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality,](https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/) | Wed, 29 Ju |
 | Google AI Blog | [Gemini API Managed Agents: 3.6 Flash, hooks, and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/) | Tue, 28 Ju |
 | DeepMind Blog | [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) | Tue, 28 Ju |
-| Google AI Blog | [5 ways AI Mode in Search helps you enjoy the real world](https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/) | Tue, 28 Ju |
 | DeepMind Blog | [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to ](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/) | Wed, 22 Ju |
 | Microsoft Research AI | [Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) | Mon, 13 Ju |
