@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "published": "Mon, 10 Aug 2026 20:00:00 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "published": "2026-08-10T19:00:15.000Z",
+      "summary": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "What building an AI-native finance function taught me",
@@ -185,14 +201,6 @@
       "summary": "Changes since langchain-core==1.5.2\n\nrelease(core): 1.5.3 (#39145)\nfix(core): fall back to `LANGSMITH_API_KEY` for gateway (#39115)"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "published": "Thu, 30 Jul 2026 10:15:19 +0000",
-      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conferen"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "We\u2019re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
@@ -207,14 +215,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "published": "Tue, 28 Jul 2026 16:00:00 +0000",
       "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Our position on open-weights models",
-      "link": "https://www.anthropic.com/news/position-open-weights-models",
-      "published": "2026-07-28T15:25:50.000Z",
-      "summary": "Anthropic CEO Dario Amodei on open-weights models"
     },
     {
       "source": "DeepMind Blog",
@@ -249,8 +249,8 @@
       "summary": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets impleme"
     }
   ],
-  "timestamp": "2026-08-10T19:02:13.082383",
-  "last_updated": "2026-08-10T19:02:13.082383",
+  "timestamp": "2026-08-11T02:00:46.648579",
+  "last_updated": "2026-08-11T02:00:46.648579",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
