@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-11 19:06:15 UTC
+**Last Updated:** 2026-08-12 02:15:47 UTC
 
 ## Latest Updates
 
@@ -10,6 +10,7 @@
 | Google AI Blog | [AMIE, our research medical AI system, demonstrates real-time clinical video cons](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/) | Tue, 11 Au |
 | Microsoft Research AI | [Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supe](https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/) | Tue, 11 Au |
 | OpenAI Blog | [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt) | Tue, 11 Au |
+| OpenAI Blog | [Daybreak models are now available on AWS](https://openai.com/index/daybreak-models-are-now-available-on-aws) | Tue, 11 Au |
 | MIT Technology Review AI | [AI professors are negotiating the new realities of academic research](https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/) | Mon, 10 Au |
 | Anthropic Blog | [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 2026-08-10 |
 | OpenAI Blog | [What building an AI-native finance function taught me](https://openai.com/index/building-an-ai-native-finance-function) | Mon, 10 Au |
@@ -17,7 +18,6 @@
 | OpenAI Blog | [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas) | Mon, 10 Au |
 | OpenAI Blog | [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml) | Mon, 10 Au |
 | HuggingFace Transformers | [Release v5.15.0](https://github.com/huggingface/transformers/releases/tag/v5.15.0) | 2026-08-10 |
-| OpenAI Blog | [Expanding Daybreak as the Cyber Defense Window Narrows](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows) | Mon, 10 Au |
 | MIT Technology Review AI | [AI for science needs reasoning, not just data](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/) | Mon, 10 Au |
 | MIT Technology Review AI | [These startups are chasing the next big thing in LLMs](https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/) | Mon, 10 Au |
 | Anthropic Blog | [Improving Fable 5 Safeguards](https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards) | 2026-08-07 |
