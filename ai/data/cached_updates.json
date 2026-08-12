@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Scaling AI agents with trustworthy data",
+      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "published": "Wed, 12 Aug 2026 16:51:57 +0000",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "MindTopo reveals VLMs\u2019 spatial reasoning abilities",
+      "link": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+      "published": "Wed, 12 Aug 2026 16:00:00 +0000",
+      "summary": "<p>A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities to strengthen spatial reasoning and planning.</p>\n<"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Putting sign language AI into users\u2019 hands",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "published": "Wed, 12 Aug 2026 14:01:59 +0000",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "From assistance to execution: How enterprises put AI to work",
@@ -185,14 +209,6 @@
       "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environmen"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
-      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "published": "Mon, 03 Aug 2026 08:30:05 +0000",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. When two OpenAI model"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Echoverse: Deep, evolving environments for computer-use agents",
@@ -239,26 +255,10 @@
       "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
       "published": "Tue, 28 Jul 2026 13:21:37 +0000",
       "summary": ""
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Accelerating the frontiers of scientific discovery: Google\u2019s $40M commitment to the Genesis Mission",
-      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-      "published": "Wed, 22 Jul 2026 13:38:54 +0000",
-      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
-      "link": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
-      "published": "Mon, 13 Jul 2026 16:00:00 +0000",
-      "summary": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets impleme"
     }
   ],
-  "timestamp": "2026-08-12T13:17:53.292270",
-  "last_updated": "2026-08-12T13:17:53.292270",
+  "timestamp": "2026-08-12T19:05:48.875288",
+  "last_updated": "2026-08-12T19:05:48.875288",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
