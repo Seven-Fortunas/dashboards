@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-12 07:38:12 UTC
+**Last Updated:** 2026-08-12 13:17:53 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work) | Wed, 12 Au |
 | LangChain Releases | [Release langchain-core==1.5.4](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.4) | 2026-08-11 |
 | Google AI Blog | [AMIE, our research medical AI system, demonstrates real-time clinical video cons](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/) | Tue, 11 Au |
 | Microsoft Research AI | [Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supe](https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/) | Tue, 11 Au |
@@ -13,7 +14,6 @@
 | OpenAI Blog | [Daybreak models are now available on AWS](https://openai.com/index/daybreak-models-are-now-available-on-aws) | Tue, 11 Au |
 | MIT Technology Review AI | [AI professors are negotiating the new realities of academic research](https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/) | Mon, 10 Au |
 | Anthropic Blog | [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 2026-08-10 |
-| OpenAI Blog | [What building an AI-native finance function taught me](https://openai.com/index/building-an-ai-native-finance-function) | Mon, 10 Au |
 | Google AI Blog | [Evolve your marketing with new AI tools](https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/) | Mon, 10 Au |
 | OpenAI Blog | [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas) | Mon, 10 Au |
 | OpenAI Blog | [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml) | Mon, 10 Au |

@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "published": "Wed, 12 Aug 2026 06:00:00 GMT",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.5.4",
@@ -55,14 +63,6 @@
       "link": "https://www.anthropic.com/news/claude-sonnet-5",
       "published": "2026-08-10T19:00:15.000Z",
       "summary": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "What building an AI-native finance function taught me",
-      "link": "https://openai.com/index/building-an-ai-native-finance-function",
-      "published": "Mon, 10 Aug 2026 17:00:00 GMT",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
     },
     {
       "source": "Google AI Blog",
@@ -257,8 +257,8 @@
       "summary": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets impleme"
     }
   ],
-  "timestamp": "2026-08-12T07:38:12.135810",
-  "last_updated": "2026-08-12T07:38:12.135810",
+  "timestamp": "2026-08-12T13:17:53.292270",
+  "last_updated": "2026-08-12T13:17:53.292270",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
