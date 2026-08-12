@@ -33,6 +33,14 @@
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Daybreak models are now available on AWS",
+      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "published": "Tue, 11 Aug 2026 10:00:00 GMT",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "AI professors are negotiating the new realities of academic research",
@@ -87,14 +95,6 @@
       "link": "https://github.com/huggingface/transformers/releases/tag/v5.15.0",
       "published": "2026-08-10T10:28:13Z",
       "summary": "# Release v5.15.0\r\n\r\n## New Model additions\r\n\r\n### Meta Muse Glimmer\r\n\r\nMuse Glimmer, released today, is Meta\u2019s new multimodal model, especially designed for agentic use cases. Distilled from Muse to "
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "published": "Mon, 10 Aug 2026 10:00:00 GMT",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI\u2019s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
     },
     {
       "source": "MIT Technology Review AI",
@@ -257,8 +257,8 @@
       "summary": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets impleme"
     }
   ],
-  "timestamp": "2026-08-11T19:06:15.729396",
-  "last_updated": "2026-08-11T19:06:15.729396",
+  "timestamp": "2026-08-12T02:15:47.645735",
+  "last_updated": "2026-08-12T02:15:47.645735",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
