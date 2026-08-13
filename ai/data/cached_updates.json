@@ -1,6 +1,54 @@
 {
   "updates": [
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Introducing Gemini 3.7 Flash",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "published": "Thu, 13 Aug 2026 17:04:18 +0000",
+      "summary": ""
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "published": "Thu, 13 Aug 2026 16:45:00 +0000",
+      "summary": "The video shows Sheets canvas in action."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "published": "Thu, 13 Aug 2026 13:41:10 +0000",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers\u2019 access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back "
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "The builder\u2019s guide to GPT\u20115.6",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "published": "Thu, 13 Aug 2026 11:00:00 GMT",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "link": "https://openai.com/index/previewing-ultrafast",
+      "published": "Thu, 13 Aug 2026 10:00:00 GMT",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14\u00d7 faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "published": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "How kids feel about AI, in their own words",
@@ -73,22 +121,6 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Testing ads in ChatGPT",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Daybreak models are now available on AWS",
-      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "published": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "AI professors are negotiating the new realities of academic research",
@@ -113,14 +145,6 @@
       "summary": "Advisor UI in Google Ads and Google Analytics"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI\u2019s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "published": "Mon, 10 Aug 2026 14:00:00 GMT",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans."
-    },
-    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.15.0",
@@ -135,14 +159,6 @@
       "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
       "published": "Mon, 10 Aug 2026 09:00:00 +0000",
       "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the \u201cfacts of physical science have all been discovered.\u201d In the 1980s"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "These startups are chasing the next big thing in LLMs",
-      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "published": "Mon, 10 Aug 2026 09:00:00 +0000",
-      "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of "
     },
     {
       "source": "Anthropic Blog",
@@ -239,26 +255,10 @@
       "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
       "published": "Wed, 29 Jul 2026 16:02:10 +0000",
       "summary": ""
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "published": "Tue, 28 Jul 2026 16:00:00 +0000",
-      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers"
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "published": "Tue, 28 Jul 2026 13:21:37 +0000",
-      "summary": ""
     }
   ],
-  "timestamp": "2026-08-13T13:19:42.822514",
-  "last_updated": "2026-08-13T13:19:42.822514",
+  "timestamp": "2026-08-13T19:06:42.693630",
+  "last_updated": "2026-08-13T19:06:42.693630",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
