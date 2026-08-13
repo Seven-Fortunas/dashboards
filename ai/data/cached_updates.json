@@ -3,6 +3,14 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "How kids feel about AI, in their own words",
+      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "published": "Thu, 13 Aug 2026 09:00:00 +0000",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "Scaling AI agents with trustworthy data",
       "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
       "published": "Wed, 12 Aug 2026 16:51:57 +0000",
@@ -169,14 +177,6 @@
       "summary": "July AI recap header"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Trump\u2019s AI protectionism has come for robotics",
-      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "published": "Mon, 03 Aug 2026 18:43:30 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude for Nonprofits",
@@ -257,8 +257,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-13T07:39:46.087872",
-  "last_updated": "2026-08-13T07:39:46.087872",
+  "timestamp": "2026-08-13T13:19:42.822514",
+  "last_updated": "2026-08-13T13:19:42.822514",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
