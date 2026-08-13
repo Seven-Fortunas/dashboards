@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-12 19:05:48 UTC
+**Last Updated:** 2026-08-13 02:19:49 UTC
 
 ## Latest Updates
 
@@ -10,6 +10,7 @@
 | Microsoft Research AI | [MindTopo reveals VLMs’ spatial reasoning abilities](https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/) | Wed, 12 Au |
 | DeepMind Blog | [Putting sign language AI into users’ hands](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/) | Wed, 12 Au |
 | OpenAI Blog | [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work) | Wed, 12 Au |
+| OpenAI Blog | [How RingCentral builds AI-native work from engineering to ops](https://openai.com/index/ringcentral) | Wed, 12 Au |
 | LangChain Releases | [Release langchain-core==1.5.4](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.4) | 2026-08-11 |
 | Google AI Blog | [AMIE, our research medical AI system, demonstrates real-time clinical video cons](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/) | Tue, 11 Au |
 | Microsoft Research AI | [Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supe](https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/) | Tue, 11 Au |
@@ -19,7 +20,6 @@
 | Anthropic Blog | [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 2026-08-10 |
 | Google AI Blog | [Evolve your marketing with new AI tools](https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/) | Mon, 10 Au |
 | OpenAI Blog | [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas) | Mon, 10 Au |
-| OpenAI Blog | [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml) | Mon, 10 Au |
 | HuggingFace Transformers | [Release v5.15.0](https://github.com/huggingface/transformers/releases/tag/v5.15.0) | 2026-08-10 |
 | MIT Technology Review AI | [AI for science needs reasoning, not just data](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/) | Mon, 10 Au |
 | MIT Technology Review AI | [These startups are chasing the next big thing in LLMs](https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/) | Mon, 10 Au |
