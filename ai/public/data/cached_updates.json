@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.5.5",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.5",
+      "published": "2026-08-14T18:56:41Z",
+      "summary": "Changes since langchain-core==1.5.4\n\nrelease(core): 1.5.5 (#39655)\nfix(core): make abatch_iterate consistent with batch_iterate for None and zero size (#39367)\nfix(core): respect pydantic aliases when"
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Introducing Gemini 3.7 Flash",
@@ -95,14 +103,6 @@
       "link": "https://openai.com/index/ringcentral",
       "published": "Wed, 12 Aug 2026 00:00:00 GMT",
       "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.5.4",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.4",
-      "published": "2026-08-11T18:03:10Z",
-      "summary": "Changes since langchain-core==1.5.3\n\nrelease(core): 1.5.4 (#39592)\nfix(core): compat with pydantic 2.14 (#39328)\nfix(core): stop StructuredPrompt from mutating caller kwargs (#39174)\nfix(core): preser"
     },
     {
       "source": "Google AI Blog",
@@ -257,8 +257,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-14T13:14:25.236782",
-  "last_updated": "2026-08-14T13:14:25.236782",
+  "timestamp": "2026-08-14T18:59:03.859158",
+  "last_updated": "2026-08-14T18:59:03.859158",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

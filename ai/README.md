@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-14 13:14:25 UTC
+**Last Updated:** 2026-08-14 18:59:03 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.5.5](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.5) | 2026-08-14 |
 | DeepMind Blog | [Introducing Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/) | Thu, 13 Au |
 | Google AI Blog | [Bring your spreadsheet data to life with Sheets canvas](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/) | Thu, 13 Au |
 | MIT Technology Review AI | [Flock is tightening its rules in response to a growing surveillance backlash](https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/) | Thu, 13 Au |
@@ -18,7 +19,6 @@
 | DeepMind Blog | [Putting sign language AI into users’ hands](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/) | Wed, 12 Au |
 | OpenAI Blog | [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work) | Wed, 12 Au |
 | OpenAI Blog | [How RingCentral builds AI-native work from engineering to ops](https://openai.com/index/ringcentral) | Wed, 12 Au |
-| LangChain Releases | [Release langchain-core==1.5.4](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.4) | 2026-08-11 |
 | Google AI Blog | [AMIE, our research medical AI system, demonstrates real-time clinical video cons](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/) | Tue, 11 Au |
 | Microsoft Research AI | [Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supe](https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/) | Tue, 11 Au |
 | MIT Technology Review AI | [AI professors are negotiating the new realities of academic research](https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/) | Mon, 10 Au |
