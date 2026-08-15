@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-14 18:59:03 UTC
+**Last Updated:** 2026-08-15 01:26:01 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [How Claude&#x27;s text watermarking works](https://www.anthropic.com/news/claude-text-watermark) | 2026-08-14 |
 | LangChain Releases | [Release langchain-core==1.5.5](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.5) | 2026-08-14 |
 | DeepMind Blog | [Introducing Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/) | Thu, 13 Au |
 | Google AI Blog | [Bring your spreadsheet data to life with Sheets canvas](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/) | Thu, 13 Au |
@@ -33,7 +34,6 @@
 | Anthropic Blog | [Introducing Claude for Nonprofits](https://www.anthropic.com/news/claude-for-nonprofits) | 2026-08-03 |
 | Microsoft Research AI | [Orchard: An open framework for scalable agentic AI](https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/) | Mon, 03 Au |
 | Google AI Blog | [Inside our 353,000-person vibe coding course](https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/) | Mon, 03 Au |
-| Anthropic Blog | [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) | 2026-08-03 |
 | Microsoft Research AI | [Echoverse: Deep, evolving environments for computer-use agents](https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/) | Thu, 30 Ju |
 | Microsoft Research AI | [EvoLib: Turning experience into evolving knowledge](https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/) | Thu, 30 Ju |
 | DeepMind Blog | [Gemini Robotics ER 2: powering robotics with video understanding, task orchestra](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/) | Thu, 30 Ju |
