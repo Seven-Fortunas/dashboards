@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "How Claude&#x27;s text watermarking works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "published": "2026-08-14T20:06:43.000Z",
+      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI p"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.5.5",
@@ -217,14 +225,6 @@
       "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "published": "2026-08-03T14:36:32.000Z",
-      "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environmen"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Echoverse: Deep, evolving environments for computer-use agents",
@@ -257,8 +257,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-14T18:59:03.859158",
-  "last_updated": "2026-08-14T18:59:03.859158",
+  "timestamp": "2026-08-15T01:26:01.320005",
+  "last_updated": "2026-08-15T01:26:01.320005",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
