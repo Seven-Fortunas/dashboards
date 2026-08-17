@@ -19,6 +19,22 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "The Defender\u2019s Window",
+      "link": "https://openai.com/index/the-defenders-window",
+      "published": "Mon, 17 Aug 2026 05:30:00 GMT",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI joins PORTS-Pike project",
+      "link": "https://openai.com/index/openai-joins-ports-pike-project",
+      "published": "Mon, 17 Aug 2026 05:00:00 GMT",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "New policy ideas for the Intelligence Age",
       "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
       "published": "Mon, 17 Aug 2026 03:15:00 GMT",
@@ -81,14 +97,6 @@
       "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14\u00d7 faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "published": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "How kids feel about AI, in their own words",
@@ -119,14 +127,6 @@
       "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
       "published": "Wed, 12 Aug 2026 14:01:59 +0000",
       "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "published": "Wed, 12 Aug 2026 06:00:00 GMT",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
     },
     {
       "source": "Google AI Blog",
@@ -249,8 +249,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-17T12:51:02.591449",
-  "last_updated": "2026-08-17T12:51:02.591449",
+  "timestamp": "2026-08-17T18:44:17.195539",
+  "last_updated": "2026-08-17T18:44:17.195539",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-17 12:51:02 UTC
+**Last Updated:** 2026-08-17 18:44:17 UTC
 
 ## Latest Updates
 
@@ -8,6 +8,8 @@
 |--------|-------|----------|
 | MIT Technology Review AI | [What happens when a kid’s robot best friend dies?](https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/) | Mon, 17 Au |
 | Google AI Blog | [Get closer to the game with Gemini and Pixel](https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/) | Mon, 17 Au |
+| OpenAI Blog | [The Defender’s Window](https://openai.com/index/the-defenders-window) | Mon, 17 Au |
+| OpenAI Blog | [OpenAI joins PORTS-Pike project](https://openai.com/index/openai-joins-ports-pike-project) | Mon, 17 Au |
 | OpenAI Blog | [New policy ideas for the Intelligence Age](https://openai.com/index/new-policy-ideas-for-the-intelligence-age) | Mon, 17 Au |
 | Anthropic Blog | [How Claude&#x27;s text watermarking works](https://www.anthropic.com/news/claude-text-watermark) | 2026-08-15 |
 | LangChain Releases | [Release langchain-core==1.5.5](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.5) | 2026-08-14 |
@@ -16,12 +18,10 @@
 | MIT Technology Review AI | [Flock is tightening its rules in response to a growing surveillance backlash](https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/) | Thu, 13 Au |
 | OpenAI Blog | [The builder’s guide to GPT‑5.6](https://openai.com/index/builders-guide-to-gpt-5-6) | Thu, 13 Au |
 | OpenAI Blog | [Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed](https://openai.com/index/previewing-ultrafast) | Thu, 13 Au |
-| OpenAI Blog | [OpenAI appoints Dali Rajic as Chief Revenue Officer](https://openai.com/index/dali-rajic-chief-revenue-officer) | Thu, 13 Au |
 | MIT Technology Review AI | [How kids feel about AI, in their own words](https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/) | Thu, 13 Au |
 | MIT Technology Review AI | [Scaling AI agents with trustworthy data](https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/) | Wed, 12 Au |
 | Microsoft Research AI | [MindTopo reveals VLMs’ spatial reasoning abilities](https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/) | Wed, 12 Au |
 | DeepMind Blog | [Putting sign language AI into users’ hands](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/) | Wed, 12 Au |
-| OpenAI Blog | [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work) | Wed, 12 Au |
 | Google AI Blog | [AMIE, our research medical AI system, demonstrates real-time clinical video cons](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/) | Tue, 11 Au |
 | Microsoft Research AI | [Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supe](https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/) | Tue, 11 Au |
 | MIT Technology Review AI | [AI professors are negotiating the new realities of academic research](https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/) | Mon, 10 Au |
