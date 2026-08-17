@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "What happens when a kid\u2019s robot best friend dies?",
+      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "published": "Mon, 17 Aug 2026 09:00:00 +0000",
+      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feel"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "published": "Mon, 17 Aug 2026 08:00:00 +0000",
+      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "New policy ideas for the Intelligence Age",
+      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "published": "Mon, 17 Aug 2026 03:15:00 GMT",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "How Claude&#x27;s text watermarking works",
@@ -105,14 +129,6 @@
       "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "link": "https://openai.com/index/ringcentral",
-      "published": "Wed, 12 Aug 2026 00:00:00 GMT",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
@@ -161,14 +177,6 @@
       "summary": "# Release v5.15.0\r\n\r\n## New Model additions\r\n\r\n### Meta Muse Glimmer\r\n\r\nMuse Glimmer, released today, is Meta\u2019s new multimodal model, especially designed for agentic use cases. Distilled from Muse to "
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "AI for science needs reasoning, not just data",
-      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "published": "Mon, 10 Aug 2026 09:00:00 +0000",
-      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the \u201cfacts of physical science have all been discovered.\u201d In the 1980s"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Improving Fable 5 Safeguards",
@@ -209,14 +217,6 @@
       "summary": "<p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by en"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Inside our 353,000-person vibe coding course",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "published": "Mon, 03 Aug 2026 15:00:00 +0000",
-      "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Echoverse: Deep, evolving environments for computer-use agents",
@@ -249,8 +249,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-17T07:02:19.848596",
-  "last_updated": "2026-08-17T07:02:19.848596",
+  "timestamp": "2026-08-17T12:51:02.591449",
+  "last_updated": "2026-08-17T12:51:02.591449",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
