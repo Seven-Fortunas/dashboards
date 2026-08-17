@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-16 18:33:55 UTC
+**Last Updated:** 2026-08-17 01:35:12 UTC
 
 ## Latest Updates
 
@@ -31,7 +31,6 @@
 | DeepMind Blog | [WeatherNext: AI model achieves breakthrough in forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) | Thu, 06 Au |
 | Anthropic Blog | [Tino Cuellar joins Anthropic as Chief Global Affairs Officer](https://www.anthropic.com/news/tino-cuellar) | 2026-08-04 |
 | Google AI Blog | [The latest AI news we announced in July 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/) | Tue, 04 Au |
-| Anthropic Blog | [Introducing Claude for Nonprofits](https://www.anthropic.com/news/claude-for-nonprofits) | 2026-08-03 |
 | Microsoft Research AI | [Orchard: An open framework for scalable agentic AI](https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/) | Mon, 03 Au |
 | Google AI Blog | [Inside our 353,000-person vibe coding course](https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/) | Mon, 03 Au |
 | Microsoft Research AI | [Echoverse: Deep, evolving environments for computer-use agents](https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/) | Thu, 30 Ju |

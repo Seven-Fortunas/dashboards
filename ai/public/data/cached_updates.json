@@ -201,14 +201,6 @@
       "summary": "July AI recap header"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude for Nonprofits",
-      "link": "https://www.anthropic.com/news/claude-for-nonprofits",
-      "published": "2026-08-03T16:00:43.000Z",
-      "summary": "Anthropic launches Claude for Nonprofits to help organizations maximize their impact, featuring free AI training and discounted rates for nonprofits."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Orchard: An open framework for scalable agentic AI",
@@ -257,8 +249,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-16T18:33:55.996108",
-  "last_updated": "2026-08-16T18:33:55.996108",
+  "timestamp": "2026-08-17T01:35:12.296718",
+  "last_updated": "2026-08-17T01:35:12.296718",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
