@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.5.6",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.6",
+      "published": "2026-08-17T21:26:47Z",
+      "summary": "Changes since langchain-core==1.5.5\n\nchore(core): release 1.5.6 (#39704)\nfeat(core): incorporate gateway metadata to traces (#39703)"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "What Flock\u2019s defenders are missing",
+      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "published": "Mon, 17 Aug 2026 19:16:09 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Flock, the police-tech giant known for its network of some 120"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "What happens when a kid\u2019s robot best friend dies?",
@@ -47,14 +63,6 @@
       "link": "https://www.anthropic.com/news/claude-text-watermark",
       "published": "2026-08-15T05:53:01.000Z",
       "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI p"
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.5.5",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.5",
-      "published": "2026-08-14T18:56:41Z",
-      "summary": "Changes since langchain-core==1.5.4\n\nrelease(core): 1.5.5 (#39655)\nfix(core): make abatch_iterate consistent with batch_iterate for None and zero size (#39367)\nfix(core): respect pydantic aliases when"
     },
     {
       "source": "DeepMind Blog",
@@ -145,14 +153,6 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "AI professors are negotiating the new realities of academic research",
-      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "published": "Mon, 10 Aug 2026 20:00:00 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Sonnet 5",
@@ -191,14 +191,6 @@
       "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "published": "Thu, 06 Aug 2026 15:06:15 +0000",
       "summary": ""
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
-      "link": "https://www.anthropic.com/news/tino-cuellar",
-      "published": "2026-08-04T17:40:15.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "Google AI Blog",
@@ -249,8 +241,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-17T18:44:17.195539",
-  "last_updated": "2026-08-17T18:44:17.195539",
+  "timestamp": "2026-08-18T01:24:49.348080",
+  "last_updated": "2026-08-18T01:24:49.348080",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
