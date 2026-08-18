@@ -33,6 +33,14 @@
       "summary": "The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimiz"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "link": "https://openai.com/index/asana",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.5.6",
@@ -46,7 +54,7 @@
       "title": "What Flock\u2019s defenders are missing",
       "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
       "published": "Mon, 17 Aug 2026 19:16:09 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Flock, the police-tech giant known for its network of some 120"
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of som"
     },
     {
       "source": "MIT Technology Review AI",
@@ -79,14 +87,6 @@
       "link": "https://openai.com/index/openai-joins-ports-pike-project",
       "published": "Mon, 17 Aug 2026 05:00:00 GMT",
       "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "New policy ideas for the Intelligence Age",
-      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "published": "Mon, 17 Aug 2026 03:15:00 GMT",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
     },
     {
       "source": "Anthropic Blog",
@@ -241,8 +241,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-18T12:53:20.665776",
-  "last_updated": "2026-08-18T12:53:20.665776",
+  "timestamp": "2026-08-18T18:42:13.464996",
+  "last_updated": "2026-08-18T18:42:13.464996",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
