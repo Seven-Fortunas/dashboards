@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "link": "https://openai.com/index/partnering-with-codeai",
+      "published": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "link": "https://openai.com/index/chatgpt-for-teens",
+      "published": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "We still don\u2019t know how people are really using AI",
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "published": "Tue, 18 Aug 2026 10:06:43 +0000",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160;"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "AI\u2019s recursive self-improvement might not come so quickly after all",
+      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "published": "Tue, 18 Aug 2026 09:00:00 +0000",
+      "summary": "The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimiz"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.5.6",
@@ -87,38 +119,6 @@
       "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
       "published": "Thu, 13 Aug 2026 13:41:10 +0000",
       "summary": "The police-tech giant Flock is announcing today that it will change officers\u2019 access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back "
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "The builder\u2019s guide to GPT\u20115.6",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "published": "Thu, 13 Aug 2026 11:00:00 GMT",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "link": "https://openai.com/index/previewing-ultrafast",
-      "published": "Thu, 13 Aug 2026 10:00:00 GMT",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14\u00d7 faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "How kids feel about AI, in their own words",
-      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "published": "Thu, 13 Aug 2026 09:00:00 +0000",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Scaling AI agents with trustworthy data",
-      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "published": "Wed, 12 Aug 2026 16:51:57 +0000",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work"
     },
     {
       "source": "Microsoft Research AI",
@@ -241,8 +241,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-18T06:49:46.549392",
-  "last_updated": "2026-08-18T06:49:46.549392",
+  "timestamp": "2026-08-18T12:53:20.665776",
+  "last_updated": "2026-08-18T12:53:20.665776",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
