@@ -1,22 +1,22 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-18 18:42:13 UTC
+**Last Updated:** 2026-08-19 01:26:24 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Strengthening democratic oversight in national security](https://openai.com/index/strengthening-democratic-oversight-in-national-security) | Tue, 18 Au |
 | OpenAI Blog | [Partnering with CodeAI to prepare the first AI generation](https://openai.com/index/partnering-with-codeai) | Tue, 18 Au |
+| OpenAI Blog | [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities) | Tue, 18 Au |
 | OpenAI Blog | [Introducing ChatGPT for Teens: Built for learning, backed by protections](https://openai.com/index/chatgpt-for-teens) | Tue, 18 Au |
 | MIT Technology Review AI | [We still don’t know how people are really using AI](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/) | Tue, 18 Au |
 | MIT Technology Review AI | [AI’s recursive self-improvement might not come so quickly after all](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/) | Tue, 18 Au |
-| OpenAI Blog | [Asana cleared 5 years of engineering work in 2 weeks with Codex](https://openai.com/index/asana) | Tue, 18 Au |
+| OpenAI Blog | [How NVIDIA scales expertise with ChatGPT Work](https://openai.com/index/nvidia/chatgpt-work) | Tue, 18 Au |
 | LangChain Releases | [Release langchain-core==1.5.6](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.6) | 2026-08-17 |
 | MIT Technology Review AI | [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/) | Mon, 17 Au |
 | MIT Technology Review AI | [What happens when a kid’s robot best friend dies?](https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/) | Mon, 17 Au |
 | Google AI Blog | [Get closer to the game with Gemini and Pixel](https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/) | Mon, 17 Au |
-| OpenAI Blog | [The Defender’s Window](https://openai.com/index/the-defenders-window) | Mon, 17 Au |
-| OpenAI Blog | [OpenAI joins PORTS-Pike project](https://openai.com/index/openai-joins-ports-pike-project) | Mon, 17 Au |
 | Anthropic Blog | [How Claude&#x27;s text watermarking works](https://www.anthropic.com/news/claude-text-watermark) | 2026-08-15 |
 | DeepMind Blog | [Introducing Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/) | Thu, 13 Au |
 | Google AI Blog | [Bring your spreadsheet data to life with Sheets canvas](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/) | Thu, 13 Au |
