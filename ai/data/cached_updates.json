@@ -1,12 +1,36 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Offering Zero Data Retention for frontier models",
+      "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "published": "Wed, 19 Aug 2026 19:00:00 GMT",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.6.0",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.0",
+      "published": "2026-08-19T15:55:57Z",
+      "summary": "Changes since langchain-core==1.5.6\n\nrelease(core): 1.6.0 (#39760)\nfix(core): resolve postponed annotations in `StructuredTool._injected_args_keys` (#39602)\nfeat(core): add standard model exception ty"
+    },
+    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.15.1",
       "link": "https://github.com/huggingface/transformers/releases/tag/v5.15.1",
       "published": "2026-08-19T10:50:47Z",
       "summary": "# Patch release v5.15.1\r\n\r\nThis patch most notably solves a few issues with DFlash and MTP candidate generators, as well as an issue where images could sometimes not be processed on accelerator if usi"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "link": "https://openai.com/index/replit",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
     },
     {
       "source": "OpenAI Blog",
@@ -33,22 +57,6 @@
       "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "published": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "link": "https://openai.com/index/chatgpt-for-teens",
-      "published": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "We still don\u2019t know how people are really using AI",
@@ -63,14 +71,6 @@
       "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
       "published": "Tue, 18 Aug 2026 09:00:00 +0000",
       "summary": "The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimiz"
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.5.6",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.6",
-      "published": "2026-08-17T21:26:47Z",
-      "summary": "Changes since langchain-core==1.5.5\n\nchore(core): release 1.5.6 (#39704)\nfeat(core): incorporate gateway metadata to traces (#39703)"
     },
     {
       "source": "MIT Technology Review AI",
@@ -241,8 +241,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-19T12:53:47.595427",
-  "last_updated": "2026-08-19T12:53:47.595427",
+  "timestamp": "2026-08-19T18:39:44.445215",
+  "last_updated": "2026-08-19T18:39:44.445215",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
