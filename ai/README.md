@@ -1,18 +1,18 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-19 01:26:24 UTC
+**Last Updated:** 2026-08-19 06:50:40 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe) | Tue, 18 Au |
 | OpenAI Blog | [Strengthening democratic oversight in national security](https://openai.com/index/strengthening-democratic-oversight-in-national-security) | Tue, 18 Au |
 | OpenAI Blog | [Partnering with CodeAI to prepare the first AI generation](https://openai.com/index/partnering-with-codeai) | Tue, 18 Au |
 | OpenAI Blog | [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities) | Tue, 18 Au |
 | OpenAI Blog | [Introducing ChatGPT for Teens: Built for learning, backed by protections](https://openai.com/index/chatgpt-for-teens) | Tue, 18 Au |
 | MIT Technology Review AI | [We still don’t know how people are really using AI](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/) | Tue, 18 Au |
 | MIT Technology Review AI | [AI’s recursive self-improvement might not come so quickly after all](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/) | Tue, 18 Au |
-| OpenAI Blog | [How NVIDIA scales expertise with ChatGPT Work](https://openai.com/index/nvidia/chatgpt-work) | Tue, 18 Au |
 | LangChain Releases | [Release langchain-core==1.5.6](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.6) | 2026-08-17 |
 | MIT Technology Review AI | [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/) | Mon, 17 Au |
 | MIT Technology Review AI | [What happens when a kid’s robot best friend dies?](https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/) | Mon, 17 Au |
