@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-19 06:50:40 UTC
+**Last Updated:** 2026-08-19 12:53:47 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| HuggingFace Transformers | [Release v5.15.1](https://github.com/huggingface/transformers/releases/tag/v5.15.1) | 2026-08-19 |
 | OpenAI Blog | [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe) | Tue, 18 Au |
 | OpenAI Blog | [Strengthening democratic oversight in national security](https://openai.com/index/strengthening-democratic-oversight-in-national-security) | Tue, 18 Au |
 | OpenAI Blog | [Partnering with CodeAI to prepare the first AI generation](https://openai.com/index/partnering-with-codeai) | Tue, 18 Au |
@@ -27,7 +28,6 @@
 | Microsoft Research AI | [Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supe](https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/) | Tue, 11 Au |
 | Anthropic Blog | [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 2026-08-10 |
 | Google AI Blog | [Evolve your marketing with new AI tools](https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/) | Mon, 10 Au |
-| HuggingFace Transformers | [Release v5.15.0](https://github.com/huggingface/transformers/releases/tag/v5.15.0) | 2026-08-10 |
 | Anthropic Blog | [Improving Fable 5 Safeguards](https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards) | 2026-08-07 |
 | DeepMind Blog | [WeatherNext: AI model achieves breakthrough in forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) | Thu, 06 Au |
 | Google AI Blog | [The latest AI news we announced in July 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/) | Tue, 04 Au |

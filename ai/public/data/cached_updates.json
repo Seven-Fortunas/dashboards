@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.15.1",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.15.1",
+      "published": "2026-08-19T10:50:47Z",
+      "summary": "# Patch release v5.15.1\r\n\r\nThis patch most notably solves a few issues with DFlash and MTP candidate generators, as well as an issue where images could sometimes not be processed on accelerator if usi"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "ChatGPT Ads expands across Europe",
@@ -169,14 +177,6 @@
       "summary": "Advisor UI in Google Ads and Google Analytics"
     },
     {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.15.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.15.0",
-      "published": "2026-08-10T10:28:13Z",
-      "summary": "# Release v5.15.0\r\n\r\n## New Model additions\r\n\r\n### Meta Muse Glimmer\r\n\r\nMuse Glimmer, released today, is Meta\u2019s new multimodal model, especially designed for agentic use cases. Distilled from Muse to "
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Improving Fable 5 Safeguards",
@@ -241,8 +241,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-19T06:50:40.336015",
-  "last_updated": "2026-08-19T06:50:40.336015",
+  "timestamp": "2026-08-19T12:53:47.595427",
+  "last_updated": "2026-08-19T12:53:47.595427",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
