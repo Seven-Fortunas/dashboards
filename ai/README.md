@@ -1,20 +1,20 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-19 12:53:47 UTC
+**Last Updated:** 2026-08-19 18:39:44 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Offering Zero Data Retention for frontier models](https://openai.com/index/our-commitment-to-zero-data-retention) | Wed, 19 Au |
+| LangChain Releases | [Release langchain-core==1.6.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.0) | 2026-08-19 |
 | HuggingFace Transformers | [Release v5.15.1](https://github.com/huggingface/transformers/releases/tag/v5.15.1) | 2026-08-19 |
+| OpenAI Blog | [Replit expands access to software creation with GPT-5.6 Luna](https://openai.com/index/replit) | Wed, 19 Au |
 | OpenAI Blog | [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe) | Tue, 18 Au |
 | OpenAI Blog | [Strengthening democratic oversight in national security](https://openai.com/index/strengthening-democratic-oversight-in-national-security) | Tue, 18 Au |
 | OpenAI Blog | [Partnering with CodeAI to prepare the first AI generation](https://openai.com/index/partnering-with-codeai) | Tue, 18 Au |
-| OpenAI Blog | [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities) | Tue, 18 Au |
-| OpenAI Blog | [Introducing ChatGPT for Teens: Built for learning, backed by protections](https://openai.com/index/chatgpt-for-teens) | Tue, 18 Au |
 | MIT Technology Review AI | [We still don’t know how people are really using AI](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/) | Tue, 18 Au |
 | MIT Technology Review AI | [AI’s recursive self-improvement might not come so quickly after all](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/) | Tue, 18 Au |
-| LangChain Releases | [Release langchain-core==1.5.6](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.6) | 2026-08-17 |
 | MIT Technology Review AI | [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/) | Mon, 17 Au |
 | MIT Technology Review AI | [What happens when a kid’s robot best friend dies?](https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/) | Mon, 17 Au |
 | Google AI Blog | [Get closer to the game with Gemini and Pixel](https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/) | Mon, 17 Au |
