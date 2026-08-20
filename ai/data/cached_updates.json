@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Unlocking hidden revenue streams with market models",
+      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "published": "Thu, 20 Aug 2026 09:47:22 +0000",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Offering Zero Data Retention for frontier models",
@@ -129,14 +137,6 @@
       "summary": "The video shows Sheets canvas in action."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "published": "Thu, 13 Aug 2026 13:41:10 +0000",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers\u2019 access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back "
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "MindTopo reveals VLMs\u2019 spatial reasoning abilities",
@@ -241,8 +241,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-20T06:52:09.710494",
-  "last_updated": "2026-08-20T06:52:09.710494",
+  "timestamp": "2026-08-20T12:55:55.387067",
+  "last_updated": "2026-08-20T12:55:55.387067",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
