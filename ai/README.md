@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-20 06:52:09 UTC
+**Last Updated:** 2026-08-20 12:55:55 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Unlocking hidden revenue streams with market models](https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/) | Thu, 20 Au |
 | OpenAI Blog | [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models) | Wed, 19 Au |
 | Google AI Blog | [5 new ways to level up your learning with Search](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/) | Wed, 19 Au |
 | LangChain Releases | [Release langchain-core==1.6.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.0) | 2026-08-19 |
@@ -22,7 +23,6 @@
 | Anthropic Blog | [How Claude&#x27;s text watermarking works](https://www.anthropic.com/news/claude-text-watermark) | 2026-08-15 |
 | DeepMind Blog | [Introducing Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/) | Thu, 13 Au |
 | Google AI Blog | [Bring your spreadsheet data to life with Sheets canvas](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/) | Thu, 13 Au |
-| MIT Technology Review AI | [Flock is tightening its rules in response to a growing surveillance backlash](https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/) | Thu, 13 Au |
 | Microsoft Research AI | [MindTopo reveals VLMs’ spatial reasoning abilities](https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/) | Wed, 12 Au |
 | DeepMind Blog | [Putting sign language AI into users’ hands](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/) | Wed, 12 Au |
 | Google AI Blog | [AMIE, our research medical AI system, demonstrates real-time clinical video cons](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/) | Tue, 11 Au |
