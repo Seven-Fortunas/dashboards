@@ -4,9 +4,17 @@
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Offering Zero Data Retention for frontier models",
-      "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "published": "Wed, 19 Aug 2026 19:00:00 GMT",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "5 new ways to level up your learning with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\""
     },
     {
       "source": "LangChain Releases",
@@ -193,14 +201,6 @@
       "summary": ""
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "The latest AI news we announced in July 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "published": "Tue, 04 Aug 2026 13:00:00 +0000",
-      "summary": "July AI recap header"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Orchard: An open framework for scalable agentic AI",
@@ -241,8 +241,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-19T18:39:44.445215",
-  "last_updated": "2026-08-19T18:39:44.445215",
+  "timestamp": "2026-08-20T01:26:00.327114",
+  "last_updated": "2026-08-20T01:26:00.327114",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

@@ -1,12 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-19 18:39:44 UTC
+**Last Updated:** 2026-08-20 01:26:00 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| OpenAI Blog | [Offering Zero Data Retention for frontier models](https://openai.com/index/our-commitment-to-zero-data-retention) | Wed, 19 Au |
+| OpenAI Blog | [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models) | Wed, 19 Au |
+| Google AI Blog | [5 new ways to level up your learning with Search](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/) | Wed, 19 Au |
 | LangChain Releases | [Release langchain-core==1.6.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.0) | 2026-08-19 |
 | HuggingFace Transformers | [Release v5.15.1](https://github.com/huggingface/transformers/releases/tag/v5.15.1) | 2026-08-19 |
 | OpenAI Blog | [Replit expands access to software creation with GPT-5.6 Luna](https://openai.com/index/replit) | Wed, 19 Au |
@@ -30,7 +31,6 @@
 | Google AI Blog | [Evolve your marketing with new AI tools](https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/) | Mon, 10 Au |
 | Anthropic Blog | [Improving Fable 5 Safeguards](https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards) | 2026-08-07 |
 | DeepMind Blog | [WeatherNext: AI model achieves breakthrough in forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) | Thu, 06 Au |
-| Google AI Blog | [The latest AI news we announced in July 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/) | Tue, 04 Au |
 | Microsoft Research AI | [Orchard: An open framework for scalable agentic AI](https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/) | Mon, 03 Au |
 | Microsoft Research AI | [Echoverse: Deep, evolving environments for computer-use agents](https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/) | Thu, 30 Ju |
 | Microsoft Research AI | [EvoLib: Turning experience into evolving knowledge](https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/) | Thu, 30 Ju |
