@@ -1,12 +1,36 @@
 {
   "updates": [
     {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Broadening access to Skala creates a faster path to predictive DFT",
+      "link": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+      "published": "Thu, 20 Aug 2026 16:00:00 +0000",
+      "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Debates over AI consciousness are a trap",
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "published": "Thu, 20 Aug 2026 15:42:39 +0000",
+      "summary": "\u201cRunaway\u201d AI, \u201crogue\u201d agents, and \u201cautonomous\u201d actors\u2014the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such "
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Unlocking hidden revenue streams with market models",
       "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
       "published": "Thu, 20 Aug 2026 09:47:22 +0000",
       "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "link": "https://openai.com/index/stampli",
+      "published": "Thu, 20 Aug 2026 00:00:00 GMT",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
     },
     {
       "source": "OpenAI Blog",
@@ -65,14 +89,6 @@
       "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "link": "https://openai.com/index/partnering-with-codeai",
-      "published": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "We still don\u2019t know how people are really using AI",
@@ -95,14 +111,6 @@
       "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
       "published": "Mon, 17 Aug 2026 19:16:09 +0000",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of som"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "What happens when a kid\u2019s robot best friend dies?",
-      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "published": "Mon, 17 Aug 2026 09:00:00 +0000",
-      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feel"
     },
     {
       "source": "Google AI Blog",
@@ -217,14 +225,6 @@
       "summary": "<p>Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helpin"
     },
     {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "EvoLib: Turning experience into evolving knowledge",
-      "link": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
-      "published": "Thu, 30 Jul 2026 16:00:00 +0000",
-      "summary": "<p>LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deplo"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
@@ -241,8 +241,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-20T12:55:55.387067",
-  "last_updated": "2026-08-20T12:55:55.387067",
+  "timestamp": "2026-08-20T18:44:49.225110",
+  "last_updated": "2026-08-20T18:44:49.225110",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
