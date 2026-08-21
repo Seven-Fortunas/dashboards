@@ -27,7 +27,15 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "title": "Introducing AI Futures",
+      "link": "https://openai.com/index/introducing-ai-futures",
+      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "link": "https://openai.com/index/stampli",
       "published": "Thu, 20 Aug 2026 00:00:00 GMT",
       "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
@@ -79,14 +87,6 @@
       "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
       "published": "Tue, 18 Aug 2026 22:00:00 GMT",
       "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Strengthening democratic oversight in national security",
-      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "published": "Tue, 18 Aug 2026 19:00:00 GMT",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
     },
     {
       "source": "MIT Technology Review AI",
@@ -193,14 +193,6 @@
       "summary": "Advisor UI in Google Ads and Google Analytics"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Improving Fable 5 Safeguards",
-      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "published": "2026-08-07T03:05:42.000Z",
-      "summary": "We\u2019re making updates to Claude Fable 5\u2019s biology safeguards in a way that substantially reduces fallbacks."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
@@ -241,8 +233,8 @@
       "summary": ""
     }
   ],
-  "timestamp": "2026-08-20T18:44:49.225110",
-  "last_updated": "2026-08-20T18:44:49.225110",
+  "timestamp": "2026-08-21T01:36:25.418063",
+  "last_updated": "2026-08-21T01:36:25.418063",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
