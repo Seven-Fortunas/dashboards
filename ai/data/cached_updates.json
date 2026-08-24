@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Kids outlearn AI\u2014and we still don\u2019t know why",
+      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "published": "Mon, 24 Aug 2026 09:00:00 +0000",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl"
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
@@ -113,14 +121,6 @@
       "summary": "The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimiz"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "What Flock\u2019s defenders are missing",
-      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "published": "Mon, 17 Aug 2026 19:16:09 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of som"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Get closer to the game with Gemini and Pixel",
@@ -225,8 +225,8 @@
       "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app"
     }
   ],
-  "timestamp": "2026-08-24T07:05:20.676620",
-  "last_updated": "2026-08-24T07:05:20.676620",
+  "timestamp": "2026-08-24T12:57:02.050811",
+  "last_updated": "2026-08-24T12:57:02.050811",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
