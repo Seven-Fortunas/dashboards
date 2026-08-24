@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Improving Fable 5 Safeguards",
+      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "published": "2026-08-24T15:42:06.000Z",
+      "summary": "We\u2019re making updates to Claude Fable 5\u2019s biology safeguards in a way that substantially reduces fallbacks."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "How Claude&#x27;s text watermarking works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "published": "2026-08-24T15:41:58.000Z",
+      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI p"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "How to encourage smarter AI use in the classroom",
+      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "published": "Mon, 24 Aug 2026 14:20:19 +0000",
+      "summary": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Kids outlearn AI\u2014and we still don\u2019t know why",
@@ -113,28 +137,12 @@
       "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160;"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "AI\u2019s recursive self-improvement might not come so quickly after all",
-      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "published": "Tue, 18 Aug 2026 09:00:00 +0000",
-      "summary": "The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimiz"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Get closer to the game with Gemini and Pixel",
       "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "published": "Mon, 17 Aug 2026 08:00:00 +0000",
       "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "How Claude&#x27;s text watermarking works",
-      "link": "https://www.anthropic.com/news/claude-text-watermark",
-      "published": "2026-08-15T05:53:01.000Z",
-      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI p"
     },
     {
       "source": "DeepMind Blog",
@@ -225,8 +233,8 @@
       "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app"
     }
   ],
-  "timestamp": "2026-08-24T12:57:02.050811",
-  "last_updated": "2026-08-24T12:57:02.050811",
+  "timestamp": "2026-08-24T18:45:47.467549",
+  "last_updated": "2026-08-24T18:45:47.467549",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
