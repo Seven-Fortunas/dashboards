@@ -185,14 +185,6 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Sonnet 5",
-      "link": "https://www.anthropic.com/news/claude-sonnet-5",
-      "published": "2026-08-10T19:00:15.000Z",
-      "summary": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Evolve your marketing with new AI tools",
@@ -233,8 +225,8 @@
       "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app"
     }
   ],
-  "timestamp": "2026-08-23T18:34:13.698517",
-  "last_updated": "2026-08-23T18:34:13.698517",
+  "timestamp": "2026-08-24T01:37:27.325863",
+  "last_updated": "2026-08-24T01:37:27.325863",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
