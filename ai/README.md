@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-25 06:54:16 UTC
+**Last Updated:** 2026-08-25 12:53:22 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.](https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/) | Tue, 25 Au |
+| OpenAI Blog | [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia) | Tue, 25 Au |
 | Anthropic Blog | [Improving Fable 5 Safeguards](https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards) | 2026-08-24 |
 | Anthropic Blog | [How Claude&#x27;s text watermarking works](https://www.anthropic.com/news/claude-text-watermark) | 2026-08-24 |
 | MIT Technology Review AI | [How to encourage smarter AI use in the classroom](https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/) | Mon, 24 Au |
@@ -21,8 +23,6 @@
 | Google AI Blog | [5 new ways to level up your learning with Search](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/) | Wed, 19 Au |
 | LangChain Releases | [Release langchain-core==1.6.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.0) | 2026-08-19 |
 | HuggingFace Transformers | [Release v5.15.1](https://github.com/huggingface/transformers/releases/tag/v5.15.1) | 2026-08-19 |
-| OpenAI Blog | [Replit expands access to software creation with GPT-5.6 Luna](https://openai.com/index/replit) | Wed, 19 Au |
-| MIT Technology Review AI | [We still don’t know how people are really using AI](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/) | Tue, 18 Au |
 | Google AI Blog | [Get closer to the game with Gemini and Pixel](https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/) | Mon, 17 Au |
 | DeepMind Blog | [Introducing Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/) | Thu, 13 Au |
 | Google AI Blog | [Bring your spreadsheet data to life with Sheets canvas](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/) | Thu, 13 Au |
