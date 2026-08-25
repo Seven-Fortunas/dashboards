@@ -25,6 +25,14 @@
       "summary": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Advancing price-performance for developers with GPT\u20115.6 in Kiro",
+      "link": "https://openai.com/index/gpt-5-6-in-kiro",
+      "published": "Mon, 24 Aug 2026 12:00:00 GMT",
+      "summary": "GPT\u20115.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Kids outlearn AI\u2014and we still don\u2019t know why",
@@ -119,14 +127,6 @@
       "link": "https://openai.com/index/replit",
       "published": "Wed, 19 Aug 2026 07:00:00 GMT",
       "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "ChatGPT Ads expands across Europe",
-      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "published": "Tue, 18 Aug 2026 22:00:00 GMT",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
     },
     {
       "source": "MIT Technology Review AI",
@@ -233,8 +233,8 @@
       "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app"
     }
   ],
-  "timestamp": "2026-08-24T18:45:47.467549",
-  "last_updated": "2026-08-24T18:45:47.467549",
+  "timestamp": "2026-08-25T01:26:37.426861",
+  "last_updated": "2026-08-25T01:26:37.426861",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
