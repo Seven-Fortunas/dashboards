@@ -1,6 +1,54 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Funding better evaluations of AI\u2019s impact on wellbeing",
+      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "published": "2026-08-25T16:20:57.000Z",
+      "summary": "Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users\u2019 wellbeing."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "The Anthropic Economic Index connector",
+      "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "published": "2026-08-25T16:13:14.000Z",
+      "summary": "We&#x27;re launching the Anthropic Economic Index connector for Claude, which lets anyone explore the data directly."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic Economic Index: Insights from Claude 3.7 Sonnet",
+      "link": "https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7",
+      "published": "2026-08-25T16:13:14.000Z",
+      "summary": "The second update from the Anthropic Economic Index"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Supporting ambitious external research through the Anthropic Economic Futures Research Fund",
+      "link": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "published": "2026-08-25T16:13:14.000Z",
+      "summary": "We\u2019re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Launching the Anthropic Economic Futures Programme in the UK and Europe",
+      "link": "https://www.anthropic.com/news/economic-futures-uk-europe",
+      "published": "2026-08-25T16:13:14.000Z",
+      "summary": "Anthropic&#x27;s support for economic research comes to the UK and Europe"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "published": "Tue, 25 Aug 2026 16:00:00 +0000",
+      "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "I spent a day at a robot \u201ccarnival\u201d in Shanghai. Here\u2019s what I saw.",
@@ -11,26 +59,34 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "The full stack behind abundant intelligence",
+      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "published": "Tue, 25 Aug 2026 07:05:00 GMT",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
+      "link": "https://openai.com/index/jalapeno-first-results",
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "summary": "Jalape\u00f1o is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Disrupting a new covert influence campaign from Russia",
       "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
       "published": "Tue, 25 Aug 2026 00:00:00 GMT",
       "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a \u201csovereignty\u201d index praising Russia and criticizing the West."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Improving Fable 5 Safeguards",
-      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "published": "2026-08-24T15:42:06.000Z",
-      "summary": "We\u2019re making updates to Claude Fable 5\u2019s biology safeguards in a way that substantially reduces fallbacks."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "How Claude&#x27;s text watermarking works",
-      "link": "https://www.anthropic.com/news/claude-text-watermark",
-      "published": "2026-08-24T15:41:58.000Z",
-      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI p"
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "link": "https://openai.com/index/introducing-admin-plugin",
+      "published": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
     },
     {
       "source": "MIT Technology Review AI",
@@ -87,30 +143,6 @@
       "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
       "published": "Thu, 20 Aug 2026 09:47:22 +0000",
       "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing AI Futures",
-      "link": "https://openai.com/index/introducing-ai-futures",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "link": "https://openai.com/index/stampli",
-      "published": "Thu, 20 Aug 2026 00:00:00 GMT",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Offering Zero Data Retention for frontier models",
-      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "published": "Wed, 19 Aug 2026 19:00:00 GMT",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
     },
     {
       "source": "Google AI Blog",
@@ -193,14 +225,6 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Evolve your marketing with new AI tools",
-      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "published": "Mon, 10 Aug 2026 14:30:00 +0000",
-      "summary": "Advisor UI in Google Ads and Google Analytics"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
@@ -233,8 +257,8 @@
       "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app"
     }
   ],
-  "timestamp": "2026-08-25T12:53:22.643033",
-  "last_updated": "2026-08-25T12:53:22.643033",
+  "timestamp": "2026-08-25T18:43:36.561096",
+  "last_updated": "2026-08-25T18:43:36.561096",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
