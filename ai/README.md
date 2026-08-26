@@ -1,28 +1,29 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-26 12:59:25 UTC
+**Last Updated:** 2026-08-26 19:51:55 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| HuggingFace Transformers | [Release v5.16.0](https://github.com/huggingface/transformers/releases/tag/v5.16.0) | 2026-08-26 |
+| MIT Technology Review AI | [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/) | Wed, 26 Au |
+| Anthropic Blog | [Understanding and addressing AI harms](https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms) | 2026-08-26 |
+| Anthropic Blog | [U.S. elections readiness](https://www.anthropic.com/news/us-elections-readiness) | 2026-08-26 |
+| Anthropic Blog | [Challenges in red teaming AI systems](https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems) | 2026-08-26 |
+| Anthropic Blog | [Accenture, AWS, and Anthropic collaboration](https://www.anthropic.com/news/accenture-aws-anthropic) | 2026-08-26 |
+| Anthropic Blog | [SKT partnership announcement](https://www.anthropic.com/news/skt-partnership-announcement) | 2026-08-26 |
+| DeepMind Blog | [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/) | Wed, 26 Au |
+| HuggingFace Transformers | [Release v5.16.1](https://github.com/huggingface/transformers/releases/tag/v5.16.1) | 2026-08-26 |
+| OpenAI Blog | [Bringing ChatGPT for Teachers to more U.S. school districts](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts) | Wed, 26 Au |
+| OpenAI Blog | [Learning never stops: How AI makes learning continuous](https://openai.com/index/learning-never-stops) | Wed, 26 Au |
 | MIT Technology Review AI | [Raised on AI](https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/) | Wed, 26 Au |
 | MIT Technology Review AI | [AI models flub these intelligence tests. Can you fare any better?](https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/) | Wed, 26 Au |
 | MIT Technology Review AI | [Bill Gates says we’ve passed AI’s danger thresholds. Now what?](https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/) | Wed, 26 Au |
+| OpenAI Blog | [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead) | Wed, 26 Au |
 | OpenAI Blog | [How loveholidays is making everyone a builder with Codex](https://openai.com/index/loveholidays) | Wed, 26 Au |
-| Anthropic Blog | [Funding better evaluations of AI’s impact on wellbeing](https://www.anthropic.com/news/wellbeing-research-grants) | 2026-08-25 |
-| Anthropic Blog | [The Anthropic Economic Index connector](https://www.anthropic.com/news/anthropic-economic-index-connector) | 2026-08-25 |
-| Anthropic Blog | [Anthropic Economic Index: Insights from Claude 3.7 Sonnet](https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7) | 2026-08-25 |
-| Anthropic Blog | [Supporting ambitious external research through the Anthropic Economic Futures Re](https://www.anthropic.com/news/economic-futures-research-fund-agenda) | 2026-08-25 |
-| Anthropic Blog | [Launching the Anthropic Economic Futures Programme in the UK and Europe](https://www.anthropic.com/news/economic-futures-uk-europe) | 2026-08-25 |
 | Google AI Blog | [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/) | Tue, 25 Au |
 | MIT Technology Review AI | [I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.](https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/) | Tue, 25 Au |
 | OpenAI Blog | [The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence) | Tue, 25 Au |
-| OpenAI Blog | [Jalapeño’s first results show industry-leading speed and efficiency in AI infere](https://openai.com/index/jalapeno-first-results) | Tue, 25 Au |
-| OpenAI Blog | [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia) | Tue, 25 Au |
-| OpenAI Blog | [Introducing the Admin plugin for ChatGPT Work and Codex](https://openai.com/index/introducing-admin-plugin) | Tue, 25 Au |
-| MIT Technology Review AI | [How to encourage smarter AI use in the classroom](https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/) | Mon, 24 Au |
 | DeepMind Blog | [From Atari to EVE Online: Building on 15 Years of AI Research in Games](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/) | Fri, 21 Au |
 | Microsoft Research AI | [Broadening access to Skala creates a faster path to predictive DFT](https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/) | Thu, 20 Au |
 | Google AI Blog | [5 new ways to level up your learning with Search](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/) | Wed, 19 Au |
@@ -37,4 +38,3 @@
 | DeepMind Blog | [WeatherNext: AI model achieves breakthrough in forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) | Thu, 06 Au |
 | Microsoft Research AI | [Orchard: An open framework for scalable agentic AI](https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/) | Mon, 03 Au |
 | Microsoft Research AI | [Echoverse: Deep, evolving environments for computer-use agents](https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/) | Thu, 30 Ju |
-| DeepMind Blog | [Gemini Robotics ER 2: powering robotics with video understanding, task orchestra](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/) | Thu, 30 Ju |
