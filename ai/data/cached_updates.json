@@ -1,6 +1,46 @@
 {
   "updates": [
     {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.16.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.16.0",
+      "published": "2026-08-26T12:35:15Z",
+      "summary": "# Release v5.16.0\r\n\r\n\r\n## New Model additions\r\n\r\n### Qwen4-Exp\r\n\r\n<img width=\"2241\" height=\"693\" alt=\"image\" src=\"https://github.com/user-attachments/assets/c838b5ba-ffea-42da-baa9-3f66178e3671\" />\r\n\r"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Raised on AI",
+      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "published": "Wed, 26 Aug 2026 09:00:00 +0000",
+      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In sh"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "published": "Wed, 26 Aug 2026 09:00:00 +0000",
+      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have adva"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Bill Gates says we\u2019ve passed AI\u2019s danger thresholds. Now what?",
+      "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "published": "Wed, 26 Aug 2026 07:01:00 +0000",
+      "summary": "It\u2019s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "link": "https://openai.com/index/loveholidays",
+      "published": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Funding better evaluations of AI\u2019s impact on wellbeing",
@@ -97,22 +137,6 @@
       "summary": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Advancing price-performance for developers with GPT\u20115.6 in Kiro",
-      "link": "https://openai.com/index/gpt-5-6-in-kiro",
-      "published": "Mon, 24 Aug 2026 12:00:00 GMT",
-      "summary": "GPT\u20115.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Kids outlearn AI\u2014and we still don\u2019t know why",
-      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "published": "Mon, 24 Aug 2026 09:00:00 +0000",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
@@ -129,22 +153,6 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Debates over AI consciousness are a trap",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "published": "Thu, 20 Aug 2026 15:42:39 +0000",
-      "summary": "\u201cRunaway\u201d AI, \u201crogue\u201d agents, and \u201cautonomous\u201d actors\u2014the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such "
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Unlocking hidden revenue streams with market models",
-      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "published": "Thu, 20 Aug 2026 09:47:22 +0000",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "5 new ways to level up your learning with Search",
@@ -159,14 +167,6 @@
       "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.0",
       "published": "2026-08-19T15:55:57Z",
       "summary": "Changes since langchain-core==1.5.6\n\nrelease(core): 1.6.0 (#39760)\nfix(core): resolve postponed annotations in `StructuredTool._injected_args_keys` (#39602)\nfeat(core): add standard model exception ty"
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.15.1",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.15.1",
-      "published": "2026-08-19T10:50:47Z",
-      "summary": "# Patch release v5.15.1\r\n\r\nThis patch most notably solves a few issues with DFlash and MTP candidate generators, as well as an issue where images could sometimes not be processed on accelerator if usi"
     },
     {
       "source": "Google AI Blog",
@@ -257,8 +257,8 @@
       "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app"
     }
   ],
-  "timestamp": "2026-08-26T06:55:13.821891",
-  "last_updated": "2026-08-26T06:55:13.821891",
+  "timestamp": "2026-08-26T12:59:25.688626",
+  "last_updated": "2026-08-26T12:59:25.688626",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
