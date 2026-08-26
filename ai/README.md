@@ -1,11 +1,16 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-26 06:55:13 UTC
+**Last Updated:** 2026-08-26 12:59:25 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| HuggingFace Transformers | [Release v5.16.0](https://github.com/huggingface/transformers/releases/tag/v5.16.0) | 2026-08-26 |
+| MIT Technology Review AI | [Raised on AI](https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/) | Wed, 26 Au |
+| MIT Technology Review AI | [AI models flub these intelligence tests. Can you fare any better?](https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/) | Wed, 26 Au |
+| MIT Technology Review AI | [Bill Gates says we’ve passed AI’s danger thresholds. Now what?](https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/) | Wed, 26 Au |
+| OpenAI Blog | [How loveholidays is making everyone a builder with Codex](https://openai.com/index/loveholidays) | Wed, 26 Au |
 | Anthropic Blog | [Funding better evaluations of AI’s impact on wellbeing](https://www.anthropic.com/news/wellbeing-research-grants) | 2026-08-25 |
 | Anthropic Blog | [The Anthropic Economic Index connector](https://www.anthropic.com/news/anthropic-economic-index-connector) | 2026-08-25 |
 | Anthropic Blog | [Anthropic Economic Index: Insights from Claude 3.7 Sonnet](https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7) | 2026-08-25 |
@@ -18,15 +23,10 @@
 | OpenAI Blog | [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia) | Tue, 25 Au |
 | OpenAI Blog | [Introducing the Admin plugin for ChatGPT Work and Codex](https://openai.com/index/introducing-admin-plugin) | Tue, 25 Au |
 | MIT Technology Review AI | [How to encourage smarter AI use in the classroom](https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/) | Mon, 24 Au |
-| OpenAI Blog | [Advancing price-performance for developers with GPT‑5.6 in Kiro](https://openai.com/index/gpt-5-6-in-kiro) | Mon, 24 Au |
-| MIT Technology Review AI | [Kids outlearn AI—and we still don’t know why](https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/) | Mon, 24 Au |
 | DeepMind Blog | [From Atari to EVE Online: Building on 15 Years of AI Research in Games](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/) | Fri, 21 Au |
 | Microsoft Research AI | [Broadening access to Skala creates a faster path to predictive DFT](https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/) | Thu, 20 Au |
-| MIT Technology Review AI | [Debates over AI consciousness are a trap](https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/) | Thu, 20 Au |
-| MIT Technology Review AI | [Unlocking hidden revenue streams with market models](https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/) | Thu, 20 Au |
 | Google AI Blog | [5 new ways to level up your learning with Search](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/) | Wed, 19 Au |
 | LangChain Releases | [Release langchain-core==1.6.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.0) | 2026-08-19 |
-| HuggingFace Transformers | [Release v5.15.1](https://github.com/huggingface/transformers/releases/tag/v5.15.1) | 2026-08-19 |
 | Google AI Blog | [Get closer to the game with Gemini and Pixel](https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/) | Mon, 17 Au |
 | DeepMind Blog | [Introducing Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/) | Thu, 13 Au |
 | Google AI Blog | [Bring your spreadsheet data to life with Sheets canvas](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/) | Thu, 13 Au |
