@@ -1,36 +1,92 @@
 {
   "updates": [
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic joins White House pledge for AI education",
-      "link": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
-      "published": "2026-08-26T21:03:43.000Z",
-      "summary": "Anthropic signs White House pledge investing in AI education for America&#x27;s youth, supporting AI students and educators nationwide."
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.6.1",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.1",
+      "published": "2026-08-27T19:31:34Z",
+      "summary": "Changes since langchain-core==1.6.0\n\nrevert: release(core): 1.6.2 (#39971)\nrelease(core): 1.6.2 (#39967)\nfix(core): shore up indexing in genai v1 streaming content (#39964)\nfix(core): make `Structured"
     },
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
-      "title": "Usage Policy update",
-      "link": "https://www.anthropic.com/news/usage-policy-update",
-      "published": "2026-08-26T20:54:44.000Z",
-      "summary": "Updates to our Usage Policy that reflect the growing capabilities and evolving usage of our products."
+      "title": "Expanding our support for scientists",
+      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
+      "published": "2026-08-27T19:19:47.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
-      "title": "Claude for Enterprise powers LLNL research",
-      "link": "https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and",
-      "published": "2026-08-26T20:52:11.000Z",
-      "summary": "Lawrence Livermore National Laboratory expands Claude for Enterprise access to 10,000 scientists, accelerating breakthroughs in energy, and national security research."
+      "title": "Previewing the Model Hardware Standard",
+      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "published": "2026-08-27T17:53:45.000Z",
+      "summary": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and "
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "published": "Thu, 27 Aug 2026 16:11:32 +0000",
+      "summary": ""
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "3 new ways to plan and book travel in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "published": "Thu, 27 Aug 2026 16:00:00 +0000",
+      "summary": "Graphic depicting new travel features for AI Mode in Search"
     },
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
-      "title": "Detecting and countering malicious uses of Claude",
-      "link": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025",
-      "published": "2026-08-26T20:47:13.000Z",
-      "summary": "Detecting and Countering Malicious Uses of Claude"
+      "title": "Introducing Anthropic&#x27;s AI for Science Program",
+      "link": "https://www.anthropic.com/news/ai-for-science-program",
+      "published": "2026-08-27T15:14:27.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Advancing Claude for Education",
+      "link": "https://www.anthropic.com/news/advancing-claude-for-education",
+      "published": "2026-08-27T15:13:58.000Z",
+      "summary": "A first look at new education-specific integrations, expanded student programs, and university updates."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude for Life Sciences",
+      "link": "https://www.anthropic.com/news/claude-for-life-sciences",
+      "published": "2026-08-27T15:13:34.000Z",
+      "summary": "Discover how Claude accelerates life sciences research with new scientific connectors, skills, and improved performance for drug discovery and clinical work."
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "published": "Thu, 27 Aug 2026 12:59:16 +0000",
+      "summary": "Piloting the world's first double-blind AI evaluations"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "published": "Thu, 27 Aug 2026 09:00:00 GMT",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Expanding OpenAI\u2019s presence in Brazil",
+      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "published": "Thu, 27 Aug 2026 03:00:00 GMT",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
     },
     {
       "source": "MIT Technology Review AI",
@@ -39,14 +95,6 @@
       "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
       "published": "Wed, 26 Aug 2026 19:00:00 +0000",
       "summary": "The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Understanding and addressing AI harms",
-      "link": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms",
-      "published": "2026-08-26T18:31:47.000Z",
-      "summary": "Learn about Anthropic&#x27;s comprehensive framework for identifying, classifying, and mitigating potential harms from AI systems, ensuring responsible development of advanced AI technology."
     },
     {
       "source": "DeepMind Blog",
@@ -113,14 +161,6 @@
       "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we\u2019re taking to strengthen AI model security, monitoring, and alignment."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "link": "https://openai.com/index/loveholidays",
-      "published": "Wed, 26 Aug 2026 00:00:00 GMT",
-      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "5 ways to upgrade your home decor with Google Search",
@@ -135,14 +175,6 @@
       "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
       "published": "Tue, 25 Aug 2026 09:00:00 +0000",
       "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country\u2019s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems\u2014a"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "The full stack behind abundant intelligence",
-      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "published": "Tue, 25 Aug 2026 07:05:00 GMT",
-      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
     },
     {
       "source": "DeepMind Blog",
@@ -167,14 +199,6 @@
       "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
       "published": "Wed, 19 Aug 2026 19:00:00 +0000",
       "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\""
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.6.0",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.0",
-      "published": "2026-08-19T15:55:57Z",
-      "summary": "Changes since langchain-core==1.5.6\n\nrelease(core): 1.6.0 (#39760)\nfix(core): resolve postponed annotations in `StructuredTool._injected_args_keys` (#39602)\nfeat(core): add standard model exception ty"
     },
     {
       "source": "Google AI Blog",
@@ -209,36 +233,12 @@
       "summary": "<p>A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities to strengthen spatial reasoning and planning.</p>\n<"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Putting sign language AI into users\u2019 hands",
-      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "published": "Wed, 12 Aug 2026 14:01:59 +0000",
-      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "published": "Tue, 11 Aug 2026 17:00:00 +0000",
-      "summary": "AMIE promotional video"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Introducing\u202fCARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
       "link": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
       "published": "Tue, 11 Aug 2026 16:00:00 +0000",
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "published": "Thu, 06 Aug 2026 15:06:15 +0000",
-      "summary": ""
     },
     {
       "source": "Microsoft Research AI",
@@ -257,8 +257,8 @@
       "summary": "<p>Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helpin"
     }
   ],
-  "timestamp": "2026-08-27T08:26:16.419815",
-  "last_updated": "2026-08-27T08:26:16.419815",
+  "timestamp": "2026-08-27T22:01:43.641393",
+  "last_updated": "2026-08-27T22:01:43.641393",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
