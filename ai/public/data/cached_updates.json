@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic joins White House pledge for AI education",
+      "link": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
+      "published": "2026-08-26T21:03:43.000Z",
+      "summary": "Anthropic signs White House pledge investing in AI education for America&#x27;s youth, supporting AI students and educators nationwide."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Usage Policy update",
+      "link": "https://www.anthropic.com/news/usage-policy-update",
+      "published": "2026-08-26T20:54:44.000Z",
+      "summary": "Updates to our Usage Policy that reflect the growing capabilities and evolving usage of our products."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude for Enterprise powers LLNL research",
+      "link": "https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and",
+      "published": "2026-08-26T20:52:11.000Z",
+      "summary": "Lawrence Livermore National Laboratory expands Claude for Enterprise access to 10,000 scientists, accelerating breakthroughs in energy, and national security research."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Detecting and countering malicious uses of Claude",
+      "link": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025",
+      "published": "2026-08-26T20:47:13.000Z",
+      "summary": "Detecting and Countering Malicious Uses of Claude"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
@@ -15,38 +47,6 @@
       "link": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms",
       "published": "2026-08-26T18:31:47.000Z",
       "summary": "Learn about Anthropic&#x27;s comprehensive framework for identifying, classifying, and mitigating potential harms from AI systems, ensuring responsible development of advanced AI technology."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "U.S. elections readiness",
-      "link": "https://www.anthropic.com/news/us-elections-readiness",
-      "published": "2026-08-26T18:26:16.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Challenges in red teaming AI systems",
-      "link": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
-      "published": "2026-08-26T18:24:13.000Z",
-      "summary": "In this post we detail insights from a sample of red teaming approaches that we\u2019ve used to test our AI systems. Through this practice, we\u2019ve begun to gather empirical data about the appropriate tool t"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Accenture, AWS, and Anthropic collaboration",
-      "link": "https://www.anthropic.com/news/accenture-aws-anthropic",
-      "published": "2026-08-26T18:21:30.000Z",
-      "summary": "Anthropic, AWS, and Accenture team up to build trusted solutions for enterprises."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "SKT partnership announcement",
-      "link": "https://www.anthropic.com/news/skt-partnership-announcement",
-      "published": "2026-08-26T18:16:53.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "DeepMind Blog",
@@ -257,8 +257,8 @@
       "summary": "<p>Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helpin"
     }
   ],
-  "timestamp": "2026-08-26T19:51:55.750291",
-  "last_updated": "2026-08-26T19:51:55.750291",
+  "timestamp": "2026-08-27T08:26:16.419815",
+  "last_updated": "2026-08-27T08:26:16.419815",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

@@ -1,17 +1,17 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-26 19:51:55 UTC
+**Last Updated:** 2026-08-27 08:26:16 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Anthropic joins White House pledge for AI education](https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education) | 2026-08-26 |
+| Anthropic Blog | [Usage Policy update](https://www.anthropic.com/news/usage-policy-update) | 2026-08-26 |
+| Anthropic Blog | [Claude for Enterprise powers LLNL research](https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and) | 2026-08-26 |
+| Anthropic Blog | [Detecting and countering malicious uses of Claude](https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025) | 2026-08-26 |
 | MIT Technology Review AI | [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/) | Wed, 26 Au |
 | Anthropic Blog | [Understanding and addressing AI harms](https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms) | 2026-08-26 |
-| Anthropic Blog | [U.S. elections readiness](https://www.anthropic.com/news/us-elections-readiness) | 2026-08-26 |
-| Anthropic Blog | [Challenges in red teaming AI systems](https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems) | 2026-08-26 |
-| Anthropic Blog | [Accenture, AWS, and Anthropic collaboration](https://www.anthropic.com/news/accenture-aws-anthropic) | 2026-08-26 |
-| Anthropic Blog | [SKT partnership announcement](https://www.anthropic.com/news/skt-partnership-announcement) | 2026-08-26 |
 | DeepMind Blog | [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/) | Wed, 26 Au |
 | HuggingFace Transformers | [Release v5.16.1](https://github.com/huggingface/transformers/releases/tag/v5.16.1) | 2026-08-26 |
 | OpenAI Blog | [Bringing ChatGPT for Teachers to more U.S. school districts](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts) | Wed, 26 Au |
