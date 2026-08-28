@@ -3,9 +3,25 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
+      "title": "Introducing Claude for Teachers",
+      "link": "https://www.anthropic.com/news/claude-for-teachers",
+      "published": "2026-08-28T15:01:10.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Expanding our support for scientists",
+      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
+      "published": "2026-08-28T10:42:34.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
       "title": "Previewing the Model Hardware Standard",
       "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "published": "2026-08-28T02:15:31.000Z",
+      "published": "2026-08-28T10:41:54.000Z",
       "summary": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and "
     },
     {
@@ -23,14 +39,6 @@
       "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.1",
       "published": "2026-08-27T19:31:34Z",
       "summary": "Changes since langchain-core==1.6.0\n\nrevert: release(core): 1.6.2 (#39971)\nrelease(core): 1.6.2 (#39967)\nfix(core): shore up indexing in genai v1 streaming content (#39964)\nfix(core): make `Structured"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Expanding our support for scientists",
-      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "published": "2026-08-27T19:19:47.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "DeepMind Blog",
@@ -63,14 +71,6 @@
       "link": "https://www.anthropic.com/news/advancing-claude-for-education",
       "published": "2026-08-27T15:13:58.000Z",
       "summary": "A first look at new education-specific integrations, expanded student programs, and university updates."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Claude for Life Sciences",
-      "link": "https://www.anthropic.com/news/claude-for-life-sciences",
-      "published": "2026-08-27T15:13:34.000Z",
-      "summary": "Discover how Claude accelerates life sciences research with new scientific connectors, skills, and improved performance for drug discovery and clinical work."
     },
     {
       "source": "DeepMind Blog",
@@ -123,18 +123,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "published": "Wed, 26 Aug 2026 10:00:00 GMT",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Learning never stops: How AI makes learning continuous",
       "link": "https://openai.com/index/learning-never-stops",
       "published": "Wed, 26 Aug 2026 10:00:00 GMT",
       "summary": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "published": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
     },
     {
       "source": "MIT Technology Review AI",
@@ -257,8 +257,8 @@
       "summary": "<p>Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helpin"
     }
   ],
-  "timestamp": "2026-08-28T10:27:03.561452",
-  "last_updated": "2026-08-28T10:27:03.561452",
+  "timestamp": "2026-08-28T21:58:01.689423",
+  "last_updated": "2026-08-28T21:58:01.689423",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
