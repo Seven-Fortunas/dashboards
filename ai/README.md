@@ -1,14 +1,15 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-27 22:01:43 UTC
+**Last Updated:** 2026-08-28 10:27:03 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview) | 2026-08-28 |
+| OpenAI Blog | [Supporting Thailand’s next generation of AI startups](https://openai.com/index/supporting-next-generation-ai-startups-thailand) | Fri, 28 Au |
 | LangChain Releases | [Release langchain-core==1.6.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.1) | 2026-08-27 |
 | Anthropic Blog | [Expanding our support for scientists](https://www.anthropic.com/news/expanding-support-for-scientists) | 2026-08-27 |
-| Anthropic Blog | [Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview) | 2026-08-27 |
 | DeepMind Blog | [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/) | Thu, 27 Au |
 | Google AI Blog | [3 new ways to plan and book travel in Search](https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/) | Thu, 27 Au |
 | Anthropic Blog | [Introducing Anthropic&#x27;s AI for Science Program](https://www.anthropic.com/news/ai-for-science-program) | 2026-08-27 |
@@ -25,7 +26,6 @@
 | MIT Technology Review AI | [Raised on AI](https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/) | Wed, 26 Au |
 | MIT Technology Review AI | [AI models flub these intelligence tests. Can you fare any better?](https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/) | Wed, 26 Au |
 | MIT Technology Review AI | [Bill Gates says we’ve passed AI’s danger thresholds. Now what?](https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/) | Wed, 26 Au |
-| OpenAI Blog | [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead) | Wed, 26 Au |
 | Google AI Blog | [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/) | Tue, 25 Au |
 | MIT Technology Review AI | [I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.](https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/) | Tue, 25 Au |
 | DeepMind Blog | [From Atari to EVE Online: Building on 15 Years of AI Research in Games](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/) | Fri, 21 Au |
