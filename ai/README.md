@@ -1,14 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-29 06:27:40 UTC
+**Last Updated:** 2026-08-29 16:28:29 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview) | 2026-08-29 |
 | Anthropic Blog | [Introducing Claude for Teachers](https://www.anthropic.com/news/claude-for-teachers) | 2026-08-28 |
 | Anthropic Blog | [Expanding our support for scientists](https://www.anthropic.com/news/expanding-support-for-scientists) | 2026-08-28 |
-| Anthropic Blog | [Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview) | 2026-08-28 |
 | OpenAI Blog | [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex) | Fri, 28 Au |
 | OpenAI Blog | [Supporting Thailand’s next generation of AI startups](https://openai.com/index/supporting-next-generation-ai-startups-thailand) | Fri, 28 Au |
 | LangChain Releases | [Release langchain-core==1.6.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.1) | 2026-08-27 |

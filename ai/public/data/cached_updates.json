@@ -3,6 +3,14 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
+      "title": "Previewing the Model Hardware Standard",
+      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "published": "2026-08-29T10:57:56.000Z",
+      "summary": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and "
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
       "title": "Introducing Claude for Teachers",
       "link": "https://www.anthropic.com/news/claude-for-teachers",
       "published": "2026-08-28T15:01:10.000Z",
@@ -15,14 +23,6 @@
       "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
       "published": "2026-08-28T10:42:34.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Previewing the Model Hardware Standard",
-      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "published": "2026-08-28T10:41:54.000Z",
-      "summary": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and "
     },
     {
       "source": "OpenAI Blog",
@@ -257,8 +257,8 @@
       "summary": "<p>Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helpin"
     }
   ],
-  "timestamp": "2026-08-29T06:27:40.618391",
-  "last_updated": "2026-08-29T06:27:40.618391",
+  "timestamp": "2026-08-29T16:28:29.237802",
+  "last_updated": "2026-08-29T16:28:29.237802",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
