@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-08-28 21:58:01 UTC
+**Last Updated:** 2026-08-29 06:27:40 UTC
 
 ## Latest Updates
 
@@ -9,6 +9,7 @@
 | Anthropic Blog | [Introducing Claude for Teachers](https://www.anthropic.com/news/claude-for-teachers) | 2026-08-28 |
 | Anthropic Blog | [Expanding our support for scientists](https://www.anthropic.com/news/expanding-support-for-scientists) | 2026-08-28 |
 | Anthropic Blog | [Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview) | 2026-08-28 |
+| OpenAI Blog | [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex) | Fri, 28 Au |
 | OpenAI Blog | [Supporting Thailand’s next generation of AI startups](https://openai.com/index/supporting-next-generation-ai-startups-thailand) | Fri, 28 Au |
 | LangChain Releases | [Release langchain-core==1.6.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.1) | 2026-08-27 |
 | DeepMind Blog | [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/) | Thu, 27 Au |
@@ -22,7 +23,6 @@
 | DeepMind Blog | [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/) | Wed, 26 Au |
 | HuggingFace Transformers | [Release v5.16.1](https://github.com/huggingface/transformers/releases/tag/v5.16.1) | 2026-08-26 |
 | OpenAI Blog | [Learning never stops: How AI makes learning continuous](https://openai.com/index/learning-never-stops) | Wed, 26 Au |
-| OpenAI Blog | [Bringing ChatGPT for Teachers to more U.S. school districts](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts) | Wed, 26 Au |
 | MIT Technology Review AI | [Raised on AI](https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/) | Wed, 26 Au |
 | MIT Technology Review AI | [AI models flub these intelligence tests. Can you fare any better?](https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/) | Wed, 26 Au |
 | MIT Technology Review AI | [Bill Gates says we’ve passed AI’s danger thresholds. Now what?](https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/) | Wed, 26 Au |
