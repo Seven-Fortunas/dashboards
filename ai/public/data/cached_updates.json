@@ -1,12 +1,20 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "published": "Tue, 01 Sep 2026 16:00:00 +0000",
+      "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Improving our alignment and security practices",
       "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "published": "2026-09-01T10:09:48.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+      "published": "2026-09-01T12:43:20.000Z",
+      "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with "
     },
     {
       "source": "MIT Technology Review AI",
@@ -225,14 +233,6 @@
       "summary": ""
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "published": "Thu, 13 Aug 2026 16:45:00 +0000",
-      "summary": "The video shows Sheets canvas in action."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "MindTopo reveals VLMs\u2019 spatial reasoning abilities",
@@ -257,8 +257,8 @@
       "summary": "<p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by en"
     }
   ],
-  "timestamp": "2026-09-01T11:22:50.989422",
-  "last_updated": "2026-09-01T11:22:50.989422",
+  "timestamp": "2026-09-01T16:19:08.691888",
+  "last_updated": "2026-09-01T16:19:08.691888",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-01 11:22:50 UTC
+**Last Updated:** 2026-09-01 16:19:08 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Google AI Blog | [Try Google Pics: Easy image creation and editing in Google Workspace](https://blog.google/products-and-platforms/products/workspace/google-pics/) | Tue, 01 Se |
 | Anthropic Blog | [Improving our alignment and security practices](https://www.anthropic.com/news/improving-alignment-security-efforts) | 2026-09-01 |
 | MIT Technology Review AI | [The Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/) | Mon, 31 Au |
 | Microsoft Research AI | [GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with effici](https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/) | Mon, 31 Au |
@@ -34,7 +35,6 @@
 | Google AI Blog | [5 new ways to level up your learning with Search](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/) | Wed, 19 Au |
 | Google AI Blog | [Get closer to the game with Gemini and Pixel](https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/) | Mon, 17 Au |
 | DeepMind Blog | [Introducing Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/) | Thu, 13 Au |
-| Google AI Blog | [Bring your spreadsheet data to life with Sheets canvas](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/) | Thu, 13 Au |
 | Microsoft Research AI | [MindTopo reveals VLMs’ spatial reasoning abilities](https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/) | Wed, 12 Au |
 | Microsoft Research AI | [Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supe](https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/) | Tue, 11 Au |
 | Microsoft Research AI | [Orchard: An open framework for scalable agentic AI](https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/) | Mon, 03 Au |
