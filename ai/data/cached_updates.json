@@ -1,9 +1,17 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Improving our alignment and security practices",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "published": "2026-08-31T22:39:50.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
-      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
       "published": "Mon, 31 Aug 2026 18:00:00 +0000",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. By now you\u2019ve probably heard about last month\u2019s major AI secur"
@@ -15,6 +23,14 @@
       "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
       "published": "Mon, 31 Aug 2026 16:00:00 +0000",
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "link": "https://openai.com/index/polimill",
+      "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
     },
     {
       "source": "OpenAI Blog",
@@ -97,14 +113,6 @@
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Advancing Claude for Education",
-      "link": "https://www.anthropic.com/news/advancing-claude-for-education",
-      "published": "2026-08-27T15:13:58.000Z",
-      "summary": "A first look at new education-specific integrations, expanded student programs, and university updates."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Piloting the world's first double-blind AI evaluations",
@@ -119,14 +127,6 @@
       "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
       "published": "Thu, 27 Aug 2026 09:00:00 GMT",
       "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Expanding OpenAI\u2019s presence in Brazil",
-      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "published": "Thu, 27 Aug 2026 03:00:00 GMT",
-      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
     },
     {
       "source": "MIT Technology Review AI",
@@ -257,8 +257,8 @@
       "summary": "<p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by en"
     }
   ],
-  "timestamp": "2026-08-31T22:39:54.901935",
-  "last_updated": "2026-08-31T22:39:54.901935",
+  "timestamp": "2026-09-01T04:23:15.787720",
+  "last_updated": "2026-09-01T04:23:15.787720",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
