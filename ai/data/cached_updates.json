@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "published": "2026-09-01T19:11:41.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "How Claude&#x27;s text watermarking works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "published": "2026-09-01T18:01:14.000Z",
+      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI p"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Introducing agentic video understanding with Gemini",
+      "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "published": "Tue, 01 Sep 2026 17:08:51 +0000",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "published": "Tue, 01 Sep 2026 17:00:00 GMT",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
@@ -9,12 +41,28 @@
       "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "link": "https://openai.com/index/path-to-astra",
+      "published": "Tue, 01 Sep 2026 13:00:00 GMT",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Improving our alignment and security practices",
       "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
       "published": "2026-09-01T12:43:20.000Z",
       "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with "
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "published": "Tue, 01 Sep 2026 12:00:00 GMT",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
     },
     {
       "source": "MIT Technology Review AI",
@@ -49,14 +97,6 @@
       "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "A milestone in expanding access to AI",
-      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "published": "Mon, 31 Aug 2026 04:00:00 GMT",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Previewing the Model Hardware Standard",
@@ -71,30 +111,6 @@
       "link": "https://www.anthropic.com/news/claude-for-teachers",
       "published": "2026-08-28T15:01:10.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Expanding our support for scientists",
-      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "published": "2026-08-28T10:42:34.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "published": "Fri, 28 Aug 2026 06:00:00 GMT",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Supporting Thailand\u2019s next generation of AI startups",
-      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "published": "Fri, 28 Aug 2026 02:00:00 GMT",
-      "summary": "OpenAI and Thailand\u2019s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
     },
     {
       "source": "LangChain Releases",
@@ -119,14 +135,6 @@
       "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
       "published": "Thu, 27 Aug 2026 16:00:00 +0000",
       "summary": "Graphic depicting new travel features for AI Mode in Search"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Anthropic&#x27;s AI for Science Program",
-      "link": "https://www.anthropic.com/news/ai-for-science-program",
-      "published": "2026-08-27T15:14:27.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "DeepMind Blog",
@@ -225,14 +233,6 @@
       "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats."
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Introducing Gemini 3.7 Flash",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "published": "Thu, 13 Aug 2026 17:04:18 +0000",
-      "summary": ""
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "MindTopo reveals VLMs\u2019 spatial reasoning abilities",
@@ -257,8 +257,8 @@
       "summary": "<p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by en"
     }
   ],
-  "timestamp": "2026-09-01T16:19:08.691888",
-  "last_updated": "2026-09-01T16:19:08.691888",
+  "timestamp": "2026-09-01T20:48:26.132870",
+  "last_updated": "2026-09-01T20:48:26.132870",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
