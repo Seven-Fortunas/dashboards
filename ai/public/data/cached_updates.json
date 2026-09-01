@@ -5,7 +5,7 @@
       "type": "sitemap",
       "title": "Improving our alignment and security practices",
       "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "published": "2026-08-31T22:39:50.000Z",
+      "published": "2026-09-01T10:09:48.000Z",
       "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
@@ -23,6 +23,14 @@
       "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
       "published": "Mon, 31 Aug 2026 16:00:00 +0000",
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI supports California\u2019s bill to advance youth AI safety",
+      "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
     },
     {
       "source": "OpenAI Blog",
@@ -119,14 +127,6 @@
       "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
       "published": "Thu, 27 Aug 2026 12:59:16 +0000",
       "summary": "Piloting the world's first double-blind AI evaluations"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "published": "Thu, 27 Aug 2026 09:00:00 GMT",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
     },
     {
       "source": "MIT Technology Review AI",
@@ -257,8 +257,8 @@
       "summary": "<p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by en"
     }
   ],
-  "timestamp": "2026-09-01T04:23:15.787720",
-  "last_updated": "2026-09-01T04:23:15.787720",
+  "timestamp": "2026-09-01T11:22:50.989422",
+  "last_updated": "2026-09-01T11:22:50.989422",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
