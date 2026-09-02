@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "The latest AI news we announced in August 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "published": "Tue, 01 Sep 2026 20:45:00 +0000",
+      "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\""
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Developing Enterprise Frontier Safeguards with our customers",
@@ -65,6 +73,14 @@
       "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "link": "https://openai.com/index/gilbert-tobin",
+      "published": "Tue, 01 Sep 2026 01:00:00 GMT",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
@@ -87,14 +103,6 @@
       "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "published": "Mon, 31 Aug 2026 07:00:00 GMT",
       "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "link": "https://openai.com/index/polimill",
-      "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
     },
     {
       "source": "Anthropic Blog",
@@ -225,14 +233,6 @@
       "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\""
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Get closer to the game with Gemini and Pixel",
-      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "published": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "MindTopo reveals VLMs\u2019 spatial reasoning abilities",
@@ -257,8 +257,8 @@
       "summary": "<p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by en"
     }
   ],
-  "timestamp": "2026-09-01T20:48:26.132870",
-  "last_updated": "2026-09-01T20:48:26.132870",
+  "timestamp": "2026-09-02T03:46:05.903454",
+  "last_updated": "2026-09-02T03:46:05.903454",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
