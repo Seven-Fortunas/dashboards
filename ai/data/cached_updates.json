@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "published": "2026-09-02T19:11:21.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "PyTorch Releases",
+      "type": "github",
+      "title": "Release v2.14.0",
+      "link": "https://github.com/pytorch/pytorch/releases/tag/v2.14.0",
+      "published": "2026-09-02T17:40:10Z",
+      "summary": "# PyTorch 2.14.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "published": "Wed, 02 Sep 2026 16:24:24 +0000",
+      "summary": ""
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "published": "Wed, 02 Sep 2026 16:18:31 +0000",
+      "summary": ""
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Proactive cyber defense for governments and enterprises",
@@ -23,14 +55,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
       "published": "Tue, 01 Sep 2026 20:45:00 +0000",
       "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\""
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "published": "2026-09-01T19:11:41.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "Anthropic Blog",
@@ -177,14 +201,6 @@
       "summary": "The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "published": "Wed, 26 Aug 2026 17:01:00 +0000",
-      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
-    },
-    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.16.1",
@@ -217,14 +233,6 @@
       "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "published": "Fri, 21 Aug 2026 11:59:48 +0000",
-      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Broadening access to Skala creates a faster path to predictive DFT",
@@ -249,8 +257,8 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-02T16:16:42.141151",
-  "last_updated": "2026-09-02T16:16:42.141151",
+  "timestamp": "2026-09-02T20:48:04.645123",
+  "last_updated": "2026-09-02T20:48:04.645123",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
