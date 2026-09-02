@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-02 10:56:26 UTC
+**Last Updated:** 2026-09-02 16:16:42 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Google AI Blog | [Proactive cyber defense for governments and enterprises](https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/) | Wed, 02 Se |
+| MIT Technology Review AI | [Facilitating AI integration with simplicity at scale](https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/) | Wed, 02 Se |
 | Google AI Blog | [The latest AI news we announced in August 2026](https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/) | Tue, 01 Se |
 | Anthropic Blog | [Developing Enterprise Frontier Safeguards with our customers](https://www.anthropic.com/news/enterprise-frontier-safeguards) | 2026-09-01 |
 | Anthropic Blog | [How Claude&#x27;s text watermarking works](https://www.anthropic.com/news/claude-text-watermark) | 2026-09-01 |
@@ -30,11 +32,8 @@
 | HuggingFace Transformers | [Release v5.16.1](https://github.com/huggingface/transformers/releases/tag/v5.16.1) | 2026-08-26 |
 | MIT Technology Review AI | [Raised on AI](https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/) | Wed, 26 Au |
 | MIT Technology Review AI | [AI models flub these intelligence tests. Can you fare any better?](https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/) | Wed, 26 Au |
-| MIT Technology Review AI | [Bill Gates says we’ve passed AI’s danger thresholds. Now what?](https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/) | Wed, 26 Au |
 | Google AI Blog | [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/) | Tue, 25 Au |
 | DeepMind Blog | [From Atari to EVE Online: Building on 15 Years of AI Research in Games](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/) | Fri, 21 Au |
 | Microsoft Research AI | [Broadening access to Skala creates a faster path to predictive DFT](https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/) | Thu, 20 Au |
-| Google AI Blog | [5 new ways to level up your learning with Search](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/) | Wed, 19 Au |
 | Microsoft Research AI | [MindTopo reveals VLMs’ spatial reasoning abilities](https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/) | Wed, 12 Au |
 | Microsoft Research AI | [Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supe](https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/) | Tue, 11 Au |
-| Microsoft Research AI | [Orchard: An open framework for scalable agentic AI](https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/) | Mon, 03 Au |

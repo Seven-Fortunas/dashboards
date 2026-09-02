@@ -3,6 +3,22 @@
     {
       "source": "Google AI Blog",
       "type": "rss",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "published": "Wed, 02 Sep 2026 15:40:00 +0000",
+      "summary": "Introducing Fairwind Program"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "published": "Wed, 02 Sep 2026 14:00:00 +0000",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds "
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
       "title": "The latest AI news we announced in August 2026",
       "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
       "published": "Tue, 01 Sep 2026 20:45:00 +0000",
@@ -193,14 +209,6 @@
       "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have adva"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Bill Gates says we\u2019ve passed AI\u2019s danger thresholds. Now what?",
-      "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "published": "Wed, 26 Aug 2026 07:01:00 +0000",
-      "summary": "It\u2019s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "5 ways to upgrade your home decor with Google Search",
@@ -225,14 +233,6 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "5 new ways to level up your learning with Search",
-      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\""
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "MindTopo reveals VLMs\u2019 spatial reasoning abilities",
@@ -247,18 +247,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
       "published": "Tue, 11 Aug 2026 16:00:00 +0000",
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Orchard: An open framework for scalable agentic AI",
-      "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
-      "published": "Mon, 03 Aug 2026 16:00:00 +0000",
-      "summary": "<p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by en"
     }
   ],
-  "timestamp": "2026-09-02T10:56:26.191466",
-  "last_updated": "2026-09-02T10:56:26.191466",
+  "timestamp": "2026-09-02T16:16:42.141151",
+  "last_updated": "2026-09-02T16:16:42.141151",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
