@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "published": "Thu, 03 Sep 2026 15:02:08 +0000",
+      "summary": ""
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Developing Enterprise Frontier Safeguards with our customers",
@@ -185,14 +193,6 @@
       "summary": "Graphic depicting new travel features for AI Mode in Search"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Piloting the world's first double-blind AI evaluations",
-      "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-      "published": "Thu, 27 Aug 2026 12:59:16 +0000",
-      "summary": "Piloting the world's first double-blind AI evaluations"
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
@@ -257,8 +257,8 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-03T10:56:00.932362",
-  "last_updated": "2026-09-03T10:56:00.932362",
+  "timestamp": "2026-09-03T16:07:03.883228",
+  "last_updated": "2026-09-03T16:07:03.883228",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
