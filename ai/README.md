@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-03 10:56:00 UTC
+**Last Updated:** 2026-09-03 16:07:03 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| DeepMind Blog | [Introducing WeatherNext 3, our most advanced and accurate global weather AI mode](https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/) | Thu, 03 Se |
 | Anthropic Blog | [Developing Enterprise Frontier Safeguards with our customers](https://www.anthropic.com/news/enterprise-frontier-safeguards) | 2026-09-02 |
 | PyTorch Releases | [Release v2.14.0](https://github.com/pytorch/pytorch/releases/tag/v2.14.0) | 2026-09-02 |
 | DeepMind Blog | [Proactive cyber defense for governments and enterprises](https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/) | Wed, 02 Se |
@@ -29,7 +30,6 @@
 | LangChain Releases | [Release langchain-core==1.6.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.1) | 2026-08-27 |
 | DeepMind Blog | [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/) | Thu, 27 Au |
 | Google AI Blog | [3 new ways to plan and book travel in Search](https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/) | Thu, 27 Au |
-| DeepMind Blog | [Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/) | Thu, 27 Au |
 | MIT Technology Review AI | [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/) | Wed, 26 Au |
 | HuggingFace Transformers | [Release v5.16.1](https://github.com/huggingface/transformers/releases/tag/v5.16.1) | 2026-08-26 |
 | MIT Technology Review AI | [Raised on AI](https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/) | Wed, 26 Au |
