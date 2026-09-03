@@ -9,6 +9,30 @@
       "summary": ""
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "published": "Thu, 03 Sep 2026 13:15:00 GMT",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "published": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Safety overview: GPT-6 Astra",
+      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "published": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Developing Enterprise Frontier Safeguards with our customers",
@@ -105,36 +129,12 @@
       "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "link": "https://openai.com/index/path-to-astra",
-      "published": "Tue, 01 Sep 2026 13:00:00 GMT",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Improving our alignment and security practices",
       "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
       "published": "2026-09-01T12:43:20.000Z",
       "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with "
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "published": "Tue, 01 Sep 2026 12:00:00 GMT",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "link": "https://openai.com/index/gilbert-tobin",
-      "published": "Tue, 01 Sep 2026 01:00:00 GMT",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
     },
     {
       "source": "MIT Technology Review AI",
@@ -257,8 +257,8 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-03T16:07:03.883228",
-  "last_updated": "2026-09-03T16:07:03.883228",
+  "timestamp": "2026-09-03T20:45:06.504590",
+  "last_updated": "2026-09-03T20:45:06.504590",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
