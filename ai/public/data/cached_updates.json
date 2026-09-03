@@ -49,6 +49,14 @@
       "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds "
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "link": "https://openai.com/index/atv-big-air-tour",
+      "published": "Wed, 02 Sep 2026 12:00:00 GMT",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "The latest AI news we announced in August 2026",
@@ -135,14 +143,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
       "published": "Mon, 31 Aug 2026 16:00:00 +0000",
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI supports California\u2019s bill to advance youth AI safety",
-      "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
     },
     {
       "source": "Anthropic Blog",
@@ -257,8 +257,8 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-02T20:48:04.645123",
-  "last_updated": "2026-09-02T20:48:04.645123",
+  "timestamp": "2026-09-03T03:45:54.588403",
+  "last_updated": "2026-09-03T03:45:54.588403",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
