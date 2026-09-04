@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "published": "2026-09-04T03:24:16.000Z",
+      "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environmen"
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
@@ -23,6 +31,14 @@
       "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "published": "Thu, 03 Sep 2026 12:00:00 GMT",
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "published": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
     },
     {
       "source": "OpenAI Blog",
@@ -113,14 +129,6 @@
       "summary": ""
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "link": "https://openai.com/index/ai-native-company-workflows",
-      "published": "Tue, 01 Sep 2026 17:00:00 GMT",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
@@ -159,14 +167,6 @@
       "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "published": "2026-08-29T10:57:56.000Z",
       "summary": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and "
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude for Teachers",
-      "link": "https://www.anthropic.com/news/claude-for-teachers",
-      "published": "2026-08-28T15:01:10.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "LangChain Releases",
@@ -257,8 +257,8 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-03T20:45:06.504590",
-  "last_updated": "2026-09-03T20:45:06.504590",
+  "timestamp": "2026-09-04T03:46:38.392215",
+  "last_updated": "2026-09-04T03:46:38.392215",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
