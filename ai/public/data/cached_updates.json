@@ -3,6 +3,14 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Architecting memory and storage in the AI era",
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "published": "Fri, 04 Sep 2026 18:39:19 +0000",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
       "published": "Fri, 04 Sep 2026 09:25:19 +0000",
@@ -35,18 +43,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "published": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "link": "https://openai.com/index/playco-game-prototyping-with-astra",
       "published": "Thu, 03 Sep 2026 12:00:00 GMT",
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "published": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
     },
     {
       "source": "OpenAI Blog",
@@ -217,14 +225,6 @@
       "summary": "# Release v5.16.1\r\n\r\nThis is a special release as we include GLM! (and a few small fixes)\r\n\r\n# GLM-5.3-Flash\r\n\r\n<img width=\"4239\" height=\"2643\" alt=\"image\" src=\"https://github.com/user-attachments/ass"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Raised on AI",
-      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "published": "Wed, 26 Aug 2026 09:00:00 +0000",
-      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In sh"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "5 ways to upgrade your home decor with Google Search",
@@ -257,8 +257,8 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-04T16:01:55.193602",
-  "last_updated": "2026-09-04T16:01:55.193602",
+  "timestamp": "2026-09-04T20:32:22.544602",
+  "last_updated": "2026-09-04T20:32:22.544602",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
