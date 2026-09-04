@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "published": "Fri, 04 Sep 2026 09:25:19 +0000",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there\u2019s a new gold mine for the"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
@@ -217,14 +225,6 @@
       "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In sh"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "published": "Wed, 26 Aug 2026 09:00:00 +0000",
-      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have adva"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "5 ways to upgrade your home decor with Google Search",
@@ -257,8 +257,8 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-04T03:46:38.392215",
-  "last_updated": "2026-09-04T03:46:38.392215",
+  "timestamp": "2026-09-04T10:55:27.459152",
+  "last_updated": "2026-09-04T10:55:27.459152",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
