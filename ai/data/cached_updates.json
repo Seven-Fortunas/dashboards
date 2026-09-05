@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.6.2",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.2",
+      "published": "2026-09-04T21:29:42Z",
+      "summary": "Changes since langchain-core==1.6.1\n\nrelease(core): 1.6.2 (#40209)\nfeat(openai): support async tools (#40208)\nchore(deps): bump mistune from 3.3.0 to 3.3.3 in /libs/core (#40150)\nchore(deps): bump tor"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Architecting memory and storage in the AI era",
@@ -59,6 +67,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "link": "https://openai.com/index/gpt-6-astra",
+      "published": "Thu, 03 Sep 2026 11:00:00 GMT",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Safety overview: GPT-6 Astra",
       "link": "https://openai.com/index/safety-overview-gpt-6-astra",
       "published": "Thu, 03 Sep 2026 00:00:00 GMT",
@@ -111,14 +127,6 @@
       "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "published": "Wed, 02 Sep 2026 14:00:00 +0000",
       "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds "
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "link": "https://openai.com/index/atv-big-air-tour",
-      "published": "Wed, 02 Sep 2026 12:00:00 GMT",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
     },
     {
       "source": "Google AI Blog",
@@ -185,14 +193,6 @@
       "summary": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and "
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.6.1",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.1",
-      "published": "2026-08-27T19:31:34Z",
-      "summary": "Changes since langchain-core==1.6.0\n\nrevert: release(core): 1.6.2 (#39971)\nrelease(core): 1.6.2 (#39967)\nfix(core): shore up indexing in genai v1 streaming content (#39964)\nfix(core): make `Structured"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Gemini Omni 1.1 Flash lets you build with more control",
@@ -257,8 +257,8 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-04T20:32:22.544602",
-  "last_updated": "2026-09-04T20:32:22.544602",
+  "timestamp": "2026-09-05T03:45:26.173603",
+  "last_updated": "2026-09-05T03:45:26.173603",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
