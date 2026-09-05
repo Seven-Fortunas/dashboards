@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-04 20:32:22 UTC
+**Last Updated:** 2026-09-05 03:45:26 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.6.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.2) | 2026-09-04 |
 | MIT Technology Review AI | [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/) | Fri, 04 Se |
 | MIT Technology Review AI | [Data from drones in Ukraine is fueling a new Wild West marketplace](https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/) | Fri, 04 Se |
 | Anthropic Blog | [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) | 2026-09-04 |
@@ -13,6 +14,7 @@
 | OpenAI Blog | [Daybreak for Frontline Defenders: $1B to protect essential services](https://openai.com/index/daybreak-for-frontline-defenders) | Thu, 03 Se |
 | OpenAI Blog | [Playco cut manual fixes 50% prototyping games with GPT-6 Astra](https://openai.com/index/playco-game-prototyping-with-astra) | Thu, 03 Se |
 | OpenAI Blog | [Legora reviewed 41 documents in minutes with GPT-6 Astra](https://openai.com/index/legora-financial-statement-review-with-astra) | Thu, 03 Se |
+| OpenAI Blog | [GPT-6 Astra: A new generation of intelligence](https://openai.com/index/gpt-6-astra) | Thu, 03 Se |
 | OpenAI Blog | [Safety overview: GPT-6 Astra](https://openai.com/index/safety-overview-gpt-6-astra) | Thu, 03 Se |
 | Anthropic Blog | [Developing Enterprise Frontier Safeguards with our customers](https://www.anthropic.com/news/enterprise-frontier-safeguards) | 2026-09-02 |
 | PyTorch Releases | [Release v2.14.0](https://github.com/pytorch/pytorch/releases/tag/v2.14.0) | 2026-09-02 |
@@ -20,7 +22,6 @@
 | DeepMind Blog | [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/) | Wed, 02 Se |
 | Google AI Blog | [Proactive cyber defense for governments and enterprises](https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/) | Wed, 02 Se |
 | MIT Technology Review AI | [Facilitating AI integration with simplicity at scale](https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/) | Wed, 02 Se |
-| OpenAI Blog | [ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT](https://openai.com/index/atv-big-air-tour) | Wed, 02 Se |
 | Google AI Blog | [The latest AI news we announced in August 2026](https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/) | Tue, 01 Se |
 | Anthropic Blog | [How Claude&#x27;s text watermarking works](https://www.anthropic.com/news/claude-text-watermark) | 2026-09-01 |
 | DeepMind Blog | [Introducing agentic video understanding with Gemini](https://deepmind.google/blog/introducing-agentic-video-in-gemini/) | Tue, 01 Se |
@@ -29,7 +30,6 @@
 | MIT Technology Review AI | [The Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/) | Mon, 31 Au |
 | Microsoft Research AI | [GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with effici](https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/) | Mon, 31 Au |
 | Anthropic Blog | [Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview) | 2026-08-29 |
-| LangChain Releases | [Release langchain-core==1.6.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.1) | 2026-08-27 |
 | DeepMind Blog | [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/) | Thu, 27 Au |
 | Google AI Blog | [3 new ways to plan and book travel in Search](https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/) | Thu, 27 Au |
 | MIT Technology Review AI | [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/) | Wed, 26 Au |
