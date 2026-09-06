@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "An Alien Mind",
+      "link": "https://openai.com/index/an-alien-mind",
+      "published": "Sun, 06 Sep 2026 09:00:00 GMT",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Research acceleration: The view inside OpenAI",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "published": "Sun, 06 Sep 2026 08:00:00 GMT",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.6.2",
@@ -51,14 +67,6 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "published": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "published": "Thu, 03 Sep 2026 12:00:00 GMT",
@@ -67,18 +75,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "link": "https://openai.com/index/gpt-6-astra",
-      "published": "Thu, 03 Sep 2026 11:00:00 GMT",
-      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Safety overview: GPT-6 Astra",
-      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "published": "Thu, 03 Sep 2026 00:00:00 GMT",
-      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "published": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
     },
     {
       "source": "Anthropic Blog",
@@ -257,8 +257,8 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-06T15:12:50.906522",
-  "last_updated": "2026-09-06T15:12:50.906522",
+  "timestamp": "2026-09-06T20:12:33.273730",
+  "last_updated": "2026-09-06T20:12:33.273730",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
