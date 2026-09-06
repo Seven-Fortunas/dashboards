@@ -1,21 +1,21 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-06 15:12:50 UTC
+**Last Updated:** 2026-09-06 20:12:33 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [An Alien Mind](https://openai.com/index/an-alien-mind) | Sun, 06 Se |
+| OpenAI Blog | [Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai) | Sun, 06 Se |
 | LangChain Releases | [Release langchain-core==1.6.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.2) | 2026-09-04 |
 | MIT Technology Review AI | [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/) | Fri, 04 Se |
 | MIT Technology Review AI | [Data from drones in Ukraine is fueling a new Wild West marketplace](https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/) | Fri, 04 Se |
 | Anthropic Blog | [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) | 2026-09-04 |
 | DeepMind Blog | [Introducing WeatherNext 3, our most advanced and accurate global weather AI mode](https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/) | Thu, 03 Se |
 | OpenAI Blog | [Daybreak for Frontline Defenders: $1B to protect essential services](https://openai.com/index/daybreak-for-frontline-defenders) | Thu, 03 Se |
-| OpenAI Blog | [Playco cut manual fixes 50% prototyping games with GPT-6 Astra](https://openai.com/index/playco-game-prototyping-with-astra) | Thu, 03 Se |
 | OpenAI Blog | [Legora reviewed 41 documents in minutes with GPT-6 Astra](https://openai.com/index/legora-financial-statement-review-with-astra) | Thu, 03 Se |
-| OpenAI Blog | [GPT-6 Astra: A new generation of intelligence](https://openai.com/index/gpt-6-astra) | Thu, 03 Se |
-| OpenAI Blog | [Safety overview: GPT-6 Astra](https://openai.com/index/safety-overview-gpt-6-astra) | Thu, 03 Se |
+| OpenAI Blog | [Playco cut manual fixes 50% prototyping games with GPT-6 Astra](https://openai.com/index/playco-game-prototyping-with-astra) | Thu, 03 Se |
 | Anthropic Blog | [Developing Enterprise Frontier Safeguards with our customers](https://www.anthropic.com/news/enterprise-frontier-safeguards) | 2026-09-02 |
 | PyTorch Releases | [Release v2.14.0](https://github.com/pytorch/pytorch/releases/tag/v2.14.0) | 2026-09-02 |
 | DeepMind Blog | [Proactive cyber defense for governments and enterprises](https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/) | Wed, 02 Se |
