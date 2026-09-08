@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "published": "Tue, 08 Sep 2026 14:00:15 +0000",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "The Work Now Within Reach",
+      "link": "https://openai.com/index/the-work-now-within-reach",
+      "published": "Tue, 08 Sep 2026 13:00:00 GMT",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish\u2014and make growth more economical."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Detecting and preventing distillation attacks",
@@ -39,6 +55,22 @@
       "link": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
       "published": "2026-09-08T10:46:50.000Z",
       "summary": "Anthropic&#x27;s threat intelligence report on AI cybercrime and other abuses"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "published": "Tue, 08 Sep 2026 10:34:00 +0000",
+      "summary": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visit, there\u2019s only "
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "published": "Tue, 08 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
     },
     {
       "source": "OpenAI Blog",
@@ -95,22 +127,6 @@
       "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "published": "Thu, 03 Sep 2026 15:02:08 +0000",
       "summary": ""
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "published": "Thu, 03 Sep 2026 13:15:00 GMT",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "published": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
     },
     {
       "source": "PyTorch Releases",
@@ -193,28 +209,12 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "published": "Thu, 27 Aug 2026 16:11:32 +0000",
-      "summary": ""
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "3 new ways to plan and book travel in Search",
       "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
       "published": "Thu, 27 Aug 2026 16:00:00 +0000",
       "summary": "Graphic depicting new travel features for AI Mode in Search"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "published": "Wed, 26 Aug 2026 19:00:00 +0000",
-      "summary": "The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T"
     },
     {
       "source": "HuggingFace Transformers",
@@ -257,8 +257,8 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-08T10:55:35.816153",
-  "last_updated": "2026-09-08T10:55:35.816153",
+  "timestamp": "2026-09-08T16:20:03.162004",
+  "last_updated": "2026-09-08T16:20:03.162004",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
