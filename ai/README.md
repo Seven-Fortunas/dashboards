@@ -1,16 +1,20 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-08 10:55:35 UTC
+**Last Updated:** 2026-09-08 16:20:03 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| DeepMind Blog | [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the h](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) | Tue, 08 Se |
+| OpenAI Blog | [The Work Now Within Reach](https://openai.com/index/the-work-now-within-reach) | Tue, 08 Se |
 | Anthropic Blog | [Detecting and preventing distillation attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks) | 2026-09-08 |
 | Anthropic Blog | [What we learned mapping a year’s worth of AI-enabled cyber threats](https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack) | 2026-09-08 |
 | Anthropic Blog | [Detecting and countering malicious uses of Claude](https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025) | 2026-09-08 |
 | Anthropic Blog | [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage) | 2026-09-08 |
 | Anthropic Blog | [Detecting and countering misuse of AI: August 2025](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025) | 2026-09-08 |
+| MIT Technology Review AI | [This AI entrepreneur is developing agents that can plan ahead for the unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/) | Tue, 08 Se |
+| OpenAI Blog | [OpenAI expands initiatives to support journalism from classrooms to newsrooms](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms) | Tue, 08 Se |
 | OpenAI Blog | [Supporting independent journalism in Ukraine](https://openai.com/index/supporting-independent-journalism-in-ukraine) | Mon, 07 Se |
 | OpenAI Blog | [An Alien Mind](https://openai.com/index/an-alien-mind) | Sun, 06 Se |
 | OpenAI Blog | [Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai) | Sun, 06 Se |
@@ -18,8 +22,6 @@
 | MIT Technology Review AI | [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/) | Fri, 04 Se |
 | MIT Technology Review AI | [Data from drones in Ukraine is fueling a new Wild West marketplace](https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/) | Fri, 04 Se |
 | DeepMind Blog | [Introducing WeatherNext 3, our most advanced and accurate global weather AI mode](https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/) | Thu, 03 Se |
-| OpenAI Blog | [Daybreak for Frontline Defenders: $1B to protect essential services](https://openai.com/index/daybreak-for-frontline-defenders) | Thu, 03 Se |
-| OpenAI Blog | [Legora reviewed 41 documents in minutes with GPT-6 Astra](https://openai.com/index/legora-financial-statement-review-with-astra) | Thu, 03 Se |
 | PyTorch Releases | [Release v2.14.0](https://github.com/pytorch/pytorch/releases/tag/v2.14.0) | 2026-09-02 |
 | DeepMind Blog | [Proactive cyber defense for governments and enterprises](https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/) | Wed, 02 Se |
 | DeepMind Blog | [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/) | Wed, 02 Se |
@@ -30,9 +32,7 @@
 | Google AI Blog | [Try Google Pics: Easy image creation and editing in Google Workspace](https://blog.google/products-and-platforms/products/workspace/google-pics/) | Tue, 01 Se |
 | MIT Technology Review AI | [The Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/) | Mon, 31 Au |
 | Microsoft Research AI | [GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with effici](https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/) | Mon, 31 Au |
-| DeepMind Blog | [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/) | Thu, 27 Au |
 | Google AI Blog | [3 new ways to plan and book travel in Search](https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/) | Thu, 27 Au |
-| MIT Technology Review AI | [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/) | Wed, 26 Au |
 | HuggingFace Transformers | [Release v5.16.1](https://github.com/huggingface/transformers/releases/tag/v5.16.1) | 2026-08-26 |
 | Google AI Blog | [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/) | Tue, 25 Au |
 | Microsoft Research AI | [Broadening access to Skala creates a faster path to predictive DFT](https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/) | Thu, 20 Au |
