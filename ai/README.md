@@ -1,23 +1,23 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-08 16:20:03 UTC
+**Last Updated:** 2026-09-08 20:55:19 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [How GPT-5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments) | Tue, 08 Se |
 | DeepMind Blog | [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the h](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) | Tue, 08 Se |
 | OpenAI Blog | [The Work Now Within Reach](https://openai.com/index/the-work-now-within-reach) | Tue, 08 Se |
+| OpenAI Blog | [Introducing ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5) | Tue, 08 Se |
 | Anthropic Blog | [Detecting and preventing distillation attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks) | 2026-09-08 |
 | Anthropic Blog | [What we learned mapping a year’s worth of AI-enabled cyber threats](https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack) | 2026-09-08 |
 | Anthropic Blog | [Detecting and countering malicious uses of Claude](https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025) | 2026-09-08 |
 | Anthropic Blog | [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage) | 2026-09-08 |
 | Anthropic Blog | [Detecting and countering misuse of AI: August 2025](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025) | 2026-09-08 |
 | MIT Technology Review AI | [This AI entrepreneur is developing agents that can plan ahead for the unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/) | Tue, 08 Se |
-| OpenAI Blog | [OpenAI expands initiatives to support journalism from classrooms to newsrooms](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms) | Tue, 08 Se |
-| OpenAI Blog | [Supporting independent journalism in Ukraine](https://openai.com/index/supporting-independent-journalism-in-ukraine) | Mon, 07 Se |
-| OpenAI Blog | [An Alien Mind](https://openai.com/index/an-alien-mind) | Sun, 06 Se |
-| OpenAI Blog | [Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai) | Sun, 06 Se |
+| OpenAI Blog | [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution) | Tue, 08 Se |
+| OpenAI Blog | [Funding grants for new research into AI and teen development](https://openai.com/index/teen-development-research-grants) | Tue, 08 Se |
 | LangChain Releases | [Release langchain-core==1.6.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.2) | 2026-09-04 |
 | MIT Technology Review AI | [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/) | Fri, 04 Se |
 | MIT Technology Review AI | [Data from drones in Ukraine is fueling a new Wild West marketplace](https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/) | Fri, 04 Se |
