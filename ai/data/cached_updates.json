@@ -1,6 +1,70 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Get ready for the game with new football features in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "published": "Wed, 09 Sep 2026 16:00:00 +0000",
+      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play di"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Recreating a 70-year love story frame by frame",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "published": "Wed, 09 Sep 2026 16:00:00 +0000",
+      "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\""
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "PwC deploys Claude across its business",
+      "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "published": "2026-09-09T15:49:53.000Z",
+      "summary": "PwC expands its partnership with Anthropic to deploy Claude across its workforce, train 30,000 staff, and launch a joint Center of Excellence."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic partners with the Gates Foundation",
+      "link": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "published": "2026-09-09T15:48:49.000Z",
+      "summary": "We&#x27;re committing $200 million in grants, Claude credits, and technical support for global health, life sciences, education, and economic mobility programs."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic acquires Stainless",
+      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "published": "2026-09-09T15:48:21.000Z",
+      "summary": "Anthropic has acquired Stainless, a builder of SDK and MCP server tooling, to strengthen Claude&#x27;s ability to connect to external data and tools."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "KPMG integrates Claude across its workforce",
+      "link": "https://www.anthropic.com/news/anthropic-kpmg",
+      "published": "2026-09-09T15:47:09.000Z",
+      "summary": "KPMG makes Claude available to 276,000+ employees and embeds it in its Digital Gateway platform for tax, legal, and private equity clients."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical",
+      "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "published": "2026-09-09T15:44:31.000Z",
+      "summary": "The full text of Anthropic co-founder Chris Olah&#x27;s remarks on the Pope&#x27;s encyclical on AI, &quot;Magnifica humanitas.&quot;"
+    },
+    {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.17.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.17.0",
+      "published": "2026-09-09T15:42:45Z",
+      "summary": "# Release v5.17.0\r\n\r\n\r\n## New Model additions\r\n\r\n### HYV4\r\n\r\n<img width=\"1503\" height=\"827\" alt=\"image\" src=\"https://github.com/user-attachments/assets/e6ed85ee-eb1d-40eb-a0d4-c649f6337ca9\" />\r\n\r\n\r\nHy"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
@@ -39,46 +103,6 @@
       "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
       "published": "Tue, 08 Sep 2026 11:30:00 GMT",
       "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Detecting and preventing distillation attacks",
-      "link": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
-      "published": "2026-09-08T10:48:11.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "What we learned mapping a year\u2019s worth of AI-enabled cyber threats",
-      "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "published": "2026-09-08T10:47:50.000Z",
-      "summary": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Detecting and countering malicious uses of Claude",
-      "link": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025",
-      "published": "2026-09-08T10:47:28.000Z",
-      "summary": "Detecting and Countering Malicious Uses of Claude"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
-      "link": "https://www.anthropic.com/news/disrupting-AI-espionage",
-      "published": "2026-09-08T10:47:10.000Z",
-      "summary": "A report describing an a highly sophisticated AI-led cyberattack"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Detecting and countering misuse of AI: August 2025",
-      "link": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
-      "published": "2026-09-08T10:46:50.000Z",
-      "summary": "Anthropic&#x27;s threat intelligence report on AI cybercrime and other abuses"
     },
     {
       "source": "MIT Technology Review AI",
@@ -209,30 +233,6 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "3 new ways to plan and book travel in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "published": "Thu, 27 Aug 2026 16:00:00 +0000",
-      "summary": "Graphic depicting new travel features for AI Mode in Search"
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.16.1",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.16.1",
-      "published": "2026-08-26T14:50:01Z",
-      "summary": "# Release v5.16.1\r\n\r\nThis is a special release as we include GLM! (and a few small fixes)\r\n\r\n# GLM-5.3-Flash\r\n\r\n<img width=\"4239\" height=\"2643\" alt=\"image\" src=\"https://github.com/user-attachments/ass"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "published": "Tue, 25 Aug 2026 16:00:00 +0000",
-      "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Broadening access to Skala creates a faster path to predictive DFT",
@@ -257,8 +257,8 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-09T10:59:58.300190",
-  "last_updated": "2026-09-09T10:59:58.300190",
+  "timestamp": "2026-09-09T16:15:16.667271",
+  "last_updated": "2026-09-09T16:15:16.667271",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
