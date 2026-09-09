@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
+      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "published": "Wed, 09 Sep 2026 03:10:08 +0000",
+      "summary": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
@@ -193,14 +201,6 @@
       "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "published": "Mon, 31 Aug 2026 18:00:00 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. By now you\u2019ve probably heard about last month\u2019s major AI secur"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
@@ -257,8 +257,8 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-08T20:55:19.364500",
-  "last_updated": "2026-09-08T20:55:19.364500",
+  "timestamp": "2026-09-09T03:57:00.028936",
+  "last_updated": "2026-09-09T03:57:00.028936",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
