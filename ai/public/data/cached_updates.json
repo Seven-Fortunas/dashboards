@@ -1,6 +1,54 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+      "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "published": "2026-09-09T20:43:14.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Vas Narasimhan appointed to Board of Directors",
+      "link": "https://www.anthropic.com/news/narasimhan-board",
+      "published": "2026-09-09T20:35:38.000Z",
+      "summary": "Anthropic&#x27;s Long-Term Benefit Trust appoints Novartis CEO Vas Narasimhan to the board, giving Trust-appointed directors a majority."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "published": "2026-09-09T20:34:10.000Z",
+      "summary": "Claude Design lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, and one-pagers."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+      "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
+      "published": "2026-09-09T20:33:26.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "An update on our election safeguards",
+      "link": "https://www.anthropic.com/news/election-safeguards-update",
+      "published": "2026-09-09T20:30:24.000Z",
+      "summary": "How Claude handles election-related requests ahead of the 2026 US midterms, with new results on political impartiality and access to voting information."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "published": "Wed, 09 Sep 2026 17:00:00 GMT",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Get ready for the game with new football features in Search",
@@ -15,46 +63,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
       "published": "Wed, 09 Sep 2026 16:00:00 +0000",
       "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\""
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "PwC deploys Claude across its business",
-      "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
-      "published": "2026-09-09T15:49:53.000Z",
-      "summary": "PwC expands its partnership with Anthropic to deploy Claude across its workforce, train 30,000 staff, and launch a joint Center of Excellence."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic partners with the Gates Foundation",
-      "link": "https://www.anthropic.com/news/gates-foundation-partnership",
-      "published": "2026-09-09T15:48:49.000Z",
-      "summary": "We&#x27;re committing $200 million in grants, Claude credits, and technical support for global health, life sciences, education, and economic mobility programs."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic acquires Stainless",
-      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "published": "2026-09-09T15:48:21.000Z",
-      "summary": "Anthropic has acquired Stainless, a builder of SDK and MCP server tooling, to strengthen Claude&#x27;s ability to connect to external data and tools."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "KPMG integrates Claude across its workforce",
-      "link": "https://www.anthropic.com/news/anthropic-kpmg",
-      "published": "2026-09-09T15:47:09.000Z",
-      "summary": "KPMG makes Claude available to 276,000+ employees and embeds it in its Digital Gateway platform for tax, legal, and private equity clients."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical",
-      "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
-      "published": "2026-09-09T15:44:31.000Z",
-      "summary": "The full text of Anthropic co-founder Chris Olah&#x27;s remarks on the Pope&#x27;s encyclical on AI, &quot;Magnifica humanitas.&quot;"
     },
     {
       "source": "HuggingFace Transformers",
@@ -119,14 +127,6 @@
       "link": "https://openai.com/index/navier-stokes-solution",
       "published": "Tue, 08 Sep 2026 10:00:00 GMT",
       "summary": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Funding grants for new research into AI and teen development",
-      "link": "https://openai.com/index/teen-development-research-grants",
-      "published": "Tue, 08 Sep 2026 09:00:00 GMT",
-      "summary": "Apply now for OpenAI\u2019s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
     },
     {
       "source": "LangChain Releases",
@@ -257,8 +257,8 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-09T16:15:16.667271",
-  "last_updated": "2026-09-09T16:15:16.667271",
+  "timestamp": "2026-09-09T20:43:22.903324",
+  "last_updated": "2026-09-09T20:43:22.903324",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
