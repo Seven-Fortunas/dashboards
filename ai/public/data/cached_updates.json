@@ -1,6 +1,46 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Developing nuclear safeguards for AI through public-private partnership",
+      "link": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
+      "published": "2026-09-10T20:11:55.000Z",
+      "summary": "With the NNSA and DOE national labs, we co-developed a classifier that distinguishes concerning from benign nuclear conversations with 96% accuracy."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Higher education advisory board and AI Fluency courses",
+      "link": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
+      "published": "2026-09-10T20:10:33.000Z",
+      "summary": "Anthropic announces a Higher Education Advisory Board chaired by Rick Levin and three Creative Commons AI Fluency courses for institutions."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "National Security and Public Sector Advisory Council",
+      "link": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
+      "published": "2026-09-10T20:08:57.000Z",
+      "summary": "Eleven former senators and senior defense, intelligence, and energy officials will help identify high-impact AI applications for US security."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Detecting and countering misuse of AI: August 2025",
+      "link": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
+      "published": "2026-09-10T19:44:33.000Z",
+      "summary": "Anthropic&#x27;s August 2025 threat intelligence report on AI cybercrime and other abuses."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Education Report: How educators use Claude",
+      "link": "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude",
+      "published": "2026-09-10T19:00:37.000Z",
+      "summary": "Research on 74,000 educator conversations shows how faculty use Claude for teaching, research, and building interactive learning tools."
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -35,50 +75,26 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "Introducing ChatGPT for Financial Services",
+      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
       "link": "https://openai.com/index/expanding-ai-access-us-government",
       "published": "Thu, 10 Sep 2026 07:00:00 GMT",
       "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Our compliance framework for California&#x27;s SB 53",
-      "link": "https://www.anthropic.com/news/compliance-framework-SB53",
-      "published": "2026-09-09T21:54:48.000Z",
-      "summary": "Anthropic&#x27;s Frontier Compliance Framework discloses how we assess and manage catastrophic AI risks under California&#x27;s Transparency in Frontier AI Act."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Labs",
-      "link": "https://www.anthropic.com/news/introducing-anthropic-labs",
-      "published": "2026-09-09T21:51:07.000Z",
-      "summary": "Anthropic Labs incubates experimental AI products. Mike Krieger joins Ben Mann on Labs, while Ami Vora leads the Product organization."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "How scientists use Claude to accelerate research",
-      "link": "https://www.anthropic.com/news/accelerating-scientific-research",
-      "published": "2026-09-09T21:45:55.000Z",
-      "summary": "Labs at Stanford and MIT built Claude-powered systems that run genome-wide studies in minutes and automate gene cluster interpretation."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Irina Ghose named Managing Director of India",
-      "link": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
-      "published": "2026-09-09T21:44:01.000Z",
-      "summary": "Former Microsoft India MD Irina Ghose will lead Anthropic&#x27;s first Bengaluru office, focusing on enterprise adoption and developer partnerships."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Mariano-Florentino Cu\u00e9llar appointed to Long-Term Benefit Trust",
-      "link": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
-      "published": "2026-09-09T21:43:11.000Z",
-      "summary": "Former California Supreme Court Justice Mariano-Florentino Cu\u00e9llar joins Anthropic&#x27;s Long-Term Benefit Trust as a trustee."
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "published": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "summary": "GPT\u2011Live\u20111 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
     },
     {
       "source": "Google AI Blog",
@@ -105,22 +121,6 @@
       "summary": "# Release v5.17.0\r\n\r\n\r\n## New Model additions\r\n\r\n### HYV4\r\n\r\n<img width=\"1503\" height=\"827\" alt=\"image\" src=\"https://github.com/user-attachments/assets/e6ed85ee-eb1d-40eb-a0d4-c649f6337ca9\" />\r\n\r\n\r\nHy"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "The AI policy window is open. We need to act.",
-      "link": "https://openai.com/index/ai-policy-window",
-      "published": "Wed, 09 Sep 2026 13:00:00 GMT",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "published": "Wed, 09 Sep 2026 11:00:00 GMT",
-      "summary": "Meet GPT-6 Astra, OpenAI\u2019s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
@@ -142,7 +142,7 @@
       "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
       "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
       "published": "Tue, 08 Sep 2026 10:34:00 +0000",
-      "summary": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visit, there\u2019s only "
+      "summary": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visited, earlier thi"
     },
     {
       "source": "LangChain Releases",
@@ -249,8 +249,8 @@
       "summary": "<p>A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities to strengthen spatial reasoning and planning.</p>\n<"
     }
   ],
-  "timestamp": "2026-09-10T16:06:28.323954",
-  "last_updated": "2026-09-10T16:06:28.323954",
+  "timestamp": "2026-09-10T20:38:24.621302",
+  "last_updated": "2026-09-10T20:38:24.621302",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
