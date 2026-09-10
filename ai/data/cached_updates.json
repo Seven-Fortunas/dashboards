@@ -1,6 +1,46 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "published": "Thu, 10 Sep 2026 16:00:00 GMT",
+      "summary": "C\u00e9sar de la Fuente\u2019s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "3 ways to prep for your next big race with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "published": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Now everyone can put data to work",
+      "link": "https://openai.com/index/put-data-to-work",
+      "published": "Thu, 10 Sep 2026 15:00:00 GMT",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Powering AI is an architecture problem",
+      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "published": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia\u2014the heart of the world&#8217;s largest data center cluster\u2014knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "link": "https://openai.com/index/expanding-ai-access-us-government",
+      "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Our compliance framework for California&#x27;s SB 53",
@@ -39,14 +79,6 @@
       "link": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
       "published": "2026-09-09T21:43:11.000Z",
       "summary": "Former California Supreme Court Justice Mariano-Florentino Cu\u00e9llar joins Anthropic&#x27;s Long-Term Benefit Trust as a trustee."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "published": "Wed, 09 Sep 2026 17:00:00 GMT",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
     },
     {
       "source": "Google AI Blog",
@@ -97,28 +129,12 @@
       "summary": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "link": "https://openai.com/index/codex-quantum-computing-experiments",
-      "published": "Tue, 08 Sep 2026 17:00:00 GMT",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
       "published": "Tue, 08 Sep 2026 14:00:15 +0000",
       "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "The Work Now Within Reach",
-      "link": "https://openai.com/index/the-work-now-within-reach",
-      "published": "Tue, 08 Sep 2026 13:00:00 GMT",
-      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish\u2014and make growth more economical."
     },
     {
       "source": "MIT Technology Review AI",
@@ -193,14 +209,6 @@
       "summary": "Introducing Fairwind Program"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "published": "Wed, 02 Sep 2026 14:00:00 +0000",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds "
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "The latest AI news we announced in August 2026",
@@ -215,14 +223,6 @@
       "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
       "published": "Tue, 01 Sep 2026 17:08:51 +0000",
       "summary": ""
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "published": "Tue, 01 Sep 2026 16:00:00 +0000",
-      "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top"
     },
     {
       "source": "Microsoft Research AI",
@@ -247,18 +247,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
       "published": "Wed, 12 Aug 2026 16:00:00 +0000",
       "summary": "<p>A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities to strengthen spatial reasoning and planning.</p>\n<"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Introducing\u202fCARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
-      "link": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
-      "published": "Tue, 11 Aug 2026 16:00:00 +0000",
-      "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-10T10:56:51.021874",
-  "last_updated": "2026-09-10T10:56:51.021874",
+  "timestamp": "2026-09-10T16:06:28.323954",
+  "last_updated": "2026-09-10T16:06:28.323954",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
