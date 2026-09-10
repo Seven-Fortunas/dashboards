@@ -1,27 +1,27 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-09 20:43:22 UTC
+**Last Updated:** 2026-09-10 03:55:59 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| Anthropic Blog | [Anthropic expands partnership with Google and Broadcom for multiple gigawatts of](https://www.anthropic.com/news/google-broadcom-partnership-compute) | 2026-09-09 |
-| Anthropic Blog | [Vas Narasimhan appointed to Board of Directors](https://www.anthropic.com/news/narasimhan-board) | 2026-09-09 |
-| Anthropic Blog | [Introducing Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs) | 2026-09-09 |
-| Anthropic Blog | [Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute](https://www.anthropic.com/news/anthropic-amazon-compute) | 2026-09-09 |
-| Anthropic Blog | [An update on our election safeguards](https://www.anthropic.com/news/election-safeguards-update) | 2026-09-09 |
+| Anthropic Blog | [Our compliance framework for California&#x27;s SB 53](https://www.anthropic.com/news/compliance-framework-SB53) | 2026-09-09 |
+| Anthropic Blog | [Introducing Labs](https://www.anthropic.com/news/introducing-anthropic-labs) | 2026-09-09 |
+| Anthropic Blog | [How scientists use Claude to accelerate research](https://www.anthropic.com/news/accelerating-scientific-research) | 2026-09-09 |
+| Anthropic Blog | [Irina Ghose named Managing Director of India](https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india) | 2026-09-09 |
+| Anthropic Blog | [Mariano-Florentino Cuéllar appointed to Long-Term Benefit Trust](https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust) | 2026-09-09 |
 | OpenAI Blog | [Paul Christiano joins OpenAI Foundation Board](https://openai.com/index/paul-christiano-joins-openai-foundation-board) | Wed, 09 Se |
 | Google AI Blog | [Get ready for the game with new football features in Search](https://blog.google/products-and-platforms/products/search/football-features-google-search/) | Wed, 09 Se |
 | Google AI Blog | [Recreating a 70-year love story frame by frame](https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/) | Wed, 09 Se |
 | HuggingFace Transformers | [Release v5.17.0](https://github.com/huggingface/transformers/releases/tag/v5.17.0) | 2026-09-09 |
+| OpenAI Blog | [The AI policy window is open. We need to act.](https://openai.com/index/ai-policy-window) | Wed, 09 Se |
+| OpenAI Blog | [GPT-6 Astra: The next generation in intelligence for work](https://openai.com/index/gpt-6-astra-next-generation-work) | Wed, 09 Se |
 | MIT Technology Review AI | [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/) | Wed, 09 Se |
 | OpenAI Blog | [How GPT-5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments) | Tue, 08 Se |
 | DeepMind Blog | [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the h](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) | Tue, 08 Se |
 | OpenAI Blog | [The Work Now Within Reach](https://openai.com/index/the-work-now-within-reach) | Tue, 08 Se |
-| OpenAI Blog | [Introducing ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5) | Tue, 08 Se |
 | MIT Technology Review AI | [This AI entrepreneur is developing agents that can plan ahead for the unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/) | Tue, 08 Se |
-| OpenAI Blog | [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution) | Tue, 08 Se |
 | LangChain Releases | [Release langchain-core==1.6.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.2) | 2026-09-04 |
 | MIT Technology Review AI | [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/) | Fri, 04 Se |
 | MIT Technology Review AI | [Data from drones in Ukraine is fueling a new Wild West marketplace](https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/) | Fri, 04 Se |

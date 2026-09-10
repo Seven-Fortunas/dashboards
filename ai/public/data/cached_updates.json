@@ -3,42 +3,42 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
-      "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
-      "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "published": "2026-09-09T20:43:14.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+      "title": "Our compliance framework for California&#x27;s SB 53",
+      "link": "https://www.anthropic.com/news/compliance-framework-SB53",
+      "published": "2026-09-09T21:54:48.000Z",
+      "summary": "Anthropic&#x27;s Frontier Compliance Framework discloses how we assess and manage catastrophic AI risks under California&#x27;s Transparency in Frontier AI Act."
     },
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
-      "title": "Vas Narasimhan appointed to Board of Directors",
-      "link": "https://www.anthropic.com/news/narasimhan-board",
-      "published": "2026-09-09T20:35:38.000Z",
-      "summary": "Anthropic&#x27;s Long-Term Benefit Trust appoints Novartis CEO Vas Narasimhan to the board, giving Trust-appointed directors a majority."
+      "title": "Introducing Labs",
+      "link": "https://www.anthropic.com/news/introducing-anthropic-labs",
+      "published": "2026-09-09T21:51:07.000Z",
+      "summary": "Anthropic Labs incubates experimental AI products. Mike Krieger joins Ben Mann on Labs, while Ami Vora leads the Product organization."
     },
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
-      "title": "Introducing Claude Design by Anthropic Labs",
-      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "published": "2026-09-09T20:34:10.000Z",
-      "summary": "Claude Design lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, and one-pagers."
+      "title": "How scientists use Claude to accelerate research",
+      "link": "https://www.anthropic.com/news/accelerating-scientific-research",
+      "published": "2026-09-09T21:45:55.000Z",
+      "summary": "Labs at Stanford and MIT built Claude-powered systems that run genome-wide studies in minutes and automate gene cluster interpretation."
     },
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
-      "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
-      "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
-      "published": "2026-09-09T20:33:26.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+      "title": "Irina Ghose named Managing Director of India",
+      "link": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
+      "published": "2026-09-09T21:44:01.000Z",
+      "summary": "Former Microsoft India MD Irina Ghose will lead Anthropic&#x27;s first Bengaluru office, focusing on enterprise adoption and developer partnerships."
     },
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
-      "title": "An update on our election safeguards",
-      "link": "https://www.anthropic.com/news/election-safeguards-update",
-      "published": "2026-09-09T20:30:24.000Z",
-      "summary": "How Claude handles election-related requests ahead of the 2026 US midterms, with new results on political impartiality and access to voting information."
+      "title": "Mariano-Florentino Cu\u00e9llar appointed to Long-Term Benefit Trust",
+      "link": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
+      "published": "2026-09-09T21:43:11.000Z",
+      "summary": "Former California Supreme Court Justice Mariano-Florentino Cu\u00e9llar joins Anthropic&#x27;s Long-Term Benefit Trust as a trustee."
     },
     {
       "source": "OpenAI Blog",
@@ -73,6 +73,22 @@
       "summary": "# Release v5.17.0\r\n\r\n\r\n## New Model additions\r\n\r\n### HYV4\r\n\r\n<img width=\"1503\" height=\"827\" alt=\"image\" src=\"https://github.com/user-attachments/assets/e6ed85ee-eb1d-40eb-a0d4-c649f6337ca9\" />\r\n\r\n\r\nHy"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "The AI policy window is open. We need to act.",
+      "link": "https://openai.com/index/ai-policy-window",
+      "published": "Wed, 09 Sep 2026 13:00:00 GMT",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "published": "Wed, 09 Sep 2026 11:00:00 GMT",
+      "summary": "Meet GPT-6 Astra, OpenAI\u2019s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
@@ -105,28 +121,12 @@
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish\u2014and make growth more economical."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing ChatGPT Images 2.5",
-      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "published": "Tue, 08 Sep 2026 11:30:00 GMT",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
       "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
       "published": "Tue, 08 Sep 2026 10:34:00 +0000",
       "summary": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visit, there\u2019s only "
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
-      "link": "https://openai.com/index/navier-stokes-solution",
-      "published": "Tue, 08 Sep 2026 10:00:00 GMT",
-      "summary": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
     },
     {
       "source": "LangChain Releases",
@@ -257,8 +257,8 @@
       "summary": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpre"
     }
   ],
-  "timestamp": "2026-09-09T20:43:22.903324",
-  "last_updated": "2026-09-09T20:43:22.903324",
+  "timestamp": "2026-09-10T03:55:59.479554",
+  "last_updated": "2026-09-10T03:55:59.479554",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
