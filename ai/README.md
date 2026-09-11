@@ -1,23 +1,23 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-10 20:38:24 UTC
+**Last Updated:** 2026-09-11 03:52:12 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Introducing Claude Corps](https://www.anthropic.com/news/claude-corps) | 2026-09-11 |
 | Anthropic Blog | [Developing nuclear safeguards for AI through public-private partnership](https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership) | 2026-09-10 |
 | Anthropic Blog | [Higher education advisory board and AI Fluency courses](https://www.anthropic.com/news/anthropic-higher-education-initiatives) | 2026-09-10 |
 | Anthropic Blog | [National Security and Public Sector Advisory Council](https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council) | 2026-09-10 |
 | Anthropic Blog | [Detecting and countering misuse of AI: August 2025](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025) | 2026-09-10 |
-| Anthropic Blog | [Education Report: How educators use Claude](https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude) | 2026-09-10 |
 | OpenAI Blog | [How a researcher uses Codex and ChatGPT to search for new antimicrobial molecule](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials) | Thu, 10 Se |
 | Google AI Blog | [3 ways to prep for your next big race with Search](https://blog.google/products-and-platforms/products/search/running-race-training-tips/) | Thu, 10 Se |
 | OpenAI Blog | [Now everyone can put data to work](https://openai.com/index/put-data-to-work) | Thu, 10 Se |
 | MIT Technology Review AI | [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/) | Thu, 10 Se |
 | OpenAI Blog | [Introducing ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services) | Thu, 10 Se |
 | OpenAI Blog | [Expanding AI access and cyber defense for federal, state, local, and tribal gove](https://openai.com/index/expanding-ai-access-us-government) | Thu, 10 Se |
-| OpenAI Blog | [Build more natural voice experiences with GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api) | Thu, 10 Se |
+| OpenAI Blog | [Introducing the Agents API](https://openai.com/index/introducing-the-agents-api) | Thu, 10 Se |
 | Google AI Blog | [Get ready for the game with new football features in Search](https://blog.google/products-and-platforms/products/search/football-features-google-search/) | Wed, 09 Se |
 | Google AI Blog | [Recreating a 70-year love story frame by frame](https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/) | Wed, 09 Se |
 | HuggingFace Transformers | [Release v5.17.0](https://github.com/huggingface/transformers/releases/tag/v5.17.0) | 2026-09-09 |

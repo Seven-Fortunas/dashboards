@@ -3,6 +3,14 @@
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
+      "title": "Introducing Claude Corps",
+      "link": "https://www.anthropic.com/news/claude-corps",
+      "published": "2026-09-11T02:45:01.000Z",
+      "summary": "Claude Corps is a national fellowship for early-career people passionate about extending the benefits of AI to communities across America."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
       "title": "Developing nuclear safeguards for AI through public-private partnership",
       "link": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
       "published": "2026-09-10T20:11:55.000Z",
@@ -31,14 +39,6 @@
       "link": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
       "published": "2026-09-10T19:44:33.000Z",
       "summary": "Anthropic&#x27;s August 2025 threat intelligence report on AI cybercrime and other abuses."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Education Report: How educators use Claude",
-      "link": "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude",
-      "published": "2026-09-10T19:00:37.000Z",
-      "summary": "Research on 74,000 educator conversations shows how faculty use Claude for teaching, research, and building interactive learning tools."
     },
     {
       "source": "OpenAI Blog",
@@ -91,10 +91,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "title": "Introducing the Agents API",
+      "link": "https://openai.com/index/introducing-the-agents-api",
       "published": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "summary": "GPT\u2011Live\u20111 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
     },
     {
       "source": "Google AI Blog",
@@ -249,8 +249,8 @@
       "summary": "<p>A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities to strengthen spatial reasoning and planning.</p>\n<"
     }
   ],
-  "timestamp": "2026-09-10T20:38:24.621302",
-  "last_updated": "2026-09-10T20:38:24.621302",
+  "timestamp": "2026-09-11T03:52:12.609733",
+  "last_updated": "2026-09-11T03:52:12.609733",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
