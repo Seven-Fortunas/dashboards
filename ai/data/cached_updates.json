@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Roundtables: Will AI really kill us all?",
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "published": "Fri, 11 Sep 2026 20:05:06 +0000",
+      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te"
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.6.3",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.3",
+      "published": "2026-09-11T17:38:02Z",
+      "summary": "Changes since langchain-core==1.6.2\n\nrelease(core): 1.6.3 (#40407)\nfeat(core): Allow model name and provider tracing metadata override based on gateway response (#40406)\ntest(core): cover the deprecat"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "published": "Fri, 11 Sep 2026 10:00:00 GMT",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Corps",
@@ -89,14 +113,6 @@
       "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "summary": "GPT\u2011Live\u20111 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Get ready for the game with new football features in Search",
@@ -145,28 +161,12 @@
       "summary": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visited, earlier thi"
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.6.2",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.2",
-      "published": "2026-09-04T21:29:42Z",
-      "summary": "Changes since langchain-core==1.6.1\n\nrelease(core): 1.6.2 (#40209)\nfeat(openai): support async tools (#40208)\nchore(deps): bump mistune from 3.3.0 to 3.3.3 in /libs/core (#40150)\nchore(deps): bump tor"
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Architecting memory and storage in the AI era",
       "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
       "published": "Fri, 04 Sep 2026 18:39:19 +0000",
       "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "published": "Fri, 04 Sep 2026 09:25:19 +0000",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there\u2019s a new gold mine for the"
     },
     {
       "source": "DeepMind Blog",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-11T16:10:04.828695",
-  "last_updated": "2026-09-11T16:10:04.828695",
+  "timestamp": "2026-09-11T20:43:46.071281",
+  "last_updated": "2026-09-11T20:43:46.071281",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
