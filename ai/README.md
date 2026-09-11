@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-11 03:52:12 UTC
+**Last Updated:** 2026-09-11 10:55:21 UTC
 
 ## Latest Updates
 
@@ -17,7 +17,7 @@
 | MIT Technology Review AI | [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/) | Thu, 10 Se |
 | OpenAI Blog | [Introducing ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services) | Thu, 10 Se |
 | OpenAI Blog | [Expanding AI access and cyber defense for federal, state, local, and tribal gove](https://openai.com/index/expanding-ai-access-us-government) | Thu, 10 Se |
-| OpenAI Blog | [Introducing the Agents API](https://openai.com/index/introducing-the-agents-api) | Thu, 10 Se |
+| OpenAI Blog | [Build more natural voice experiences with GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api) | Thu, 10 Se |
 | Google AI Blog | [Get ready for the game with new football features in Search](https://blog.google/products-and-platforms/products/search/football-features-google-search/) | Wed, 09 Se |
 | Google AI Blog | [Recreating a 70-year love story frame by frame](https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/) | Wed, 09 Se |
 | HuggingFace Transformers | [Release v5.17.0](https://github.com/huggingface/transformers/releases/tag/v5.17.0) | 2026-09-09 |

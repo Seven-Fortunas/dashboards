@@ -91,10 +91,10 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
+      "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "published": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
+      "summary": "GPT\u2011Live\u20111 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
     },
     {
       "source": "Google AI Blog",
@@ -249,8 +249,8 @@
       "summary": "<p>A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities to strengthen spatial reasoning and planning.</p>\n<"
     }
   ],
-  "timestamp": "2026-09-11T03:52:12.609733",
-  "last_updated": "2026-09-11T03:52:12.609733",
+  "timestamp": "2026-09-11T10:55:21.694115",
+  "last_updated": "2026-09-11T10:55:21.694115",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
