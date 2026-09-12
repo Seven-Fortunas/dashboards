@@ -11,7 +11,7 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
-      "title": "Roundtables: AI\u2019s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "published": "Fri, 11 Sep 2026 20:05:06 +0000",
       "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te"
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-12T15:17:23.598141",
-  "last_updated": "2026-09-12T15:17:23.598141",
+  "timestamp": "2026-09-12T20:21:47.652007",
+  "last_updated": "2026-09-12T20:21:47.652007",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
