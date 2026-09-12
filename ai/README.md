@@ -1,13 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-12 15:17:23 UTC
+**Last Updated:** 2026-09-12 20:21:47 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
 | OpenAI Blog | [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) | Mon, 14 Se |
-| MIT Technology Review AI | [Roundtables: AI’s apocalypse crisis](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/) | Fri, 11 Se |
+| MIT Technology Review AI | [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/) | Fri, 11 Se |
 | LangChain Releases | [Release langchain-core==1.6.3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.3) | 2026-09-11 |
 | OpenAI Blog | [Cognition helps Devin test its own work with GPT‑6 Astra](https://openai.com/index/cognition-devin-testing-with-astra) | Fri, 11 Se |
 | OpenAI Blog | [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one) | Fri, 11 Se |
