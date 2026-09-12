@@ -1,13 +1,15 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-11 20:43:46 UTC
+**Last Updated:** 2026-09-12 03:54:57 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| MIT Technology Review AI | [Roundtables: Will AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/) | Fri, 11 Se |
+| OpenAI Blog | [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) | Mon, 14 Se |
+| MIT Technology Review AI | [Roundtables: AI’s apocalypse crisis](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/) | Fri, 11 Se |
 | LangChain Releases | [Release langchain-core==1.6.3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.3) | 2026-09-11 |
+| OpenAI Blog | [Cognition helps Devin test its own work with GPT‑6 Astra](https://openai.com/index/cognition-devin-testing-with-astra) | Fri, 11 Se |
 | OpenAI Blog | [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one) | Fri, 11 Se |
 | Anthropic Blog | [Introducing Claude Corps](https://www.anthropic.com/news/claude-corps) | 2026-09-11 |
 | Anthropic Blog | [Developing nuclear safeguards for AI through public-private partnership](https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership) | 2026-09-10 |
@@ -18,8 +20,6 @@
 | Google AI Blog | [3 ways to prep for your next big race with Search](https://blog.google/products-and-platforms/products/search/running-race-training-tips/) | Thu, 10 Se |
 | OpenAI Blog | [Now everyone can put data to work](https://openai.com/index/put-data-to-work) | Thu, 10 Se |
 | MIT Technology Review AI | [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/) | Thu, 10 Se |
-| OpenAI Blog | [Introducing ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services) | Thu, 10 Se |
-| OpenAI Blog | [Expanding AI access and cyber defense for federal, state, local, and tribal gove](https://openai.com/index/expanding-ai-access-us-government) | Thu, 10 Se |
 | Google AI Blog | [Get ready for the game with new football features in Search](https://blog.google/products-and-platforms/products/search/football-features-google-search/) | Wed, 09 Se |
 | Google AI Blog | [Recreating a 70-year love story frame by frame](https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/) | Wed, 09 Se |
 | HuggingFace Transformers | [Release v5.17.0](https://github.com/huggingface/transformers/releases/tag/v5.17.0) | 2026-09-09 |

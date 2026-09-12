@@ -1,9 +1,17 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "published": "Mon, 14 Sep 2026 00:00:00 GMT",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
-      "title": "Roundtables: Will AI really kill us all?",
+      "title": "Roundtables: AI\u2019s apocalypse crisis",
       "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "published": "Fri, 11 Sep 2026 20:05:06 +0000",
       "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te"
@@ -15,6 +23,14 @@
       "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.3",
       "published": "2026-09-11T17:38:02Z",
       "summary": "Changes since langchain-core==1.6.2\n\nrelease(core): 1.6.3 (#40407)\nfeat(core): Allow model name and provider tracing metadata override based on gateway response (#40406)\ntest(core): cover the deprecat"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Cognition helps Devin test its own work with GPT\u20116 Astra",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "published": "Fri, 11 Sep 2026 16:00:00 GMT",
+      "summary": "GPT\u20116 Astra improves Devin\u2019s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
     },
     {
       "source": "OpenAI Blog",
@@ -95,22 +111,6 @@
       "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
       "published": "Thu, 10 Sep 2026 11:00:00 +0000",
       "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia\u2014the heart of the world&#8217;s largest data center cluster\u2014knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing ChatGPT for Financial Services",
-      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "link": "https://openai.com/index/expanding-ai-access-us-government",
-      "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
     },
     {
       "source": "Google AI Blog",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-11T20:43:46.071281",
-  "last_updated": "2026-09-11T20:43:46.071281",
+  "timestamp": "2026-09-12T03:54:57.351869",
+  "last_updated": "2026-09-12T03:54:57.351869",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
