@@ -1,20 +1,52 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Watch astronaut Christina Koch and Google\u2019s James Manyika discuss space, technology, and discovery.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "published": "Mon, 14 Sep 2026 19:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp\" />Christina Koch sits down with James Manyika, Google\u2019s Senior V"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "published": "Mon, 14 Sep 2026 17:54:22 +0000",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "DevFest is back",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "published": "Mon, 14 Sep 2026 16:00:00 +0000",
+      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "published": "Mon, 14 Sep 2026 16:00:00 +0000",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions\u2014when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent "
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "link": "https://openai.com/index/fyxer",
+      "published": "Mon, 14 Sep 2026 12:00:00 GMT",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user\u2019s voice."
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "published": "Mon, 14 Sep 2026 00:00:00 GMT",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Roundtables: Could AI really kill us all?",
-      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "published": "Fri, 11 Sep 2026 20:05:06 +0000",
-      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te"
     },
     {
       "source": "LangChain Releases",
@@ -97,14 +129,6 @@
       "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Now everyone can put data to work",
-      "link": "https://openai.com/index/put-data-to-work",
-      "published": "Thu, 10 Sep 2026 15:00:00 GMT",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Powering AI is an architecture problem",
@@ -161,14 +185,6 @@
       "summary": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visited, earlier thi"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Architecting memory and storage in the AI era",
-      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "published": "Fri, 04 Sep 2026 18:39:19 +0000",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
@@ -201,22 +217,6 @@
       "summary": ""
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "published": "Wed, 02 Sep 2026 15:40:00 +0000",
-      "summary": "Introducing Fairwind Program"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "The latest AI news we announced in August 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "published": "Tue, 01 Sep 2026 20:45:00 +0000",
-      "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\""
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Introducing agentic video understanding with Gemini",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-14T12:16:41.381278",
-  "last_updated": "2026-09-14T12:16:41.381278",
+  "timestamp": "2026-09-14T21:39:37.236370",
+  "last_updated": "2026-09-14T21:39:37.236370",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
