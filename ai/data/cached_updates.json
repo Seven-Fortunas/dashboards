@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Roundtables: Could AI really kill us all?",
+      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "published": "Tue, 15 Sep 2026 17:47:51 +0000",
+      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "published": "Tue, 15 Sep 2026 17:05:57 +0000",
+      "summary": ""
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "AI for Societal Impact",
@@ -79,14 +95,6 @@
       "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "published": "Mon, 14 Sep 2026 00:00:00 GMT",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Roundtables: Could AI really kill us all?",
-      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "published": "Fri, 11 Sep 2026 20:05:06 +0000",
-      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te"
     },
     {
       "source": "LangChain Releases",
@@ -217,14 +225,6 @@
       "summary": ""
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Introducing agentic video understanding with Gemini",
-      "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "published": "Tue, 01 Sep 2026 17:08:51 +0000",
-      "summary": ""
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-15T16:37:15.041494",
-  "last_updated": "2026-09-15T16:37:15.041494",
+  "timestamp": "2026-09-15T21:02:06.790105",
+  "last_updated": "2026-09-15T21:02:06.790105",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
