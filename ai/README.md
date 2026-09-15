@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-14 21:39:37 UTC
+**Last Updated:** 2026-09-15 04:11:18 UTC
 
 ## Latest Updates
 
@@ -12,6 +12,7 @@
 | MIT Technology Review AI | [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/) | Mon, 14 Se |
 | OpenAI Blog | [How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer) | Mon, 14 Se |
 | OpenAI Blog | [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) | Mon, 14 Se |
+| MIT Technology Review AI | [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/) | Fri, 11 Se |
 | LangChain Releases | [Release langchain-core==1.6.3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.3) | 2026-09-11 |
 | OpenAI Blog | [Cognition helps Devin test its own work with GPT‑6 Astra](https://openai.com/index/cognition-devin-testing-with-astra) | Fri, 11 Se |
 | OpenAI Blog | [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one) | Fri, 11 Se |
@@ -28,7 +29,6 @@
 | HuggingFace Transformers | [Release v5.17.0](https://github.com/huggingface/transformers/releases/tag/v5.17.0) | 2026-09-09 |
 | MIT Technology Review AI | [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/) | Wed, 09 Se |
 | DeepMind Blog | [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the h](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) | Tue, 08 Se |
-| MIT Technology Review AI | [This AI entrepreneur is developing agents that can plan ahead for the unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/) | Tue, 08 Se |
 | DeepMind Blog | [Introducing WeatherNext 3, our most advanced and accurate global weather AI mode](https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/) | Thu, 03 Se |
 | PyTorch Releases | [Release v2.14.0](https://github.com/pytorch/pytorch/releases/tag/v2.14.0) | 2026-09-02 |
 | DeepMind Blog | [Proactive cyber defense for governments and enterprises](https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/) | Wed, 02 Se |

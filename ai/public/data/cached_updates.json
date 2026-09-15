@@ -49,6 +49,14 @@
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
     },
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Roundtables: Could AI really kill us all?",
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "published": "Fri, 11 Sep 2026 20:05:06 +0000",
+      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.6.3",
@@ -177,14 +185,6 @@
       "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "published": "Tue, 08 Sep 2026 10:34:00 +0000",
-      "summary": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visited, earlier thi"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-14T21:39:37.236370",
-  "last_updated": "2026-09-14T21:39:37.236370",
+  "timestamp": "2026-09-15T04:11:18.717352",
+  "last_updated": "2026-09-15T04:11:18.717352",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
