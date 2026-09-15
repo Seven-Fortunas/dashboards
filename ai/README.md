@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-15 16:37:15 UTC
+**Last Updated:** 2026-09-15 21:02:06 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/) | Tue, 15 Se |
+| DeepMind Blog | [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) | Tue, 15 Se |
 | Google AI Blog | [AI for Societal Impact](https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/) | Tue, 15 Se |
 | Google AI Blog | [Building AI to accelerate science and improve lives](https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/) | Tue, 15 Se |
 | Google AI Blog | [AI for everyone in every language](https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/) | Tue, 15 Se |
@@ -16,7 +18,6 @@
 | MIT Technology Review AI | [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/) | Mon, 14 Se |
 | OpenAI Blog | [How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer) | Mon, 14 Se |
 | OpenAI Blog | [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) | Mon, 14 Se |
-| MIT Technology Review AI | [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/) | Fri, 11 Se |
 | LangChain Releases | [Release langchain-core==1.6.3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.3) | 2026-09-11 |
 | OpenAI Blog | [Cognition helps Devin test its own work with GPT‑6 Astra](https://openai.com/index/cognition-devin-testing-with-astra) | Fri, 11 Se |
 | OpenAI Blog | [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one) | Fri, 11 Se |
@@ -33,6 +34,5 @@
 | PyTorch Releases | [Release v2.14.0](https://github.com/pytorch/pytorch/releases/tag/v2.14.0) | 2026-09-02 |
 | DeepMind Blog | [Proactive cyber defense for governments and enterprises](https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/) | Wed, 02 Se |
 | DeepMind Blog | [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/) | Wed, 02 Se |
-| DeepMind Blog | [Introducing agentic video understanding with Gemini](https://deepmind.google/blog/introducing-agentic-video-in-gemini/) | Tue, 01 Se |
 | Microsoft Research AI | [GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with effici](https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/) | Mon, 31 Au |
 | Microsoft Research AI | [Broadening access to Skala creates a faster path to predictive DFT](https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/) | Thu, 20 Au |
