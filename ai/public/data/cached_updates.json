@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "What must happen for AI\u2019s trillion-dollar gamble to pay off",
+      "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "published": "Tue, 15 Sep 2026 10:00:00 +0000",
+      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania\u2019s Wharton School, wanted to assess AI\u2019s impact on the economy over the next few years, she faced a long list of business and"
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Watch astronaut Christina Koch and Google\u2019s James Manyika discuss space, technology, and discovery.",
@@ -14,7 +22,7 @@
       "title": "The AI industry has taken a doomer turn. What now?",
       "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
       "published": "Mon, 14 Sep 2026 17:54:22 +0000",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for"
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay callin"
     },
     {
       "source": "Google AI Blog",
@@ -169,14 +177,6 @@
       "summary": "# Release v5.17.0\r\n\r\n\r\n## New Model additions\r\n\r\n### HYV4\r\n\r\n<img width=\"1503\" height=\"827\" alt=\"image\" src=\"https://github.com/user-attachments/assets/e6ed85ee-eb1d-40eb-a0d4-c649f6337ca9\" />\r\n\r\n\r\nHy"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
-      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "published": "Wed, 09 Sep 2026 03:10:08 +0000",
-      "summary": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-15T04:11:18.717352",
-  "last_updated": "2026-09-15T04:11:18.717352",
+  "timestamp": "2026-09-15T11:24:54.804996",
+  "last_updated": "2026-09-15T11:24:54.804996",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

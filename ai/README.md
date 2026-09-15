@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-15 04:11:18 UTC
+**Last Updated:** 2026-09-15 11:24:54 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [What must happen for AI’s trillion-dollar gamble to pay off](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/) | Tue, 15 Se |
 | Google AI Blog | [Watch astronaut Christina Koch and Google’s James Manyika discuss space, technol](https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/) | Mon, 14 Se |
 | MIT Technology Review AI | [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/) | Mon, 14 Se |
 | Google AI Blog | [DevFest is back](https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/) | Mon, 14 Se |
@@ -27,7 +28,6 @@
 | Google AI Blog | [Get ready for the game with new football features in Search](https://blog.google/products-and-platforms/products/search/football-features-google-search/) | Wed, 09 Se |
 | Google AI Blog | [Recreating a 70-year love story frame by frame](https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/) | Wed, 09 Se |
 | HuggingFace Transformers | [Release v5.17.0](https://github.com/huggingface/transformers/releases/tag/v5.17.0) | 2026-09-09 |
-| MIT Technology Review AI | [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/) | Wed, 09 Se |
 | DeepMind Blog | [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the h](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) | Tue, 08 Se |
 | DeepMind Blog | [Introducing WeatherNext 3, our most advanced and accurate global weather AI mode](https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/) | Thu, 03 Se |
 | PyTorch Releases | [Release v2.14.0](https://github.com/pytorch/pytorch/releases/tag/v2.14.0) | 2026-09-02 |
