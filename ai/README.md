@@ -1,15 +1,18 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-15 11:24:54 UTC
+**Last Updated:** 2026-09-15 16:37:15 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| MIT Technology Review AI | [What must happen for AI’s trillion-dollar gamble to pay off](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/) | Tue, 15 Se |
+| Google AI Blog | [AI for Societal Impact](https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/) | Tue, 15 Se |
+| Google AI Blog | [Building AI to accelerate science and improve lives](https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/) | Tue, 15 Se |
+| Google AI Blog | [AI for everyone in every language](https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/) | Tue, 15 Se |
+| Google AI Blog | [New insights from Google’s AI & Economy ATLAS](https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/) | Tue, 15 Se |
+| MIT Technology Review AI | [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/) | Tue, 15 Se |
 | Google AI Blog | [Watch astronaut Christina Koch and Google’s James Manyika discuss space, technol](https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/) | Mon, 14 Se |
 | MIT Technology Review AI | [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/) | Mon, 14 Se |
-| Google AI Blog | [DevFest is back](https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/) | Mon, 14 Se |
 | MIT Technology Review AI | [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/) | Mon, 14 Se |
 | OpenAI Blog | [How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer) | Mon, 14 Se |
 | OpenAI Blog | [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) | Mon, 14 Se |
@@ -23,10 +26,7 @@
 | Anthropic Blog | [National Security and Public Sector Advisory Council](https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council) | 2026-09-10 |
 | Anthropic Blog | [Detecting and countering misuse of AI: August 2025](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025) | 2026-09-10 |
 | OpenAI Blog | [How a researcher uses Codex and ChatGPT to search for new antimicrobial molecule](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials) | Thu, 10 Se |
-| Google AI Blog | [3 ways to prep for your next big race with Search](https://blog.google/products-and-platforms/products/search/running-race-training-tips/) | Thu, 10 Se |
 | MIT Technology Review AI | [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/) | Thu, 10 Se |
-| Google AI Blog | [Get ready for the game with new football features in Search](https://blog.google/products-and-platforms/products/search/football-features-google-search/) | Wed, 09 Se |
-| Google AI Blog | [Recreating a 70-year love story frame by frame](https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/) | Wed, 09 Se |
 | HuggingFace Transformers | [Release v5.17.0](https://github.com/huggingface/transformers/releases/tag/v5.17.0) | 2026-09-09 |
 | DeepMind Blog | [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the h](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) | Tue, 08 Se |
 | DeepMind Blog | [Introducing WeatherNext 3, our most advanced and accurate global weather AI mode](https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/) | Thu, 03 Se |

@@ -1,9 +1,41 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "AI for Societal Impact",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "published": "Tue, 15 Sep 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif\" />Explore this collection to see how experts and local leaders are using AI breakthroughs to ensur"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Building AI to accelerate science and improve lives",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "published": "Tue, 15 Sep 2026 16:00:00 +0000",
+      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "AI for everyone in every language",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "published": "Tue, 15 Sep 2026 16:00:00 +0000",
+      "summary": "Animation of several words in different languages slowly zooming past"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "New insights from Google\u2019s AI & Economy ATLAS",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
+      "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
-      "title": "What must happen for AI\u2019s trillion-dollar gamble to pay off",
+      "title": "What\u2019s at stake in AI\u2019s trillion-dollar gamble",
       "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
       "published": "Tue, 15 Sep 2026 10:00:00 +0000",
       "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania\u2019s Wharton School, wanted to assess AI\u2019s impact on the economy over the next few years, she faced a long list of business and"
@@ -23,14 +55,6 @@
       "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
       "published": "Mon, 14 Sep 2026 17:54:22 +0000",
       "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay callin"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "DevFest is back",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "published": "Mon, 14 Sep 2026 16:00:00 +0000",
-      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon"
     },
     {
       "source": "MIT Technology Review AI",
@@ -137,36 +161,12 @@
       "summary": "C\u00e9sar de la Fuente\u2019s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "3 ways to prep for your next big race with Search",
-      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "published": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid"
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Powering AI is an architecture problem",
       "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
       "published": "Thu, 10 Sep 2026 11:00:00 +0000",
       "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia\u2014the heart of the world&#8217;s largest data center cluster\u2014knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Get ready for the game with new football features in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "published": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play di"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Recreating a 70-year love story frame by frame",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "published": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\""
     },
     {
       "source": "HuggingFace Transformers",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-15T11:24:54.804996",
-  "last_updated": "2026-09-15T11:24:54.804996",
+  "timestamp": "2026-09-15T16:37:15.041494",
+  "last_updated": "2026-09-15T16:37:15.041494",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
