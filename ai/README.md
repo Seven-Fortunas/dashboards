@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-16 16:29:57 UTC
+**Last Updated:** 2026-09-16 21:04:45 UTC
 
 ## Latest Updates
 
@@ -9,6 +9,8 @@
 | OpenAI Blog | [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life) | Wed, 16 Se |
 | OpenAI Blog | [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai) | Wed, 16 Se |
 | MIT Technology Review AI | [Building the materials foundation for AI](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/) | Wed, 16 Se |
+| OpenAI Blog | [How to connect AI usage to business value](https://openai.com/index/how-to-connect-ai-usage-to-business-value) | Wed, 16 Se |
+| OpenAI Blog | [How workers are unlocking new ways of working](https://openai.com/index/unlocking-new-ways-of-working) | Wed, 16 Se |
 | MIT Technology Review AI | [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/) | Tue, 15 Se |
 | DeepMind Blog | [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) | Tue, 15 Se |
 | Google AI Blog | [AI for Societal Impact](https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/) | Tue, 15 Se |
@@ -20,9 +22,7 @@
 | MIT Technology Review AI | [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/) | Mon, 14 Se |
 | MIT Technology Review AI | [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/) | Mon, 14 Se |
 | OpenAI Blog | [How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer) | Mon, 14 Se |
-| OpenAI Blog | [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) | Mon, 14 Se |
 | LangChain Releases | [Release langchain-core==1.6.3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.3) | 2026-09-11 |
-| OpenAI Blog | [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one) | Fri, 11 Se |
 | Anthropic Blog | [Introducing Claude Corps](https://www.anthropic.com/news/claude-corps) | 2026-09-11 |
 | Anthropic Blog | [Developing nuclear safeguards for AI through public-private partnership](https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership) | 2026-09-10 |
 | Anthropic Blog | [Higher education advisory board and AI Fluency courses](https://www.anthropic.com/news/anthropic-higher-education-initiatives) | 2026-09-10 |
