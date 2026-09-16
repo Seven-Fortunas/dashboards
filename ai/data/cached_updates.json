@@ -25,6 +25,22 @@
       "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How to connect AI usage to business value",
+      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "published": "Wed, 16 Sep 2026 12:00:00 GMT",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How workers are unlocking new ways of working",
+      "link": "https://openai.com/index/unlocking-new-ways-of-working",
+      "published": "Wed, 16 Sep 2026 09:00:00 GMT",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Roundtables: Could AI really kill us all?",
@@ -113,28 +129,12 @@
       "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user\u2019s voice."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "published": "Mon, 14 Sep 2026 00:00:00 GMT",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-    },
-    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.6.3",
       "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.3",
       "published": "2026-09-11T17:38:02Z",
       "summary": "Changes since langchain-core==1.6.2\n\nrelease(core): 1.6.3 (#40407)\nfeat(core): Allow model name and provider tracing metadata override based on gateway response (#40406)\ntest(core): cover the deprecat"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "published": "Fri, 11 Sep 2026 10:00:00 GMT",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
     },
     {
       "source": "Anthropic Blog",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-16T16:29:57.817413",
-  "last_updated": "2026-09-16T16:29:57.817413",
+  "timestamp": "2026-09-16T21:04:45.769114",
+  "last_updated": "2026-09-16T21:04:45.769114",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
