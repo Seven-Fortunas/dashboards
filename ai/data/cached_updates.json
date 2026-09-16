@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Helping older adults use AI in everyday life",
+      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "published": "Wed, 16 Sep 2026 16:00:00 GMT",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Reimagining advertising with AI",
+      "link": "https://openai.com/index/reimagining-advertising-with-ai",
+      "published": "Wed, 16 Sep 2026 13:00:00 GMT",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Building the materials foundation for AI",
+      "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "published": "Wed, 16 Sep 2026 12:47:34 +0000",
+      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Roundtables: Could AI really kill us all?",
@@ -107,14 +131,6 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Cognition helps Devin test its own work with GPT\u20116 Astra",
-      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "published": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "summary": "GPT\u20116 Astra improves Devin\u2019s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "published": "Fri, 11 Sep 2026 10:00:00 GMT",
@@ -159,22 +175,6 @@
       "link": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
       "published": "2026-09-10T19:44:33.000Z",
       "summary": "Anthropic&#x27;s August 2025 threat intelligence report on AI cybercrime and other abuses."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "published": "Thu, 10 Sep 2026 16:00:00 GMT",
-      "summary": "C\u00e9sar de la Fuente\u2019s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Powering AI is an architecture problem",
-      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "published": "Thu, 10 Sep 2026 11:00:00 +0000",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia\u2014the heart of the world&#8217;s largest data center cluster\u2014knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#"
     },
     {
       "source": "HuggingFace Transformers",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-16T11:09:53.798093",
-  "last_updated": "2026-09-16T11:09:53.798093",
+  "timestamp": "2026-09-16T16:29:57.817413",
+  "last_updated": "2026-09-16T16:29:57.817413",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
