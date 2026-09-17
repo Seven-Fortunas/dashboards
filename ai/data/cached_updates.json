@@ -3,6 +3,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "Our framework for reporting model misalignment",
+      "link": "https://openai.com/index/model-misalignment-reporting-framework",
+      "published": "Wed, 16 Sep 2026 17:00:00 GMT",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Helping older adults use AI in everyday life",
       "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "published": "Wed, 16 Sep 2026 16:00:00 GMT",
@@ -121,14 +129,6 @@
       "summary": "A group of AI agents asked to solve a series of math problems split into rival factions\u2014when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent "
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "link": "https://openai.com/index/fyxer",
-      "published": "Mon, 14 Sep 2026 12:00:00 GMT",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user\u2019s voice."
-    },
-    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.6.3",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-16T21:04:45.769114",
-  "last_updated": "2026-09-16T21:04:45.769114",
+  "timestamp": "2026-09-17T04:14:29.929645",
+  "last_updated": "2026-09-17T04:14:29.929645",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
