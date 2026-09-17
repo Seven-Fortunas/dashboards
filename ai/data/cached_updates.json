@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing the Life Sciences Verification Program",
+      "link": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "published": "2026-09-17T20:15:21.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Making global data easier to explore",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "published": "Thu, 17 Sep 2026 20:00:00 +0000",
+      "summary": "UN System Data Commons Data webpage"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing Astra for Law",
+      "link": "https://openai.com/index/astra-for-law",
+      "published": "Thu, 17 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Our framework for reporting model misalignment",
@@ -39,14 +63,6 @@
       "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "published": "Wed, 16 Sep 2026 12:00:00 GMT",
       "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How workers are unlocking new ways of working",
-      "link": "https://openai.com/index/unlocking-new-ways-of-working",
-      "published": "Wed, 16 Sep 2026 09:00:00 GMT",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
     },
     {
       "source": "MIT Technology Review AI",
@@ -105,14 +121,6 @@
       "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania\u2019s Wharton School, wanted to assess AI\u2019s impact on the economy over the next few years, she faced a long list of business and"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Watch astronaut Christina Koch and Google\u2019s James Manyika discuss space, technology, and discovery.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "published": "Mon, 14 Sep 2026 19:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp\" />Christina Koch sits down with James Manyika, Google\u2019s Senior V"
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "The AI industry has taken a doomer turn. What now?",
@@ -167,14 +175,6 @@
       "link": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
       "published": "2026-09-10T20:08:57.000Z",
       "summary": "Eleven former senators and senior defense, intelligence, and energy officials will help identify high-impact AI applications for US security."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Detecting and countering misuse of AI: August 2025",
-      "link": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
-      "published": "2026-09-10T19:44:33.000Z",
-      "summary": "Anthropic&#x27;s August 2025 threat intelligence report on AI cybercrime and other abuses."
     },
     {
       "source": "HuggingFace Transformers",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-17T16:35:29.306928",
-  "last_updated": "2026-09-17T16:35:29.306928",
+  "timestamp": "2026-09-17T21:07:09.562838",
+  "last_updated": "2026-09-17T21:07:09.562838",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
