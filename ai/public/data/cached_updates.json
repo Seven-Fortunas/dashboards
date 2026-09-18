@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Partnering with Accenture on embedded evaluation",
+      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "published": "2026-09-18T20:02:00.000Z",
+      "summary": "We\u2019re partnering with Accenture on independent evaluation of frontier AI\u2014part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to b"
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "New experts join Google\u2019s AI & Economy team",
@@ -169,14 +177,6 @@
       "summary": "Anthropic announces a Higher Education Advisory Board chaired by Rick Levin and three Creative Commons AI Fluency courses for institutions."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "National Security and Public Sector Advisory Council",
-      "link": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
-      "published": "2026-09-10T20:08:57.000Z",
-      "summary": "Eleven former senators and senior defense, intelligence, and energy officials will help identify high-impact AI applications for US security."
-    },
-    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.17.0",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-18T16:07:02.165045",
-  "last_updated": "2026-09-18T16:07:02.165045",
+  "timestamp": "2026-09-18T20:40:04.524535",
+  "last_updated": "2026-09-18T20:40:04.524535",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
