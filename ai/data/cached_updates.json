@@ -19,18 +19,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Introducing Astra for Law",
-      "link": "https://openai.com/index/astra-for-law",
-      "published": "Thu, 17 Sep 2026 00:00:00 GMT",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "link": "https://openai.com/index/cooley-gopublic",
+      "published": "Thu, 17 Sep 2026 12:00:00 GMT",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Our framework for reporting model misalignment",
-      "link": "https://openai.com/index/model-misalignment-reporting-framework",
-      "published": "Wed, 16 Sep 2026 17:00:00 GMT",
-      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+      "title": "Introducing Astra for Law",
+      "link": "https://openai.com/index/astra-for-law",
+      "published": "Thu, 17 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
     },
     {
       "source": "OpenAI Blog",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-17T21:07:09.562838",
-  "last_updated": "2026-09-17T21:07:09.562838",
+  "timestamp": "2026-09-18T03:58:45.291698",
+  "last_updated": "2026-09-18T03:58:45.291698",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
