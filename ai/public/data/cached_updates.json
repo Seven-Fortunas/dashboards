@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "New experts join Google\u2019s AI & Economy team",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "published": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Co-creating the future of fashion with Google",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "published": "Fri, 18 Sep 2026 13:00:00 +0000",
+      "summary": "Jane Wade and Sergio Hudson"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "published": "Fri, 18 Sep 2026 11:29:22 +0000",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone\u2019s asking right now: Could AI really kill us all? But attendees had so many more que"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing the Life Sciences Verification Program",
@@ -97,22 +121,6 @@
       "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "AI for everyone in every language",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "published": "Tue, 15 Sep 2026 16:00:00 +0000",
-      "summary": "Animation of several words in different languages slowly zooming past"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "New insights from Google\u2019s AI & Economy ATLAS",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration"
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "What\u2019s at stake in AI\u2019s trillion-dollar gamble",
@@ -127,14 +135,6 @@
       "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
       "published": "Mon, 14 Sep 2026 17:54:22 +0000",
       "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay callin"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "published": "Mon, 14 Sep 2026 16:00:00 +0000",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions\u2014when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent "
     },
     {
       "source": "LangChain Releases",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-18T10:52:38.809495",
-  "last_updated": "2026-09-18T10:52:38.809495",
+  "timestamp": "2026-09-18T16:07:02.165045",
+  "last_updated": "2026-09-18T16:07:02.165045",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
