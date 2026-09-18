@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-17 21:07:09 UTC
+**Last Updated:** 2026-09-18 03:58:45 UTC
 
 ## Latest Updates
 
@@ -8,8 +8,8 @@
 |--------|-------|----------|
 | Anthropic Blog | [Introducing the Life Sciences Verification Program](https://www.anthropic.com/news/life-sciences-verification-program) | 2026-09-17 |
 | Google AI Blog | [Making global data easier to explore](https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/) | Thu, 17 Se |
+| OpenAI Blog | [How Cooley is accelerating IPO work with ChatGPT](https://openai.com/index/cooley-gopublic) | Thu, 17 Se |
 | OpenAI Blog | [Introducing Astra for Law](https://openai.com/index/astra-for-law) | Thu, 17 Se |
-| OpenAI Blog | [Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework) | Wed, 16 Se |
 | OpenAI Blog | [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life) | Wed, 16 Se |
 | OpenAI Blog | [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai) | Wed, 16 Se |
 | MIT Technology Review AI | [Building the materials foundation for AI](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/) | Wed, 16 Se |
