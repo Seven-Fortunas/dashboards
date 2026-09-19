@@ -25,6 +25,14 @@
       "summary": "Jane Wade and Sergio Hudson"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "published": "Fri, 18 Sep 2026 12:00:00 GMT",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Could AI really kill us all? Your questions, answered.",
@@ -87,14 +95,6 @@
       "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
       "published": "Wed, 16 Sep 2026 12:47:34 +0000",
       "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Hex turns complex analysis into visual reports with GPT\u20116 Astra",
-      "link": "https://openai.com/index/hex-gpt-6-astra",
-      "published": "Wed, 16 Sep 2026 12:00:00 GMT",
-      "summary": "GPT-6 Astra helps Hex\u2019s data agents turn answers into interactive visualizations that employees are proud to share."
     },
     {
       "source": "MIT Technology Review AI",
@@ -241,8 +241,8 @@
       "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-19T03:56:24.329313",
-  "last_updated": "2026-09-19T03:56:24.329313",
+  "timestamp": "2026-09-19T10:35:16.826764",
+  "last_updated": "2026-09-19T10:35:16.826764",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
