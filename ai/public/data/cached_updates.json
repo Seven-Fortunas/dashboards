@@ -231,18 +231,10 @@
       "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
       "published": "Mon, 31 Aug 2026 16:00:00 +0000",
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Broadening access to Skala creates a faster path to predictive DFT",
-      "link": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
-      "published": "Thu, 20 Aug 2026 16:00:00 +0000",
-      "summary": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a l"
     }
   ],
-  "timestamp": "2026-09-19T15:39:33.914029",
-  "last_updated": "2026-09-19T15:39:33.914029",
+  "timestamp": "2026-09-19T20:18:33.025965",
+  "last_updated": "2026-09-19T20:18:33.025965",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
