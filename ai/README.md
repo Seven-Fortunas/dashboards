@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-18 20:40:04 UTC
+**Last Updated:** 2026-09-19 03:56:24 UTC
 
 ## Latest Updates
 
@@ -17,7 +17,7 @@
 | OpenAI Blog | [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life) | Wed, 16 Se |
 | OpenAI Blog | [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai) | Wed, 16 Se |
 | MIT Technology Review AI | [Building the materials foundation for AI](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/) | Wed, 16 Se |
-| OpenAI Blog | [How to connect AI usage to business value](https://openai.com/index/how-to-connect-ai-usage-to-business-value) | Wed, 16 Se |
+| OpenAI Blog | [Hex turns complex analysis into visual reports with GPT‑6 Astra](https://openai.com/index/hex-gpt-6-astra) | Wed, 16 Se |
 | MIT Technology Review AI | [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/) | Tue, 15 Se |
 | DeepMind Blog | [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) | Tue, 15 Se |
 | Google AI Blog | [AI for Societal Impact](https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/) | Tue, 15 Se |
