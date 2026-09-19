@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-19 03:56:24 UTC
+**Last Updated:** 2026-09-19 10:35:16 UTC
 
 ## Latest Updates
 
@@ -9,6 +9,7 @@
 | Anthropic Blog | [Partnering with Accenture on embedded evaluation](https://www.anthropic.com/news/accenture-embedded-evaluation) | 2026-09-18 |
 | Google AI Blog | [New experts join Google’s AI & Economy team](https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/) | Fri, 18 Se |
 | Google AI Blog | [Co-creating the future of fashion with Google](https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/) | Fri, 18 Se |
+| OpenAI Blog | [Introducing the Australian Youth Safety Blueprint](https://openai.com/index/australian-youth-safety-blueprint) | Fri, 18 Se |
 | MIT Technology Review AI | [Could AI really kill us all? Your questions, answered.](https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/) | Fri, 18 Se |
 | Anthropic Blog | [Introducing the Life Sciences Verification Program](https://www.anthropic.com/news/life-sciences-verification-program) | 2026-09-17 |
 | Google AI Blog | [Making global data easier to explore](https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/) | Thu, 17 Se |
@@ -17,7 +18,6 @@
 | OpenAI Blog | [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life) | Wed, 16 Se |
 | OpenAI Blog | [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai) | Wed, 16 Se |
 | MIT Technology Review AI | [Building the materials foundation for AI](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/) | Wed, 16 Se |
-| OpenAI Blog | [Hex turns complex analysis into visual reports with GPT‑6 Astra](https://openai.com/index/hex-gpt-6-astra) | Wed, 16 Se |
 | MIT Technology Review AI | [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/) | Tue, 15 Se |
 | DeepMind Blog | [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) | Tue, 15 Se |
 | Google AI Blog | [AI for Societal Impact](https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/) | Tue, 15 Se |
