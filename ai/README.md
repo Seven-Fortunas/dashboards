@@ -1,30 +1,31 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-21 12:24:33 UTC
+**Last Updated:** 2026-09-21 21:50:23 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.6.4](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.4) | 2026-09-21 |
+| Microsoft Research AI | [Improving synthesis prediction of small molecules at scale with RetroChimera](https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/) | Mon, 21 Se |
+| OpenAI Blog | [Advisory Group on Mathematics and Artificial Intelligence](https://openai.com/index/advisory-group-on-mathematics-and-ai) | Mon, 21 Se |
+| OpenAI Blog | [Higgsfield AI ships new video features in a day with GPT-6 Astra](https://openai.com/index/higgsfield-from-prompt-to-production-with-astra) | Mon, 21 Se |
+| MIT Technology Review AI | [How we made the first comprehensive map of deaths along the US border’s “virtual](https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/) | Mon, 21 Se |
+| MIT Technology Review AI | [4 ways to address the failures we found along the US border’s “virtual wall”](https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/) | Mon, 21 Se |
+| MIT Technology Review AI | [The US spent billions on border surveillance. Why can’t it catch people before t](https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/) | Mon, 21 Se |
+| MIT Technology Review AI | [She died at the San Diego border. A surveillance camera was in plain sight](https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/) | Mon, 21 Se |
+| OpenAI Blog | [Building standards for the next phase of AI](https://openai.com/index/building-standards-next-phase-ai) | Mon, 21 Se |
+| OpenAI Blog | [Expanding OpenAI Academy with new learning paths](https://openai.com/index/expanding-openai-academy-with-new-learning-paths) | Mon, 21 Se |
+| OpenAI Blog | [How V7 gives AI agents institutional memory](https://openai.com/index/v7) | Mon, 21 Se |
 | Anthropic Blog | [Partnering with Accenture on embedded evaluation](https://www.anthropic.com/news/accenture-embedded-evaluation) | 2026-09-18 |
 | Google AI Blog | [New experts join Google’s AI & Economy team](https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/) | Fri, 18 Se |
 | Google AI Blog | [Co-creating the future of fashion with Google](https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/) | Fri, 18 Se |
-| OpenAI Blog | [Introducing the Australian Youth Safety Blueprint](https://openai.com/index/australian-youth-safety-blueprint) | Fri, 18 Se |
 | MIT Technology Review AI | [Could AI really kill us all? Your questions, answered.](https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/) | Fri, 18 Se |
 | Anthropic Blog | [Introducing the Life Sciences Verification Program](https://www.anthropic.com/news/life-sciences-verification-program) | 2026-09-17 |
 | Google AI Blog | [Making global data easier to explore](https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/) | Thu, 17 Se |
-| OpenAI Blog | [How Cooley is accelerating IPO work with ChatGPT](https://openai.com/index/cooley-gopublic) | Thu, 17 Se |
-| OpenAI Blog | [Introducing Astra for Law](https://openai.com/index/astra-for-law) | Thu, 17 Se |
-| OpenAI Blog | [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life) | Wed, 16 Se |
-| OpenAI Blog | [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai) | Wed, 16 Se |
-| MIT Technology Review AI | [Building the materials foundation for AI](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/) | Wed, 16 Se |
-| MIT Technology Review AI | [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/) | Tue, 15 Se |
 | DeepMind Blog | [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) | Tue, 15 Se |
 | Google AI Blog | [AI for Societal Impact](https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/) | Tue, 15 Se |
 | Google AI Blog | [Building AI to accelerate science and improve lives](https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/) | Tue, 15 Se |
-| MIT Technology Review AI | [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/) | Tue, 15 Se |
-| MIT Technology Review AI | [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/) | Mon, 14 Se |
-| LangChain Releases | [Release langchain-core==1.6.3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.3) | 2026-09-11 |
 | Anthropic Blog | [Introducing Claude Corps](https://www.anthropic.com/news/claude-corps) | 2026-09-11 |
 | Anthropic Blog | [Developing nuclear safeguards for AI through public-private partnership](https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership) | 2026-09-10 |
 | Anthropic Blog | [Higher education advisory board and AI Fluency courses](https://www.anthropic.com/news/anthropic-higher-education-initiatives) | 2026-09-10 |

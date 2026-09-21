@@ -1,6 +1,94 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.6.4",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.4",
+      "published": "2026-09-21T15:51:23Z",
+      "summary": "Changes since langchain-core==1.6.3\n\nrelease(core): 1.6.4 (#40718)\nchore(core): deprecate chat message history (#40711)\nchore(deps): bump anyio from 4.12.0 to 4.14.2 in /libs/core (#40634)\nchore(deps)"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+      "link": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+      "published": "Mon, 21 Sep 2026 15:30:19 +0000",
+      "summary": "<p>Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps acceler"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "published": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "published": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "How we made the first comprehensive map of deaths along the US border\u2019s \u201cvirtual wall\u201d",
+      "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "published": "Mon, 21 Sep 2026 12:00:00 +0000",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and a"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "4 ways to address the failures we found along the US border\u2019s \u201cvirtual wall\u201d",
+      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "published": "Mon, 21 Sep 2026 12:00:00 +0000",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the \u201cvirtual wall\u201d of surveillance towers that the US government has installed along the US-Mexico border. W"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "The US spent billions on border surveillance. Why can\u2019t it catch people before they die?",
+      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "published": "Mon, 21 Sep 2026 12:00:00 +0000",
+      "summary": "When Jos\u00e9 Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#16"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "published": "Mon, 21 Sep 2026 12:00:00 +0000",
+      "summary": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela G\u00f3mez Hern\u00e1ndez crossed the border from the eastern edge "
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Building standards for the next phase of AI",
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
+      "published": "Mon, 21 Sep 2026 10:00:00 GMT",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How V7 gives AI agents institutional memory",
+      "link": "https://openai.com/index/v7",
+      "published": "Mon, 21 Sep 2026 00:00:00 GMT",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Partnering with Accenture on embedded evaluation",
@@ -23,14 +111,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
       "published": "Fri, 18 Sep 2026 13:00:00 +0000",
       "summary": "Jane Wade and Sergio Hudson"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "link": "https://openai.com/index/australian-youth-safety-blueprint",
-      "published": "Fri, 18 Sep 2026 12:00:00 GMT",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
     },
     {
       "source": "MIT Technology Review AI",
@@ -57,54 +137,6 @@
       "summary": "UN System Data Commons Data webpage"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "link": "https://openai.com/index/cooley-gopublic",
-      "published": "Thu, 17 Sep 2026 12:00:00 GMT",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing Astra for Law",
-      "link": "https://openai.com/index/astra-for-law",
-      "published": "Thu, 17 Sep 2026 00:00:00 GMT",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Helping older adults use AI in everyday life",
-      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "published": "Wed, 16 Sep 2026 16:00:00 GMT",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Reimagining advertising with AI",
-      "link": "https://openai.com/index/reimagining-advertising-with-ai",
-      "published": "Wed, 16 Sep 2026 13:00:00 GMT",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Building the materials foundation for AI",
-      "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "published": "Wed, 16 Sep 2026 12:47:34 +0000",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Roundtables: Could AI really kill us all?",
-      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "published": "Tue, 15 Sep 2026 17:47:51 +0000",
-      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more"
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
@@ -127,30 +159,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
       "published": "Tue, 15 Sep 2026 16:00:00 +0000",
       "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "What\u2019s at stake in AI\u2019s trillion-dollar gamble",
-      "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "published": "Tue, 15 Sep 2026 10:00:00 +0000",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania\u2019s Wharton School, wanted to assess AI\u2019s impact on the economy over the next few years, she faced a long list of business and"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "published": "Mon, 14 Sep 2026 17:54:22 +0000",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay callin"
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.6.3",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.3",
-      "published": "2026-09-11T17:38:02Z",
-      "summary": "Changes since langchain-core==1.6.2\n\nrelease(core): 1.6.3 (#40407)\nfeat(core): Allow model name and provider tracing metadata override based on gateway response (#40406)\ntest(core): cover the deprecat"
     },
     {
       "source": "Anthropic Blog",
@@ -233,8 +241,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-21T12:24:33.698338",
-  "last_updated": "2026-09-21T12:24:33.698338",
+  "timestamp": "2026-09-21T21:50:23.111343",
+  "last_updated": "2026-09-21T21:50:23.111343",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
