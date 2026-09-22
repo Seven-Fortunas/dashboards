@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Better prompt caching for GPT-6",
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "published": "Tue, 22 Sep 2026 21:00:00 GMT",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "published": "Tue, 22 Sep 2026 18:00:00 GMT",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -15,6 +31,14 @@
       "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
       "published": "Tue, 22 Sep 2026 11:04:51 +0000",
       "summary": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Priorities and principles for effective third party assessments",
+      "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
     },
     {
       "source": "LangChain Releases",
@@ -71,30 +95,6 @@
       "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
       "published": "Mon, 21 Sep 2026 12:00:00 +0000",
       "summary": "When Jos\u00e9 Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#16"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Building standards for the next phase of AI",
-      "link": "https://openai.com/index/building-standards-next-phase-ai",
-      "published": "Mon, 21 Sep 2026 10:00:00 GMT",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How V7 gives AI agents institutional memory",
-      "link": "https://openai.com/index/v7",
-      "published": "Mon, 21 Sep 2026 00:00:00 GMT",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
     },
     {
       "source": "Anthropic Blog",
@@ -241,8 +241,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-22T16:36:57.509994",
-  "last_updated": "2026-09-22T16:36:57.509994",
+  "timestamp": "2026-09-22T21:03:23.656788",
+  "last_updated": "2026-09-22T21:03:23.656788",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
