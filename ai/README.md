@@ -1,11 +1,13 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-22 11:14:47 UTC
+**Last Updated:** 2026-09-22 16:36:57 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) | Tue, 22 Se |
+| MIT Technology Review AI | [Don’t be fooled by this summer of AI hype](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/) | Tue, 22 Se |
 | LangChain Releases | [Release langchain-core==1.6.4](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.4) | 2026-09-21 |
 | Microsoft Research AI | [Improving synthesis prediction of small molecules at scale with RetroChimera](https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/) | Mon, 21 Se |
 | OpenAI Blog | [Advisory Group on Mathematics and Artificial Intelligence](https://openai.com/index/advisory-group-on-mathematics-and-ai) | Mon, 21 Se |
@@ -13,14 +15,12 @@
 | MIT Technology Review AI | [How we made the first comprehensive map of deaths along the US border’s “virtual](https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/) | Mon, 21 Se |
 | MIT Technology Review AI | [4 ways to address the failures we found along the US border’s “virtual wall”](https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/) | Mon, 21 Se |
 | MIT Technology Review AI | [The US spent billions on border surveillance. Why can’t it catch people before t](https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/) | Mon, 21 Se |
-| MIT Technology Review AI | [She died at the San Diego border. A surveillance camera was in plain sight](https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/) | Mon, 21 Se |
 | OpenAI Blog | [Building standards for the next phase of AI](https://openai.com/index/building-standards-next-phase-ai) | Mon, 21 Se |
 | OpenAI Blog | [Expanding OpenAI Academy with new learning paths](https://openai.com/index/expanding-openai-academy-with-new-learning-paths) | Mon, 21 Se |
 | OpenAI Blog | [How V7 gives AI agents institutional memory](https://openai.com/index/v7) | Mon, 21 Se |
 | Anthropic Blog | [Partnering with Accenture on embedded evaluation](https://www.anthropic.com/news/accenture-embedded-evaluation) | 2026-09-18 |
 | Google AI Blog | [New experts join Google’s AI & Economy team](https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/) | Fri, 18 Se |
 | Google AI Blog | [Co-creating the future of fashion with Google](https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/) | Fri, 18 Se |
-| MIT Technology Review AI | [Could AI really kill us all? Your questions, answered.](https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/) | Fri, 18 Se |
 | Anthropic Blog | [Introducing the Life Sciences Verification Program](https://www.anthropic.com/news/life-sciences-verification-program) | 2026-09-17 |
 | Google AI Blog | [Making global data easier to explore](https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/) | Thu, 17 Se |
 | DeepMind Blog | [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) | Tue, 15 Se |

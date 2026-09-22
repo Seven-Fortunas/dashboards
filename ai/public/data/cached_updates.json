@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "published": "Tue, 22 Sep 2026 13:42:05 +0000",
+      "summary": "The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save live"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Don\u2019t be fooled by this summer of AI hype",
+      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "published": "Tue, 22 Sep 2026 11:04:51 +0000",
+      "summary": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.6.4",
@@ -57,14 +73,6 @@
       "summary": "When Jos\u00e9 Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#16"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "published": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "summary": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela G\u00f3mez Hern\u00e1ndez crossed the border from the eastern edge "
-    },
-    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Building standards for the next phase of AI",
@@ -111,14 +119,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
       "published": "Fri, 18 Sep 2026 13:00:00 +0000",
       "summary": "Jane Wade and Sergio Hudson"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "published": "Fri, 18 Sep 2026 11:29:22 +0000",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone\u2019s asking right now: Could AI really kill us all? But attendees had so many more que"
     },
     {
       "source": "Anthropic Blog",
@@ -241,8 +241,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-22T11:14:47.091634",
-  "last_updated": "2026-09-22T11:14:47.091634",
+  "timestamp": "2026-09-22T16:36:57.509994",
+  "last_updated": "2026-09-22T16:36:57.509994",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
