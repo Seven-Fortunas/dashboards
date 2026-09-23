@@ -3,6 +3,14 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "published": "Wed, 23 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Better prompt caching for GPT-6",
       "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
       "published": "Tue, 22 Sep 2026 21:00:00 GMT",
@@ -63,14 +71,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
       "published": "Mon, 21 Sep 2026 15:30:19 +0000",
       "summary": "<p>Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps acceler"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "published": "Mon, 21 Sep 2026 12:00:00 GMT",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
     },
     {
       "source": "MIT Technology Review AI",
@@ -241,8 +241,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-23T04:04:29.052450",
-  "last_updated": "2026-09-23T04:04:29.052450",
+  "timestamp": "2026-09-23T11:07:25.209519",
+  "last_updated": "2026-09-23T11:07:25.209519",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
