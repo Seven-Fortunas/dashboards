@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude discovers a novel enzyme system",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "published": "2026-09-23T20:05:57.000Z",
+      "summary": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown."
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "published": "Wed, 23 Sep 2026 18:00:00 +0000",
+      "summary": "Google Beam promotional animation"
+    },
+    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Offloaded inference for real-world physical AI robotics",
@@ -43,26 +59,34 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "published": "Wed, 23 Sep 2026 00:00:00 GMT",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
+      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Better prompt caching for GPT-6",
-      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "published": "Tue, 22 Sep 2026 21:00:00 GMT",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
     },
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "published": "Tue, 22 Sep 2026 18:00:00 GMT",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
+      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "The AI Hype Index: AI loves cheating",
+      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "published": "Wed, 23 Sep 2026 09:00:00 +0000",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI\u2019s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j"
     },
     {
       "source": "MIT Technology Review AI",
@@ -111,14 +135,6 @@
       "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
       "published": "Mon, 21 Sep 2026 12:00:00 +0000",
       "summary": "MIT Technology Review today published our investigation into how many people have died near the \u201cvirtual wall\u201d of surveillance towers that the US government has installed along the US-Mexico border. W"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The US spent billions on border surveillance. Why can\u2019t it catch people before they die?",
-      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "published": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "summary": "When Jos\u00e9 Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#16"
     },
     {
       "source": "Anthropic Blog",
@@ -177,14 +193,6 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif\" />Explore this collection to see how experts and local leaders are using AI breakthroughs to ensur"
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Building AI to accelerate science and improve lives",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "published": "Tue, 15 Sep 2026 16:00:00 +0000",
-      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Corps",
@@ -199,14 +207,6 @@
       "link": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
       "published": "2026-09-10T20:11:55.000Z",
       "summary": "With the NNSA and DOE national labs, we co-developed a classifier that distinguishes concerning from benign nuclear conversations with 96% accuracy."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Higher education advisory board and AI Fluency courses",
-      "link": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
-      "published": "2026-09-10T20:10:33.000Z",
-      "summary": "Anthropic announces a Higher Education Advisory Board chaired by Rick Levin and three Creative Commons AI Fluency courses for institutions."
     },
     {
       "source": "HuggingFace Transformers",
@@ -249,8 +249,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-23T16:28:58.080039",
-  "last_updated": "2026-09-23T16:28:58.080039",
+  "timestamp": "2026-09-23T21:18:16.534307",
+  "last_updated": "2026-09-23T21:18:16.534307",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
