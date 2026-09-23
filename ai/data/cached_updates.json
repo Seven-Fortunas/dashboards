@@ -1,6 +1,46 @@
 {
   "updates": [
     {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Offloaded inference for real-world physical AI robotics",
+      "link": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+      "published": "Wed, 23 Sep 2026 16:01:36 +0000",
+      "summary": "<p>Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, "
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "published": "Wed, 23 Sep 2026 16:00:57 +0000",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Two years of OpenAI Academy",
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "published": "Wed, 23 Sep 2026 16:00:00 GMT",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "published": "Wed, 23 Sep 2026 15:25:14 +0000",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "published": "Wed, 23 Sep 2026 13:00:00 GMT",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
@@ -33,28 +73,12 @@
       "summary": "The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save live"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Parallel cut research time and cost in half with GPT\u20116 Astra",
-      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "published": "Tue, 22 Sep 2026 12:00:00 GMT",
-      "summary": "GPT\u20116 Astra allowed Parallel\u2019s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Don\u2019t be fooled by this summer of AI hype",
       "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
       "published": "Tue, 22 Sep 2026 11:04:51 +0000",
       "summary": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Priorities and principles for effective third party assessments",
-      "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "published": "Tue, 22 Sep 2026 00:00:00 GMT",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
     },
     {
       "source": "LangChain Releases",
@@ -217,22 +241,6 @@
       "summary": "# PyTorch 2.14.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-      "published": "Wed, 02 Sep 2026 16:24:24 +0000",
-      "summary": ""
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "published": "Wed, 02 Sep 2026 16:18:31 +0000",
-      "summary": ""
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
@@ -241,8 +249,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-23T11:07:25.209519",
-  "last_updated": "2026-09-23T11:07:25.209519",
+  "timestamp": "2026-09-23T16:28:58.080039",
+  "last_updated": "2026-09-23T16:28:58.080039",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
