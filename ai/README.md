@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-22 21:03:23 UTC
+**Last Updated:** 2026-09-23 04:04:29 UTC
 
 ## Latest Updates
 
@@ -9,11 +9,11 @@
 | OpenAI Blog | [Better prompt caching for GPT-6](https://openai.com/index/better-prompt-caching-for-gpt-6) | Tue, 22 Se |
 | OpenAI Blog | [Introducing GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna) | Tue, 22 Se |
 | MIT Technology Review AI | [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) | Tue, 22 Se |
+| OpenAI Blog | [Parallel cut research time and cost in half with GPT‑6 Astra](https://openai.com/index/parallel-cuts-time-and-cost-with-astra) | Tue, 22 Se |
 | MIT Technology Review AI | [Don’t be fooled by this summer of AI hype](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/) | Tue, 22 Se |
 | OpenAI Blog | [Priorities and principles for effective third party assessments](https://openai.com/index/priorities-principles-third-party-assessments) | Tue, 22 Se |
 | LangChain Releases | [Release langchain-core==1.6.4](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.4) | 2026-09-21 |
 | Microsoft Research AI | [Improving synthesis prediction of small molecules at scale with RetroChimera](https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/) | Mon, 21 Se |
-| OpenAI Blog | [Advisory Group on Mathematics and Artificial Intelligence](https://openai.com/index/advisory-group-on-mathematics-and-ai) | Mon, 21 Se |
 | OpenAI Blog | [Higgsfield AI ships new video features in a day with GPT-6 Astra](https://openai.com/index/higgsfield-from-prompt-to-production-with-astra) | Mon, 21 Se |
 | MIT Technology Review AI | [How we made the first comprehensive map of deaths along the US border’s “virtual](https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/) | Mon, 21 Se |
 | MIT Technology Review AI | [4 ways to address the failures we found along the US border’s “virtual wall”](https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/) | Mon, 21 Se |
