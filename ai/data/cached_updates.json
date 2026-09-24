@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.6.5",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.5",
+      "published": "2026-09-24T18:11:22Z",
+      "summary": "Changes since langchain-core==1.6.4\n\nrelease(core): 1.6.5 (#40816)\nfix(core): abbreviate long tool IDs in XML buffer strings (#40792)"
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Introducing Gemini 3.8 Live with Live Avatar",
@@ -111,14 +119,6 @@
       "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
       "published": "Tue, 22 Sep 2026 11:04:51 +0000",
       "summary": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O"
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.6.4",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.4",
-      "published": "2026-09-21T15:51:23Z",
-      "summary": "Changes since langchain-core==1.6.3\n\nrelease(core): 1.6.4 (#40718)\nchore(core): deprecate chat message history (#40711)\nchore(deps): bump anyio from 4.12.0 to 4.14.2 in /libs/core (#40634)\nchore(deps)"
     },
     {
       "source": "Microsoft Research AI",
@@ -241,8 +241,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-24T16:49:16.175872",
-  "last_updated": "2026-09-24T16:49:16.175872",
+  "timestamp": "2026-09-24T21:19:44.818587",
+  "last_updated": "2026-09-24T21:19:44.818587",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
