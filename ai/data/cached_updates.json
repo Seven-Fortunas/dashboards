@@ -5,7 +5,7 @@
       "type": "sitemap",
       "title": "Claude discovers a novel enzyme system",
       "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "published": "2026-09-23T20:05:57.000Z",
+      "published": "2026-09-24T10:25:16.000Z",
       "summary": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown."
     },
     {
@@ -241,8 +241,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-24T03:59:41.515245",
-  "last_updated": "2026-09-24T03:59:41.515245",
+  "timestamp": "2026-09-24T11:23:56.421176",
+  "last_updated": "2026-09-24T11:23:56.421176",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
