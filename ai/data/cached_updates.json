@@ -201,14 +201,6 @@
       "summary": "Claude Corps is a national fellowship for early-career people passionate about extending the benefits of AI to communities across America."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Developing nuclear safeguards for AI through public-private partnership",
-      "link": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
-      "published": "2026-09-10T20:11:55.000Z",
-      "summary": "With the NNSA and DOE national labs, we co-developed a classifier that distinguishes concerning from benign nuclear conversations with 96% accuracy."
-    },
-    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.17.0",
@@ -249,8 +241,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-23T21:18:16.534307",
-  "last_updated": "2026-09-23T21:18:16.534307",
+  "timestamp": "2026-09-24T03:59:41.515245",
+  "last_updated": "2026-09-24T03:59:41.515245",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
