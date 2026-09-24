@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "published": "Thu, 24 Sep 2026 16:20:39 +0000",
+      "summary": ""
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Claude discovers a novel enzyme system",
@@ -217,14 +225,6 @@
       "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "published": "Thu, 03 Sep 2026 15:02:08 +0000",
-      "summary": ""
-    },
-    {
       "source": "PyTorch Releases",
       "type": "github",
       "title": "Release v2.14.0",
@@ -241,8 +241,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-24T11:23:56.421176",
-  "last_updated": "2026-09-24T11:23:56.421176",
+  "timestamp": "2026-09-24T16:49:16.175872",
+  "last_updated": "2026-09-24T16:49:16.175872",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-24 11:23:56 UTC
+**Last Updated:** 2026-09-24 16:49:16 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| DeepMind Blog | [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) | Thu, 24 Se |
 | Anthropic Blog | [Claude discovers a novel enzyme system](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | 2026-09-24 |
 | Google AI Blog | [Google Beam expands with new regions, partners, and customers](https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/) | Wed, 23 Se |
 | Microsoft Research AI | [Offloaded inference for real-world physical AI robotics](https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/) | Wed, 23 Se |
@@ -33,6 +34,5 @@
 | Anthropic Blog | [Introducing Claude Corps](https://www.anthropic.com/news/claude-corps) | 2026-09-11 |
 | HuggingFace Transformers | [Release v5.17.0](https://github.com/huggingface/transformers/releases/tag/v5.17.0) | 2026-09-09 |
 | DeepMind Blog | [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the h](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) | Tue, 08 Se |
-| DeepMind Blog | [Introducing WeatherNext 3, our most advanced and accurate global weather AI mode](https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/) | Thu, 03 Se |
 | PyTorch Releases | [Release v2.14.0](https://github.com/pytorch/pytorch/releases/tag/v2.14.0) | 2026-09-02 |
 | Microsoft Research AI | [GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with effici](https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/) | Mon, 31 Au |
