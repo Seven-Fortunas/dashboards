@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-25 11:29:49 UTC
+**Last Updated:** 2026-09-25 16:53:59 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction) | Fri, 25 Se |
 | MIT Technology Review AI | [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/) | Fri, 25 Se |
 | LangChain Releases | [Release langchain-core==1.6.5](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.5) | 2026-09-24 |
 | DeepMind Blog | [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) | Thu, 24 Se |
@@ -18,7 +19,6 @@
 | OpenAI Blog | [OpenAI extends cyber access to Ukraine for civilian defense](https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense) | Wed, 23 Se |
 | OpenAI Blog | [Sam Altman’s remarks at the United Nations Security Council](https://openai.com/index/sam-altman-un-security-council-remarks) | Wed, 23 Se |
 | OpenAI Blog | [Harvey turns legal context into stronger drafts with GPT-6 Astra](https://openai.com/index/harvey-from-context-to-confidence-with-astra) | Wed, 23 Se |
-| OpenAI Blog | [How invideo improves color grading 3x with GPT‑6 Astra](https://openai.com/index/invideo-builds-with-gpt-6-astra) | Wed, 23 Se |
 | MIT Technology Review AI | [The AI Hype Index: AI loves cheating](https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/) | Wed, 23 Se |
 | MIT Technology Review AI | [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) | Tue, 22 Se |
 | MIT Technology Review AI | [Don’t be fooled by this summer of AI hype](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/) | Tue, 22 Se |
