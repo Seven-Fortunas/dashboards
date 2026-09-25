@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-25 04:14:09 UTC
+**Last Updated:** 2026-09-25 11:29:49 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/) | Fri, 25 Se |
 | LangChain Releases | [Release langchain-core==1.6.5](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.5) | 2026-09-24 |
 | DeepMind Blog | [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) | Thu, 24 Se |
 | Anthropic Blog | [Claude discovers a novel enzyme system](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | 2026-09-24 |
@@ -23,7 +24,6 @@
 | MIT Technology Review AI | [Don’t be fooled by this summer of AI hype](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/) | Tue, 22 Se |
 | Microsoft Research AI | [Improving synthesis prediction of small molecules at scale with RetroChimera](https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/) | Mon, 21 Se |
 | MIT Technology Review AI | [How we made the first comprehensive map of deaths along the US border’s “virtual](https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/) | Mon, 21 Se |
-| MIT Technology Review AI | [4 ways to address the failures we found along the US border’s “virtual wall”](https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/) | Mon, 21 Se |
 | Anthropic Blog | [Partnering with Accenture on embedded evaluation](https://www.anthropic.com/news/accenture-embedded-evaluation) | 2026-09-18 |
 | Google AI Blog | [New experts join Google’s AI & Economy team](https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/) | Fri, 18 Se |
 | Google AI Blog | [Co-creating the future of fashion with Google](https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/) | Fri, 18 Se |
