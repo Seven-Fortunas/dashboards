@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-24 21:19:44 UTC
+**Last Updated:** 2026-09-25 04:14:09 UTC
 
 ## Latest Updates
 
@@ -31,7 +31,6 @@
 | Google AI Blog | [Making global data easier to explore](https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/) | Thu, 17 Se |
 | DeepMind Blog | [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) | Tue, 15 Se |
 | Google AI Blog | [AI for Societal Impact](https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/) | Tue, 15 Se |
-| Anthropic Blog | [Introducing Claude Corps](https://www.anthropic.com/news/claude-corps) | 2026-09-11 |
 | HuggingFace Transformers | [Release v5.17.0](https://github.com/huggingface/transformers/releases/tag/v5.17.0) | 2026-09-09 |
 | DeepMind Blog | [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the h](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) | Tue, 08 Se |
 | PyTorch Releases | [Release v2.14.0](https://github.com/pytorch/pytorch/releases/tag/v2.14.0) | 2026-09-02 |
