@@ -3,10 +3,50 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "published": "Mon, 28 Sep 2026 22:17:07 +0000",
+      "summary": "Listen to the session or watch below The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and ap"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "One year in: How Microsoft Research Asia \u2013 Singapore is advancing research, partnership and talent for real-world impact",
+      "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+      "published": "Mon, 28 Sep 2026 21:00:00 +0000",
+      "summary": "<p>Since launching a year ago, the Microsoft Research Asia \u2014 Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how front"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "published": "Mon, 28 Sep 2026 19:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "When can we say AI made a scientific discovery?",
+      "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "published": "Mon, 28 Sep 2026 17:03:16 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Last Wednesday, Anthropic announced that earlier this year it "
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "Who\u2019s liable when AI agents go rogue?",
       "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
       "published": "Mon, 28 Sep 2026 08:06:22 +0000",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Over the past few mon"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
     },
     {
       "source": "Anthropic Blog",
@@ -15,6 +55,22 @@
       "link": "https://www.anthropic.com/news/anthropic-infosys",
       "published": "2026-09-28T03:20:50.000Z",
       "summary": "Anthropic and Infosys will build AI agents for telecom, financial services, manufacturing, and other regulated industries."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Are you a Codex Original?",
+      "link": "https://openai.com/form/codex-originals",
+      "published": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "summary": "We\u2019re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "published": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
     },
     {
       "source": "OpenAI Blog",
@@ -97,52 +153,12 @@
       "summary": ""
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "published": "Wed, 23 Sep 2026 13:00:00 GMT",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "The AI Hype Index: AI loves cheating",
       "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
       "published": "Wed, 23 Sep 2026 09:00:00 +0000",
       "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI\u2019s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "published": "Tue, 22 Sep 2026 13:42:05 +0000",
-      "summary": "The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save live"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Don\u2019t be fooled by this summer of AI hype",
-      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "published": "Tue, 22 Sep 2026 11:04:51 +0000",
-      "summary": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O"
     },
     {
       "source": "Microsoft Research AI",
@@ -201,14 +217,6 @@
       "summary": ""
     },
     {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "AI for Societal Impact",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "published": "Tue, 15 Sep 2026 16:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif\" />Explore this collection to see how experts and local leaders are using AI breakthroughs to ensur"
-    },
-    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.17.0",
@@ -241,8 +249,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-28T13:21:44.011658",
-  "last_updated": "2026-09-28T13:21:44.011658",
+  "timestamp": "2026-09-28T23:04:09.640252",
+  "last_updated": "2026-09-28T23:04:09.640252",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
