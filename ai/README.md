@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-27 21:07:29 UTC
+**Last Updated:** 2026-09-28 04:36:15 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Anthropic and Infosys build AI agents](https://www.anthropic.com/news/anthropic-infosys) | 2026-09-28 |
 | OpenAI Blog | [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction) | Fri, 25 Se |
 | MIT Technology Review AI | [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/) | Fri, 25 Se |
 | LangChain Releases | [Release langchain-core==1.6.5](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.5) | 2026-09-24 |
