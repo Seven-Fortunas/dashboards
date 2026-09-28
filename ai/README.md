@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-28 04:36:15 UTC
+**Last Updated:** 2026-09-28 13:21:44 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Who’s liable when AI agents go rogue?](https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/) | Mon, 28 Se |
 | Anthropic Blog | [Anthropic and Infosys build AI agents](https://www.anthropic.com/news/anthropic-infosys) | 2026-09-28 |
 | OpenAI Blog | [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction) | Fri, 25 Se |
 | MIT Technology Review AI | [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/) | Fri, 25 Se |
@@ -24,7 +25,6 @@
 | MIT Technology Review AI | [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) | Tue, 22 Se |
 | MIT Technology Review AI | [Don’t be fooled by this summer of AI hype](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/) | Tue, 22 Se |
 | Microsoft Research AI | [Improving synthesis prediction of small molecules at scale with RetroChimera](https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/) | Mon, 21 Se |
-| MIT Technology Review AI | [How we made the first comprehensive map of deaths along the US border’s “virtual](https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/) | Mon, 21 Se |
 | Anthropic Blog | [Partnering with Accenture on embedded evaluation](https://www.anthropic.com/news/accenture-embedded-evaluation) | 2026-09-18 |
 | Google AI Blog | [New experts join Google’s AI & Economy team](https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/) | Fri, 18 Se |
 | Google AI Blog | [Co-creating the future of fashion with Google](https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/) | Fri, 18 Se |
