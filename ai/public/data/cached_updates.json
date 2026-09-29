@@ -17,6 +17,14 @@
       "summary": "<p>Since launching a year ago, the Microsoft Research Asia \u2014 Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how front"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "published": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -137,14 +145,6 @@
       "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Two years of OpenAI Academy",
-      "link": "https://openai.com/index/two-years-of-openai-academy",
-      "published": "Wed, 23 Sep 2026 16:00:00 GMT",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Gemini 3.8 text-to-speech says hello",
@@ -249,8 +249,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-28T23:04:09.640252",
-  "last_updated": "2026-09-28T23:04:09.640252",
+  "timestamp": "2026-09-29T05:04:12.587331",
+  "last_updated": "2026-09-29T05:04:12.587331",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
