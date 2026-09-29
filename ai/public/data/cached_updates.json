@@ -1,12 +1,52 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.6.6",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.6",
+      "published": "2026-09-29T14:53:11Z",
+      "summary": "Changes since langchain-core==1.6.5\n\nrelease(core): 1.6.6 (#40906)\nfix(anthropic): support Claude Sonnet 5.5 compatibility (#40882)\ndocs(core): fix docstring examples that don't run as copied (#40815)"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "published": "Tue, 29 Sep 2026 14:00:02 +0000",
+      "summary": "<p>Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights acros"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Making AI an asset, not an expense",
       "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
       "published": "Tue, 29 Sep 2026 10:43:45 +0000",
       "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "published": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap",
+      "published": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Introducing dots",
+      "link": "https://openai.com/index/introducing-dots",
+      "published": "Tue, 29 Sep 2026 00:00:00 GMT",
+      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
     },
     {
       "source": "MIT Technology Review AI",
@@ -65,14 +105,6 @@
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Over the past few mon"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Anthropic and Infosys build AI agents",
@@ -81,36 +113,12 @@
       "summary": "Anthropic and Infosys will build AI agents for telecom, financial services, manufacturing, and other regulated industries."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Are you a Codex Original?",
-      "link": "https://openai.com/form/codex-originals",
-      "published": "Mon, 28 Sep 2026 00:00:00 GMT",
-      "summary": "We\u2019re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "published": "Mon, 28 Sep 2026 00:00:00 GMT",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
       "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
       "published": "Fri, 25 Sep 2026 09:16:25 +0000",
       "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Poly"
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.6.5",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.5",
-      "published": "2026-09-24T18:11:22Z",
-      "summary": "Changes since langchain-core==1.6.4\n\nrelease(core): 1.6.5 (#40816)\nfix(core): abbreviate long tool IDs in XML buffer strings (#40792)"
     },
     {
       "source": "DeepMind Blog",
@@ -249,8 +257,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-29T12:27:07.927438",
-  "last_updated": "2026-09-29T12:27:07.927438",
+  "timestamp": "2026-09-29T22:02:53.075965",
+  "last_updated": "2026-09-29T22:02:53.075965",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

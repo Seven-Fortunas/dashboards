@@ -1,12 +1,17 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-29 12:27:07 UTC
+**Last Updated:** 2026-09-29 22:02:53 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.6.6](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.6) | 2026-09-29 |
+| Microsoft Research AI | [Introducing Quine: An AI research system designed for the complexity of biology](https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/) | Tue, 29 Se |
 | MIT Technology Review AI | [Making AI an asset, not an expense](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/) | Tue, 29 Se |
+| OpenAI Blog | [Introducing GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol) | Tue, 29 Se |
+| OpenAI Blog | [DevDay 2026 Recap](https://openai.com/index/devday-2026-recap) | Tue, 29 Se |
+| OpenAI Blog | [Introducing dots](https://openai.com/index/introducing-dots) | Tue, 29 Se |
 | MIT Technology Review AI | [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) | Mon, 28 Se |
 | Microsoft Research AI | [One year in: How Microsoft Research Asia – Singapore is advancing research, part](https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/) | Mon, 28 Se |
 | OpenAI Blog | [How we will do better for Australia](https://openai.com/index/how-we-will-do-better-for-australia) | Mon, 28 Se |
@@ -14,12 +19,8 @@
 | Google AI Blog | [Watch the winning trailer from the Future Vision XPRIZE, The Gifted.](https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/) | Mon, 28 Se |
 | MIT Technology Review AI | [When can we say AI made a scientific discovery?](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/) | Mon, 28 Se |
 | MIT Technology Review AI | [Who’s liable when AI agents go rogue?](https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/) | Mon, 28 Se |
-| OpenAI Blog | [The Lenfest Institute grows landmark program with expanded OpenAI support](https://openai.com/index/lenfest-ai-collaborative-expansion) | Mon, 28 Se |
 | Anthropic Blog | [Anthropic and Infosys build AI agents](https://www.anthropic.com/news/anthropic-infosys) | 2026-09-28 |
-| OpenAI Blog | [Are you a Codex Original?](https://openai.com/form/codex-originals) | Mon, 28 Se |
-| OpenAI Blog | [Basis completes a tax workbook 2x faster with GPT-6 Astra](https://openai.com/index/basis-tax-workbook-with-astra) | Mon, 28 Se |
 | MIT Technology Review AI | [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/) | Fri, 25 Se |
-| LangChain Releases | [Release langchain-core==1.6.5](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.5) | 2026-09-24 |
 | DeepMind Blog | [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) | Thu, 24 Se |
 | Anthropic Blog | [Claude discovers a novel enzyme system](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | 2026-09-24 |
 | Google AI Blog | [Google Beam expands with new regions, partners, and customers](https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/) | Wed, 23 Se |
