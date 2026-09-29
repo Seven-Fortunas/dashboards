@@ -3,6 +3,14 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Making AI an asset, not an expense",
+      "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "published": "Tue, 29 Sep 2026 10:43:45 +0000",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
       "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
       "published": "Mon, 28 Sep 2026 22:17:07 +0000",
@@ -23,6 +31,14 @@
       "link": "https://openai.com/index/how-we-will-do-better-for-australia",
       "published": "Mon, 28 Sep 2026 19:00:00 GMT",
       "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "published": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
     },
     {
       "source": "Google AI Blog",
@@ -79,14 +95,6 @@
       "link": "https://openai.com/index/basis-tax-workbook-with-astra",
       "published": "Mon, 28 Sep 2026 00:00:00 GMT",
       "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "link": "https://openai.com/index/proaction",
-      "published": "Fri, 25 Sep 2026 19:00:00 GMT",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
     },
     {
       "source": "MIT Technology Review AI",
@@ -151,14 +159,6 @@
       "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
       "published": "Wed, 23 Sep 2026 15:25:14 +0000",
       "summary": ""
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The AI Hype Index: AI loves cheating",
-      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "published": "Wed, 23 Sep 2026 09:00:00 +0000",
-      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI\u2019s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j"
     },
     {
       "source": "Microsoft Research AI",
@@ -249,8 +249,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-29T05:04:12.587331",
-  "last_updated": "2026-09-29T05:04:12.587331",
+  "timestamp": "2026-09-29T12:27:07.927438",
+  "last_updated": "2026-09-29T12:27:07.927438",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
