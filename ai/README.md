@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-29 22:02:53 UTC
+**Last Updated:** 2026-09-30 04:50:58 UTC
 
 ## Latest Updates
 
@@ -14,8 +14,8 @@
 | OpenAI Blog | [Introducing dots](https://openai.com/index/introducing-dots) | Tue, 29 Se |
 | MIT Technology Review AI | [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) | Mon, 28 Se |
 | Microsoft Research AI | [One year in: How Microsoft Research Asia – Singapore is advancing research, part](https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/) | Mon, 28 Se |
-| OpenAI Blog | [How we will do better for Australia](https://openai.com/index/how-we-will-do-better-for-australia) | Mon, 28 Se |
 | OpenAI Blog | [Towards safety cases for frontier AI training](https://openai.com/index/towards-safety-cases-for-frontier-ai-training) | Mon, 28 Se |
+| OpenAI Blog | [How we will do better for Australia](https://openai.com/index/how-we-will-do-better-for-australia) | Mon, 28 Se |
 | Google AI Blog | [Watch the winning trailer from the Future Vision XPRIZE, The Gifted.](https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/) | Mon, 28 Se |
 | MIT Technology Review AI | [When can we say AI made a scientific discovery?](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/) | Mon, 28 Se |
 | MIT Technology Review AI | [Who’s liable when AI agents go rogue?](https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/) | Mon, 28 Se |
