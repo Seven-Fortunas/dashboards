@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
+      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "published": "Wed, 30 Sep 2026 10:40:30 +0000",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady dr"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.6.6",
@@ -111,14 +119,6 @@
       "link": "https://www.anthropic.com/news/anthropic-infosys",
       "published": "2026-09-28T03:20:50.000Z",
       "summary": "Anthropic and Infosys will build AI agents for telecom, financial services, manufacturing, and other regulated industries."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "published": "Fri, 25 Sep 2026 09:16:25 +0000",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Poly"
     },
     {
       "source": "DeepMind Blog",
@@ -257,8 +257,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-30T04:50:58.681903",
-  "last_updated": "2026-09-30T04:50:58.681903",
+  "timestamp": "2026-09-30T12:12:13.870302",
+  "last_updated": "2026-09-30T12:12:13.870302",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
