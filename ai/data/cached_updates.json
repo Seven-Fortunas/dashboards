@@ -46,7 +46,7 @@
       "title": "Introducing dots",
       "link": "https://openai.com/index/introducing-dots",
       "published": "Tue, 29 Sep 2026 00:00:00 GMT",
-      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
     },
     {
       "source": "MIT Technology Review AI",
@@ -67,18 +67,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "published": "Mon, 28 Sep 2026 19:00:00 GMT",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Towards safety cases for frontier AI training",
       "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "published": "Mon, 28 Sep 2026 19:00:00 GMT",
       "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "published": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences."
     },
     {
       "source": "Google AI Blog",
@@ -257,8 +257,8 @@
       "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-29T22:02:53.075965",
-  "last_updated": "2026-09-29T22:02:53.075965",
+  "timestamp": "2026-09-30T04:50:58.681903",
+  "last_updated": "2026-09-30T04:50:58.681903",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
