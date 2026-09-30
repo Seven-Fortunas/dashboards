@@ -1,12 +1,20 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-09-30 12:12:13 UTC
+**Last Updated:** 2026-09-30 22:02:00 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Introducing the Life Sciences Verification Program](https://www.anthropic.com/news/life-sciences-verification-program) | 2026-09-30 |
+| DeepMind Blog | [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) | Wed, 30 Se |
+| PyTorch Releases | [Release v2.14.1](https://github.com/pytorch/pytorch/releases/tag/v2.14.1) | 2026-09-30 |
+| HuggingFace Transformers | [Release v5.18.0](https://github.com/huggingface/transformers/releases/tag/v5.18.0) | 2026-09-30 |
+| Microsoft Research AI | [Forecasting space weather risks on power grids](https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/) | Wed, 30 Se |
+| DeepMind Blog | [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) | Wed, 30 Se |
 | MIT Technology Review AI | [“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/) | Wed, 30 Se |
+| OpenAI Blog | [Disrupting a coordinated model-distillation campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign) | Wed, 30 Se |
+| OpenAI Blog | [Helping small businesses put AI to work](https://openai.com/index/helping-small-businesses-put-ai-to-work) | Wed, 30 Se |
 | LangChain Releases | [Release langchain-core==1.6.6](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.6) | 2026-09-29 |
 | Microsoft Research AI | [Introducing Quine: An AI research system designed for the complexity of biology](https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/) | Tue, 29 Se |
 | MIT Technology Review AI | [Making AI an asset, not an expense](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/) | Tue, 29 Se |
@@ -15,8 +23,6 @@
 | OpenAI Blog | [Introducing dots](https://openai.com/index/introducing-dots) | Tue, 29 Se |
 | MIT Technology Review AI | [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) | Mon, 28 Se |
 | Microsoft Research AI | [One year in: How Microsoft Research Asia – Singapore is advancing research, part](https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/) | Mon, 28 Se |
-| OpenAI Blog | [Towards safety cases for frontier AI training](https://openai.com/index/towards-safety-cases-for-frontier-ai-training) | Mon, 28 Se |
-| OpenAI Blog | [How we will do better for Australia](https://openai.com/index/how-we-will-do-better-for-australia) | Mon, 28 Se |
 | Google AI Blog | [Watch the winning trailer from the Future Vision XPRIZE, The Gifted.](https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/) | Mon, 28 Se |
 | MIT Technology Review AI | [When can we say AI made a scientific discovery?](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/) | Mon, 28 Se |
 | MIT Technology Review AI | [Who’s liable when AI agents go rogue?](https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/) | Mon, 28 Se |
@@ -31,10 +37,4 @@
 | Anthropic Blog | [Partnering with Accenture on embedded evaluation](https://www.anthropic.com/news/accenture-embedded-evaluation) | 2026-09-18 |
 | Google AI Blog | [New experts join Google’s AI & Economy team](https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/) | Fri, 18 Se |
 | Google AI Blog | [Co-creating the future of fashion with Google](https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/) | Fri, 18 Se |
-| Anthropic Blog | [Introducing the Life Sciences Verification Program](https://www.anthropic.com/news/life-sciences-verification-program) | 2026-09-17 |
 | Google AI Blog | [Making global data easier to explore](https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/) | Thu, 17 Se |
-| DeepMind Blog | [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) | Tue, 15 Se |
-| HuggingFace Transformers | [Release v5.17.0](https://github.com/huggingface/transformers/releases/tag/v5.17.0) | 2026-09-09 |
-| DeepMind Blog | [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the h](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) | Tue, 08 Se |
-| PyTorch Releases | [Release v2.14.0](https://github.com/pytorch/pytorch/releases/tag/v2.14.0) | 2026-09-02 |
-| Microsoft Research AI | [GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with effici](https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/) | Mon, 31 Au |

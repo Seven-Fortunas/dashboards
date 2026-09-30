@@ -1,12 +1,76 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing the Life Sciences Verification Program",
+      "link": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "published": "2026-09-30T20:19:06.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "published": "Wed, 30 Sep 2026 20:01:45 +0000",
+      "summary": ""
+    },
+    {
+      "source": "PyTorch Releases",
+      "type": "github",
+      "title": "Release v2.14.1",
+      "link": "https://github.com/pytorch/pytorch/releases/tag/v2.14.1",
+      "published": "2026-09-30T19:14:48Z",
+      "summary": "This release is meant to fix the following regressions and silent correctness issues:\r\n\r\n## Silent correctness fixes\r\n- Fix incorrect `torch.linalg.lstsq` solutions on MPS for complex batched underdet"
+    },
+    {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.18.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.18.0",
+      "published": "2026-09-30T16:46:27Z",
+      "summary": "## New Model additions\r\n\r\n\r\n### Nemotron 3 Diarization\r\n\r\n<img width=\"1680\" height=\"900\" alt=\"image\" src=\"https://github.com/user-attachments/assets/fe735cb3-9e5b-43ad-8f60-9dec8425aec7\" />\r\n\r\nNemotro"
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Forecasting space weather risks on power grids",
+      "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+      "published": "Wed, 30 Sep 2026 16:00:00 +0000",
+      "summary": "<p>Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 min"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "published": "Wed, 30 Sep 2026 15:03:07 +0000",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
       "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
       "published": "Wed, 30 Sep 2026 10:40:30 +0000",
       "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady dr"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "published": "Wed, 30 Sep 2026 10:30:00 GMT",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Helping small businesses put AI to work",
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "published": "Wed, 30 Sep 2026 10:00:00 GMT",
+      "summary": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
     },
     {
       "source": "LangChain Releases",
@@ -71,22 +135,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
       "published": "Mon, 28 Sep 2026 21:00:00 +0000",
       "summary": "<p>Since launching a year ago, the Microsoft Research Asia \u2014 Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how front"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Towards safety cases for frontier AI training",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "published": "Mon, 28 Sep 2026 19:00:00 GMT",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "published": "Mon, 28 Sep 2026 19:00:00 GMT",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences."
     },
     {
       "source": "Google AI Blog",
@@ -201,64 +249,16 @@
       "summary": "Jane Wade and Sergio Hudson"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing the Life Sciences Verification Program",
-      "link": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "published": "2026-09-17T20:15:21.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Making global data easier to explore",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
       "published": "Thu, 17 Sep 2026 20:00:00 +0000",
       "summary": "UN System Data Commons Data webpage"
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "published": "Tue, 15 Sep 2026 17:05:57 +0000",
-      "summary": ""
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.17.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.17.0",
-      "published": "2026-09-09T15:42:45Z",
-      "summary": "# Release v5.17.0\r\n\r\n\r\n## New Model additions\r\n\r\n### HYV4\r\n\r\n<img width=\"1503\" height=\"827\" alt=\"image\" src=\"https://github.com/user-attachments/assets/e6ed85ee-eb1d-40eb-a0d4-c649f6337ca9\" />\r\n\r\n\r\nHy"
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "published": "Tue, 08 Sep 2026 14:00:15 +0000",
-      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
-    },
-    {
-      "source": "PyTorch Releases",
-      "type": "github",
-      "title": "Release v2.14.0",
-      "link": "https://github.com/pytorch/pytorch/releases/tag/v2.14.0",
-      "published": "2026-09-02T17:40:10Z",
-      "summary": "# PyTorch 2.14.0 Release Notes\r\n\r\n- [Highlights](#highlights)\r\n- [Backwards Incompatible Changes](#backwards-incompatible-changes)\r\n- [Deprecations](#deprecations)\r\n- [New Features](#new-features)\r\n- "
-    },
-    {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
-      "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
-      "published": "Mon, 31 Aug 2026 16:00:00 +0000",
-      "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and"
     }
   ],
-  "timestamp": "2026-09-30T12:12:13.870302",
-  "last_updated": "2026-09-30T12:12:13.870302",
+  "timestamp": "2026-09-30T22:02:00.177613",
+  "last_updated": "2026-09-30T22:02:00.177613",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
