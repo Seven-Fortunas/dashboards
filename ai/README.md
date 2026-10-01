@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-01 05:03:56 UTC
+**Last Updated:** 2026-10-01 12:46:37 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Barclays scales Claude to upgrade operations and improve client experience](https://www.anthropic.com/news/barclays-scales-claude) | 2026-10-01 |
 | Anthropic Blog | [Introducing the Life Sciences Verification Program](https://www.anthropic.com/news/life-sciences-verification-program) | 2026-09-30 |
 | DeepMind Blog | [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) | Wed, 30 Se |
 | PyTorch Releases | [Release v2.14.1](https://github.com/pytorch/pytorch/releases/tag/v2.14.1) | 2026-09-30 |
