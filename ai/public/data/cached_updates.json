@@ -1,12 +1,36 @@
 {
   "updates": [
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "The eternal complement",
+      "link": "https://openai.com/index/the-eternal-complement",
+      "published": "Thu, 01 Oct 2026 17:00:00 GMT",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "link": "https://openai.com/index/albertsons-reimagining-retail",
+      "published": "Thu, 01 Oct 2026 16:00:00 GMT",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
       "link": "https://www.anthropic.com/news/barclays-scales-claude",
       "published": "2026-10-01T09:16:50.000Z",
       "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "link": "https://openai.com/index/the-den-family-social",
+      "published": "Thu, 01 Oct 2026 00:00:00 GMT",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
     },
     {
       "source": "Anthropic Blog",
@@ -103,30 +127,6 @@
       "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
       "published": "Tue, 29 Sep 2026 10:43:45 +0000",
       "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "published": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap",
-      "published": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Introducing dots",
-      "link": "https://openai.com/index/introducing-dots",
-      "published": "Tue, 29 Sep 2026 00:00:00 GMT",
-      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
     },
     {
       "source": "MIT Technology Review AI",
@@ -265,8 +265,8 @@
       "summary": "UN System Data Commons Data webpage"
     }
   ],
-  "timestamp": "2026-10-01T12:46:37.947771",
-  "last_updated": "2026-10-01T12:46:37.947771",
+  "timestamp": "2026-10-01T22:29:36.209021",
+  "last_updated": "2026-10-01T22:29:36.209021",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

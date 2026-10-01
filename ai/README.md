@@ -1,12 +1,15 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-01 12:46:37 UTC
+**Last Updated:** 2026-10-01 22:29:36 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| OpenAI Blog | [The eternal complement](https://openai.com/index/the-eternal-complement) | Thu, 01 Oc |
+| OpenAI Blog | [How Albertsons Companies is reimagining retail from the inside out](https://openai.com/index/albertsons-reimagining-retail) | Thu, 01 Oc |
 | Anthropic Blog | [Barclays scales Claude to upgrade operations and improve client experience](https://www.anthropic.com/news/barclays-scales-claude) | 2026-10-01 |
+| OpenAI Blog | [The Den frees up 10-15 hours a week to grow with ChatGPT Work](https://openai.com/index/the-den-family-social) | Thu, 01 Oc |
 | Anthropic Blog | [Introducing the Life Sciences Verification Program](https://www.anthropic.com/news/life-sciences-verification-program) | 2026-09-30 |
 | DeepMind Blog | [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) | Wed, 30 Se |
 | PyTorch Releases | [Release v2.14.1](https://github.com/pytorch/pytorch/releases/tag/v2.14.1) | 2026-09-30 |
@@ -19,9 +22,6 @@
 | LangChain Releases | [Release langchain-core==1.6.6](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.6) | 2026-09-29 |
 | Microsoft Research AI | [Introducing Quine: An AI research system designed for the complexity of biology](https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/) | Tue, 29 Se |
 | MIT Technology Review AI | [Making AI an asset, not an expense](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/) | Tue, 29 Se |
-| OpenAI Blog | [Introducing GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol) | Tue, 29 Se |
-| OpenAI Blog | [DevDay 2026 Recap](https://openai.com/index/devday-2026-recap) | Tue, 29 Se |
-| OpenAI Blog | [Introducing dots](https://openai.com/index/introducing-dots) | Tue, 29 Se |
 | MIT Technology Review AI | [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) | Mon, 28 Se |
 | Microsoft Research AI | [One year in: How Microsoft Research Asia – Singapore is advancing research, part](https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/) | Mon, 28 Se |
 | Google AI Blog | [Watch the winning trailer from the Future Vision XPRIZE, The Gifted.](https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/) | Mon, 28 Se |
