@@ -233,14 +233,6 @@
       "summary": "<p>Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps acceler"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Partnering with Accenture on embedded evaluation",
-      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "published": "2026-09-18T20:02:00.000Z",
-      "summary": "We\u2019re partnering with Accenture on independent evaluation of frontier AI\u2014part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to b"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "New experts join Google\u2019s AI & Economy team",
@@ -265,8 +257,8 @@
       "summary": "UN System Data Commons Data webpage"
     }
   ],
-  "timestamp": "2026-10-01T22:29:36.209021",
-  "last_updated": "2026-10-01T22:29:36.209021",
+  "timestamp": "2026-10-02T04:53:41.344745",
+  "last_updated": "2026-10-02T04:53:41.344745",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
