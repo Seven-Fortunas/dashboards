@@ -1,12 +1,52 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "link": "https://www.anthropic.com/news/claude-frontier-academy",
+      "published": "2026-10-02T17:12:50.000Z",
+      "summary": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic\u2019s own \u2014 a $100 million commitment to train 10,000 by the end of 2027."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "A model guide for the GPT-6 family",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "published": "Fri, 02 Oct 2026 16:15:00 GMT",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "published": "Fri, 02 Oct 2026 15:49:04 +0000",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f"
+    },
+    {
+      "source": "Google AI Blog",
+      "type": "rss",
+      "title": "The latest AI news we announced in September 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "published": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "summary": "A video showing the September AI updates"
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Don\u2019t be fooled\u2014LLMs don\u2019t reason",
       "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
       "published": "Fri, 02 Oct 2026 08:00:00 +0000",
       "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "link": "https://openai.com/index/chatham-financial",
+      "published": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
     },
     {
       "source": "OpenAI Blog",
@@ -97,22 +137,6 @@
       "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady dr"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "published": "Wed, 30 Sep 2026 10:30:00 GMT",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Helping small businesses put AI to work",
-      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "published": "Wed, 30 Sep 2026 10:00:00 GMT",
-      "summary": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
-    },
-    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.6.6",
@@ -159,14 +183,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
       "published": "Mon, 28 Sep 2026 19:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "When can we say AI made a scientific discovery?",
-      "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "published": "Mon, 28 Sep 2026 17:03:16 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Last Wednesday, Anthropic announced that earlier this year it "
     },
     {
       "source": "Anthropic Blog",
@@ -247,18 +263,10 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
       "published": "Fri, 18 Sep 2026 13:00:00 +0000",
       "summary": "Jane Wade and Sergio Hudson"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Making global data easier to explore",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "published": "Thu, 17 Sep 2026 20:00:00 +0000",
-      "summary": "UN System Data Commons Data webpage"
     }
   ],
-  "timestamp": "2026-10-02T12:10:17.428256",
-  "last_updated": "2026-10-02T12:10:17.428256",
+  "timestamp": "2026-10-02T21:59:19.606062",
+  "last_updated": "2026-10-02T21:59:19.606062",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
