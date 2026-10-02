@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Don\u2019t be fooled\u2014LLMs don\u2019t reason",
+      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "published": "Fri, 02 Oct 2026 08:00:00 +0000",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five"
+    },
+    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "The eternal complement",
@@ -161,14 +169,6 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Last Wednesday, Anthropic announced that earlier this year it "
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Who\u2019s liable when AI agents go rogue?",
-      "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "published": "Mon, 28 Sep 2026 08:06:22 +0000",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Over the past few mon"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Anthropic and Infosys build AI agents",
@@ -257,8 +257,8 @@
       "summary": "UN System Data Commons Data webpage"
     }
   ],
-  "timestamp": "2026-10-02T04:53:41.344745",
-  "last_updated": "2026-10-02T04:53:41.344745",
+  "timestamp": "2026-10-02T12:10:17.428256",
+  "last_updated": "2026-10-02T12:10:17.428256",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
