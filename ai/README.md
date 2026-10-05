@@ -1,11 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-05 04:53:05 UTC
+**Last Updated:** 2026-10-05 14:04:57 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| MIT Technology Review AI | [Bringing predictive analytics to the agentic AI era](https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/) | Mon, 05 Oc |
+| OpenAI Blog | [Building advertising for the way people use AI](https://openai.com/index/new-chatgpt-ads-format-and-measurement) | Mon, 05 Oc |
+| MIT Technology Review AI | [People really hate AI, so why can’t they get enough?](https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/) | Mon, 05 Oc |
 | Anthropic Blog | [Claude Frontier Academy: $100M to train 10,000 engineers](https://www.anthropic.com/news/claude-frontier-academy) | 2026-10-02 |
 | OpenAI Blog | [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6) | Fri, 02 Oc |
 | MIT Technology Review AI | [Redefining enterprise intelligence with autonomous AI](https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/) | Fri, 02 Oc |
@@ -15,7 +18,6 @@
 | OpenAI Blog | [The eternal complement](https://openai.com/index/the-eternal-complement) | Thu, 01 Oc |
 | OpenAI Blog | [How Albertsons Companies is reimagining retail from the inside out](https://openai.com/index/albertsons-reimagining-retail) | Thu, 01 Oc |
 | Anthropic Blog | [Barclays scales Claude to upgrade operations and improve client experience](https://www.anthropic.com/news/barclays-scales-claude) | 2026-10-01 |
-| OpenAI Blog | [The Den frees up 10-15 hours a week to grow with ChatGPT Work](https://openai.com/index/the-den-family-social) | Thu, 01 Oc |
 | Anthropic Blog | [Introducing the Life Sciences Verification Program](https://www.anthropic.com/news/life-sciences-verification-program) | 2026-09-30 |
 | DeepMind Blog | [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) | Wed, 30 Se |
 | PyTorch Releases | [Release v2.14.1](https://github.com/pytorch/pytorch/releases/tag/v2.14.1) | 2026-09-30 |
@@ -25,8 +27,6 @@
 | MIT Technology Review AI | [“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/) | Wed, 30 Se |
 | LangChain Releases | [Release langchain-core==1.6.6](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.6) | 2026-09-29 |
 | Microsoft Research AI | [Introducing Quine: An AI research system designed for the complexity of biology](https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/) | Tue, 29 Se |
-| MIT Technology Review AI | [Making AI an asset, not an expense](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/) | Tue, 29 Se |
-| MIT Technology Review AI | [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) | Mon, 28 Se |
 | Microsoft Research AI | [One year in: How Microsoft Research Asia – Singapore is advancing research, part](https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/) | Mon, 28 Se |
 | Google AI Blog | [Watch the winning trailer from the Future Vision XPRIZE, The Gifted.](https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/) | Mon, 28 Se |
 | Anthropic Blog | [Anthropic and Infosys build AI agents](https://www.anthropic.com/news/anthropic-infosys) | 2026-09-28 |
