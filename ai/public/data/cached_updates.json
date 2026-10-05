@@ -3,6 +3,22 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "published": "Mon, 05 Oct 2026 15:47:52 +0000",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Our approach to EU text provenance rules",
+      "link": "https://openai.com/index/eu-text-provenance",
+      "published": "Mon, 05 Oct 2026 15:00:00 GMT",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "Bringing predictive analytics to the agentic AI era",
       "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
       "published": "Mon, 05 Oct 2026 13:29:32 +0000",
@@ -23,6 +39,14 @@
       "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
       "published": "Mon, 05 Oct 2026 08:00:00 +0000",
       "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that\u2019s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he "
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "EmTech\u00a0Future 2026: When AI Meets Everything",
+      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "published": "Mon, 05 Oct 2026 04:00:00 +0000",
+      "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it in"
     },
     {
       "source": "Anthropic Blog",
@@ -57,14 +81,6 @@
       "summary": "A video showing the September AI updates"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Don\u2019t be fooled\u2014LLMs don\u2019t reason",
-      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "published": "Fri, 02 Oct 2026 08:00:00 +0000",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five"
-    },
-    {
       "source": "OpenAI Blog",
       "type": "rss",
       "title": "Chatham scales its capital markets expertise with OpenAI",
@@ -79,14 +95,6 @@
       "link": "https://openai.com/index/the-eternal-complement",
       "published": "Thu, 01 Oct 2026 17:00:00 GMT",
       "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "link": "https://openai.com/index/albertsons-reimagining-retail",
-      "published": "Thu, 01 Oct 2026 16:00:00 GMT",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
     },
     {
       "source": "Anthropic Blog",
@@ -143,14 +151,6 @@
       "link": "https://deepmind.google/blog/introducing-synthid-bio/",
       "published": "Wed, 30 Sep 2026 15:03:07 +0000",
       "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
-      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "published": "Wed, 30 Sep 2026 10:40:30 +0000",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady dr"
     },
     {
       "source": "LangChain Releases",
@@ -265,8 +265,8 @@
       "summary": "Jane Wade and Sergio Hudson"
     }
   ],
-  "timestamp": "2026-10-05T14:04:57.554413",
-  "last_updated": "2026-10-05T14:04:57.554413",
+  "timestamp": "2026-10-05T23:53:35.111667",
+  "last_updated": "2026-10-05T23:53:35.111667",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
