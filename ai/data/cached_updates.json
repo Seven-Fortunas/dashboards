@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "published": "Mon, 05 Oct 2026 13:29:32 +0000",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts\u2014that argument is settled. The big question now is how to enable predictive systems t"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Building advertising for the way people use AI",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "published": "Mon, 05 Oct 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "People really hate AI, so why can\u2019t they get enough?",
+      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "published": "Mon, 05 Oct 2026 08:00:00 +0000",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that\u2019s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he "
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
@@ -73,14 +97,6 @@
       "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "link": "https://openai.com/index/the-den-family-social",
-      "published": "Thu, 01 Oct 2026 00:00:00 GMT",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing the Life Sciences Verification Program",
@@ -151,22 +167,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
       "published": "Tue, 29 Sep 2026 14:00:02 +0000",
       "summary": "<p>Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights acros"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Making AI an asset, not an expense",
-      "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "published": "Tue, 29 Sep 2026 10:43:45 +0000",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "published": "Mon, 28 Sep 2026 22:17:07 +0000",
-      "summary": "Listen to the session or watch below The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and ap"
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "Jane Wade and Sergio Hudson"
     }
   ],
-  "timestamp": "2026-10-05T04:53:05.062440",
-  "last_updated": "2026-10-05T04:53:05.062440",
+  "timestamp": "2026-10-05T14:04:57.554413",
+  "last_updated": "2026-10-05T14:04:57.554413",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
