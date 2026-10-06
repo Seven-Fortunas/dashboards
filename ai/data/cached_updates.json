@@ -1,6 +1,54 @@
 {
   "updates": [
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "published": "Tue, 06 Oct 2026 19:57:04 +0000",
+      "summary": ""
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Expanding the Cyber Verification Program",
+      "link": "https://www.anthropic.com/news/cyber-verification-program",
+      "published": "2026-10-06T19:39:32.000Z",
+      "summary": "We\u2019re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals"
+    },
+    {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.19.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.19.0",
+      "published": "2026-10-06T16:39:23Z",
+      "summary": "# Release v5.19.0\r\n\r\n\r\n## New Model additions\r\n\r\n### EmbeddingGemma2\r\n\r\n<img width=\"2716\" height=\"2308\" alt=\"image\" src=\"https://github.com/user-attachments/assets/84734e74-163d-4d12-b166-ffcf6749d563"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "link": "https://openai.com/index/atlassian-partnership",
+      "published": "Tue, 06 Oct 2026 16:00:00 GMT",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.6.7",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.7",
+      "published": "2026-10-06T15:47:08Z",
+      "summary": "Changes since langchain-core==1.6.6\n\nrelease(core): 1.6.7 (#41087)\nfix(core): include openai redacted_content in v1 output for bedrock converse (#41086)\nfix(core): python 3.14 hardening around `inspec"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Advancing computer use with Ironclad",
+      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "published": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Connecting AI agents to enterprise knowledge",
@@ -81,22 +129,6 @@
       "summary": "A video showing the September AI updates"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "link": "https://openai.com/index/chatham-financial",
-      "published": "Fri, 02 Oct 2026 00:00:00 GMT",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "The eternal complement",
-      "link": "https://openai.com/index/the-eternal-complement",
-      "published": "Thu, 01 Oct 2026 17:00:00 GMT",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -129,14 +161,6 @@
       "summary": "This release is meant to fix the following regressions and silent correctness issues:\r\n\r\n## Silent correctness fixes\r\n- Fix incorrect `torch.linalg.lstsq` solutions on MPS for complex batched underdet"
     },
     {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.18.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.18.0",
-      "published": "2026-09-30T16:46:27Z",
-      "summary": "## New Model additions\r\n\r\n\r\n### Nemotron 3 Diarization\r\n\r\n<img width=\"1680\" height=\"900\" alt=\"image\" src=\"https://github.com/user-attachments/assets/fe735cb3-9e5b-43ad-8f60-9dec8425aec7\" />\r\n\r\nNemotro"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Forecasting space weather risks on power grids",
@@ -151,14 +175,6 @@
       "link": "https://deepmind.google/blog/introducing-synthid-bio/",
       "published": "Wed, 30 Sep 2026 15:03:07 +0000",
       "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.6.6",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.6",
-      "published": "2026-09-29T14:53:11Z",
-      "summary": "Changes since langchain-core==1.6.5\n\nrelease(core): 1.6.6 (#40906)\nfix(anthropic): support Claude Sonnet 5.5 compatibility (#40882)\ndocs(core): fix docstring examples that don't run as copied (#40815)"
     },
     {
       "source": "Microsoft Research AI",
@@ -201,14 +217,6 @@
       "summary": ""
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Claude discovers a novel enzyme system",
-      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "published": "2026-09-24T10:25:16.000Z",
-      "summary": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Google Beam expands with new regions, partners, and customers",
@@ -231,14 +239,6 @@
       "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
       "published": "Wed, 23 Sep 2026 16:00:57 +0000",
       "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
-    },
-    {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "published": "Wed, 23 Sep 2026 15:25:14 +0000",
-      "summary": ""
     },
     {
       "source": "Microsoft Research AI",
@@ -265,8 +265,8 @@
       "summary": "Jane Wade and Sergio Hudson"
     }
   ],
-  "timestamp": "2026-10-06T13:03:23.181054",
-  "last_updated": "2026-10-06T13:03:23.181054",
+  "timestamp": "2026-10-06T22:30:52.341007",
+  "last_updated": "2026-10-06T22:30:52.341007",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
