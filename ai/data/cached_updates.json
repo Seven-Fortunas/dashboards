@@ -43,6 +43,22 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "link": "https://openai.com/index/jump-trading",
+      "published": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Sharing AI progress in mathematics",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "published": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
       "title": "Advancing computer use with Ironclad",
       "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
       "published": "Tue, 06 Oct 2026 10:00:00 GMT",
@@ -73,14 +89,6 @@
       "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts\u2014that argument is settled. The big question now is how to enable predictive systems t"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Building advertising for the way people use AI",
-      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "published": "Mon, 05 Oct 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "People really hate AI, so why can\u2019t they get enough?",
@@ -103,14 +111,6 @@
       "link": "https://www.anthropic.com/news/claude-frontier-academy",
       "published": "2026-10-02T17:12:50.000Z",
       "summary": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic\u2019s own \u2014 a $100 million commitment to train 10,000 by the end of 2027."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "A model guide for the GPT-6 family",
-      "link": "https://openai.com/index/practical-guide-building-gpt-6",
-      "published": "Fri, 02 Oct 2026 16:15:00 GMT",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
     },
     {
       "source": "MIT Technology Review AI",
@@ -265,8 +265,8 @@
       "summary": "Jane Wade and Sergio Hudson"
     }
   ],
-  "timestamp": "2026-10-06T22:30:52.341007",
-  "last_updated": "2026-10-06T22:30:52.341007",
+  "timestamp": "2026-10-07T05:11:03.338424",
+  "last_updated": "2026-10-07T05:11:03.338424",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
