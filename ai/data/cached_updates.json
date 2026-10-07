@@ -1,20 +1,36 @@
 {
   "updates": [
     {
-      "source": "DeepMind Blog",
+      "source": "Google AI Blog",
       "type": "rss",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "published": "Tue, 06 Oct 2026 19:57:04 +0000",
-      "summary": ""
+      "title": "Introducing Playground: Create and play custom games",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "published": "Wed, 07 Oct 2026 12:00:00 +0000",
+      "summary": "Overview of Playground"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude discovers a novel enzyme system",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "published": "2026-10-07T08:55:22.000Z",
+      "summary": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown."
     },
     {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Expanding the Cyber Verification Program",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
-      "published": "2026-10-06T19:39:32.000Z",
+      "published": "2026-10-07T08:52:51.000Z",
       "summary": "We\u2019re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals"
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "published": "Tue, 06 Oct 2026 19:57:04 +0000",
+      "summary": ""
     },
     {
       "source": "HuggingFace Transformers",
@@ -201,14 +217,6 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic and Infosys build AI agents",
-      "link": "https://www.anthropic.com/news/anthropic-infosys",
-      "published": "2026-09-28T03:20:50.000Z",
-      "summary": "Anthropic and Infosys will build AI agents for telecom, financial services, manufacturing, and other regulated industries."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Introducing Gemini 3.8 Live with Live Avatar",
@@ -255,18 +263,10 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
       "published": "Fri, 18 Sep 2026 14:00:00 +0000",
       "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner"
-    },
-    {
-      "source": "Google AI Blog",
-      "type": "rss",
-      "title": "Co-creating the future of fashion with Google",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "published": "Fri, 18 Sep 2026 13:00:00 +0000",
-      "summary": "Jane Wade and Sergio Hudson"
     }
   ],
-  "timestamp": "2026-10-07T05:11:03.338424",
-  "last_updated": "2026-10-07T05:11:03.338424",
+  "timestamp": "2026-10-07T12:57:47.334323",
+  "last_updated": "2026-10-07T12:57:47.334323",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
