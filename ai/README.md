@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-06 22:30:52 UTC
+**Last Updated:** 2026-10-07 05:11:03 UTC
 
 ## Latest Updates
 
@@ -11,15 +11,15 @@
 | HuggingFace Transformers | [Release v5.19.0](https://github.com/huggingface/transformers/releases/tag/v5.19.0) | 2026-10-06 |
 | OpenAI Blog | [Atlassian and OpenAI expand partnership to turn enterprise knowledge into action](https://openai.com/index/atlassian-partnership) | Tue, 06 Oc |
 | LangChain Releases | [Release langchain-core==1.6.7](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.7) | 2026-10-06 |
+| OpenAI Blog | [How Jump Trading is scaling quant research with ChatGPT](https://openai.com/index/jump-trading) | Tue, 06 Oc |
+| OpenAI Blog | [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics) | Tue, 06 Oc |
 | OpenAI Blog | [Advancing computer use with Ironclad](https://openai.com/index/advancing-computer-use-with-ironclad) | Tue, 06 Oc |
 | MIT Technology Review AI | [Connecting AI agents to enterprise knowledge](https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/) | Mon, 05 Oc |
 | OpenAI Blog | [Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance) | Mon, 05 Oc |
 | MIT Technology Review AI | [Bringing predictive analytics to the agentic AI era](https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/) | Mon, 05 Oc |
-| OpenAI Blog | [Building advertising for the way people use AI](https://openai.com/index/new-chatgpt-ads-format-and-measurement) | Mon, 05 Oc |
 | MIT Technology Review AI | [People really hate AI, so why can’t they get enough?](https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/) | Mon, 05 Oc |
 | MIT Technology Review AI | [EmTech Future 2026: When AI Meets Everything](https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/) | Mon, 05 Oc |
 | Anthropic Blog | [Claude Frontier Academy: $100M to train 10,000 engineers](https://www.anthropic.com/news/claude-frontier-academy) | 2026-10-02 |
-| OpenAI Blog | [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6) | Fri, 02 Oc |
 | MIT Technology Review AI | [Redefining enterprise intelligence with autonomous AI](https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/) | Fri, 02 Oc |
 | Google AI Blog | [The latest AI news we announced in September 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/) | Fri, 02 Oc |
 | Anthropic Blog | [Barclays scales Claude to upgrade operations and improve client experience](https://www.anthropic.com/news/barclays-scales-claude) | 2026-10-01 |
