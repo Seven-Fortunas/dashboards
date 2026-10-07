@@ -1,13 +1,15 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-07 05:11:03 UTC
+**Last Updated:** 2026-10-07 12:57:47 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Google AI Blog | [Introducing Playground: Create and play custom games](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/) | Wed, 07 Oc |
+| Anthropic Blog | [Claude discovers a novel enzyme system](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | 2026-10-07 |
+| Anthropic Blog | [Expanding the Cyber Verification Program](https://www.anthropic.com/news/cyber-verification-program) | 2026-10-07 |
 | DeepMind Blog | [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) | Tue, 06 Oc |
-| Anthropic Blog | [Expanding the Cyber Verification Program](https://www.anthropic.com/news/cyber-verification-program) | 2026-10-06 |
 | HuggingFace Transformers | [Release v5.19.0](https://github.com/huggingface/transformers/releases/tag/v5.19.0) | 2026-10-06 |
 | OpenAI Blog | [Atlassian and OpenAI expand partnership to turn enterprise knowledge into action](https://openai.com/index/atlassian-partnership) | Tue, 06 Oc |
 | LangChain Releases | [Release langchain-core==1.6.7](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.7) | 2026-10-06 |
@@ -31,11 +33,9 @@
 | Microsoft Research AI | [Introducing Quine: An AI research system designed for the complexity of biology](https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/) | Tue, 29 Se |
 | Microsoft Research AI | [One year in: How Microsoft Research Asia – Singapore is advancing research, part](https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/) | Mon, 28 Se |
 | Google AI Blog | [Watch the winning trailer from the Future Vision XPRIZE, The Gifted.](https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/) | Mon, 28 Se |
-| Anthropic Blog | [Anthropic and Infosys build AI agents](https://www.anthropic.com/news/anthropic-infosys) | 2026-09-28 |
 | DeepMind Blog | [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) | Thu, 24 Se |
 | Google AI Blog | [Google Beam expands with new regions, partners, and customers](https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/) | Wed, 23 Se |
 | Microsoft Research AI | [Offloaded inference for real-world physical AI robotics](https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/) | Wed, 23 Se |
 | DeepMind Blog | [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) | Wed, 23 Se |
 | Microsoft Research AI | [Improving synthesis prediction of small molecules at scale with RetroChimera](https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/) | Mon, 21 Se |
 | Google AI Blog | [New experts join Google’s AI & Economy team](https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/) | Fri, 18 Se |
-| Google AI Blog | [Co-creating the future of fashion with Google](https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/) | Fri, 18 Se |
