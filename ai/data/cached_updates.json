@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+      "link": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+      "published": "Wed, 07 Oct 2026 16:00:00 +0000",
+      "summary": "<p>Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "link": "https://openai.com/index/teens-learn-and-plan",
+      "published": "Wed, 07 Oct 2026 12:00:00 GMT",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+    },
+    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Introducing Playground: Create and play custom games",
@@ -25,6 +41,22 @@
       "summary": "We\u2019re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "link": "https://openai.com/index/radisson",
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "link": "https://openai.com/index/gpt-6-for-everyone",
+      "published": "Wed, 07 Oct 2026 00:00:00 GMT",
+      "summary": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -39,14 +71,6 @@
       "link": "https://github.com/huggingface/transformers/releases/tag/v5.19.0",
       "published": "2026-10-06T16:39:23Z",
       "summary": "# Release v5.19.0\r\n\r\n\r\n## New Model additions\r\n\r\n### EmbeddingGemma2\r\n\r\n<img width=\"2716\" height=\"2308\" alt=\"image\" src=\"https://github.com/user-attachments/assets/84734e74-163d-4d12-b166-ffcf6749d563"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "link": "https://openai.com/index/atlassian-partnership",
-      "published": "Tue, 06 Oct 2026 16:00:00 GMT",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
     },
     {
       "source": "LangChain Releases",
@@ -73,28 +97,12 @@
       "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Advancing computer use with Ironclad",
-      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "published": "Tue, 06 Oct 2026 10:00:00 GMT",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Connecting AI agents to enterprise knowledge",
       "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
       "published": "Mon, 05 Oct 2026 15:47:52 +0000",
       "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Our approach to EU text provenance rules",
-      "link": "https://openai.com/index/eu-text-provenance",
-      "published": "Mon, 05 Oct 2026 15:00:00 GMT",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
     },
     {
       "source": "MIT Technology Review AI",
@@ -249,14 +257,6 @@
       "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
     },
     {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
-      "link": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
-      "published": "Mon, 21 Sep 2026 15:30:19 +0000",
-      "summary": "<p>Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps acceler"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "New experts join Google\u2019s AI & Economy team",
@@ -265,8 +265,8 @@
       "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner"
     }
   ],
-  "timestamp": "2026-10-07T12:57:47.334323",
-  "last_updated": "2026-10-07T12:57:47.334323",
+  "timestamp": "2026-10-07T22:54:40.001595",
+  "last_updated": "2026-10-07T22:54:40.001595",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
