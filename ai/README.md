@@ -1,32 +1,32 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-08 13:05:52 UTC
+**Last Updated:** 2026-10-08 23:06:54 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.6.9](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.9) | 2026-10-08 |
+| Anthropic Blog | [Introducing the Anthropic Cyber Mission](https://www.anthropic.com/news/anthropic-cyber-mission) | 2026-10-08 |
+| Anthropic Blog | [2026 Usage Policy update](https://www.anthropic.com/news/2026-usage-policy-update) | 2026-10-08 |
+| OpenAI Blog | [How Oracle turns days of work into minutes with ChatGPT and Codex](https://openai.com/index/oracle) | Thu, 08 Oc |
+| Anthropic Blog | [Building on our commitment to American scientific discovery](https://www.anthropic.com/news/genesis-mission-commitment) | 2026-10-08 |
+| OpenAI Blog | [Pollo AI turns creative ideas into campaigns with OpenAI](https://openai.com/index/pollo-ai) | Thu, 08 Oc |
 | MIT Technology Review AI | [AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/) | Thu, 08 Oc |
 | MIT Technology Review AI | [Building a safer path to autonomous industrial AI](https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/) | Thu, 08 Oc |
+| OpenAI Blog | [Disrupting AI-enabled “false front” operations](https://openai.com/index/disrupting-ai-enabled-false-front-operations) | Thu, 08 Oc |
 | Microsoft Research AI | [Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training](https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/) | Wed, 07 Oc |
 | OpenAI Blog | [Helping teens learn, plan, and shape the future of AI](https://openai.com/index/teens-learn-and-plan) | Wed, 07 Oc |
 | Google AI Blog | [Introducing Playground: Create and play custom games](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/) | Wed, 07 Oc |
 | Anthropic Blog | [Claude discovers a novel enzyme system](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | 2026-10-07 |
 | Anthropic Blog | [Expanding the Cyber Verification Program](https://www.anthropic.com/news/cyber-verification-program) | 2026-10-07 |
 | OpenAI Blog | [Radisson Hotel Group brings hotel discovery into ChatGPT](https://openai.com/index/radisson) | Wed, 07 Oc |
-| OpenAI Blog | [GPT-6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone) | Wed, 07 Oc |
 | DeepMind Blog | [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) | Tue, 06 Oc |
 | HuggingFace Transformers | [Release v5.19.0](https://github.com/huggingface/transformers/releases/tag/v5.19.0) | 2026-10-06 |
-| LangChain Releases | [Release langchain-core==1.6.7](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.7) | 2026-10-06 |
-| OpenAI Blog | [How Jump Trading is scaling quant research with ChatGPT](https://openai.com/index/jump-trading) | Tue, 06 Oc |
-| OpenAI Blog | [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics) | Tue, 06 Oc |
 | MIT Technology Review AI | [Connecting AI agents to enterprise knowledge](https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/) | Mon, 05 Oc |
 | MIT Technology Review AI | [Bringing predictive analytics to the agentic AI era](https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/) | Mon, 05 Oc |
 | MIT Technology Review AI | [People really hate AI, so why can’t they get enough?](https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/) | Mon, 05 Oc |
-| Anthropic Blog | [Claude Frontier Academy: $100M to train 10,000 engineers](https://www.anthropic.com/news/claude-frontier-academy) | 2026-10-02 |
 | Google AI Blog | [The latest AI news we announced in September 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/) | Fri, 02 Oc |
-| Anthropic Blog | [Barclays scales Claude to upgrade operations and improve client experience](https://www.anthropic.com/news/barclays-scales-claude) | 2026-10-01 |
-| Anthropic Blog | [Introducing the Life Sciences Verification Program](https://www.anthropic.com/news/life-sciences-verification-program) | 2026-09-30 |
 | DeepMind Blog | [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) | Wed, 30 Se |
 | PyTorch Releases | [Release v2.14.1](https://github.com/pytorch/pytorch/releases/tag/v2.14.1) | 2026-09-30 |
 | Microsoft Research AI | [Forecasting space weather risks on power grids](https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/) | Wed, 30 Se |
