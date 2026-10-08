@@ -1,6 +1,54 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.6.9",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.9",
+      "published": "2026-10-08T20:11:32Z",
+      "summary": "Changes since langchain-core==1.6.8\n\nrelease(core): 1.6.9 (#41160)\nfeat(core): accept a callable in with_retry (#41158)"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "link": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "published": "2026-10-08T19:00:45.000Z",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "2026 Usage Policy update",
+      "link": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "published": "2026-10-08T17:00:30.000Z",
+      "summary": "We\u2019re publishing a new version of our Usage Policy. In this post, we summarize the changes we\u2019ve made."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "link": "https://openai.com/index/oracle",
+      "published": "Thu, 08 Oct 2026 16:00:00 GMT",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Building on our commitment to American scientific discovery",
+      "link": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "published": "2026-10-08T15:49:10.000Z",
+      "summary": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "link": "https://openai.com/index/pollo-ai",
+      "published": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "AI breakthroughs in robotics won\u2019t change your life any time soon",
@@ -15,6 +63,14 @@
       "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
       "published": "Thu, 08 Oct 2026 08:17:32 +0000",
       "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to au"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Disrupting AI-enabled \u201cfalse front\u201d operations",
+      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "published": "Thu, 08 Oct 2026 00:00:00 GMT",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
     },
     {
       "source": "Microsoft Research AI",
@@ -65,14 +121,6 @@
       "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "link": "https://openai.com/index/gpt-6-for-everyone",
-      "published": "Wed, 07 Oct 2026 00:00:00 GMT",
-      "summary": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -87,30 +135,6 @@
       "link": "https://github.com/huggingface/transformers/releases/tag/v5.19.0",
       "published": "2026-10-06T16:39:23Z",
       "summary": "# Release v5.19.0\r\n\r\n\r\n## New Model additions\r\n\r\n### EmbeddingGemma2\r\n\r\n<img width=\"2716\" height=\"2308\" alt=\"image\" src=\"https://github.com/user-attachments/assets/84734e74-163d-4d12-b166-ffcf6749d563"
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.6.7",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.7",
-      "published": "2026-10-06T15:47:08Z",
-      "summary": "Changes since langchain-core==1.6.6\n\nrelease(core): 1.6.7 (#41087)\nfix(core): include openai redacted_content in v1 output for bedrock converse (#41086)\nfix(core): python 3.14 hardening around `inspec"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "link": "https://openai.com/index/jump-trading",
-      "published": "Tue, 06 Oct 2026 12:00:00 GMT",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "published": "Tue, 06 Oct 2026 12:00:00 GMT",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
     },
     {
       "source": "MIT Technology Review AI",
@@ -137,36 +161,12 @@
       "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that\u2019s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he "
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
-      "link": "https://www.anthropic.com/news/claude-frontier-academy",
-      "published": "2026-10-02T17:12:50.000Z",
-      "summary": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic\u2019s own \u2014 a $100 million commitment to train 10,000 by the end of 2027."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "The latest AI news we announced in September 2026",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
       "published": "Fri, 02 Oct 2026 15:00:00 +0000",
       "summary": "A video showing the September AI updates"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Barclays scales Claude to upgrade operations and improve client experience",
-      "link": "https://www.anthropic.com/news/barclays-scales-claude",
-      "published": "2026-10-01T09:16:50.000Z",
-      "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations."
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing the Life Sciences Verification Program",
-      "link": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "published": "2026-09-30T22:54:30.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
     },
     {
       "source": "DeepMind Blog",
@@ -265,8 +265,8 @@
       "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner"
     }
   ],
-  "timestamp": "2026-10-08T13:05:52.078312",
-  "last_updated": "2026-10-08T13:05:52.078312",
+  "timestamp": "2026-10-08T23:06:54.912724",
+  "last_updated": "2026-10-08T23:06:54.912724",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
