@@ -3,6 +3,22 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
+      "title": "We\u2019re putting too much faith in AI\u2019s ability to say no",
+      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "published": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is fu"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "published": "Fri, 09 Oct 2026 00:08:24 +0000",
@@ -97,14 +113,6 @@
       "summary": "<p>Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL"
     },
     {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "link": "https://openai.com/index/teens-learn-and-plan",
-      "published": "Wed, 07 Oct 2026 12:00:00 GMT",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Introducing Playground: Create and play custom games",
@@ -151,14 +159,6 @@
       "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
       "published": "Mon, 05 Oct 2026 15:47:52 +0000",
       "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "published": "Mon, 05 Oct 2026 13:29:32 +0000",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts\u2014that argument is settled. The big question now is how to enable predictive systems t"
     },
     {
       "source": "Google AI Blog",
@@ -265,8 +265,8 @@
       "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner"
     }
   ],
-  "timestamp": "2026-10-09T05:24:43.506275",
-  "last_updated": "2026-10-09T05:24:43.506275",
+  "timestamp": "2026-10-09T12:52:24.381479",
+  "last_updated": "2026-10-09T12:52:24.381479",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
