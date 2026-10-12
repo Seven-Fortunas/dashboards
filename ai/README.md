@@ -1,17 +1,17 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-12 05:12:57 UTC
+**Last Updated:** 2026-10-12 14:53:46 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| LangChain Releases | [Release langchain-core==1.6.10](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.10) | 2026-10-12 |
 | Anthropic Blog | [Introducing Claude Corps](https://www.anthropic.com/news/claude-corps) | 2026-10-09 |
 | MIT Technology Review AI | [We’re putting too much faith in AI’s ability to say no](https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/) | Fri, 09 Oc |
 | OpenAI Blog | [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos) | Fri, 09 Oc |
 | OpenAI Blog | [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent) | Fri, 09 Oc |
 | MIT Technology Review AI | [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) | Fri, 09 Oc |
-| LangChain Releases | [Release langchain-core==1.6.9](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.9) | 2026-10-08 |
 | Anthropic Blog | [Introducing the Anthropic Cyber Mission](https://www.anthropic.com/news/anthropic-cyber-mission) | 2026-10-08 |
 | Anthropic Blog | [2026 Usage Policy update](https://www.anthropic.com/news/2026-usage-policy-update) | 2026-10-08 |
 | OpenAI Blog | [How Oracle turns days of work into minutes with ChatGPT and Codex](https://openai.com/index/oracle) | Thu, 08 Oc |
