@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Claude discovers a novel enzyme system",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "published": "2026-10-13T00:18:23.000Z",
+      "summary": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown."
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Simulating student learning for better AI tutoring",
+      "link": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+      "published": "Mon, 12 Oct 2026 16:00:00 +0000",
+      "summary": "<p>StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tut"
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.6.10",
@@ -129,14 +145,6 @@
       "summary": "Overview of Playground"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Claude discovers a novel enzyme system",
-      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "published": "2026-10-07T08:55:22.000Z",
-      "summary": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown."
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -241,14 +249,6 @@
       "summary": "Google Beam promotional animation"
     },
     {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "Offloaded inference for real-world physical AI robotics",
-      "link": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
-      "published": "Wed, 23 Sep 2026 16:01:36 +0000",
-      "summary": "<p>Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, "
-    },
-    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Advancing Private AI Compute with secure, server-side memory",
@@ -265,8 +265,8 @@
       "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner"
     }
   ],
-  "timestamp": "2026-10-12T14:53:46.611798",
-  "last_updated": "2026-10-12T14:53:46.611798",
+  "timestamp": "2026-10-13T00:22:19.628628",
+  "last_updated": "2026-10-13T00:22:19.628628",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
