@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "published": "Tue, 13 Oct 2026 10:00:00 +0000",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. Late last"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "published": "Tue, 13 Oct 2026 09:00:00 +0000",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn\u2019t think its data was worth much: the users were anonymous, the company just a few years old. But he\u2019s since turned the firm"
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Claude discovers a novel enzyme system",
@@ -121,14 +137,6 @@
       "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we liv"
     },
     {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Building a safer path to autonomous industrial AI",
-      "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "published": "Thu, 08 Oct 2026 08:17:32 +0000",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to au"
-    },
-    {
       "source": "Microsoft Research AI",
       "type": "rss",
       "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
@@ -159,14 +167,6 @@
       "link": "https://github.com/huggingface/transformers/releases/tag/v5.19.0",
       "published": "2026-10-06T16:39:23Z",
       "summary": "# Release v5.19.0\r\n\r\n\r\n## New Model additions\r\n\r\n### EmbeddingGemma2\r\n\r\n<img width=\"2716\" height=\"2308\" alt=\"image\" src=\"https://github.com/user-attachments/assets/84734e74-163d-4d12-b166-ffcf6749d563"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "published": "Mon, 05 Oct 2026 15:47:52 +0000",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha"
     },
     {
       "source": "Google AI Blog",
@@ -265,8 +265,8 @@
       "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner"
     }
   ],
-  "timestamp": "2026-10-13T00:22:19.628628",
-  "last_updated": "2026-10-13T00:22:19.628628",
+  "timestamp": "2026-10-13T13:52:14.323753",
+  "last_updated": "2026-10-13T13:52:14.323753",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
