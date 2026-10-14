@@ -1,12 +1,28 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Singapore office and government MOU | Anthropic",
+      "link": "https://www.anthropic.com/news/singapore-office-opening",
+      "published": "2026-10-14T08:31:43.000Z",
+      "summary": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption."
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
-      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
       "published": "Wed, 14 Oct 2026 02:00:14 +0000",
       "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "The EU\u2019s next chapter in AI is agentic",
+      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "published": "Wed, 14 Oct 2026 00:00:00 GMT",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value."
     },
     {
       "source": "DeepMind Blog",
@@ -153,22 +169,6 @@
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Building on our commitment to American scientific discovery",
-      "link": "https://www.anthropic.com/news/genesis-mission-commitment",
-      "published": "2026-10-08T15:49:10.000Z",
-      "summary": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "link": "https://openai.com/index/pollo-ai",
-      "published": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "AI breakthroughs in robotics won\u2019t change your life any time soon",
@@ -265,8 +265,8 @@
       "summary": "Google Beam promotional animation"
     }
   ],
-  "timestamp": "2026-10-14T04:14:04.237215",
-  "last_updated": "2026-10-14T04:14:04.237215",
+  "timestamp": "2026-10-14T11:29:22.417345",
+  "last_updated": "2026-10-14T11:29:22.417345",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

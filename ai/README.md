@@ -1,12 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-14 04:14:04 UTC
+**Last Updated:** 2026-10-14 11:29:22 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| DeepMind Blog | [Google DeepMind and Singapore Government announce new AI tool to protect citizen](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) | Wed, 14 Oc |
+| Anthropic Blog | [Singapore office and government MOU \| Anthropic](https://www.anthropic.com/news/singapore-office-opening) | 2026-10-14 |
+| DeepMind Blog | [Google DeepMind and Singapore Government collaborate to build fine-tuned AI mode](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) | Wed, 14 Oc |
+| OpenAI Blog | [The EU’s next chapter in AI is agentic](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic) | Wed, 14 Oc |
 | DeepMind Blog | [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) | Tue, 13 Oc |
 | DeepMind Blog | [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) | Tue, 13 Oc |
 | DeepMind Blog | [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/) | Tue, 13 Oc |
@@ -25,8 +27,6 @@
 | Anthropic Blog | [Introducing the Anthropic Cyber Mission](https://www.anthropic.com/news/anthropic-cyber-mission) | 2026-10-08 |
 | Anthropic Blog | [2026 Usage Policy update](https://www.anthropic.com/news/2026-usage-policy-update) | 2026-10-08 |
 | OpenAI Blog | [How Oracle turns days of work into minutes with ChatGPT and Codex](https://openai.com/index/oracle) | Thu, 08 Oc |
-| Anthropic Blog | [Building on our commitment to American scientific discovery](https://www.anthropic.com/news/genesis-mission-commitment) | 2026-10-08 |
-| OpenAI Blog | [Pollo AI turns creative ideas into campaigns with OpenAI](https://openai.com/index/pollo-ai) | Thu, 08 Oc |
 | MIT Technology Review AI | [AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/) | Thu, 08 Oc |
 | Microsoft Research AI | [Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training](https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/) | Wed, 07 Oc |
 | Google AI Blog | [Introducing Playground: Create and play custom games](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/) | Wed, 07 Oc |
