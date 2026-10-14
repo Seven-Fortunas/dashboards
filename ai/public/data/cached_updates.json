@@ -3,6 +3,14 @@
     {
       "source": "DeepMind Blog",
       "type": "rss",
+      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "published": "Wed, 14 Oct 2026 02:00:14 +0000",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+    },
+    {
+      "source": "DeepMind Blog",
+      "type": "rss",
       "title": "Developing Gemini 4 Argon responsibly and safely",
       "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
       "published": "Tue, 13 Oct 2026 19:43:07 +0000",
@@ -209,14 +217,6 @@
       "summary": "A video showing the September AI updates"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "published": "Wed, 30 Sep 2026 20:01:45 +0000",
-      "summary": ""
-    },
-    {
       "source": "PyTorch Releases",
       "type": "github",
       "title": "Release v2.14.1",
@@ -265,8 +265,8 @@
       "summary": "Google Beam promotional animation"
     }
   ],
-  "timestamp": "2026-10-13T22:26:20.580693",
-  "last_updated": "2026-10-13T22:26:20.580693",
+  "timestamp": "2026-10-14T04:14:04.237215",
+  "last_updated": "2026-10-14T04:14:04.237215",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

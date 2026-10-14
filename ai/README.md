@@ -1,11 +1,12 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-13 22:26:20 UTC
+**Last Updated:** 2026-10-14 04:14:04 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| DeepMind Blog | [Google DeepMind and Singapore Government announce new AI tool to protect citizen](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) | Wed, 14 Oc |
 | DeepMind Blog | [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) | Tue, 13 Oc |
 | DeepMind Blog | [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) | Tue, 13 Oc |
 | DeepMind Blog | [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/) | Tue, 13 Oc |
@@ -32,7 +33,6 @@
 | DeepMind Blog | [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) | Tue, 06 Oc |
 | HuggingFace Transformers | [Release v5.19.0](https://github.com/huggingface/transformers/releases/tag/v5.19.0) | 2026-10-06 |
 | Google AI Blog | [The latest AI news we announced in September 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/) | Fri, 02 Oc |
-| DeepMind Blog | [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) | Wed, 30 Se |
 | PyTorch Releases | [Release v2.14.1](https://github.com/pytorch/pytorch/releases/tag/v2.14.1) | 2026-09-30 |
 | Microsoft Research AI | [Forecasting space weather risks on power grids](https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/) | Wed, 30 Se |
 | Microsoft Research AI | [Introducing Quine: An AI research system designed for the complexity of biology](https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/) | Tue, 29 Se |
