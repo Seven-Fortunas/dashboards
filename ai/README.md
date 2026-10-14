@@ -1,11 +1,14 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-14 16:51:16 UTC
+**Last Updated:** 2026-10-14 21:25:30 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
+| Anthropic Blog | [Preparing for the 2026 US midterms](https://www.anthropic.com/news/2026-us-midterms) | 2026-10-14 |
+| OpenAI Blog | [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding) | Wed, 14 Oc |
+| OpenAI Blog | [SentinelOne cuts malware analysis from weeks to hours](https://openai.com/index/sentinelone) | Wed, 14 Oc |
 | Anthropic Blog | [Singapore office and government MOU \| Anthropic](https://www.anthropic.com/news/singapore-office-opening) | 2026-10-14 |
 | OpenAI Blog | [How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research) | Wed, 14 Oc |
 | DeepMind Blog | [Google DeepMind and Singapore Government collaborate to build fine-tuned AI mode](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) | Wed, 14 Oc |
@@ -22,11 +25,8 @@
 | LangChain Releases | [Release langchain-core==1.6.10](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.10) | 2026-10-12 |
 | Anthropic Blog | [Introducing Claude Corps](https://www.anthropic.com/news/claude-corps) | 2026-10-09 |
 | MIT Technology Review AI | [We’re putting too much faith in AI’s ability to say no](https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/) | Fri, 09 Oc |
-| OpenAI Blog | [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent) | Fri, 09 Oc |
-| OpenAI Blog | [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos) | Fri, 09 Oc |
 | MIT Technology Review AI | [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) | Fri, 09 Oc |
 | Anthropic Blog | [Introducing the Anthropic Cyber Mission](https://www.anthropic.com/news/anthropic-cyber-mission) | 2026-10-08 |
-| Anthropic Blog | [2026 Usage Policy update](https://www.anthropic.com/news/2026-usage-policy-update) | 2026-10-08 |
 | MIT Technology Review AI | [AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/) | Thu, 08 Oc |
 | Microsoft Research AI | [Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training](https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/) | Wed, 07 Oc |
 | Google AI Blog | [Introducing Playground: Create and play custom games](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/) | Wed, 07 Oc |
