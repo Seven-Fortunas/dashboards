@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "DeepMind Blog",
+      "type": "rss",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "published": "Thu, 15 Oct 2026 16:08:03 +0000",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+    },
+    {
+      "source": "Microsoft Research AI",
+      "type": "rss",
+      "title": "Proof-based general-purpose computing with Magnetar",
+      "link": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+      "published": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "summary": "<p>Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming langua"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Teaching students to think and learn through questions",
+      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "published": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "summary": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Preparing for the 2026 US midterms",
@@ -55,14 +79,6 @@
       "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
       "published": "Wed, 14 Oct 2026 02:00:14 +0000",
       "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "The EU\u2019s next chapter in AI is agentic",
-      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "published": "Wed, 14 Oct 2026 00:00:00 GMT",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value."
     },
     {
       "source": "DeepMind Blog",
@@ -193,14 +209,6 @@
       "summary": "Overview of Playground"
     },
     {
-      "source": "DeepMind Blog",
-      "type": "rss",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "published": "Tue, 06 Oct 2026 19:57:04 +0000",
-      "summary": ""
-    },
-    {
       "source": "HuggingFace Transformers",
       "type": "github",
       "title": "Release v5.19.0",
@@ -241,14 +249,6 @@
       "summary": "<p>Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights acros"
     },
     {
-      "source": "Microsoft Research AI",
-      "type": "rss",
-      "title": "One year in: How Microsoft Research Asia \u2013 Singapore is advancing research, partnership and talent for real-world impact",
-      "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
-      "published": "Mon, 28 Sep 2026 21:00:00 +0000",
-      "summary": "<p>Since launching a year ago, the Microsoft Research Asia \u2014 Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how front"
-    },
-    {
       "source": "Google AI Blog",
       "type": "rss",
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -265,8 +265,8 @@
       "summary": "Google Beam promotional animation"
     }
   ],
-  "timestamp": "2026-10-15T11:06:51.607837",
-  "last_updated": "2026-10-15T11:06:51.607837",
+  "timestamp": "2026-10-15T16:37:32.473624",
+  "last_updated": "2026-10-15T16:37:32.473624",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
