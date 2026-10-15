@@ -41,6 +41,14 @@
       "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "link": "https://openai.com/index/block-ai-powered-security",
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -87,14 +95,6 @@
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
       "published": "Tue, 13 Oct 2026 16:00:00 +0000",
       "summary": "TBD"
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "published": "Tue, 13 Oct 2026 12:00:00 GMT",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
     },
     {
       "source": "MIT Technology Review AI",
@@ -265,8 +265,8 @@
       "summary": "Google Beam promotional animation"
     }
   ],
-  "timestamp": "2026-10-14T21:25:30.003941",
-  "last_updated": "2026-10-14T21:25:30.003941",
+  "timestamp": "2026-10-15T03:57:07.435817",
+  "last_updated": "2026-10-15T03:57:07.435817",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
