@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-14 21:25:30 UTC
+**Last Updated:** 2026-10-15 03:57:07 UTC
 
 ## Latest Updates
 
@@ -11,13 +11,13 @@
 | OpenAI Blog | [SentinelOne cuts malware analysis from weeks to hours](https://openai.com/index/sentinelone) | Wed, 14 Oc |
 | Anthropic Blog | [Singapore office and government MOU \| Anthropic](https://www.anthropic.com/news/singapore-office-opening) | 2026-10-14 |
 | OpenAI Blog | [How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research) | Wed, 14 Oc |
+| OpenAI Blog | [How Block is building AI-powered security with OpenAI technology](https://openai.com/index/block-ai-powered-security) | Wed, 14 Oc |
 | DeepMind Blog | [Google DeepMind and Singapore Government collaborate to build fine-tuned AI mode](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) | Wed, 14 Oc |
 | OpenAI Blog | [The EU’s next chapter in AI is agentic](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic) | Wed, 14 Oc |
 | DeepMind Blog | [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) | Tue, 13 Oc |
 | DeepMind Blog | [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) | Tue, 13 Oc |
 | DeepMind Blog | [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/) | Tue, 13 Oc |
 | Google AI Blog | [Gemini 4 Argon: Built to solve your hardest problems](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/) | Tue, 13 Oc |
-| OpenAI Blog | [Higgsfield takes AI video from 1 minute to over 10](https://openai.com/index/higgsfield-longer-videos-voice) | Tue, 13 Oc |
 | MIT Technology Review AI | [Open models have real benefits. Do they outweigh the risks?](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/) | Tue, 13 Oc |
 | MIT Technology Review AI | [AI labs are buying data from dead startups to train their models](https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/) | Tue, 13 Oc |
 | Anthropic Blog | [Claude discovers a novel enzyme system](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | 2026-10-13 |
