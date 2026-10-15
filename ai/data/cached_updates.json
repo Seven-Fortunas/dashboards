@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.6.11",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.11",
+      "published": "2026-10-15T18:32:35Z",
+      "summary": "Changes since langchain-core==1.6.10\n\nrelease(core): 1.6.11 (#41260)\nfeat(core): accept address inside LangChainTracer (#41006)"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic update on independent evaluators",
+      "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "published": "2026-10-15T18:25:08.000Z",
+      "summary": "Anthropic announces updates to embedding independent evaluators"
+    },
+    {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.20.0",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.20.0",
+      "published": "2026-10-15T18:05:36Z",
+      "summary": "# Release v5.20.0\r\n\r\n\r\n## New Model additions\r\n\r\n### Muse Spark Open\r\n\r\n<img width=\"2400\" height=\"1296\" alt=\"image\" src=\"https://github.com/user-attachments/assets/bf34ea27-0edf-4ded-ba6f-905b04096126"
+    },
+    {
       "source": "DeepMind Blog",
       "type": "rss",
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -145,14 +169,6 @@
       "summary": "<p>StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tut"
     },
     {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.6.10",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.10",
-      "published": "2026-10-12T14:14:03Z",
-      "summary": "Changes since langchain-core==1.6.9\n\nrelease(core): 1.6.10 (#41220)\nfeat(core,anthropic,openai): declare mid-conversation support in model profiles (#41180)"
-    },
-    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Introducing Claude Corps",
@@ -177,14 +193,6 @@
       "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blue"
     },
     {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing the Anthropic Cyber Mission",
-      "link": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "published": "2026-10-08T19:00:45.000Z",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "AI breakthroughs in robotics won\u2019t change your life any time soon",
@@ -207,14 +215,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "published": "Wed, 07 Oct 2026 12:00:00 +0000",
       "summary": "Overview of Playground"
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.19.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.19.0",
-      "published": "2026-10-06T16:39:23Z",
-      "summary": "# Release v5.19.0\r\n\r\n\r\n## New Model additions\r\n\r\n### EmbeddingGemma2\r\n\r\n<img width=\"2716\" height=\"2308\" alt=\"image\" src=\"https://github.com/user-attachments/assets/84734e74-163d-4d12-b166-ffcf6749d563"
     },
     {
       "source": "Google AI Blog",
@@ -265,8 +265,8 @@
       "summary": "Google Beam promotional animation"
     }
   ],
-  "timestamp": "2026-10-15T16:37:32.473624",
-  "last_updated": "2026-10-15T16:37:32.473624",
+  "timestamp": "2026-10-15T21:07:23.898608",
+  "last_updated": "2026-10-15T21:07:23.898608",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
