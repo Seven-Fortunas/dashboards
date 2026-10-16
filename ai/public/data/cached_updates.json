@@ -5,8 +5,16 @@
       "type": "sitemap",
       "title": "Anthropic update on independent evaluators",
       "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "published": "2026-10-15T23:35:48.000Z",
+      "published": "2026-10-16T16:03:08.000Z",
       "summary": "Anthropic announces updates to embedding independent evaluators"
+    },
+    {
+      "source": "HuggingFace Transformers",
+      "type": "github",
+      "title": "Release v5.20.1",
+      "link": "https://github.com/huggingface/transformers/releases/tag/v5.20.1",
+      "published": "2026-10-16T13:02:29Z",
+      "summary": "# Release v5.20.1\r\n\r\nSpecial surprise including the new model Beam from Reflection AI :partying_face: \r\n\r\n<img width=\"2912\" height=\"1440\" alt=\"Gemini_Generated_Image_ox4hjlox4hjlox4h\" src=\"https://git"
     },
     {
       "source": "Anthropic Blog",
@@ -31,14 +39,6 @@
       "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.11",
       "published": "2026-10-15T18:32:35Z",
       "summary": "Changes since langchain-core==1.6.10\n\nrelease(core): 1.6.11 (#41260)\nfeat(core): accept address inside LangChainTracer (#41006)"
-    },
-    {
-      "source": "HuggingFace Transformers",
-      "type": "github",
-      "title": "Release v5.20.0",
-      "link": "https://github.com/huggingface/transformers/releases/tag/v5.20.0",
-      "published": "2026-10-15T18:05:36Z",
-      "summary": "# Release v5.20.0\r\n\r\n\r\n## New Model additions\r\n\r\n### Muse Spark Open\r\n\r\n<img width=\"2400\" height=\"1296\" alt=\"image\" src=\"https://github.com/user-attachments/assets/bf34ea27-0edf-4ded-ba6f-905b04096126"
     },
     {
       "source": "DeepMind Blog",
@@ -265,8 +265,8 @@
       "summary": "Google Beam promotional animation"
     }
   ],
-  "timestamp": "2026-10-16T11:01:29.085896",
-  "last_updated": "2026-10-16T11:01:29.085896",
+  "timestamp": "2026-10-16T16:21:18.715341",
+  "last_updated": "2026-10-16T16:21:18.715341",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,

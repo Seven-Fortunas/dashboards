@@ -1,16 +1,16 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-16 11:01:29 UTC
+**Last Updated:** 2026-10-16 16:21:18 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
-| Anthropic Blog | [Anthropic update on independent evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators) | 2026-10-15 |
+| Anthropic Blog | [Anthropic update on independent evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators) | 2026-10-16 |
+| HuggingFace Transformers | [Release v5.20.1](https://github.com/huggingface/transformers/releases/tag/v5.20.1) | 2026-10-16 |
 | Anthropic Blog | [Offering expanded Claude access across all three branches of government](https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government) | 2026-10-15 |
 | OpenAI Blog | [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan) | Thu, 15 Oc |
 | LangChain Releases | [Release langchain-core==1.6.11](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.11) | 2026-10-15 |
-| HuggingFace Transformers | [Release v5.20.0](https://github.com/huggingface/transformers/releases/tag/v5.20.0) | 2026-10-15 |
 | DeepMind Blog | [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) | Thu, 15 Oc |
 | Microsoft Research AI | [Proof-based general-purpose computing with Magnetar](https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/) | Thu, 15 Oc |
 | OpenAI Blog | [Teaching students to think and learn through questions](https://openai.com/index/teaching-students-to-think-and-learn-through-questions) | Thu, 15 Oc |
