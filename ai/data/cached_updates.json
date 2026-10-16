@@ -1,20 +1,36 @@
 {
   "updates": [
     {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Anthropic update on independent evaluators",
+      "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "published": "2026-10-15T23:35:48.000Z",
+      "summary": "Anthropic announces updates to embedding independent evaluators"
+    },
+    {
+      "source": "Anthropic Blog",
+      "type": "sitemap",
+      "title": "Offering expanded Claude access across all three branches of government",
+      "link": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
+      "published": "2026-10-15T22:05:58.000Z",
+      "summary": "We are removing barriers to government AI adoption by offering Claude for Enterprise and Claude for Government to all three branches of government, including federal civilian executive branch agencies"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "published": "Thu, 15 Oct 2026 19:00:00 GMT",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+    },
+    {
       "source": "LangChain Releases",
       "type": "github",
       "title": "Release langchain-core==1.6.11",
       "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.11",
       "published": "2026-10-15T18:32:35Z",
       "summary": "Changes since langchain-core==1.6.10\n\nrelease(core): 1.6.11 (#41260)\nfeat(core): accept address inside LangChainTracer (#41006)"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Anthropic update on independent evaluators",
-      "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "published": "2026-10-15T18:25:08.000Z",
-      "summary": "Anthropic announces updates to embedding independent evaluators"
     },
     {
       "source": "HuggingFace Transformers",
@@ -49,6 +65,14 @@
       "summary": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "link": "https://openai.com/index/sullivan-cromwell",
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
+    },
+    {
       "source": "Anthropic Blog",
       "type": "sitemap",
       "title": "Preparing for the 2026 US midterms",
@@ -79,22 +103,6 @@
       "link": "https://www.anthropic.com/news/singapore-office-opening",
       "published": "2026-10-14T08:31:43.000Z",
       "summary": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "link": "https://openai.com/index/third-moment-research",
-      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "link": "https://openai.com/index/block-ai-powered-security",
-      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
     },
     {
       "source": "DeepMind Blog",
@@ -167,14 +175,6 @@
       "link": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
       "published": "Mon, 12 Oct 2026 16:00:00 +0000",
       "summary": "<p>StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tut"
-    },
-    {
-      "source": "Anthropic Blog",
-      "type": "sitemap",
-      "title": "Introducing Claude Corps",
-      "link": "https://www.anthropic.com/news/claude-corps",
-      "published": "2026-10-09T17:48:00.000Z",
-      "summary": "Claude Corps is a national fellowship for early-career people passionate about extending the benefits of AI to communities across America."
     },
     {
       "source": "MIT Technology Review AI",
@@ -265,8 +265,8 @@
       "summary": "Google Beam promotional animation"
     }
   ],
-  "timestamp": "2026-10-15T21:07:23.898608",
-  "last_updated": "2026-10-15T21:07:23.898608",
+  "timestamp": "2026-10-16T03:53:17.221890",
+  "last_updated": "2026-10-16T03:53:17.221890",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
