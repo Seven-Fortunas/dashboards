@@ -1,23 +1,24 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-16 16:21:18 UTC
+**Last Updated:** 2026-10-16 20:43:45 UTC
 
 ## Latest Updates
 
 | Source | Title | Published |
 |--------|-------|----------|
 | Anthropic Blog | [Anthropic update on independent evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators) | 2026-10-16 |
+| LangChain Releases | [Release langchain-core==1.6.12](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.12) | 2026-10-16 |
+| MIT Technology Review AI | [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) | Fri, 16 Oc |
 | HuggingFace Transformers | [Release v5.20.1](https://github.com/huggingface/transformers/releases/tag/v5.20.1) | 2026-10-16 |
+| OpenAI Blog | [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin) | Fri, 16 Oc |
 | Anthropic Blog | [Offering expanded Claude access across all three branches of government](https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government) | 2026-10-15 |
 | OpenAI Blog | [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan) | Thu, 15 Oc |
-| LangChain Releases | [Release langchain-core==1.6.11](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.11) | 2026-10-15 |
 | DeepMind Blog | [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) | Thu, 15 Oc |
 | Microsoft Research AI | [Proof-based general-purpose computing with Magnetar](https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/) | Thu, 15 Oc |
 | OpenAI Blog | [Teaching students to think and learn through questions](https://openai.com/index/teaching-students-to-think-and-learn-through-questions) | Thu, 15 Oc |
 | OpenAI Blog | [Sullivan & Cromwell brings legal expertise into agreement review](https://openai.com/index/sullivan-cromwell) | Thu, 15 Oc |
 | Anthropic Blog | [Preparing for the 2026 US midterms](https://www.anthropic.com/news/2026-us-midterms) | 2026-10-14 |
 | OpenAI Blog | [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding) | Wed, 14 Oc |
-| OpenAI Blog | [SentinelOne cuts malware analysis from weeks to hours](https://openai.com/index/sentinelone) | Wed, 14 Oc |
 | Anthropic Blog | [Singapore office and government MOU \| Anthropic](https://www.anthropic.com/news/singapore-office-opening) | 2026-10-14 |
 | DeepMind Blog | [Google DeepMind and Singapore Government collaborate to build fine-tuned AI mode](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) | Wed, 14 Oc |
 | DeepMind Blog | [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) | Tue, 13 Oc |
@@ -29,7 +30,6 @@
 | Anthropic Blog | [Claude discovers a novel enzyme system](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | 2026-10-13 |
 | Microsoft Research AI | [Simulating student learning for better AI tutoring](https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/) | Mon, 12 Oc |
 | MIT Technology Review AI | [We’re putting too much faith in AI’s ability to say no](https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/) | Fri, 09 Oc |
-| MIT Technology Review AI | [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) | Fri, 09 Oc |
 | MIT Technology Review AI | [AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/) | Thu, 08 Oc |
 | Microsoft Research AI | [Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training](https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/) | Wed, 07 Oc |
 | Google AI Blog | [Introducing Playground: Create and play custom games](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/) | Wed, 07 Oc |

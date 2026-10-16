@@ -5,8 +5,24 @@
       "type": "sitemap",
       "title": "Anthropic update on independent evaluators",
       "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "published": "2026-10-16T16:03:08.000Z",
+      "published": "2026-10-16T20:30:25.000Z",
       "summary": "Anthropic announces updates to embedding independent evaluators"
+    },
+    {
+      "source": "LangChain Releases",
+      "type": "github",
+      "title": "Release langchain-core==1.6.12",
+      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.12",
+      "published": "2026-10-16T19:28:44Z",
+      "summary": "Changes since langchain-core==1.6.11\n\nrelease(core): 1.6.12 (#41277)\nfix(core): propagate extras on content-block-start events (#41272)"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "type": "rss",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "published": "Fri, 16 Oct 2026 18:00:00 +0000",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose "
     },
     {
       "source": "HuggingFace Transformers",
@@ -15,6 +31,14 @@
       "link": "https://github.com/huggingface/transformers/releases/tag/v5.20.1",
       "published": "2026-10-16T13:02:29Z",
       "summary": "# Release v5.20.1\r\n\r\nSpecial surprise including the new model Beam from Reflection AI :partying_face: \r\n\r\n<img width=\"2912\" height=\"1440\" alt=\"Gemini_Generated_Image_ox4hjlox4hjlox4h\" src=\"https://git"
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation."
     },
     {
       "source": "Anthropic Blog",
@@ -31,14 +55,6 @@
       "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "published": "Thu, 15 Oct 2026 19:00:00 GMT",
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
-    },
-    {
-      "source": "LangChain Releases",
-      "type": "github",
-      "title": "Release langchain-core==1.6.11",
-      "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.11",
-      "published": "2026-10-15T18:32:35Z",
-      "summary": "Changes since langchain-core==1.6.10\n\nrelease(core): 1.6.11 (#41260)\nfeat(core): accept address inside LangChainTracer (#41006)"
     },
     {
       "source": "DeepMind Blog",
@@ -87,14 +103,6 @@
       "link": "https://openai.com/index/amp-beyond-coding",
       "published": "Wed, 14 Oct 2026 12:00:00 GMT",
       "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "link": "https://openai.com/index/sentinelone",
-      "published": "Wed, 14 Oct 2026 12:00:00 GMT",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
     },
     {
       "source": "Anthropic Blog",
@@ -187,14 +195,6 @@
     {
       "source": "MIT Technology Review AI",
       "type": "rss",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "published": "Fri, 09 Oct 2026 00:08:24 +0000",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blue"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "type": "rss",
       "title": "AI breakthroughs in robotics won\u2019t change your life any time soon",
       "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
       "published": "Thu, 08 Oct 2026 09:00:00 +0000",
@@ -265,8 +265,8 @@
       "summary": "Google Beam promotional animation"
     }
   ],
-  "timestamp": "2026-10-16T16:21:18.715341",
-  "last_updated": "2026-10-16T16:21:18.715341",
+  "timestamp": "2026-10-16T20:43:45.160650",
+  "last_updated": "2026-10-16T20:43:45.160650",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
