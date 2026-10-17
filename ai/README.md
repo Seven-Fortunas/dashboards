@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-16 20:43:45 UTC
+**Last Updated:** 2026-10-17 03:43:09 UTC
 
 ## Latest Updates
 
@@ -8,6 +8,7 @@
 |--------|-------|----------|
 | Anthropic Blog | [Anthropic update on independent evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators) | 2026-10-16 |
 | LangChain Releases | [Release langchain-core==1.6.12](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.12) | 2026-10-16 |
+| OpenAI Blog | [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai) | Fri, 16 Oc |
 | MIT Technology Review AI | [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) | Fri, 16 Oc |
 | HuggingFace Transformers | [Release v5.20.1](https://github.com/huggingface/transformers/releases/tag/v5.20.1) | 2026-10-16 |
 | OpenAI Blog | [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin) | Fri, 16 Oc |
@@ -18,7 +19,6 @@
 | OpenAI Blog | [Teaching students to think and learn through questions](https://openai.com/index/teaching-students-to-think-and-learn-through-questions) | Thu, 15 Oc |
 | OpenAI Blog | [Sullivan & Cromwell brings legal expertise into agreement review](https://openai.com/index/sullivan-cromwell) | Thu, 15 Oc |
 | Anthropic Blog | [Preparing for the 2026 US midterms](https://www.anthropic.com/news/2026-us-midterms) | 2026-10-14 |
-| OpenAI Blog | [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding) | Wed, 14 Oc |
 | Anthropic Blog | [Singapore office and government MOU \| Anthropic](https://www.anthropic.com/news/singapore-office-opening) | 2026-10-14 |
 | DeepMind Blog | [Google DeepMind and Singapore Government collaborate to build fine-tuned AI mode](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) | Wed, 14 Oc |
 | DeepMind Blog | [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) | Tue, 13 Oc |
