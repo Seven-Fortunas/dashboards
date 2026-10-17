@@ -43,18 +43,18 @@
     {
       "source": "OpenAI Blog",
       "type": "rss",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "published": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
       "title": "Benefit Street Partners answers questions faster with Codex",
       "link": "https://openai.com/index/benefit-street-partners",
       "published": "Fri, 16 Oct 2026 00:00:00 GMT",
       "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+    },
+    {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation."
     },
     {
       "source": "Anthropic Blog",
@@ -265,8 +265,8 @@
       "summary": "Google Beam promotional animation"
     }
   ],
-  "timestamp": "2026-10-17T10:22:21.781916",
-  "last_updated": "2026-10-17T10:22:21.781916",
+  "timestamp": "2026-10-17T15:15:59.297565",
+  "last_updated": "2026-10-17T15:15:59.297565",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
