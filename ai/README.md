@@ -1,6 +1,6 @@
 # AI Advancements Dashboard
 
-**Last Updated:** 2026-10-17 03:43:09 UTC
+**Last Updated:** 2026-10-17 10:22:21 UTC
 
 ## Latest Updates
 
@@ -12,12 +12,12 @@
 | MIT Technology Review AI | [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) | Fri, 16 Oc |
 | HuggingFace Transformers | [Release v5.20.1](https://github.com/huggingface/transformers/releases/tag/v5.20.1) | 2026-10-16 |
 | OpenAI Blog | [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin) | Fri, 16 Oc |
+| OpenAI Blog | [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners) | Fri, 16 Oc |
 | Anthropic Blog | [Offering expanded Claude access across all three branches of government](https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government) | 2026-10-15 |
 | OpenAI Blog | [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan) | Thu, 15 Oc |
 | DeepMind Blog | [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) | Thu, 15 Oc |
 | Microsoft Research AI | [Proof-based general-purpose computing with Magnetar](https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/) | Thu, 15 Oc |
 | OpenAI Blog | [Teaching students to think and learn through questions](https://openai.com/index/teaching-students-to-think-and-learn-through-questions) | Thu, 15 Oc |
-| OpenAI Blog | [Sullivan & Cromwell brings legal expertise into agreement review](https://openai.com/index/sullivan-cromwell) | Thu, 15 Oc |
 | Anthropic Blog | [Preparing for the 2026 US midterms](https://www.anthropic.com/news/2026-us-midterms) | 2026-10-14 |
 | Anthropic Blog | [Singapore office and government MOU \| Anthropic](https://www.anthropic.com/news/singapore-office-opening) | 2026-10-14 |
 | DeepMind Blog | [Google DeepMind and Singapore Government collaborate to build fine-tuned AI mode](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) | Wed, 14 Oc |
