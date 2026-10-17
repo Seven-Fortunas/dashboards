@@ -17,6 +17,14 @@
       "summary": "Changes since langchain-core==1.6.11\n\nrelease(core): 1.6.12 (#41277)\nfix(core): propagate extras on content-block-start events (#41272)"
     },
     {
+      "source": "OpenAI Blog",
+      "type": "rss",
+      "title": "How Ita\u00fa is building generative AI for its entire customer base",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "published": "Fri, 16 Oct 2026 19:00:00 GMT",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors."
+    },
+    {
       "source": "MIT Technology Review AI",
       "type": "rss",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -95,14 +103,6 @@
       "link": "https://www.anthropic.com/news/2026-us-midterms",
       "published": "2026-10-14T21:01:13.000Z",
       "summary": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we\u2019ve continued to strengthen these safeguards ahead of this year\u2019s US midterms."
-    },
-    {
-      "source": "OpenAI Blog",
-      "type": "rss",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "link": "https://openai.com/index/amp-beyond-coding",
-      "published": "Wed, 14 Oct 2026 12:00:00 GMT",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
     },
     {
       "source": "Anthropic Blog",
@@ -265,8 +265,8 @@
       "summary": "Google Beam promotional animation"
     }
   ],
-  "timestamp": "2026-10-16T20:43:45.160650",
-  "last_updated": "2026-10-16T20:43:45.160650",
+  "timestamp": "2026-10-17T03:43:09.608824",
+  "last_updated": "2026-10-17T03:43:09.608824",
   "failures": [],
   "failed_sources": [],
   "failure_count": 0,
